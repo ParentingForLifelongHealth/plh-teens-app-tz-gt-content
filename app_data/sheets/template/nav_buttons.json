@@ -1,0 +1,270 @@
+{
+  "flow_type": "template",
+  "flow_name": "nav_buttons",
+  "status": "released",
+  "rows": [
+    {
+      "name": "is_standalone_task",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "is_standalone_task"
+    },
+    {
+      "type": "display_group",
+      "name": "if_standalone",
+      "parameter_list": {
+        "style": "column"
+      },
+      "condition": "@local.is_standalone_task",
+      "rows": [
+        {
+          "name": "display_uncompleted",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "if_standalone.display_uncompleted"
+        },
+        {
+          "name": "completed_text",
+          "value": "Done",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "if_standalone.completed_text"
+        },
+        {
+          "name": "completed_icon",
+          "type": "set_variable",
+          "_nested_name": "if_standalone.completed_icon"
+        }
+      ],
+      "_nested_name": "if_standalone",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.is_standalone_task",
+            "matchedExpression": "@local.is_standalone_task",
+            "type": "local",
+            "fieldName": "is_standalone_task"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.is_standalone_task": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "if_in_sequence",
+      "condition": "!@local.is_standalone_task",
+      "rows": [
+        {
+          "name": "display_uncompleted",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "if_in_sequence.display_uncompleted"
+        },
+        {
+          "name": "completed_text",
+          "type": "set_variable",
+          "_nested_name": "if_in_sequence.completed_text"
+        },
+        {
+          "name": "completed_icon",
+          "value": "arrow-forward",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "if_in_sequence.completed_icon"
+        }
+      ],
+      "_nested_name": "if_in_sequence",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.is_standalone_task",
+            "matchedExpression": "!@local.is_standalone_task",
+            "type": "local",
+            "fieldName": "is_standalone_task"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.is_standalone_task": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "buttons",
+      "parameter_list": {
+        "style": "navigation"
+      },
+      "rows": [
+        {
+          "type": "round_button",
+          "name": "button_previous",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "uncompleted"
+              ],
+              "_raw": "click | emit:uncompleted",
+              "_cleaned": "click | emit:uncompleted"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "arrow-back",
+            "variant": "module",
+            "style": "navigation"
+          },
+          "condition": "!!@local.display_uncompleted",
+          "_nested_name": "buttons.button_previous",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!!@local.display_uncompleted",
+                "matchedExpression": "!@local.display_uncompleted",
+                "type": "local",
+                "fieldName": "display_uncompleted"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.display_uncompleted": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "round_button",
+          "name": "button_next",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit:completed",
+              "_cleaned": "click | emit:completed"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "@local.completed_icon",
+            "variant": "module",
+            "style": "navigation"
+          },
+          "condition": "!@local.is_standalone_task",
+          "_nested_name": "buttons.button_next",
+          "_dynamicFields": {
+            "parameter_list": {
+              "icon_src": [
+                {
+                  "fullExpression": "@local.completed_icon",
+                  "matchedExpression": "@local.completed_icon",
+                  "type": "local",
+                  "fieldName": "completed_icon"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!@local.is_standalone_task",
+                "matchedExpression": "!@local.is_standalone_task",
+                "type": "local",
+                "fieldName": "is_standalone_task"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.completed_icon": [
+              "parameter_list.icon_src"
+            ],
+            "!@local.is_standalone_task": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_completed",
+          "value": "@local.completed_text",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit:completed",
+              "_cleaned": "click | emit:completed"
+            }
+          ],
+          "parameter_list": {
+            "style": "navigation",
+            "icon_secondary_asset": "@local.completed_icon"
+          },
+          "style_list": [
+            "flex: 1"
+          ],
+          "condition": "!!@local.is_standalone_task",
+          "_nested_name": "buttons.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.completed_text",
+                "matchedExpression": "@local.completed_text",
+                "type": "local",
+                "fieldName": "completed_text"
+              }
+            ],
+            "parameter_list": {
+              "icon_secondary_asset": [
+                {
+                  "fullExpression": "@local.completed_icon",
+                  "matchedExpression": "@local.completed_icon",
+                  "type": "local",
+                  "fieldName": "completed_icon"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!!@local.is_standalone_task",
+                "matchedExpression": "!@local.is_standalone_task",
+                "type": "local",
+                "fieldName": "is_standalone_task"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.completed_text": [
+              "value"
+            ],
+            "@local.completed_icon": [
+              "parameter_list.icon_secondary_asset"
+            ],
+            "!@local.is_standalone_task": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "buttons"
+    }
+  ],
+  "_xlsxPath": "TZ app_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

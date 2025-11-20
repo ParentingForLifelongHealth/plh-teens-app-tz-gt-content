@@ -1,0 +1,93 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_module_congrats",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "modules_released",
+    "output_flow_name": "module_{@gen.id}_congrats",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "@gen.image_asset"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "@gen.congratulation_text"
+    },
+    {
+      "type": "audio",
+      "name": "audio",
+      "value": "@gen.audio_asset"
+    },
+    {
+      "type": "button",
+      "name": "odk_button",
+      "value": "Feedback",
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "odk_form"
+          ],
+          "_raw": "click |  go_to: odk_form",
+          "_cleaned": "click |  go_to: odk_form"
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "modules/TZ module_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_output_flows": [
+    {
+      "flow_name": "module_join_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_connect_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_care_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_create_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_play_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_build_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_explore_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_reflect_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

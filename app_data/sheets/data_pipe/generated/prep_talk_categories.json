@@ -1,0 +1,22 @@
+{
+  "flow_name": "prep_talk_categories",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "concat",
+      "args_list": [
+        "common_categories",
+        "talk_categories"
+      ],
+      "output_target": "talk_category_tasks"
+    }
+  ],
+  "_output_flows": [
+    {
+      "flow_name": "talk_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

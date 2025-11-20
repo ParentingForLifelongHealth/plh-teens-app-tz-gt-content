@@ -1,0 +1,966 @@
+{
+  "flow_name": "play_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_21",
+      "lottie_asset": "lottie/blue_dots.json",
+      "media_asset": "audio/relax/relax_21.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_21.svg",
+      "title": "List of Things",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "List of Things"
+        },
+        "transcript": {
+          "eng": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
+        }
+      },
+      "transcript": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!",
+      "category_id": "relax",
+      "completed": false
+    },
+    {
+      "id": "check_in_13",
+      "attached_single_doc": "https://docs.google.com/document/d/1AUTWhsdOO6sBN5ffSyHEIiXseZ4TTlXLbnMLLOa2hXM",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment for yourself first."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "It is great to hear you are feeling positive today. You make a real difference for your family!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Life has its great and hard moments – that is okay. You are on the right track."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment for yourself first.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_1": "It is great to hear you are feeling positive today. You make a real difference for your family!",
+      "quiz_1_feedback_2": "Life has its great and hard moments – that is okay. You are on the right track.",
+      "quiz_1_feedback_3": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "why_play_1",
+      "media_asset": "audio/modules/play/play_01.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Creating time and space for children to play is as important as eating and sleeping!"
+        },
+        "text_2": {
+          "eng": "When you join your child in playful activities, you take their learning to the next level. You might even have some fun yourself."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Sometimes children play with friends, and other times, on their own. Sometimes play is busy and loud, and other times it is quiet and relaxed. No matter what it looks like, when children play, they learn. Today we will look at ways you can support your child through play. You don’t need special toys or a lot of time. What’s important is that you have some fun together."
+        }
+      },
+      "category_id": "why_play",
+      "text_1": "Creating time and space for children to play is as important as eating and sleeping!",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/why_play_1.svg",
+      "text_2": "When you join your child in playful activities, you take their learning to the next level. You might even have some fun yourself.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Sometimes children play with friends, and other times, on their own. Sometimes play is busy and loud, and other times it is quiet and relaxed. No matter what it looks like, when children play, they learn. Today we will look at ways you can support your child through play. You don’t need special toys or a lot of time. What’s important is that you have some fun together.",
+      "completed": false
+    },
+    {
+      "id": "why_play_2",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_2": {
+          "eng": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. Let’s see how play forms a part of the garden image."
+        }
+      },
+      "category_id": "why_play",
+      "image_asset": "images/modules/play/why_play_2.svg",
+      "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. Let’s see how play forms a part of the garden image.",
+      "completed": false
+    },
+    {
+      "id": "why_play_3",
+      "media_asset": "audio/modules/play/play_02.mp3",
+      "media_type": "audio",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Fertiliser or “plant food” boosts the quality of the soil around the plant and the plant’s growth. When you sprinkle playfulness throughout your interactions with your child, it will make a big difference to their development. It doesn’t have to be a lot at once, but doing it regularly can improve your relationship while also helping your child learn important skills."
+        }
+      },
+      "category_id": "why_play",
+      "text_1": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development.",
+      "image_asset": "images/modules/play/new_fertiliser.gif",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Fertiliser or “plant food” boosts the quality of the soil around the plant and the plant’s growth. When you sprinkle playfulness throughout your interactions with your child, it will make a big difference to their development. It doesn’t have to be a lot at once, but doing it regularly can improve your relationship while also helping your child learn important skills.",
+      "completed": false
+    },
+    {
+      "id": "how_to_play_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "There is no right or wrong way to play. The important thing is to have fun together."
+        },
+        "text_1_facilitator": {
+          "eng": "Here are some ideas for supporting your child through play:"
+        },
+        "text_2": {
+          "eng": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play."
+        }
+      },
+      "category_id": "how_play",
+      "text_1": "There is no right or wrong way to play. The important thing is to have fun together.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/how_to_play_1.svg",
+      "text_2": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
+      "text_1_facilitator": "Here are some ideas for supporting your child through play:",
+      "completed": false
+    },
+    {
+      "id": "how_to_play_2",
+      "media_asset": "audio/modules/play/play_07.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Connecting with your child in a playful way every day helps your child to feel close to you, and it helps them to grow and learn. Joining your child in play does not mean taking over what they are doing or telling them what to do differently. It means being part of the activity in a way that your child will enjoy."
+        }
+      },
+      "category_id": "how_play",
+      "image_asset": "images/modules/play/how_to_play_2.svg",
+      "text_2": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development.",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Connecting with your child in a playful way every day helps your child to feel close to you, and it helps them to grow and learn. Joining your child in play does not mean taking over what they are doing or telling them what to do differently. It means being part of the activity in a way that your child will enjoy.",
+      "completed": false
+    },
+    {
+      "id": "how_to_play_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "**Keep it joyful and fun!**\nBeing playful does not mean that your child won’t respect you or take you seriously: play actually helps to strengthen your relationship with your child. And when relationships are strong, dealing with stress and challenges become easier."
+        }
+      },
+      "category_id": "how_play",
+      "image_asset": "images/modules/play/how_to_play_3.svg",
+      "text_2": "**Keep it joyful and fun!**\nBeing playful does not mean that your child won’t respect you or take you seriously: play actually helps to strengthen your relationship with your child. And when relationships are strong, dealing with stress and challenges become easier.",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "how_to_play_4",
+      "media_asset": "audio/modules/play/play_03.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together."
+        }
+      },
+      "category_id": "how_play",
+      "media_title": "Listen to learn more:",
+      "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "media_transcript": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together.",
+      "text_1_facilitator": "Let’s hear from a caregiver:",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_1",
+      "media_asset": "audio/modules/play/play_04.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Did you know that you can use play to your advantage?"
+        },
+        "text_2": {
+          "eng": "Playful interactions can help your child cooperate and follow instructions."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/modules/play/power_of_play_1.svg",
+      "text_2": "Playful interactions can help your child cooperate and follow instructions.",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!",
+      "text_1_facilitator": "Did you know that you can use play to your advantage?",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_2",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them."
+        },
+        "text_1_facilitator": {
+          "eng": "Playful interactions are a great way to do this. **Let’s take a look at an example:**"
+        },
+        "image_text": {
+          "eng": "I don't want to go to sleep!"
+        }
+      },
+      "category_id": "power_play",
+      "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "text_1_facilitator": "Playful interactions are a great way to do this. **Let’s take a look at an example:**",
+      "image_text": "I don't want to go to sleep!",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Goodnight, @data.characters.nandi.name."
+        },
+        "character_2_text": {
+          "eng": "I don’t want to go to sleep!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page4.jpg",
+      "character_1_id": "nandi_mom",
+      "character_2_id": "nandi",
+      "character_1_text": "Goodnight, @data.characters.nandi.name.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "I don’t want to go to sleep!",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "That’s enough now. Goodnight, @data.characters.nandi.name."
+        },
+        "character_2_text": {
+          "eng": "I ... don’t ... want ... to ... go ... to ... sleep."
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg",
+      "character_1_id": "nandi_mom",
+      "character_2_id": "nandi",
+      "character_1_text": "That’s enough now. Goodnight, @data.characters.nandi.name.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "I ... don’t ... want ... to ... go ... to ... sleep.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_5",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I want more supper. Another book! Just one more song?"
+        },
+        "character_2_text": {
+          "eng": "Goodnight, @data.characters.nandi.name."
+        },
+        "character_3_text": {
+          "eng": "I don’t want to go to sleep!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg",
+      "character_1_id": "nandi",
+      "character_2_id": "nandi_mom",
+      "character_1_text": "I want more supper. Another book! Just one more song?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Goodnight, @data.characters.nandi.name.",
+      "character_3_id": "nandi",
+      "character_3_text": "I don’t want to go to sleep!",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_6",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "MAMA! ...I need a glass of water. Please? Please."
+        },
+        "character_2_text": {
+          "eng": "It’s time to go to sleep now. Goodnight, @data.characters.nandi.name."
+        },
+        "character_3_text": {
+          "eng": "I DON’T WANT TO GO TO SLEEP!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page7.jpg",
+      "character_1_id": "nandi",
+      "character_2_id": "nandi_mom",
+      "character_1_text": "MAMA! ...I need a glass of water. Please? Please.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "It’s time to go to sleep now. Goodnight, @data.characters.nandi.name.",
+      "character_3_id": "nandi",
+      "character_3_text": "I DON’T WANT TO GO TO SLEEP!",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_7",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "What about an adventure? Do you want an adventure?"
+        },
+        "character_2_text": {
+          "eng": "...yes..."
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page8.jpg",
+      "character_1_id": "nandi_mom",
+      "character_2_id": "nandi",
+      "character_1_text": "What about an adventure? Do you want an adventure?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "...yes...",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_8",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?"
+        },
+        "character_2_text": {
+          "eng": "Yes! Yes! Yes!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg",
+      "character_1_id": "nandi_mom",
+      "character_2_id": "nandi",
+      "character_1_text": "Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Yes! Yes! Yes!",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_9",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg",
+      "character_1_id": "nandi",
+      "character_1_text": "I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_10",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I want a @data.characters.nandi.name-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg",
+      "character_1_id": "nandi",
+      "character_1_text": "I want a @data.characters.nandi.name-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_11",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!"
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg",
+      "character_1_id": "nandi",
+      "character_1_text": "I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_12",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Look here, @data.characters.nandi.name. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ..."
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page13.jpg",
+      "character_1_id": "nandi_mom",
+      "character_1_text": "Look here, @data.characters.nandi.name. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_13",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Goodnight, @data.characters.nandi.name."
+        }
+      },
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page14.jpg",
+      "character_1_id": "nandi_mom",
+      "character_1_text": "Goodnight, @data.characters.nandi.name.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_14",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_15",
+      "title": "Question time",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Question time"
+        },
+        "text_1": {
+          "eng": "Let’s think about what happened in this story:"
+        },
+        "quiz_1_question": {
+          "eng": "How did the mother feel when @data.characters.nandi.name didn’t want to go to sleep?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Frustrated"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Angry"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Tired"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
+        }
+      },
+      "category_id": "power_play",
+      "quiz_1_option_1_image_asset": "images/icons/faces/frustrated_emoji.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/angry_emoji.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/tired_emoji.svg",
+      "text_1": "Let’s think about what happened in this story:",
+      "quiz_1_feedback_1": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
+      "quiz_1_feedback_2": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
+      "quiz_1_feedback_3": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
+      "quiz_1_question": "How did the mother feel when @data.characters.nandi.name didn’t want to go to sleep?",
+      "quiz_1_option_1_text": "Frustrated",
+      "quiz_1_option_2_text": "Angry",
+      "quiz_1_option_3_text": "Tired",
+      "image_asset": "images/modules/play/question_time.svg",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_16",
+      "title": "Question time:",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Question time:"
+        },
+        "quiz_1_question": {
+          "eng": "What did her mother do to help her fall asleep?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "She shouted at @data.characters.nandi.name: “Just go to sleep!”"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "While we can understand why @data.characters.nandi.name’s mother would feel like shouting, @data.characters.nandi.name’s mom did something clever. She and @data.characters.nandi.name created a fun story together that helped @data.characters.nandi.name to fall asleep."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "She ignored @data.characters.nandi.name and left her alone."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "While we can understand why @data.characters.nandi.name’s mother would feel like ignoring her, @data.characters.nandi.name’s mom went to go sit with her. She and @data.characters.nandi.name created a fun story together that helped @data.characters.nandi.name fall asleep."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "She helped @data.characters.nandi.name to fall asleep by using a playful story."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That’s right. @data.characters.nandi.name’s mom sat down with her, and together they created a fun story that helped @data.characters.nandi.name to fall asleep."
+        },
+        "quiz_2_question": {
+          "eng": "How would @data.characters.nandi.name have felt if her mother yelled at her instead of helping her to fall asleep?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Yes, all of these are true. @data.characters.nandi.name was struggling to sleep, and yelling would not have helped @data.characters.nandi.name to fall asleep."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Scared"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Yes, all of these are true. @data.characters.nandi.name was struggling to sleep, and yelling would not have helped @data.characters.nandi.name to fall asleep."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Awake"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Yes, all of these are true. @data.characters.nandi.name was struggling to sleep, and yelling would not have helped @data.characters.nandi.name to fall asleep."
+        }
+      },
+      "category_id": "power_play",
+      "quiz_1_feedback_1": "While we can understand why @data.characters.nandi.name’s mother would feel like shouting, @data.characters.nandi.name’s mom did something clever. She and @data.characters.nandi.name created a fun story together that helped @data.characters.nandi.name to fall asleep.",
+      "quiz_1_feedback_2": "While we can understand why @data.characters.nandi.name’s mother would feel like ignoring her, @data.characters.nandi.name’s mom went to go sit with her. She and @data.characters.nandi.name created a fun story together that helped @data.characters.nandi.name fall asleep.",
+      "quiz_1_feedback_3": "That’s right. @data.characters.nandi.name’s mom sat down with her, and together they created a fun story that helped @data.characters.nandi.name to fall asleep.",
+      "quiz_1_question": "What did her mother do to help her fall asleep?",
+      "quiz_1_option_1_text": "She shouted at @data.characters.nandi.name: “Just go to sleep!”",
+      "quiz_1_option_2_text": "She ignored @data.characters.nandi.name and left her alone.",
+      "quiz_1_option_3_text": "She helped @data.characters.nandi.name to fall asleep by using a playful story.",
+      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/modules/play/scared_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/modules/play/awake_emoji.svg",
+      "quiz_2_question": "How would @data.characters.nandi.name have felt if her mother yelled at her instead of helping her to fall asleep?",
+      "quiz_2_option_1_text": "Sad",
+      "quiz_2_feedback_1": "Yes, all of these are true. @data.characters.nandi.name was struggling to sleep, and yelling would not have helped @data.characters.nandi.name to fall asleep.",
+      "quiz_2_option_2_text": "Scared",
+      "quiz_2_feedback_2": "Yes, all of these are true. @data.characters.nandi.name was struggling to sleep, and yelling would not have helped @data.characters.nandi.name to fall asleep.",
+      "quiz_2_option_3_text": "Awake",
+      "quiz_2_feedback_3": "Yes, all of these are true. @data.characters.nandi.name was struggling to sleep, and yelling would not have helped @data.characters.nandi.name to fall asleep.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_17",
+      "media_asset": "audio/modules/play/play_05.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some more ideas for using play to help your child to cooperate with what you need them to do."
+        },
+        "media_title": {
+          "eng": "Listen for more ideas:"
+        },
+        "media_transcript": {
+          "eng": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed."
+        }
+      },
+      "category_id": "power_play",
+      "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/play_module_ideas.svg",
+      "media_title": "Listen for more ideas:",
+      "media_transcript": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed.",
+      "completed": false
+    },
+    {
+      "id": "using_books_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Book activities can be playful too! Here are some ways that you can make book activities fun."
+        }
+      },
+      "category_id": "books_play",
+      "image_asset": "images/modules/play/using_books_1.svg",
+      "text_1_facilitator": "Book activities can be playful too! Here are some ways that you can make book activities fun.",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "using_books_2",
+      "media_asset": "audio/modules/play/play_06.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Use a lively, playful voice, with different voices for different characters."
+        },
+        "media_title": {
+          "eng": "Listen to this example:"
+        },
+        "media_transcript": {
+          "eng": "“Look! Here are two white ducks and one BIG green frog! Hmm, what do you think the frog might be saying to the ducks? Maybe Mr Frog is saying: “croak, come - let’s jump into the water and make a big splash! Ready? One, two, three - jump!”"
+        }
+      },
+      "category_id": "books_play",
+      "text_1": "Use a lively, playful voice, with different voices for different characters.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/using_books_2.svg",
+      "media_title": "Listen to this example:",
+      "media_transcript": "“Look! Here are two white ducks and one BIG green frog! Hmm, what do you think the frog might be saying to the ducks? Maybe Mr Frog is saying: “croak, come - let’s jump into the water and make a big splash! Ready? One, two, three - jump!”",
+      "completed": false
+    },
+    {
+      "id": "using_books_3",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You can mimic different actions from the story."
+        },
+        "text_1_facilitator": {
+          "eng": "This is a great way to keep children engaged and helps them understand what is happening in the story."
+        }
+      },
+      "category_id": "books_play",
+      "text_1": "You can mimic different actions from the story.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/using_books_3.svg",
+      "text_1_facilitator": "This is a great way to keep children engaged and helps them understand what is happening in the story.",
+      "completed": false
+    },
+    {
+      "id": "using_books_4",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds."
+        }
+      },
+      "category_id": "books_play",
+      "text_1": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/using_books_4.svg",
+      "completed": false
+    },
+    {
+      "id": "using_books_5",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Three easy ways to make book activities fun:\n\n1. Use a lively, playful voice to bring the story to life\n2. Mimic different actions from the story\n3. Mimic different sounds from the story"
+        },
+        "text_2": {
+          "eng": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right."
+        }
+      },
+      "category_id": "books_play",
+      "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, playful voice to bring the story to life\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/using_books_5.svg",
+      "text_2": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right.",
+      "completed": false
+    },
+    {
+      "id": "practice_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too."
+        }
+      },
+      "category_id": "practice",
+      "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/play/ready_to_practice.svg",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

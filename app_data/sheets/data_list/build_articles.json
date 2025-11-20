@@ -1,0 +1,431 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "build_articles",
+  "data_list_name": "build_articles",
+  "status": "released",
+  "rows": [
+    {
+      "id": "why_build_1",
+      "category_id": "why_build",
+      "image_asset": "(image of male facilitator)",
+      "media_type": "audio",
+      "media_asset": "audio/modules/build/why_build_1.mp3",
+      "attached_single_doc": "https://docs.google.com/document/d/1--eOw1deUz9VhvJ73fFgFVcNXCkhUb9J8JT5oBcJv10",
+      "text_1": "Dealing with challenges is a part of life. \n\nParents can help children **BUILD** the skills they need to cope when life gets tough.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Dealing with challenges is a part of life. \n\nParents can help children **BUILD** the skills they need to cope when life gets tough."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Life is challenging and ever changing. As parents, our job is not to remove all obstacles or problems from our children’s lives. Instead, we can create a kind and supportive environment where we show our children that it is okay to make mistakes, and where we help them to manage stress and frustration in healthy ways. This allows children to feel more confident in their ability to deal with difficult circumstances."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Life is challenging and ever changing. As parents, our job is not to remove all obstacles or problems from our children’s lives. Instead, we can create a kind and supportive environment where we show our children that it is okay to make mistakes, and where we help them to manage stress and frustration in healthy ways. This allows children to feel more confident in their ability to deal with difficult circumstances."
+    },
+    {
+      "id": "why_build_2",
+      "category_id": "why_build",
+      "image_asset": "(insert image)",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {},
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive."
+        },
+        "text_1_facilitator": {
+          "eng": "Let’s see how **building coping skills** forms part of the garden image."
+        }
+      },
+      "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
+      "text_1_facilitator": "Let’s see how **building coping skills** forms part of the garden image."
+    },
+    {
+      "id": "why_build_3",
+      "category_id": "why_build",
+      "image_asset": "(insert GIF)",
+      "media_type": "audio",
+      "media_asset": "audio/modules/build/why_build_3.mp3",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "Young plants need protection and support to grow into strong plants that can survive droughts or storms. In the same way, parents can help their children build the skills they need to cope with challenges."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Gardeners can’t control the weather, but there are things they can do to protect their plants and help them recover after a storm. In the same way, you can help your child to build the skills they need to cope with challenging circumstances. When parents use positive coping skills in their own lives, children learn to do the same. And when children feel safe and supported by their parents, they are able to face challenges and overcome setbacks with more confidence."
+        }
+      },
+      "text_1": "Young plants need protection and support to grow into strong plants that can survive droughts or storms. In the same way, parents can help their children build the skills they need to cope with challenges.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Gardeners can’t control the weather, but there are things they can do to protect their plants and help them recover after a storm. In the same way, you can help your child to build the skills they need to cope with challenging circumstances. When parents use positive coping skills in their own lives, children learn to do the same. And when children feel safe and supported by their parents, they are able to face challenges and overcome setbacks with more confidence."
+    },
+    {
+      "id": "how_to_build_1",
+      "category_id": "how_build",
+      "image_asset": "(male facilitator with lightbulb)",
+      "text_1": "Here are some ideas for helping children build the skills they need to cope with challenges.",
+      "_translations": {
+        "text_1": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some ideas for helping children build the skills they need to cope with challenges."
+        }
+      }
+    },
+    {
+      "id": "how_to_build_2",
+      "category_id": "how_build",
+      "image_asset": "(insert image)",
+      "media_type": "audio",
+      "media_asset": "audio/modules/build/why_build_2.mp3",
+      "text_1": "**Talk about feelings**\n Noticing and talking about feelings help children learn to express and manage their emotions – even the difficult ones.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**Talk about feelings**\n Noticing and talking about feelings help children learn to express and manage their emotions – even the difficult ones."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Use words to describe your and your child’s emotions, so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions. \nDescribe how you see your child’s emotion in a calm way. For example:\n“I notice you’re stomping your feet and talking loudly. What are you feeling?”\nShare your own feelings with your child. For example: \n“I know I feel the same way when I can’t go out when I want to.”\nThis shows your child that it’s okay to share their feelings. They will learn to recognise emotions in themselves and others too."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Use words to describe your and your child’s emotions, so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions. \nDescribe how you see your child’s emotion in a calm way. For example:\n“I notice you’re stomping your feet and talking loudly. What are you feeling?”\nShare your own feelings with your child. For example: \n“I know I feel the same way when I can’t go out when I want to.”\nThis shows your child that it’s okay to share their feelings. They will learn to recognise emotions in themselves and others too."
+    },
+    {
+      "id": "how_to_build_3",
+      "category_id": "how_build",
+      "image_asset": "(insert image)",
+      "media_type": "audio",
+      "media_asset": "audio/modules/build/how_build_3.mp3",
+      "text_1": "**Show them how**\n Children learn a lot by watching their parents. So, instead of telling your child how to cope with a challenging situation, show them with your own behaviours.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**Show them how**\n Children learn a lot by watching their parents. So, instead of telling your child how to cope with a challenging situation, show them with your own behaviours."
+        },
+        "media_title": {
+          "eng": "Listen for examples:"
+        },
+        "media_transcript": {
+          "eng": "You are a powerful role-model for your child. When you demonstrate healthy ways to handle stress, frustration or big emotions in your own life, your child will learn to do the same. For example:\n When you feel overwhelmed, say out loud: “I’m feeling frustrated right now, so I’m going to take a few deep breaths to calm down.” This helps children see that strong emotions are normal and manageable.\n Or, after a stressful phone call, you might say: “That call made me feel stressed, so I’m going to go outside and listen to music on my phone to help myself feel better”. \n Or, when you make a mistake, say, “That didn’t go as planned, but it’s okay. I can try again”"
+        }
+      },
+      "media_title": "Listen for examples:",
+      "media_transcript": "You are a powerful role-model for your child. When you demonstrate healthy ways to handle stress, frustration or big emotions in your own life, your child will learn to do the same. For example:\n When you feel overwhelmed, say out loud: “I’m feeling frustrated right now, so I’m going to take a few deep breaths to calm down.” This helps children see that strong emotions are normal and manageable.\n Or, after a stressful phone call, you might say: “That call made me feel stressed, so I’m going to go outside and listen to music on my phone to help myself feel better”. \n Or, when you make a mistake, say, “That didn’t go as planned, but it’s okay. I can try again”"
+    },
+    {
+      "id": "the_power_of_build_1",
+      "category_id": "power_build",
+      "image_asset": "(insert image)",
+      "character_1_id": "f2_father",
+      "character_2_id": "f2_boy",
+      "text_1_facilitator": "Let’s see how @data.characters.f2_father.name supports @data.characters.f2_boy.name to overcome a challenging situation:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s see how @data.characters.f2_father.name supports @data.characters.f2_boy.name to overcome a challenging situation:"
+        },
+        "character_1_text": {
+          "eng": "Five kicks in a row! You seem really proud to have made it to five, Dennis!"
+        },
+        "character_2_text": {
+          "eng": "Let’s do 10!"
+        }
+      },
+      "character_1_text": "Five kicks in a row! You seem really proud to have made it to five, Dennis!",
+      "character_2_text": "Let’s do 10!"
+    },
+    {
+      "id": "the_power_of_build_2",
+      "category_id": "power_build",
+      "image_asset": "(insert image)",
+      "character_1_id": "f2_father",
+      "character_1_text": "Whoops! There goes our ball!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Whoops! There goes our ball!"
+        }
+      }
+    },
+    {
+      "id": "the_power_of_build_3",
+      "category_id": "power_build",
+      "image_asset": "(insert image)",
+      "character_1_id": "f2_boy",
+      "character_2_id": "f2_father",
+      "character_1_text": "Stupid ball! Now we can’t play anymore!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Stupid ball! Now we can’t play anymore!"
+        },
+        "character_2_text": {
+          "eng": "I can see your hands are in fists and that you are feeling angry about the ball @data.characters.f2_boy.name. I understand - you wanted to do more kicks, and now we don’t have a ball. It’s okay to feel upset."
+        }
+      },
+      "character_2_text": "I can see your hands are in fists and that you are feeling angry about the ball @data.characters.f2_boy.name. I understand - you wanted to do more kicks, and now we don’t have a ball. It’s okay to feel upset."
+    },
+    {
+      "id": "the_power_of_build_4",
+      "category_id": "power_build",
+      "image_asset": "(insert image)",
+      "character_1_id": "f2_father",
+      "character_1_text": "Let’s take a deep breath and go inside to drink some cold water. When the neighbours come home, we can go collect our ball from their garden.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Let’s take a deep breath and go inside to drink some cold water. When the neighbours come home, we can go collect our ball from their garden."
+        }
+      }
+    },
+    {
+      "id": "the_power_of_build_5",
+      "category_id": "power_build",
+      "image_asset": "(insert image)",
+      "character_1_id": "f2_father",
+      "character_1_text": "It can be hard when things don’t go our way. We all feel angry sometimes. Well done for taking a deep breath and coming inside. We will have another chance to play tomorrow.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "It can be hard when things don’t go our way. We all feel angry sometimes. Well done for taking a deep breath and coming inside. We will have another chance to play tomorrow."
+        }
+      }
+    },
+    {
+      "id": "the_power_of_build_6",
+      "category_id": "power_build",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/sad.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/angry_emoji.svg",
+      "text_1_facilitator": "Let’s talk this through together.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s talk this through together."
+        },
+        "quiz_1_question": {
+          "eng": "How did @data.characters.f2_boy.name feel when he lost the ball?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Have another look at his facial expression and body language. He is frowning and his hands are in fists. He is feeling angry."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Sad"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Have another look at his facial expression and body language. He is frowning and his hands are in fists. He is feeling angry."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Angry"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, he is feeling angry because he lost the ball and they had to stop playing."
+        },
+        "quiz_2_question": {
+          "eng": "What does @data.characters.f2_father.name do to support @data.characters.f2_boy.name?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "He names the emotions that @data.characters.f2_boy.name is feeling"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "That’s right. By naming @data.characters.f2_boy.name’s emotions, @data.characters.f2_father.name helps @data.characters.f2_boy.name to learn to recognise these feelings in future. @data.characters.f2_father.name also normalizes how @data.characters.f2_boy.name feels and supports him to manage his feelings of anger."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "He blames @data.characters.f2_boy.name for what happened"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "He does not get frustrated with @data.characters.f2_boy.name. He names and describes what @data.characters.f2_boy.name is feeling and tells him that he understands. He also normalizes these feelings and supports @data.characters.f2_boy.name to manage them."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "He tells @data.characters.f2_boy.name that it’s okay to feel that way"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Yes. @data.characters.f2_father.name shows  @data.characters.f2_boy.name that all feelings – even difficult ones like anger – are normal to feel."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "He helps @data.characters.f2_boy.name to manage his feelings"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "That’s right. After @data.characters.f2_father.name helps @data.characters.f2_boy.name to recognise what he is feeling, he supports @data.characters.f2_boy.name to take a deep breath as a healthy way to manage his anger. @data.characters.f2_father.name also talks to @data.characters.f2_boy.name about it afterwards, to help him reflect and learn from the experience."
+        }
+      },
+      "quiz_1_question": "How did @data.characters.f2_boy.name feel when he lost the ball?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_feedback_1": "Have another look at his facial expression and body language. He is frowning and his hands are in fists. He is feeling angry.",
+      "quiz_1_option_2_text": "Sad",
+      "quiz_1_feedback_2": "Have another look at his facial expression and body language. He is frowning and his hands are in fists. He is feeling angry.",
+      "quiz_1_option_3_text": "Angry",
+      "quiz_1_feedback_3": "Yes, he is feeling angry because he lost the ball and they had to stop playing.",
+      "quiz_2_question": "What does @data.characters.f2_father.name do to support @data.characters.f2_boy.name?",
+      "quiz_2_option_1_text": "He names the emotions that @data.characters.f2_boy.name is feeling",
+      "quiz_2_feedback_1": "That’s right. By naming @data.characters.f2_boy.name’s emotions, @data.characters.f2_father.name helps @data.characters.f2_boy.name to learn to recognise these feelings in future. @data.characters.f2_father.name also normalizes how @data.characters.f2_boy.name feels and supports him to manage his feelings of anger.",
+      "quiz_2_option_2_text": "He blames @data.characters.f2_boy.name for what happened",
+      "quiz_2_feedback_2": "He does not get frustrated with @data.characters.f2_boy.name. He names and describes what @data.characters.f2_boy.name is feeling and tells him that he understands. He also normalizes these feelings and supports @data.characters.f2_boy.name to manage them.",
+      "quiz_2_option_3_text": "He tells @data.characters.f2_boy.name that it’s okay to feel that way",
+      "quiz_2_feedback_3": "Yes. @data.characters.f2_father.name shows  @data.characters.f2_boy.name that all feelings – even difficult ones like anger – are normal to feel.",
+      "quiz_2_option_4_text": "He helps @data.characters.f2_boy.name to manage his feelings",
+      "quiz_2_feedback_4": "That’s right. After @data.characters.f2_father.name helps @data.characters.f2_boy.name to recognise what he is feeling, he supports @data.characters.f2_boy.name to take a deep breath as a healthy way to manage his anger. @data.characters.f2_father.name also talks to @data.characters.f2_boy.name about it afterwards, to help him reflect and learn from the experience."
+    },
+    {
+      "id": "using_books_1",
+      "category_id": "books_build",
+      "image_asset": "(insert image)",
+      "text_1": "Book activities offer many opportunities to help children learn key life skills. \n\nHere are some ideas for using books and stories to help children build their social and emotional skills.",
+      "_translations": {
+        "text_1": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Book activities offer many opportunities to help children learn key life skills. \n\nHere are some ideas for using books and stories to help children build their social and emotional skills."
+        }
+      }
+    },
+    {
+      "id": "using_books_2",
+      "category_id": "books_build",
+      "image_asset": "(cover of “A Very Important Tree”)",
+      "media_type": "video",
+      "youtube_gb_en": "(need to add link)",
+      "youtube_tz_sw": "(need to add link)",
+      "text_1": "Use stories to discuss different feelings, experiences and actions.",
+      "_translations": {
+        "text_1": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Use stories to discuss different feelings, experiences and actions."
+        },
+        "text_1_facilitator": {
+          "eng": "This helps children better understand their own experiences, and the behaviours of others too."
+        },
+        "text_2": {
+          "eng": "Watch this video for an example of how you can use stories to build your child’s understanding of different emotions and behaviours."
+        }
+      },
+      "text_1_facilitator": "This helps children better understand their own experiences, and the behaviours of others too.",
+      "text_2": "Watch this video for an example of how you can use stories to build your child’s understanding of different emotions and behaviours."
+    },
+    {
+      "id": "using_books_3",
+      "category_id": "books_build",
+      "image_asset": "(insert image)",
+      "text_1": "Three easy ways to use book activities to build your child’s skills:\n1. Talk about what the characters are feeling\n2. Ask questions about what the characters are doing and why\n3. Reflect together on the story and what you have learned",
+      "_translations": {
+        "text_1": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Three easy ways to use book activities to build your child’s skills:\n1. Talk about what the characters are feeling\n2. Ask questions about what the characters are doing and why\n3. Reflect together on the story and what you have learned"
+        }
+      }
+    },
+    {
+      "id": "practice_1",
+      "category_id": "practice",
+      "image_asset": "(image)",
+      "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Use challenging moments as an opportunity to model healthy coping skills.\n📖 Use story books to learn about different feelings and actions.\n😌 Setbacks and challenges are a normal part of life. Remember to be kind to yourself.",
+      "_translations": {
+        "text_1": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Use challenging moments as an opportunity to model healthy coping skills.\n📖 Use story books to learn about different feelings and actions.\n😌 Setbacks and challenges are a normal part of life. Remember to be kind to yourself."
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

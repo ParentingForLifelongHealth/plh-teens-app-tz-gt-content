@@ -1,0 +1,55 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "additional_content_tags",
+  "data_list_name": "additional_content_tags",
+  "status": "released",
+  "rows": [
+    {
+      "id": "finance",
+      "attached_single_doc": "https://docs.google.com/document/d/1cq22E3vZouGQzGSbQLFloQzPu5Pb8eI-csMti2rseto",
+      "name": "finance",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "finance"
+        },
+        "title": {
+          "eng": "Budgeting and Income Generating Activities"
+        },
+        "text": {
+          "eng": "Budgeting and Income Generating Activities"
+        }
+      },
+      "title": "Budgeting and Income Generating Activities",
+      "text": "Budgeting and Income Generating Activities"
+    },
+    {
+      "id": "nutrition",
+      "name": "nutrition",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "nutrition"
+        },
+        "title": {
+          "eng": "Nutrition"
+        },
+        "text": {
+          "eng": "Nutrition"
+        }
+      },
+      "title": "Nutrition",
+      "text": "Nutrition"
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ additional_content.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

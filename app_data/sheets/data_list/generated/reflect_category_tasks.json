@@ -1,0 +1,104 @@
+{
+  "flow_name": "reflect_category_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "title": "Relax",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relax"
+        }
+      }
+    },
+    {
+      "id": "check_in",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Check-in",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-in"
+        }
+      }
+    },
+    {
+      "id": "why_reflect",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Why REFLECT",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Why REFLECT"
+        }
+      }
+    },
+    {
+      "id": "caring_you",
+      "icon_asset": "images/icons/join_icons/caring_yourself.svg",
+      "title": "How to REFLECT",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to REFLECT"
+        }
+      }
+    },
+    {
+      "id": "caring_child",
+      "icon_asset": "images/icons/join_icons/caring_yourchild.svg",
+      "title": "The power of REFLECT",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The power of REFLECT"
+        }
+      }
+    },
+    {
+      "id": "learn_books",
+      "icon_asset": "images/modules/play/icon_book.svg",
+      "title": "Using books to REFLECT",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books to REFLECT"
+        }
+      }
+    },
+    {
+      "id": "practice",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Ready to practice?",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ready to practice?"
+        }
+      }
+    }
+  ]
+}

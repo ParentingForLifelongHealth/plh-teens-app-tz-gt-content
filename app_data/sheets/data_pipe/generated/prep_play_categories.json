@@ -1,0 +1,22 @@
+{
+  "flow_name": "prep_play_categories",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "concat",
+      "args_list": [
+        "common_categories",
+        "play_categories"
+      ],
+      "output_target": "play_category_tasks"
+    }
+  ],
+  "_output_flows": [
+    {
+      "flow_name": "play_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

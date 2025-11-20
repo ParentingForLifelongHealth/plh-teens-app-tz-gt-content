@@ -1,0 +1,87 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_talk_start_at_cat",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "talk_category_tasks",
+    "output_flow_name": "module_talk_start_at_{@gen.id}",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "module_start_at_cat",
+      "value": "module_start_at_cat",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "module_id",
+          "value": "talk"
+        },
+        {
+          "name": "category_id",
+          "value": "@gen.id"
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "modules/TZ module_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_output_flows": [
+    {
+      "flow_name": "module_talk_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_start_at_why_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_start_at_how_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_start_at_power_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_start_at_books_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_start_at_practice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

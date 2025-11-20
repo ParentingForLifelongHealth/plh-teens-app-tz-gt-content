@@ -1,0 +1,71 @@
+{
+  "flow_type": "template",
+  "flow_name": "resources_activities",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "activities",
+      "value": "activities",
+      "rows": [
+        {
+          "name": "fav_page",
+          "value": "fav_resources",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.fav_page"
+        },
+        {
+          "name": "activity",
+          "value": "Additional Resources",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.activity"
+        },
+        {
+          "name": "tags",
+          "value": "additional_content_tags",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.tags"
+        },
+        {
+          "name": "data_list",
+          "value": "additional_content",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.data_list"
+        },
+        {
+          "name": "data_list_in_loop",
+          "value": "additional_content",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.data_list_in_loop"
+        },
+        {
+          "name": "go_to_template_prefix",
+          "value": "additional_content_",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.go_to_template_prefix"
+        }
+      ],
+      "_nested_name": "activities"
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

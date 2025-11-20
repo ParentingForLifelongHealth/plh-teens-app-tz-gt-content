@@ -1,0 +1,104 @@
+{
+  "flow_name": "care_category_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "title": "Relax",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relax"
+        }
+      }
+    },
+    {
+      "id": "check_in",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Check-in",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-in"
+        }
+      }
+    },
+    {
+      "id": "why_care",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Why CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Why CARE"
+        }
+      }
+    },
+    {
+      "id": "how_care",
+      "icon_asset": "images/modules/play/icon_light_bulb.svg",
+      "title": "How to CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to CARE"
+        }
+      }
+    },
+    {
+      "id": "power_care",
+      "icon_asset": "images/modules/play/icon_star.svg",
+      "title": "The power of CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The power of CARE"
+        }
+      }
+    },
+    {
+      "id": "books_care",
+      "icon_asset": "images/modules/play/icon_book.svg",
+      "title": "Using books to CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books to CARE"
+        }
+      }
+    },
+    {
+      "id": "practice",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Ready to practice?",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ready to practice?"
+        }
+      }
+    }
+  ]
+}

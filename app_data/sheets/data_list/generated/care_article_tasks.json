@@ -1,0 +1,531 @@
+{
+  "flow_name": "care_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_18",
+      "lottie_asset": "lottie/breathing_heart.json",
+      "media_asset": "audio/relax/relax_18.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_18.svg",
+      "title": "Taking Care of Yourself",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Taking Care of Yourself"
+        },
+        "transcript": {
+          "eng": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your breathing_heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different."
+        }
+      },
+      "transcript": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your breathing_heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
+      "category_id": "relax",
+      "completed": false
+    },
+    {
+      "id": "check_in_12",
+      "attached_single_doc": "https://docs.google.com/document/d/1AUTWhsdOO6sBN5ffSyHEIiXseZ4TTlXLbnMLLOa2hXM",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Looking after yourself well starts with noticing how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Looking after yourself well starts with noticing how you feel.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_1": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot.",
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help.",
+      "quiz_1_feedback_3": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "why_care_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1vs7A4ExreZlUBVzXlCsY7q6vU8XVv4bC_sy50cxnGDQ",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This module is about YOU. Looking after yourself is essential for a happy family."
+        }
+      },
+      "category_id": "why_care",
+      "text_1": "This module is about YOU. Looking after yourself is essential for a happy family.",
+      "_translations": {
+        "text_1": {}
+      },
+      "image_asset": "images/modules/connect/connect_1.svg",
+      "completed": false
+    },
+    {
+      "id": "why_care_2",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {},
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive."
+        },
+        "text_1_facilitator": {
+          "eng": "Let’s see how **caring for yourself** forms part of the garden image."
+        }
+      },
+      "category_id": "why_care",
+      "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
+      "image_asset": "(insert image)",
+      "text_1_facilitator": "Let’s see how **caring for yourself** forms part of the garden image.",
+      "completed": false
+    },
+    {
+      "id": "why_care_3",
+      "media_asset": "audio/modules/care/why_care_3.mp3",
+      "media_type": "audio",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "The health of the gardener is important to the health of the garden. In the same way, parents need to take care of themselves, so that they can take care of their children."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "We often forget to take care of ourselves, but it’s really important, especially if you are a parent!\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.\nThere are times when we experience challenges, face problems, and do not know what to do. It is important to take care of ourselves every day, so we are ready to handle those times well and stay calm. \nWhen we are calm, we are in a good state to think positively and come up with positive solutions to any challenges we may be facing."
+        }
+      },
+      "category_id": "why_care",
+      "text_1": "The health of the gardener is important to the health of the garden. In the same way, parents need to take care of themselves, so that they can take care of their children.",
+      "image_asset": "Add GIF",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "We often forget to take care of ourselves, but it’s really important, especially if you are a parent!\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.\nThere are times when we experience challenges, face problems, and do not know what to do. It is important to take care of ourselves every day, so we are ready to handle those times well and stay calm. \nWhen we are calm, we are in a good state to think positively and come up with positive solutions to any challenges we may be facing.",
+      "completed": false
+    },
+    {
+      "id": "how_to_care_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Taking care of yourself is an important parenting skill. Let’s look at three powerful ideas."
+        }
+      },
+      "category_id": "how_care",
+      "text_1": "Taking care of yourself is an important parenting skill. Let’s look at three powerful ideas.",
+      "_translations": {
+        "text_1": {}
+      },
+      "image_asset": "(facilitator with lightbulb)",
+      "completed": false
+    },
+    {
+      "id": "how_to_care_2",
+      "media_asset": "audio/modules/care/care_2.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**Take a pause**\n\nTaking a pause helps us to feel calmer in stressful moments."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "All parents get frustrated, overwhelmed or upset. Taking a moment for yourself can help you to respond in a calmer way. \nWhen you are having a hard time, it’s okay to make sure your children are in a safe place and to give yourself a couple of minutes to step away and calm yourself. Even taking a few deep breaths makes a big difference. \nBy staying calm instead of reacting strongly, you can also prevent a lot of problems!"
+        }
+      },
+      "category_id": "how_care",
+      "text_1": "**Take a pause**\n\nTaking a pause helps us to feel calmer in stressful moments.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "image_asset": "(insert image)",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "All parents get frustrated, overwhelmed or upset. Taking a moment for yourself can help you to respond in a calmer way. \nWhen you are having a hard time, it’s okay to make sure your children are in a safe place and to give yourself a couple of minutes to step away and calm yourself. Even taking a few deep breaths makes a big difference. \nBy staying calm instead of reacting strongly, you can also prevent a lot of problems!",
+      "completed": false
+    },
+    {
+      "id": "how_to_care_3",
+      "media_asset": "audio/modules/care/care_3.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**Be kind to yourself**\n\nBeing a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "When we are feeling stressed or overwhelmed, we often can’t help but focus on everything that’s going wrong. But just because things are hard, doesn’t mean you have to be hard on yourself. \nIdentify negative thoughts when they start and decide if they are true or helpful. If not, find positive thoughts to replace them with. \nAfter a challenging experience, set-back or “bad day”, think about what you would like to do differently next time and then move on. Rather focus on what you have done well, and what you can be proud of.\nFor example, instead of “I am a bad parent” say “I am feeling overwhelmed right now, but I am doing the best I can and I will talk to a friend for support”."
+        }
+      },
+      "category_id": "how_care",
+      "text_1": "**Be kind to yourself**\n\nBeing a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "image_asset": "(insert image)",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "When we are feeling stressed or overwhelmed, we often can’t help but focus on everything that’s going wrong. But just because things are hard, doesn’t mean you have to be hard on yourself. \nIdentify negative thoughts when they start and decide if they are true or helpful. If not, find positive thoughts to replace them with. \nAfter a challenging experience, set-back or “bad day”, think about what you would like to do differently next time and then move on. Rather focus on what you have done well, and what you can be proud of.\nFor example, instead of “I am a bad parent” say “I am feeling overwhelmed right now, but I am doing the best I can and I will talk to a friend for support”.",
+      "completed": false
+    },
+    {
+      "id": "how_to_care_4",
+      "media_asset": "audio/modules/care/care_4.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**Connect with others**\n\nConnect with your family and friends - you are not alone."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Being a parent is not always easy. Don’t hesitate to reach out for support when you need it. Sharing challenges with trusted people can lighten your emotional load and help you find solutions.\n Make an effort to share your feelings and experiences with trusted friends or family members. Honest conversations build trust and help you feel understood. This helps others to feel connected too. \n Even a quick phone call or a thoughtful text can reinforce your connections and let others know you care."
+        }
+      },
+      "category_id": "how_care",
+      "text_1": "**Connect with others**\n\nConnect with your family and friends - you are not alone.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "image_asset": "(insert image)",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Being a parent is not always easy. Don’t hesitate to reach out for support when you need it. Sharing challenges with trusted people can lighten your emotional load and help you find solutions.\n Make an effort to share your feelings and experiences with trusted friends or family members. Honest conversations build trust and help you feel understood. This helps others to feel connected too. \n Even a quick phone call or a thoughtful text can reinforce your connections and let others know you care.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_care_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s see how f3_grandma manages to take care of herself when life gets a bit too much:"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f3_grandma.name come play with me and my dolls!"
+        },
+        "character_2_text": {
+          "eng": "(🤔thinking) I am feeling so stressed. Let me take a deep breath… Phewww… Maybe I can finish preparing dinner and then take a few minutes to play with @data.characters.f3_girl.name. It will take my mind off all these worries."
+        }
+      },
+      "category_id": "power_care",
+      "image_asset": "(insert image)",
+      "text_1_facilitator": "Let’s see how f3_grandma manages to take care of herself when life gets a bit too much:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_1_id": "f3_girl",
+      "character_2_id": "f3_grandma",
+      "character_1_text": "@data.characters.f3_grandma.name come play with me and my dolls!",
+      "character_2_text": "(🤔thinking) I am feeling so stressed. Let me take a deep breath… Phewww… Maybe I can finish preparing dinner and then take a few minutes to play with @data.characters.f3_girl.name. It will take my mind off all these worries.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_care_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Alright, @data.characters.f3_girl.name, let me finish preparing lunch quickly, and then I will come play with you."
+        }
+      },
+      "category_id": "power_care",
+      "image_asset": "(insert image)",
+      "character_1_id": "f3_grandma",
+      "character_1_text": "Alright, @data.characters.f3_girl.name, let me finish preparing lunch quickly, and then I will come play with you.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_care_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "(🤔thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself."
+        }
+      },
+      "category_id": "power_care",
+      "image_asset": "(insert image)",
+      "character_1_id": "f3_grandma",
+      "character_1_text": "(🤔thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_care_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "(🤔thinking) What a day. I have a lot of things to do, but I am still standing and trying my best every day. Tomorrow, I should visit my friends so we can catch up and be reminded that we aren’t alone!"
+        }
+      },
+      "category_id": "power_care",
+      "image_asset": "(insert image)",
+      "character_1_id": "f3_grandma",
+      "character_1_text": "(🤔thinking) What a day. I have a lot of things to do, but I am still standing and trying my best every day. Tomorrow, I should visit my friends so we can catch up and be reminded that we aren’t alone!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_care_5",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s reflect."
+        },
+        "quiz_1_question": {
+          "eng": "How did @data.characters.f3_grandma.name feel at first?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Have another look at @data.characters.f3_grandma.name’s facial expression and thoughts. She is feeling stressed and worried."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Have another look at @data.characters.f3_grandma.name’s facial expression and thoughts. She is feeling stressed and worried."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Stressed"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, @data.characters.f3_grandma.name feels stressed and worried about everything happening in her life."
+        },
+        "quiz_2_question": {
+          "eng": "What does @data.characters.f3_grandma.name do to manage her stress?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Take a pause"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Yes, taking a pause helps in stressful moments. Even taking a few deep breaths can help us feel better and respond more calmly"
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Play with @data.characters.f3_girl.name"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Exactly. Play helped @data.characters.f3_grandma.name to connect with @data.characters.f3_girl.name and forget about her worries for a moment."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Reward herself"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Exactly, @data.characters.f3_grandma.name creates a moment in the evening to enjoy a cup of tea by herself. Having this moment also helps her to come up with other ways to get support."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "Plan to see a friend"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Yes, when we isolate ourselves, problems will start to feel even bigger. Reaching out to a friend can help."
+        }
+      },
+      "category_id": "power_care",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_emoji.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/neutral.svg",
+      "quiz_1_option_3_image_asset": "emoji",
+      "quiz_1_feedback_1": "Have another look at @data.characters.f3_grandma.name’s facial expression and thoughts. She is feeling stressed and worried.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {}
+      },
+      "quiz_1_feedback_2": "Have another look at @data.characters.f3_grandma.name’s facial expression and thoughts. She is feeling stressed and worried.",
+      "quiz_1_feedback_3": "Yes, @data.characters.f3_grandma.name feels stressed and worried about everything happening in her life.",
+      "quiz_1_question": "How did @data.characters.f3_grandma.name feel at first?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Stressed",
+      "text_1_facilitator": "Let’s reflect.",
+      "quiz_2_question": "What does @data.characters.f3_grandma.name do to manage her stress?",
+      "quiz_2_option_1_text": "Take a pause",
+      "quiz_2_feedback_1": "Yes, taking a pause helps in stressful moments. Even taking a few deep breaths can help us feel better and respond more calmly",
+      "quiz_2_option_2_text": "Play with @data.characters.f3_girl.name",
+      "quiz_2_feedback_2": "Exactly. Play helped @data.characters.f3_grandma.name to connect with @data.characters.f3_girl.name and forget about her worries for a moment.",
+      "quiz_2_option_3_text": "Reward herself",
+      "quiz_2_feedback_3": "Exactly, @data.characters.f3_grandma.name creates a moment in the evening to enjoy a cup of tea by herself. Having this moment also helps her to come up with other ways to get support.",
+      "quiz_2_option_4_text": "Plan to see a friend",
+      "quiz_2_feedback_4": "Yes, when we isolate ourselves, problems will start to feel even bigger. Reaching out to a friend can help.",
+      "completed": false
+    },
+    {
+      "id": "using_books_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You can use book activities to take a pause when you feel stressed."
+        },
+        "text_2": {
+          "eng": "By sitting down with a book and focusing your attention on the pictures and story, you can forget about your worries for a moment."
+        }
+      },
+      "category_id": "books_care",
+      "text_1": "You can use book activities to take a pause when you feel stressed.",
+      "_translations": {
+        "text_1": {},
+        "text_2": {}
+      },
+      "image_asset": "(insert image)",
+      "text_2": "By sitting down with a book and focusing your attention on the pictures and story, you can forget about your worries for a moment.",
+      "completed": false
+    },
+    {
+      "id": "using_books_2",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Connecting with others helps us feel less alone. You can use book activities to connect with your child and your family."
+        }
+      },
+      "category_id": "books_care",
+      "text_1": "Connecting with others helps us feel less alone. You can use book activities to connect with your child and your family.",
+      "_translations": {
+        "text_1": {}
+      },
+      "image_asset": "(insert picture)",
+      "completed": false
+    },
+    {
+      "id": "using_books_3",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Having some fun is helpful for parents too. You can use stories to relax, laugh and have fun together."
+        }
+      },
+      "category_id": "books_care",
+      "text_1": "Having some fun is helpful for parents too. You can use stories to relax, laugh and have fun together.",
+      "_translations": {
+        "text_1": {}
+      },
+      "image_asset": "(insert image)",
+      "completed": false
+    },
+    {
+      "id": "practice_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Taking care of yourself is an important parenting skill! \nFor your home practice:\n🤝 When you notice you are feeling stressed, give yourself a moment to pause, breathe and regain your calm.\n📖 Share a book with your child or family to relax and have fun together.\n😌 Reward yourself by doing something you enjoy."
+        }
+      },
+      "category_id": "practice",
+      "text_1": "Taking care of yourself is an important parenting skill! \nFor your home practice:\n🤝 When you notice you are feeling stressed, give yourself a moment to pause, breathe and regain your calm.\n📖 Share a book with your child or family to relax and have fun together.\n😌 Reward yourself by doing something you enjoy.",
+      "_translations": {
+        "text_1": {}
+      },
+      "image_asset": "(image)",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

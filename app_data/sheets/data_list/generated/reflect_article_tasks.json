@@ -1,0 +1,505 @@
+{
+  "flow_name": "reflect_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "Congratulations_1",
+      "category_id": "why_reflect",
+      "image_asset": "(sent to orli)",
+      "media_type": "audio",
+      "media_asset": "audio/modules/reflect/congs_1.mp3",
+      "attached_single_doc": "https://docs.google.com/document/d/1QgPVzzOo7xyvKZ6wXpSfBksp3NKgOwd_vfKn9GKf-3Y",
+      "text_1": "Well done! You have completed the ParentApp modules, building important skills to take care of yourself and your family.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Well done! You have completed the ParentApp modules, building important skills to take care of yourself and your family."
+        },
+        "media_title": {
+          "eng": "Listen to your congratulations message:"
+        },
+        "media_transcript": {
+          "eng": "Greetings parents! \nCongratulations on completing the ParentApp modules! This is a huge achievement. It shows such care for your family, and for yourself. \nToday we are celebrating and reflecting on our journey together. \nLet’s take a look at what we have learnt and how you can continue using the ParentApp skills and tools."
+        }
+      },
+      "media_title": "Listen to your congratulations message:",
+      "media_transcript": "Greetings parents! \nCongratulations on completing the ParentApp modules! This is a huge achievement. It shows such care for your family, and for yourself. \nToday we are celebrating and reflecting on our journey together. \nLet’s take a look at what we have learnt and how you can continue using the ParentApp skills and tools.",
+      "completed": false
+    },
+    {
+      "id": "Congratulations_2",
+      "category_id": "why_reflect",
+      "image_asset": "(CAN WE ADD A LOTTIE FILE HERE TO GO WITH THE REFLECTION ACTIVITY BELOW?)",
+      "media_type": "audio",
+      "media_asset": "audio/modules/reflect/congs_2.mp3",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "You and your family have learnt so much. Let’s think back and see what has changed:"
+        },
+        "media_title": {
+          "eng": "Listen and reflect:"
+        },
+        "media_transcript": {
+          "eng": "Close your eyes and relax. \nThink of your family life before you started your journey with this app. How did you manage your stress? How did you spend time with your child? \nNow, think of where you are today. How do you take care of yourself now? How has your relationship with your child changed? How do you support your child to play and learn?\nNotice all the new things you have learned. Notice how these changes have made a positive impact on your life."
+        },
+        "quiz_1_question": {
+          "eng": "How do you feel about what you have learnt and the changes you made?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful! Keep celebrating these successes and remember that every step forward – big or small - is something to be proud of."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We understand – making changes can take time. You can always revisit the modules in the app – sometimes looking back can spark new ideas."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Thank you for being honest. Change can be challenging and facing obstacles is normal. The fact that you are reflecting on this shows your dedication as a parent."
+        }
+      },
+      "media_title": "Listen and reflect:",
+      "_translations": {
+        "media_title": {},
+        "media_transcript": {},
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {}
+      },
+      "media_transcript": "Close your eyes and relax. \nThink of your family life before you started your journey with this app. How did you manage your stress? How did you spend time with your child? \nNow, think of where you are today. How do you take care of yourself now? How has your relationship with your child changed? How do you support your child to play and learn?\nNotice all the new things you have learned. Notice how these changes have made a positive impact on your life.",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_emoji.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/neutral.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
+      "text_1_facilitator": "You and your family have learnt so much. Let’s think back and see what has changed:",
+      "quiz_1_question": "How do you feel about what you have learnt and the changes you made?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_feedback_1": "Wonderful! Keep celebrating these successes and remember that every step forward – big or small - is something to be proud of.",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_feedback_2": "We understand – making changes can take time. You can always revisit the modules in the app – sometimes looking back can spark new ideas.",
+      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_3": "Thank you for being honest. Change can be challenging and facing obstacles is normal. The fact that you are reflecting on this shows your dedication as a parent.",
+      "completed": false
+    },
+    {
+      "id": "caring_you_1",
+      "category_id": "caring_you",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "During this journey, we shared ideas for how to care for yourself. Here’s a reminder:"
+        },
+        "section_1_title": {
+          "eng": "Take a pause"
+        },
+        "section_1_text": {
+          "eng": "Taking a pause helps us to feel calmer in stressful moments."
+        },
+        "section_2_title": {
+          "eng": "Be kind to yourself"
+        },
+        "section_2_text": {
+          "eng": "Being a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of."
+        },
+        "section_3_title": {
+          "eng": "Connect with others - you are not alone."
+        },
+        "section_3_text": {
+          "eng": "Don’t hesitate to reach out for support when you need it. Sharing challenges with trusted people can lighten your emotional load and help you find solutions."
+        }
+      },
+      "text_1_facilitator": "During this journey, we shared ideas for how to care for yourself. Here’s a reminder:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "section_1_image_asset": "(insert image)",
+      "section_2_image_asset": "(insert image)",
+      "section_3_image_asset": "(insert image)",
+      "section_1_title": "Take a pause",
+      "section_1_text": "Taking a pause helps us to feel calmer in stressful moments.",
+      "section_2_title": "Be kind to yourself",
+      "section_2_text": "Being a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of.",
+      "section_3_title": "Connect with others - you are not alone.",
+      "section_3_text": "Don’t hesitate to reach out for support when you need it. Sharing challenges with trusted people can lighten your emotional load and help you find solutions.",
+      "completed": false
+    },
+    {
+      "id": "caring_you_2",
+      "category_id": "caring_you",
+      "image_asset": "Add GIF",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Remember that caring for others starts with caring for yourself."
+        },
+        "image_text": {
+          "eng": "The health of the gardener is important to the health of the garden. In the same way, parents need to take care of themselves, so that they can take care of their children."
+        },
+        "quiz_1_question": {
+          "eng": "Have you managed to take care of yourself?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Well done! It takes real strength to recognize that caring for yourself isn’t selfish-it’s what lets you show up as the parent you want to be."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay – we know how hard it can be. Self-care isn’t about perfection; it’s about small moments that add up over time. So keep going."
+        }
+      },
+      "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
+      "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
+      "text_1_facilitator": "Remember that caring for others starts with caring for yourself.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {},
+        "image_text": {}
+      },
+      "quiz_1_question": "Have you managed to take care of yourself?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Well done! It takes real strength to recognize that caring for yourself isn’t selfish-it’s what lets you show up as the parent you want to be.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s okay – we know how hard it can be. Self-care isn’t about perfection; it’s about small moments that add up over time. So keep going.",
+      "image_text": "The health of the gardener is important to the health of the garden. In the same way, parents need to take care of themselves, so that they can take care of their children.",
+      "completed": false
+    },
+    {
+      "id": "caring_child_1",
+      "category_id": "caring_child",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s take a look at some of the powerful parenting skills we discussed:"
+        },
+        "section_1_title": {
+          "eng": "CONNECT"
+        },
+        "section_1_text": {
+          "eng": "Make time to **connect** with your child one-on-one. Focus on them and show interest in what they are doing or saying."
+        },
+        "section_2_title": {
+          "eng": "CREATE"
+        },
+        "section_2_text": {
+          "eng": "**Create** a positive environment for your child. Use praise to encourage the behaviour you want to see more of."
+        },
+        "section_3_title": {
+          "eng": "PLAY"
+        },
+        "section_3_text": {
+          "eng": "**Play** is the best way for children to learn. Join your child in their play and have fun together."
+        }
+      },
+      "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {},
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {},
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {}
+      },
+      "section_1_image_asset": "(add image)",
+      "section_2_image_asset": "(add image)",
+      "section_3_image_asset": "images/modules/play/how_to_play_3.svg",
+      "section_1_title": "CONNECT",
+      "section_1_text": "Make time to **connect** with your child one-on-one. Focus on them and show interest in what they are doing or saying.",
+      "section_2_title": "CREATE",
+      "section_2_text": "**Create** a positive environment for your child. Use praise to encourage the behaviour you want to see more of.",
+      "section_3_title": "PLAY",
+      "section_3_text": "**Play** is the best way for children to learn. Join your child in their play and have fun together.",
+      "completed": false
+    },
+    {
+      "id": "caring_child_2",
+      "category_id": "caring_child",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s take a look at some of the powerful parenting skills we discussed:"
+        },
+        "section_1_title": {
+          "eng": "TALK"
+        },
+        "section_1_text": {
+          "eng": "Remember that words are powerful. **Talk** to your child to help them understand. Talk with kindness."
+        },
+        "section_2_title": {
+          "eng": "BUILD"
+        },
+        "section_2_text": {
+          "eng": "Help your child **build** the skills they need to cope with challenges. Talk about feelings and model healthy ways of coping."
+        },
+        "section_3_title": {
+          "eng": "EXPLORE"
+        },
+        "section_3_text": {
+          "eng": "Support your child to **explore** and learn from the world around them. Come up with solutions to problems together."
+        }
+      },
+      "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {},
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {},
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {}
+      },
+      "section_1_image_asset": "images/modules/talk/talk_title_image.svg",
+      "section_2_image_asset": "images/modules/build/build_title_image.svg",
+      "section_3_image_asset": "images/learning_through_play/build_a_road.svg",
+      "section_1_title": "TALK",
+      "section_1_text": "Remember that words are powerful. **Talk** to your child to help them understand. Talk with kindness.",
+      "section_2_title": "BUILD",
+      "section_2_text": "Help your child **build** the skills they need to cope with challenges. Talk about feelings and model healthy ways of coping.",
+      "section_3_title": "EXPLORE",
+      "section_3_text": "Support your child to **explore** and learn from the world around them. Come up with solutions to problems together.",
+      "completed": false
+    },
+    {
+      "id": "caring_child_3",
+      "category_id": "caring_child",
+      "image_asset": "images/modules/join/join_10.gif",
+      "media_type": "youtube",
+      "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
+      "_translations": {
+        "text_1": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive."
+        },
+        "text_2": {
+          "eng": "Watch this video for a reminder of how the elements in the garden reflect important parenting tools:"
+        }
+      },
+      "youtube_gb_en": "https://youtu.be/uKDiTbdvPB8",
+      "title": "The ParentApp Garden",
+      "text_2": "Watch this video for a reminder of how the elements in the garden reflect important parenting tools:",
+      "completed": false
+    },
+    {
+      "id": "learn_books_1",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_14.svg",
+      "text_1": "During this journey, we shared many ideas for using books and stories to help children learn.",
+      "_translations": {
+        "text_1": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "During this journey, we shared many ideas for using books and stories to help children learn."
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "learn_books_2",
+      "category_id": "learn_books",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s revisit some of the main ideas for learning through books:"
+        },
+        "section_1_title": {
+          "eng": "Use books to CONNECT"
+        },
+        "section_1_text": {
+          "eng": "Make book activities part of your routine, and use it as a time to spend quality time together."
+        },
+        "section_2_title": {
+          "eng": "Use books to CREATE positive experiences"
+        },
+        "section_2_text": {
+          "eng": "Respond in a positive way to what your child is saying and avoid being critical."
+        },
+        "section_3_title": {
+          "eng": "Use books to PLAY"
+        },
+        "section_3_text": {
+          "eng": "Make book activities fun by using a playful voice, and mimic sounds and actions from the story."
+        }
+      },
+      "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "section_1_image_asset": "images/modules/connect/connect_10.svg",
+      "section_2_image_asset": "images/modules/create/create_17.svg",
+      "section_3_image_asset": "images/modules/play/using_books_3.svg",
+      "section_1_title": "Use books to CONNECT",
+      "section_1_text": "Make book activities part of your routine, and use it as a time to spend quality time together.",
+      "section_2_title": "Use books to CREATE positive experiences",
+      "section_2_text": "Respond in a positive way to what your child is saying and avoid being critical.",
+      "section_3_title": "Use books to PLAY",
+      "section_3_text": "Make book activities fun by using a playful voice, and mimic sounds and actions from the story.",
+      "completed": false
+    },
+    {
+      "id": "learn_books_3",
+      "category_id": "learn_books",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s revisit some of the main ideas for learning through books:"
+        },
+        "section_1_title": {
+          "eng": "Use books to TALK"
+        },
+        "section_1_text": {
+          "eng": "Name and describe what you see in the pictures, ask questions and listen to what your child shares."
+        },
+        "section_2_title": {
+          "eng": "Use books to BUILD life skills"
+        },
+        "section_2_text": {
+          "eng": "Use stories to discuss different feelings, experiences and actions. Reflect on what happened in the story and what you have learned."
+        },
+        "section_3_title": {
+          "eng": "Use books to EXPLORE"
+        },
+        "section_3_text": {
+          "eng": "Explore different ideas and learn about the world by asking questions about the story. Explore differences and similarities between what you see in the book and your child’s life."
+        }
+      },
+      "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "section_1_image_asset": "images/modules/talk/talk_12.svg",
+      "section_2_image_asset": "(need to add - from BUILD)",
+      "section_3_image_asset": "(need to add - from EXPLORE: building_books_1)",
+      "section_1_title": "Use books to TALK",
+      "section_1_text": "Name and describe what you see in the pictures, ask questions and listen to what your child shares.",
+      "section_2_title": "Use books to BUILD life skills",
+      "section_2_text": "Use stories to discuss different feelings, experiences and actions. Reflect on what happened in the story and what you have learned.",
+      "section_3_title": "Use books to EXPLORE",
+      "section_3_text": "Explore different ideas and learn about the world by asking questions about the story. Explore differences and similarities between what you see in the book and your child’s life.",
+      "completed": false
+    },
+    {
+      "id": "keep_going_1",
+      "category_id": "practice",
+      "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",
+      "_translations": {
+        "text_1": {},
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life."
+        },
+        "text_1_facilitator": {
+          "eng": "To build on what you are already doing, here are three tips to keep going:"
+        },
+        "section_1_title": {
+          "eng": "Keep in touch"
+        },
+        "section_1_text": {
+          "eng": "Keep in touch with other parents. Meet regularly, call or text to give each other parenting support."
+        },
+        "section_2_title": {
+          "eng": "Use the power of routine"
+        },
+        "section_2_text": {
+          "eng": "Make time in your daily or weekly schedule for quality time with your child."
+        },
+        "section_3_title": {
+          "eng": "Make an IDEAS box"
+        },
+        "section_3_text": {
+          "eng": "On pieces of paper, write down some of your favorite ParentApp relax, read or play activities. When you feel stuck, reach into the box and grab an idea!"
+        }
+      },
+      "text_1_facilitator": "To build on what you are already doing, here are three tips to keep going:",
+      "section_1_image_asset": "(need to add)",
+      "section_2_image_asset": "images/modules/connect/connect_4.svg",
+      "section_3_image_asset": "(need to add)",
+      "section_1_title": "Keep in touch",
+      "section_1_text": "Keep in touch with other parents. Meet regularly, call or text to give each other parenting support.",
+      "section_2_title": "Use the power of routine",
+      "section_2_text": "Make time in your daily or weekly schedule for quality time with your child.",
+      "section_3_title": "Make an IDEAS box",
+      "section_3_text": "On pieces of paper, write down some of your favorite ParentApp relax, read or play activities. When you feel stuck, reach into the box and grab an idea!",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "guidance_groups",
+  "status": "released",
+  "data_list_name": "guidance_groups",
+  "rows": [
+    {
+      "id": "group_a",
+      "description": "Ages 2 - 6",
+      "child_age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  ],
+  "_xlsxPath": "books/TZ books data.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

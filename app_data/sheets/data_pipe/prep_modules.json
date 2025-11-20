@@ -1,0 +1,51 @@
+{
+  "flow_type": "data_pipe",
+  "flow_name": "prep_modules",
+  "status": "released",
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "status != \"draft\""
+      ],
+      "input_source": "modules",
+      "output_target": "modules_released"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "id != \"join\""
+      ],
+      "input_source": "modules_released",
+      "output_target": "modules_released_not_join"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "completed: FALSE",
+        "task_child: {@row.id}_article_tasks"
+      ],
+      "input_source": "modules_released",
+      "output_target": "module_tasks"
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_output_flows": [
+    {
+      "flow_name": "modules_released",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "modules_released_not_join",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "module_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "flow_type": "template",
+  "flow_name": "fav_resources",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "favourite",
+      "value": "My Favourites",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "favourite"
+    },
+    {
+      "name": "favourite_image_asset",
+      "value": "images/icons/fine_heart.svg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "favourite_image_asset"
+    },
+    {
+      "name": "favourite_checked_image_asset",
+      "value": "images/icons/full_heart.svg",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "favourite_checked_image_asset"
+    },
+    {
+      "name": "data_list",
+      "value": "additional_content",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "data_list"
+    },
+    {
+      "name": "fav_count",
+      "type": "set_variable",
+      "_nested_name": "fav_count"
+    },
+    {
+      "type": "data_items",
+      "name": "compute_fav_count",
+      "value": "@local.data_list",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "fav_count",
+            "@items.length"
+          ],
+          "_raw": "data_changed | set_local : fav_count : @items.length",
+          "_cleaned": "data_changed | set_local : fav_count : @items.length"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.favourite"
+      },
+      "_nested_name": "compute_fav_count",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data_list",
+            "matchedExpression": "@local.data_list",
+            "type": "local",
+            "fieldName": "data_list"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.favourite",
+              "matchedExpression": "@item.favourite",
+              "type": "item",
+              "fieldName": "favourite"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.data_list": [
+          "value"
+        ],
+        "@item.favourite": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "disclaimer_text",
+      "value": "Add your favourite resources to your list so you can easily find and enjoy them anytime!",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.fav_count === 0",
+      "_nested_name": "disclaimer_text",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.fav_count === 0",
+            "matchedExpression": "@local.fav_count",
+            "type": "local",
+            "fieldName": "fav_count"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.fav_count": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_grid",
+      "name": "display_grid",
+      "value": "all",
+      "parameter_list": {
+        "item_width": "150px",
+        "item_border": "none"
+      },
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "data_items",
+          "name": "loop_activities",
+          "value": "@local.data_list",
+          "rows": [
+            {
+              "name": "data_list_in_loop",
+              "value": "additional_content",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.data_list_in_loop"
+            },
+            {
+              "name": "go_to_template_prefix",
+              "value": "additional_content_",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.go_to_template_prefix"
+            },
+            {
+              "name": "activity_id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.activity_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "go_to_template",
+              "value": "@local.go_to_template_prefix@local.activity_id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.go_to_template",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.go_to_template_prefix@local.activity_id",
+                    "matchedExpression": "@local.go_to_template_prefix",
+                    "type": "local",
+                    "fieldName": "go_to_template_prefix"
+                  },
+                  {
+                    "fullExpression": "@local.go_to_template_prefix@local.activity_id",
+                    "matchedExpression": "@local.activity_id",
+                    "type": "local",
+                    "fieldName": "activity_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.go_to_template_prefix": [
+                  "value"
+                ],
+                "@local.activity_id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "join",
+              "value": "_",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.join"
+            },
+            {
+              "name": "now",
+              "value": "@calc(timestamp())",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.now",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@calc(timestamp())",
+                    "matchedExpression": "@calc(timestamp())",
+                    "type": "calc",
+                    "fieldName": "timestamp()"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@calc(timestamp())": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "click_history",
+              "value": "_click_history",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.click_history"
+            },
+            {
+              "name": "click_history_field_name",
+              "value": "activity@local.join@item.id@local.click_history",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.click_history_field_name",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "activity@local.join@item.id@local.click_history",
+                    "matchedExpression": "@local.join",
+                    "type": "local",
+                    "fieldName": "join"
+                  },
+                  {
+                    "fullExpression": "activity@local.join@item.id@local.click_history",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "activity@local.join@item.id@local.click_history",
+                    "matchedExpression": "@local.click_history",
+                    "type": "local",
+                    "fieldName": "click_history"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.join": [
+                  "value"
+                ],
+                "@item.id": [
+                  "value"
+                ],
+                "@local.click_history": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "click_history_value",
+              "value": "@fields.@local.click_history_field_name ;  @local.now",
+              "_translations": {
+                "value": {
+                  "tz_sw": true
+                }
+              },
+              "condition": "!!(@fields.@local.click_history_field_name)",
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.click_history_value",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  },
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.click_history_field_name": [
+                  "value",
+                  "condition"
+                ],
+                "@local.now": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "click_history_value",
+              "value": "@local.now",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!(@fields.@local.click_history_field_name)",
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.click_history_value",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.now": [
+                  "value"
+                ],
+                "@local.click_history_field_name": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "debug_title_translation_@item.id",
+              "value": "@item.title",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "exclude_from_translation": true,
+              "_nested_name": "display_grid.loop_activities.debug_title_translation_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "debug_title_translation_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
+                    "type": "item",
+                    "fieldName": "title"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "display_grid.loop_activities.debug_title_translation_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@item.title": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "card_@item.id",
+              "value": "@item.title",
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "set_field",
+                  "args": [
+                    "@local.click_history_field_name",
+                    "@local.click_history_value"
+                  ],
+                  "_raw": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                  "_cleaned": "click | set_field: @local.click_history_field_name: @local.click_history_value"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "go_to",
+                  "args": [
+                    "@local.go_to_template"
+                  ],
+                  "_raw": "click | go_to: @local.go_to_template",
+                  "_cleaned": "click | go_to: @local.go_to_template"
+                }
+              ],
+              "parameter_list": {
+                "variant": "card-portrait",
+                "image_asset": "@item.image_cover_asset"
+              },
+              "condition": "@item.favourite",
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "type": "toggle_bar",
+                  "name": "toggle_@item.id",
+                  "value": "@item.favourite",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "action_list": [
+                    {
+                      "trigger": "changed",
+                      "action_id": "set_item",
+                      "args": [],
+                      "_raw": "changed | set_item | favourite: !@item.favourite",
+                      "_cleaned": "changed | set_item | favourite: !@item.favourite",
+                      "params": {
+                        "favourite": "!@item.favourite"
+                      }
+                    }
+                  ],
+                  "parameter_list": {
+                    "variant": "icon",
+                    "icon_true_asset": "@local.favourite_checked_image_asset",
+                    "icon_false_asset": "@local.favourite_image_asset"
+                  },
+                  "exclude_from_translation": true,
+                  "_nested_name": "display_grid.loop_activities.card_@item.id.toggle_@item.id",
+                  "_dynamicFields": {
+                    "name": [
+                      {
+                        "fullExpression": "toggle_@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ],
+                    "value": [
+                      {
+                        "fullExpression": "@item.favourite",
+                        "matchedExpression": "@item.favourite",
+                        "type": "item",
+                        "fieldName": "favourite"
+                      }
+                    ],
+                    "action_list": {
+                      "0": {
+                        "_raw": [
+                          {
+                            "fullExpression": "changed | set_item | favourite: !@item.favourite",
+                            "matchedExpression": "!@item.favourite",
+                            "type": "item",
+                            "fieldName": "favourite"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "changed | set_item | favourite: !@item.favourite",
+                            "matchedExpression": "!@item.favourite",
+                            "type": "item",
+                            "fieldName": "favourite"
+                          }
+                        ],
+                        "params": {
+                          "favourite": [
+                            {
+                              "fullExpression": "!@item.favourite",
+                              "matchedExpression": "!@item.favourite",
+                              "type": "item",
+                              "fieldName": "favourite"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "parameter_list": {
+                      "icon_true_asset": [
+                        {
+                          "fullExpression": "@local.favourite_checked_image_asset",
+                          "matchedExpression": "@local.favourite_checked_image_asset",
+                          "type": "local",
+                          "fieldName": "favourite_checked_image_asset"
+                        }
+                      ],
+                      "icon_false_asset": [
+                        {
+                          "fullExpression": "@local.favourite_image_asset",
+                          "matchedExpression": "@local.favourite_image_asset",
+                          "type": "local",
+                          "fieldName": "favourite_image_asset"
+                        }
+                      ]
+                    },
+                    "_nested_name": [
+                      {
+                        "fullExpression": "display_grid.loop_activities.card_@item.id.toggle_@item.id",
+                        "matchedExpression": "@item.id.toggle_",
+                        "type": "item",
+                        "fieldName": "id"
+                      },
+                      {
+                        "fullExpression": "display_grid.loop_activities.card_@item.id.toggle_@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id": [
+                      "name",
+                      "_nested_name"
+                    ],
+                    "@item.favourite": [
+                      "value"
+                    ],
+                    "!@item.favourite": [
+                      "action_list.0._raw",
+                      "action_list.0._cleaned",
+                      "action_list.0.params.favourite"
+                    ],
+                    "@local.favourite_checked_image_asset": [
+                      "parameter_list.icon_true_asset"
+                    ],
+                    "@local.favourite_image_asset": [
+                      "parameter_list.icon_false_asset"
+                    ],
+                    "@item.id.toggle_": [
+                      "_nested_name"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "display_grid.loop_activities.card_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "card_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
+                    "type": "item",
+                    "fieldName": "title"
+                  }
+                ],
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@local.click_history_field_name",
+                          "matchedExpression": "@local.click_history_field_name",
+                          "type": "local",
+                          "fieldName": "click_history_field_name"
+                        }
+                      ],
+                      "1": [
+                        {
+                          "fullExpression": "@local.click_history_value",
+                          "matchedExpression": "@local.click_history_value",
+                          "type": "local",
+                          "fieldName": "click_history_value"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_value",
+                        "type": "local",
+                        "fieldName": "click_history_value"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_value",
+                        "type": "local",
+                        "fieldName": "click_history_value"
+                      }
+                    ]
+                  },
+                  "1": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@local.go_to_template",
+                          "matchedExpression": "@local.go_to_template",
+                          "type": "local",
+                          "fieldName": "go_to_template"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | go_to: @local.go_to_template",
+                        "matchedExpression": "@local.go_to_template",
+                        "type": "local",
+                        "fieldName": "go_to_template"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | go_to: @local.go_to_template",
+                        "matchedExpression": "@local.go_to_template",
+                        "type": "local",
+                        "fieldName": "go_to_template"
+                      }
+                    ]
+                  }
+                },
+                "parameter_list": {
+                  "image_asset": [
+                    {
+                      "fullExpression": "@item.image_cover_asset",
+                      "matchedExpression": "@item.image_cover_asset",
+                      "type": "item",
+                      "fieldName": "image_cover_asset"
+                    }
+                  ]
+                },
+                "condition": [
+                  {
+                    "fullExpression": "@item.favourite",
+                    "matchedExpression": "@item.favourite",
+                    "type": "item",
+                    "fieldName": "favourite"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "display_grid.loop_activities.card_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@item.title": [
+                  "value"
+                ],
+                "@local.click_history_field_name": [
+                  "action_list.0.args.0",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ],
+                "@local.click_history_value": [
+                  "action_list.0.args.1",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ],
+                "@local.go_to_template": [
+                  "action_list.1.args.0",
+                  "action_list.1._raw",
+                  "action_list.1._cleaned"
+                ],
+                "@item.image_cover_asset": [
+                  "parameter_list.image_asset"
+                ],
+                "@item.favourite": [
+                  "condition"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "display_grid.loop_activities",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.data_list",
+                "matchedExpression": "@local.data_list",
+                "type": "local",
+                "fieldName": "data_list"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.data_list": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "display_grid"
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

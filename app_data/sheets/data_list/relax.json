@@ -1,0 +1,710 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "relax",
+  "data_list_name": "relax",
+  "status": "released",
+  "rows": [
+    {
+      "id": "relax_1",
+      "lottie_asset": "lottie/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_1.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1h3wNodphmp0PCZueby4UdtvBke5O6EqzcJPHNC2v7uY",
+      "title": "Quick Pause",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick Pause"
+        },
+        "transcript": {
+          "eng": "Sit down, close your eyes and listen to your breath as it goes in and out. \n\nNotice how you feel. \n\nWhen you are ready, open your eyes again.\n\nTry this whenever you are feeling stressed and you need a break to reconnect."
+        }
+      },
+      "transcript": "Sit down, close your eyes and listen to your breath as it goes in and out. \n\nNotice how you feel. \n\nWhen you are ready, open your eyes again.\n\nTry this whenever you are feeling stressed and you need a break to reconnect."
+    },
+    {
+      "id": "relax_2",
+      "lottie_asset": "lottie/breathing_heart.json",
+      "media_asset": "audio/relax/relax_2.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_2.svg",
+      "title": "Power of Three",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Power of Three"
+        },
+        "transcript": {
+          "eng": "Close your eyes.\n\nLet's use the magic power of three to stay present and relax.\n\nName three sounds you can hear right now.\nName three smells you can smell right now.\nName your three favourite foods.\n\nWhat are three things you can be grateful for right now? They do not have to be big.\n\nAt the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow."
+        }
+      },
+      "transcript": "Close your eyes.\n\nLet's use the magic power of three to stay present and relax.\n\nName three sounds you can hear right now.\nName three smells you can smell right now.\nName your three favourite foods.\n\nWhat are three things you can be grateful for right now? They do not have to be big.\n\nAt the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow."
+    },
+    {
+      "id": "relax_3",
+      "lottie_asset": "lottie/breathing_heart.json",
+      "media_asset": "audio/relax/relax_3.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_3.svg",
+      "title": "One Thing Today",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "One Thing Today"
+        },
+        "transcript": {
+          "eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love. \n\nWell done on taking time to take care of yourself."
+        }
+      },
+      "transcript": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love. \n\nWell done on taking time to take care of yourself."
+    },
+    {
+      "id": "relax_4",
+      "lottie_asset": "lottie/square_flow.json",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_4.svg",
+      "title": "Breathe to Three",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe to Three"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause."
+        }
+      },
+      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause."
+    },
+    {
+      "id": "relax_5",
+      "lottie_asset": "lottie/square_flow.json",
+      "media_asset": "audio/relax/relax_5.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_5.svg",
+      "title": "In and Out",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "In and Out"
+        },
+        "transcript": {
+          "eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!"
+        }
+      },
+      "transcript": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!"
+    },
+    {
+      "id": "relax_6",
+      "lottie_asset": "lottie/looping_rings.json",
+      "media_asset": "audio/relax/relax_6.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_6.svg",
+      "title": "Think About Today",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Think About Today"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for."
+        }
+      },
+      "transcript": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for."
+    },
+    {
+      "id": "relax_7",
+      "lottie_asset": "lottie/soothing_waves.json",
+      "media_asset": "audio/relax/relax_7.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_7.svg",
+      "title": "Pause to Respond",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pause to Respond"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT."
+        }
+      },
+      "transcript": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT."
+    },
+    {
+      "id": "relax_8",
+      "lottie_asset": "lottie/breathing_heart.json",
+      "media_asset": "audio/relax/relax_8.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_8.svg",
+      "title": "Small Things",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Small Things"
+        },
+        "transcript": {
+          "eng": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!"
+        }
+      },
+      "transcript": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!"
+    },
+    {
+      "id": "relax_9",
+      "lottie_asset": "lottie/looping_rings.json",
+      "media_asset": "audio/relax/relax_9.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_9.svg",
+      "title": "Body Scan",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body Scan"
+        },
+        "transcript": {
+          "eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!"
+        }
+      },
+      "transcript": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!"
+    },
+    {
+      "id": "relax_10",
+      "lottie_asset": "lottie/bulging_circles.json",
+      "media_asset": "audio/relax/relax_10.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_10.svg",
+      "title": "Feel the Ground",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feel the Ground"
+        },
+        "transcript": {
+          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+        }
+      },
+      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+    },
+    {
+      "id": "relax_11",
+      "lottie_asset": "lottie/soothing_waves.json",
+      "media_asset": "audio/relax/relax_11.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_11.svg",
+      "title": "Counting Sounds",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Counting Sounds"
+        },
+        "transcript": {
+          "eng": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now."
+        }
+      },
+      "transcript": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now."
+    },
+    {
+      "id": "relax_12",
+      "lottie_asset": "lottie/blue_dots.json",
+      "media_asset": "audio/relax/relax_12.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_12.svg",
+      "title": "Feel your Feelings",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feel your Feelings"
+        },
+        "transcript": {
+          "eng": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?"
+        }
+      },
+      "transcript": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?"
+    },
+    {
+      "id": "relax_13",
+      "lottie_asset": "lottie/soothing_waves.json",
+      "media_asset": "audio/relax/relax_13.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "move"
+      ],
+      "image_cover_asset": "images/relax/relax_13.svg",
+      "title": "Your Song",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your Song"
+        },
+        "transcript": {
+          "eng": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!"
+        }
+      },
+      "transcript": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!"
+    },
+    {
+      "id": "relax_14",
+      "lottie_asset": "lottie/looping_rings.json",
+      "media_asset": "audio/relax/relax_14.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "breathe",
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_14.svg",
+      "title": "Ground & Gratitude",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ground & Gratitude"
+        },
+        "transcript": {
+          "eng": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out."
+        }
+      },
+      "transcript": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out."
+    },
+    {
+      "id": "relax_15",
+      "lottie_asset": "lottie/soothing_waves.json",
+      "media_asset": "audio/relax/relax_15.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_15.svg",
+      "title": "Notice How You Feel",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Notice How You Feel"
+        },
+        "transcript": {
+          "eng": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!"
+        }
+      },
+      "transcript": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!"
+    },
+    {
+      "id": "relax_16",
+      "lottie_asset": "lottie/square_flow.json",
+      "media_asset": "audio/relax/relax_16.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_16.svg",
+      "title": "Pause Power",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pause Power"
+        },
+        "transcript": {
+          "eng": "Let’s practice a calming trick that we call ‘Pause Power’.\n\nPlant your feet on the ground and breathe in and out three times as slowly as you can. Imagine you are smelling a flower or blowing out a candle.\n\nHow do you feel now?\n\nThis is a great trick to use when you are feeling frustrated because it will help to calm you down."
+        }
+      },
+      "transcript": "Let’s practice a calming trick that we call ‘Pause Power’.\n\nPlant your feet on the ground and breathe in and out three times as slowly as you can. Imagine you are smelling a flower or blowing out a candle.\n\nHow do you feel now?\n\nThis is a great trick to use when you are feeling frustrated because it will help to calm you down."
+    },
+    {
+      "id": "relax_17",
+      "lottie_asset": "lottie/blue_dots.json",
+      "media_asset": "audio/relax/relax_17.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_17.svg",
+      "title": "Praise Yourself",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Praise Yourself"
+        },
+        "transcript": {
+          "eng": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
+        }
+      },
+      "transcript": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
+    },
+    {
+      "id": "relax_18",
+      "lottie_asset": "lottie/breathing_heart.json",
+      "media_asset": "audio/relax/relax_18.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_18.svg",
+      "title": "Taking Care of Yourself",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Taking Care of Yourself"
+        },
+        "transcript": {
+          "eng": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your breathing_heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different."
+        }
+      },
+      "transcript": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your breathing_heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different."
+    },
+    {
+      "id": "relax_19",
+      "lottie_asset": "lottie/square_flow.json",
+      "media_asset": "audio/relax/relax_19.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_19.svg",
+      "title": "Take a Pause",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Take a Pause"
+        },
+        "transcript": {
+          "eng": "Step 1. Close your eyes and take a deep breath. \n\nStep 2. Ask yourself, \"What am I thinking?\" Notice if your thoughts are positive or negative.\nNotice how you are feeling emotionally. Notice if your emotions are pleasant or unpleasant. Remind yourself that whatever you feel, it is okay.\nNotice how your body feels. Notice anything that hurts or is tense.\n\nStep 3. Focus on your breath. Feel your breath as it goes in and out. You can put a hand on your stomach and feel it rise and fall with each breath. Do this for about 10 breaths.\n\nStep 4. Expand your awareness to your whole body. Listen to the sounds in the room. \n\nStep 5. Take a moment to reflect on whether you feel any different. When you are ready, open your eyes.\n\nWell done for taking a pause. You can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also take a pause with your children!"
+        }
+      },
+      "transcript": "Step 1. Close your eyes and take a deep breath. \n\nStep 2. Ask yourself, \"What am I thinking?\" Notice if your thoughts are positive or negative.\nNotice how you are feeling emotionally. Notice if your emotions are pleasant or unpleasant. Remind yourself that whatever you feel, it is okay.\nNotice how your body feels. Notice anything that hurts or is tense.\n\nStep 3. Focus on your breath. Feel your breath as it goes in and out. You can put a hand on your stomach and feel it rise and fall with each breath. Do this for about 10 breaths.\n\nStep 4. Expand your awareness to your whole body. Listen to the sounds in the room. \n\nStep 5. Take a moment to reflect on whether you feel any different. When you are ready, open your eyes.\n\nWell done for taking a pause. You can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also take a pause with your children!"
+    },
+    {
+      "id": "relax_20",
+      "lottie_asset": "lottie/bulging_circles.json",
+      "media_asset": "audio/relax/relax_20.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "move"
+      ],
+      "image_cover_asset": "images/relax/relax_20.svg",
+      "title": "Physical Activity",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Physical Activity"
+        },
+        "transcript": {
+          "eng": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.\n\nLet your hands hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.\n\nRelax your arms and let them swing sideways while you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n\nPlace one foot in front of the other and make small circles from your ankles – remember to turn to both sides. Do each foot with four circles in each direction.\n\nNow shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n\nClose your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.\n\nTake a moment to reflect on your experience.\n\nWell done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body."
+        }
+      },
+      "transcript": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.\n\nLet your hands hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.\n\nRelax your arms and let them swing sideways while you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n\nPlace one foot in front of the other and make small circles from your ankles – remember to turn to both sides. Do each foot with four circles in each direction.\n\nNow shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n\nClose your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.\n\nTake a moment to reflect on your experience.\n\nWell done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body."
+    },
+    {
+      "id": "relax_21",
+      "lottie_asset": "lottie/blue_dots.json",
+      "media_asset": "audio/relax/relax_21.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_21.svg",
+      "title": "List of Things",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "List of Things"
+        },
+        "transcript": {
+          "eng": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
+        }
+      },
+      "transcript": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
+    },
+    {
+      "id": "relax_22",
+      "lottie_asset": "lottie/looping_rings.json",
+      "media_asset": "audio/relax/relax_22.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_22.svg",
+      "title": "Connect",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Connect"
+        },
+        "transcript": {
+          "eng": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!"
+        }
+      },
+      "transcript": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!"
+    },
+    {
+      "id": "relax_23",
+      "lottie_asset": "lottie/blue_dots.json",
+      "media_asset": "audio/relax/relax_23.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_23.svg",
+      "title": "Prevent Anger",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prevent Anger"
+        },
+        "transcript": {
+          "eng": "Think about what makes you angry. When does it happen? How do you normally react?\n\nPrevent anger from starting in the first place. Get some sleep or rest when you are tired. Try to eat something when you are hungry. Ask someone for support when you are feeling alone."
+        }
+      },
+      "transcript": "Think about what makes you angry. When does it happen? How do you normally react?\n\nPrevent anger from starting in the first place. Get some sleep or rest when you are tired. Try to eat something when you are hungry. Ask someone for support when you are feeling alone."
+    },
+    {
+      "id": "relax_24",
+      "lottie_asset": "lottie/bulging_circles.json",
+      "media_asset": "audio/relax/relax_24.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "move"
+      ],
+      "image_cover_asset": "images/relax/relax_24.svg",
+      "title": "Angry? Take a Break",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Angry? Take a Break"
+        },
+        "transcript": {
+          "eng": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
+        }
+      },
+      "transcript": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
+    },
+    {
+      "id": "relax_25",
+      "lottie_asset": "lottie/soothing_waves.json",
+      "media_asset": "audio/relax/relax_25.mp4",
+      "media_type": "audio",
+      "tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_25.svg",
+      "title": "What’s in Your Cup?",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What’s in Your Cup?"
+        },
+        "transcript": {
+          "eng": "Close your eyes. Imagine you are holding a cup, filled with tea. Then someone walks by and bumps into you, making you spill your tea everywhere. \nWhy did you spill the tea? Because someone bumped into you? Not exactly. \n You spilled tea, because there was tea in your cup. Had there been coffee in the cup, you would have spilled coffee. \n What does this mean?\nIt means that: Whatever is inside your cup, is what will spill out.\nIn the same way, when life comes along and shakes you, whatever is inside you, is what will spill out. Life provides the cup, you choose what to fill it with.\nSo take a moment to think about what you want to fill your cup with. \nLet’s work towards filling our cups with gratitude, forgiveness, joy, strength, and kindness."
+        }
+      },
+      "transcript": "Close your eyes. Imagine you are holding a cup, filled with tea. Then someone walks by and bumps into you, making you spill your tea everywhere. \nWhy did you spill the tea? Because someone bumped into you? Not exactly. \n You spilled tea, because there was tea in your cup. Had there been coffee in the cup, you would have spilled coffee. \n What does this mean?\nIt means that: Whatever is inside your cup, is what will spill out.\nIn the same way, when life comes along and shakes you, whatever is inside you, is what will spill out. Life provides the cup, you choose what to fill it with.\nSo take a moment to think about what you want to fill your cup with. \nLet’s work towards filling our cups with gratitude, forgiveness, joy, strength, and kindness."
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ relax.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

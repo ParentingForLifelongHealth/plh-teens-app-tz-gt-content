@@ -1,0 +1,75 @@
+{
+  "flow_type": "global",
+  "flow_name": "deployment_global_tz",
+  "status": "released",
+  "override_target": "deployment_global",
+  "override_condition": "@fields._deployment_name == \"plh_kids_tz\"",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "app_name",
+      "value": "ParentApp Kids",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "deployment_terms_field",
+      "value": "terms_v20240305_accepted",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "deployment_terms_text",
+      "value": "5 March 2024",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_languages",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_asset",
+      "value": "images/facilitator_face_woman.svg",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_woman_asset",
+      "value": "images/facilitator_face_woman.svg",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_man_asset",
+      "value": "images/facilitator_face_man.svg",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "section_variant",
+      "value": "box_secondary",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_xlsxPath": "deployment_data_tz.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

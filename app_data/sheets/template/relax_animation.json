@@ -1,0 +1,18 @@
+{
+  "flow_type": "template",
+  "flow_name": "relax_animation",
+  "status": "released",
+  "rows": [
+    {
+      "type": "lottie_animation",
+      "name": "lottie_circles",
+      "value": "lottie/bulging_circles.json",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "lottie_circles"
+    }
+  ],
+  "_xlsxPath": "templates/app_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+}

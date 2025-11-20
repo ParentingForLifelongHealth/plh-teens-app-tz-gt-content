@@ -1,0 +1,22 @@
+{
+  "flow_name": "prep_explore_categories",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "concat",
+      "args_list": [
+        "common_categories",
+        "explore_categories"
+      ],
+      "output_target": "explore_category_tasks"
+    }
+  ],
+  "_output_flows": [
+    {
+      "flow_name": "explore_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

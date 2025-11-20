@@ -1,0 +1,313 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "characters",
+  "data_list_name": "characters",
+  "status": "released",
+  "rows": [
+    {
+      "id": "facilitator_woman",
+      "role": "facilitator",
+      "image_asset": "images/facilitator_face_woman.svg"
+    },
+    {
+      "id": "facilitator_man",
+      "role": "facilitator",
+      "image_asset": "images/facilitator_face_man.svg"
+    },
+    {
+      "id": "facilitator_woman_blue",
+      "role": "facilitator",
+      "image_asset": "images/character/female_facilitator_blue_circle.svg"
+    },
+    {
+      "id": "facilitator_man_blue",
+      "role": "facilitator",
+      "image_asset": "images/character/male_facilitator_blue_circle.svg"
+    },
+    {
+      "id": "female_facilitator",
+      "role": "facilitator",
+      "image_asset": "images/character/female_facilitator.svg"
+    },
+    {
+      "id": "male_facilitator",
+      "role": "facilitator",
+      "image_asset": "images/character/male_facilitator.svg"
+    },
+    {
+      "id": "f1_mother",
+      "family_no": 1,
+      "role": "caregiver",
+      "image_asset": "images/character/family_1_mom.svg",
+      "name": "Mother",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Mother"
+        }
+      }
+    },
+    {
+      "id": "f1_father",
+      "family_no": 1,
+      "role": "caregiver",
+      "image_asset": "images/character/family_1_dad.svg",
+      "name": "Father",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Father"
+        }
+      }
+    },
+    {
+      "id": "f1_girl",
+      "family_no": 1,
+      "role": "child",
+      "image_asset": "images/character/family_1_young_girl.svg",
+      "name": "Girl",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Girl"
+        }
+      }
+    },
+    {
+      "id": "f1_child_boy",
+      "family_no": 1,
+      "role": "child",
+      "image_asset": "images/character/family_1_boy.svg",
+      "name": "Boy",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Boy"
+        }
+      }
+    },
+    {
+      "id": "f1_grandma",
+      "family_no": 1,
+      "role": "caregiver",
+      "image_asset": "images/character/family_1_grandma.svg",
+      "name": "Grandma",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Grandma"
+        }
+      }
+    },
+    {
+      "id": "f1_baby_boy",
+      "family_no": 2,
+      "role": "child",
+      "image_asset": "images/character/family_2_baby.svg",
+      "name": "Baby",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Baby"
+        }
+      }
+    },
+    {
+      "id": "f2_boy",
+      "family_no": 2,
+      "role": "child",
+      "image_asset": "images/character/family_2_boy.svg",
+      "name": "Boy",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Boy"
+        }
+      }
+    },
+    {
+      "id": "f2_father",
+      "family_no": 2,
+      "role": "caregiver",
+      "image_asset": "images/character/family_2_dad.svg",
+      "name": "Father",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Father"
+        }
+      }
+    },
+    {
+      "id": "f2_mother",
+      "family_no": 2,
+      "role": "caregiver",
+      "image_asset": "images/character/family_2_mom.svg",
+      "name": "Mother",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Mother"
+        }
+      }
+    },
+    {
+      "id": "f2_teen_girl",
+      "family_no": 2,
+      "role": "child",
+      "image_asset": "images/character/family_2_teen_girl.svg",
+      "name": "Girl",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Girl"
+        }
+      }
+    },
+    {
+      "id": "f3_boy_wheelchair",
+      "family_no": 3,
+      "role": "child",
+      "image_asset": "images/character/family_3_boy_wheelchair.svg",
+      "name": "Asia",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Asia"
+        }
+      }
+    },
+    {
+      "id": "f3_girl",
+      "family_no": 3,
+      "role": "child",
+      "image_asset": "images/character/family_3_girl.svg",
+      "name": "Amina",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Amina"
+        }
+      }
+    },
+    {
+      "id": "f3_grandma",
+      "family_no": 3,
+      "role": "caregiver",
+      "image_asset": "images/character/family_3_grandma.svg",
+      "name": "Bibi Musa",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Bibi Musa"
+        }
+      }
+    },
+    {
+      "id": "f3_grandpa",
+      "family_no": 3,
+      "role": "caregiver",
+      "image_asset": "images/character/family_3_grandpa.svg",
+      "name": "Grandpa",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Grandpa"
+        }
+      }
+    },
+    {
+      "id": "f3_mother",
+      "family_no": 3,
+      "role": "caregiver",
+      "image_asset": "images/character/family_3_mom.svg",
+      "name": "Mother",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Mother"
+        }
+      }
+    },
+    {
+      "id": "f3_older_boy",
+      "family_no": 3,
+      "role": "child",
+      "image_asset": "images/character/family_3_older_boy.svg",
+      "name": "Boy",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Boy"
+        }
+      }
+    },
+    {
+      "id": "nandi_mom",
+      "role": "caregiver",
+      "image_asset": "images/character/nandi_mom.png",
+      "name": "Mama",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Mama"
+        }
+      }
+    },
+    {
+      "id": "nandi",
+      "role": "child",
+      "image_asset": "images/character/nandi.png",
+      "name": "Nandi",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Nandi"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "modules/TZ characters.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_metadata": {
+    "family_no": {
+      "type": "number"
+    }
+  }
+}

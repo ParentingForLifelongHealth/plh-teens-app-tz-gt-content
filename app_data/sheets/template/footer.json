@@ -1,0 +1,183 @@
+{
+  "flow_type": "template",
+  "flow_name": "footer",
+  "status": "released",
+  "rows": [
+    {
+      "name": "home",
+      "value": "Home",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "home"
+    },
+    {
+      "name": "library",
+      "value": "Library",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "library"
+    },
+    {
+      "name": "resource",
+      "value": "Resources",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "resource"
+    },
+    {
+      "name": "settings",
+      "value": "Settings",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "settings"
+    },
+    {
+      "name": "button_list",
+      "value": [
+        {
+          "text": "@local.home",
+          "image": "images/icons/house_blue.svg",
+          "target_template": "home_screen"
+        },
+        {
+          "text": "@local.library",
+          "image": "images/icons/pic_books.svg",
+          "target_template": "picture_books"
+        },
+        {
+          "text": "@local.resource",
+          "image": "images/icons/jigsaw_blue.svg",
+          "target_template": "resource_centre"
+        },
+        {
+          "text": "@local.settings",
+          "image": "images/icons/cogwheel_blue.svg",
+          "target_template": "settings"
+        }
+      ],
+      "condition": false,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "button_list",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.home",
+                "matchedExpression": "@local.home",
+                "type": "local",
+                "fieldName": "home"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.library",
+                "matchedExpression": "@local.library",
+                "type": "local",
+                "fieldName": "library"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.resource",
+                "matchedExpression": "@local.resource",
+                "type": "local",
+                "fieldName": "resource"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.settings",
+                "matchedExpression": "@local.settings",
+                "type": "local",
+                "fieldName": "settings"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.home": [
+          "value.0.text"
+        ],
+        "@local.library": [
+          "value.1.text"
+        ],
+        "@local.resource": [
+          "value.2.text"
+        ],
+        "@local.settings": [
+          "value.3.text"
+        ]
+      }
+    },
+    {
+      "name": "button_list",
+      "value": [
+        {
+          "image": "images/icons/house_blue.svg",
+          "target_template": "home_screen"
+        },
+        {
+          "image": "images/icons/pic_books.svg",
+          "target_template": "picture_books"
+        },
+        {
+          "image": "images/icons/jigsaw_blue.svg",
+          "target_template": "resource_centre"
+        },
+        {
+          "image": "images/icons/cogwheel_blue.svg",
+          "target_template": "settings"
+        }
+      ],
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "button_list"
+    },
+    {
+      "type": "navigation_bar",
+      "parameter_list": {
+        "button_list": "@local.button_list"
+      },
+      "name": "navigation_bar_8",
+      "_nested_name": "navigation_bar_8",
+      "_dynamicFields": {
+        "parameter_list": {
+          "button_list": [
+            {
+              "fullExpression": "@local.button_list",
+              "matchedExpression": "@local.button_list",
+              "type": "local",
+              "fieldName": "button_list"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.button_list": [
+          "parameter_list.button_list"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "TZ app_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

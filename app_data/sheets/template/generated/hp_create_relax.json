@@ -1,0 +1,37 @@
+{
+  "flow_name": "hp_create_relax",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "home_practice_options",
+      "value": "home_practice_options",
+      "parameter_list": {
+        "completed | emit": "completed",
+        "uncompleted | emit": "uncompleted"
+      },
+      "rows": [
+        {
+          "name": "module_id",
+          "value": "create",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "home_practice_options.module_id"
+        },
+        {
+          "name": "home_practice_type",
+          "value": "relax",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "home_practice_options.home_practice_type"
+        }
+      ],
+      "_nested_name": "home_practice_options"
+    }
+  ]
+}

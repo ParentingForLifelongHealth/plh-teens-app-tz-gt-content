@@ -1,0 +1,33 @@
+{
+  "flow_type": "template",
+  "flow_name": "text_pop_up",
+  "status": "released",
+  "rows": [
+    {
+      "type": "text",
+      "name": "text",
+      "value": "@fields.text_pop_up",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.text_pop_up",
+            "matchedExpression": "@fields.text_pop_up",
+            "type": "fields",
+            "fieldName": "text_pop_up"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.text_pop_up": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "books/TZ prepare templates.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

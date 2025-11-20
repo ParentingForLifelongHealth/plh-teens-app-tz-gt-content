@@ -1,0 +1,77 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "build_categories",
+  "data_list_name": "build_categories",
+  "status": "released",
+  "rows": [
+    {
+      "id": "why_build",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Why BUILD",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Why BUILD"
+        }
+      }
+    },
+    {
+      "id": "how_build",
+      "icon_asset": "images/modules/play/icon_light_bulb.svg",
+      "title": "How to BUILD",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to BUILD"
+        }
+      }
+    },
+    {
+      "id": "power_build",
+      "icon_asset": "images/modules/play/icon_star.svg",
+      "title": "The power of BUILD",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The power of BUILD"
+        }
+      }
+    },
+    {
+      "id": "books_build",
+      "icon_asset": "images/modules/play/icon_book.svg",
+      "title": "Using books to BUILD",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books to BUILD"
+        }
+      }
+    },
+    {
+      "id": "practice",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Ready to practice?",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ready to practice?"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

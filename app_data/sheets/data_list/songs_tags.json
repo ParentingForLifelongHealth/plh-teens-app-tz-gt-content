@@ -1,0 +1,120 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "songs_tags",
+  "data_list_name": "songs_tags",
+  "status": "released",
+  "rows": [
+    {
+      "id": "animal",
+      "name": "animal",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "animal"
+        },
+        "title": {
+          "eng": "Animal songs"
+        },
+        "text": {
+          "eng": "Animal songs"
+        }
+      },
+      "title": "Animal songs",
+      "text": "Animal songs"
+    },
+    {
+      "id": "child_care",
+      "name": "child_care",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "child_care"
+        },
+        "title": {
+          "eng": "Child care and protection songs"
+        },
+        "text": {
+          "eng": "Child care and protection songs"
+        }
+      },
+      "title": "Child care and protection songs",
+      "text": "Child care and protection songs"
+    },
+    {
+      "id": "fun",
+      "name": "fun",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "fun"
+        },
+        "title": {
+          "eng": "Fun Songs"
+        },
+        "text": {
+          "eng": "Fun Songs"
+        }
+      },
+      "title": "Fun Songs",
+      "text": "Fun Songs"
+    },
+    {
+      "id": "counting",
+      "name": "counting",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "counting"
+        },
+        "title": {
+          "eng": "Counting Song"
+        },
+        "text": {
+          "eng": "Counting Song"
+        }
+      },
+      "title": "Counting Song",
+      "text": "Counting Song"
+    },
+    {
+      "id": "plant",
+      "name": "plant",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "plant"
+        },
+        "title": {
+          "eng": "Plant Song"
+        },
+        "text": {
+          "eng": "Plant Song"
+        }
+      },
+      "title": "Plant Song",
+      "text": "Plant Song"
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ songs.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

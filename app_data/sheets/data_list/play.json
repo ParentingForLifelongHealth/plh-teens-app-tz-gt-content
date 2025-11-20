@@ -1,0 +1,990 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "play",
+  "data_list_name": "play",
+  "status": "released",
+  "rows": [
+    {
+      "id": "happy_things",
+      "image_cover_asset": "images/learning_through_play/happy_things_circle.svg",
+      "image_asset": "images/learning_through_play/happy_things.svg",
+      "tag_list": [
+        "chat"
+      ],
+      "favourite_field": "ltp_activity_happy_things_favourite",
+      "attached_single_doc": "https://docs.google.com/document/d/14PKBirF5ZormMBOB6TQ77bioryt7dMUrQAqIryvWA48",
+      "title": "The Things That Make Me Happy",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The Things That Make Me Happy"
+        },
+        "intro_text": {
+          "eng": "Think about something that brought you joy this week. Look for objects around your house that represent what made you happy and share it with your family."
+        },
+        "resources_text": {
+          "eng": "Box; basket; container; bucket; bag; other available objects"
+        },
+        "step_1_text": {
+          "eng": "1. Ask each person to think about something that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy."
+        },
+        "tips_text": {
+          "eng": "* If someone can’t find a suitable object, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context."
+        }
+      },
+      "intro_text": "Think about something that brought you joy this week. Look for objects around your house that represent what made you happy and share it with your family.",
+      "resources_text": "Box; basket; container; bucket; bag; other available objects",
+      "step_1_text": "1. Ask each person to think about something that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy.",
+      "tips_text": "* If someone can’t find a suitable object, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context."
+    },
+    {
+      "id": "gardening",
+      "image_cover_asset": "images/learning_through_play/gardening_circle.svg",
+      "image_asset": "images/learning_through_play/gardening.svg",
+      "tag_list": [
+        "everyday"
+      ],
+      "favourite_field": "ltp_activity_gardening_favourite",
+      "title": "Gardening",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Gardening"
+        },
+        "intro_text": {
+          "eng": "Gardening together is a fun way to spend quality time with your child and involve all their senses. It is also useful for them to learn how to grow food."
+        },
+        "step_1_text": {
+          "eng": "1. **Choose some plants:** Ask your child to help you choose some plants to grow in the garden. This will make them feel involved. You could choose plants you can eat, like vegetables or herbs, which you can grow and then cook together.\n2. **Get creative with containers:** You do not need lots of space to plant a garden. You can use old broken buckets, tin cans, or even plastic bottles as pots to plant in.\n3. **Plant the seeds:** Make planting a fun activity. Take turns making the holes, planting the seeds in the soil, and watering them. \n4. **Water and care for the plants:** Create a time table for watering and caring for the plants, and support your child to stay involved. \n5. **Watch the plants grow:** Discuss with your child the changes you see every week to see how much the plants have grown."
+        },
+        "tips_text": {
+          "eng": "* Let your child make some of the decisions, like where to dig the holes or which container to plant in.\n* Make gardening social by inviting friends or family to join the fun."
+        }
+      },
+      "intro_text": "Gardening together is a fun way to spend quality time with your child and involve all their senses. It is also useful for them to learn how to grow food.",
+      "step_1_text": "1. **Choose some plants:** Ask your child to help you choose some plants to grow in the garden. This will make them feel involved. You could choose plants you can eat, like vegetables or herbs, which you can grow and then cook together.\n2. **Get creative with containers:** You do not need lots of space to plant a garden. You can use old broken buckets, tin cans, or even plastic bottles as pots to plant in.\n3. **Plant the seeds:** Make planting a fun activity. Take turns making the holes, planting the seeds in the soil, and watering them. \n4. **Water and care for the plants:** Create a time table for watering and caring for the plants, and support your child to stay involved. \n5. **Watch the plants grow:** Discuss with your child the changes you see every week to see how much the plants have grown.",
+      "tips_text": "* Let your child make some of the decisions, like where to dig the holes or which container to plant in.\n* Make gardening social by inviting friends or family to join the fun."
+    },
+    {
+      "id": "something_special",
+      "image_cover_asset": "images/learning_through_play/something_special_circle.svg",
+      "image_asset": "images/learning_through_play/something_special.svg",
+      "tag_list": [
+        "everyday",
+        "pretend"
+      ],
+      "favourite_field": "ltp_activity_something_special_favourite",
+      "title": "Something Special",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Something Special"
+        },
+        "intro_text": {
+          "eng": "Small acts of kindness can have a big impact. This activity helps children to think about others and what they can do to bring joy to someone’s day."
+        },
+        "step_1_text": {
+          "eng": "Together with your child, think of something special you could do for someone at home or in your community to put a smile on their face.\n1. **Choose a person.** Discuss with your child who you think might appreciate an act of kindness. \n2. **Discuss the options together.** For example: *“Mama has been feeling so tired taking care of baby sister and never gets time to make herself tea. What do you think we could do for her?” or “I see that xx next door struggles to care for her garden. What do you think we can do to help?”*\n3. **Support your child to contribute.** Help your child to choose what they can do. It doesn’t have to be big – all that matters is that they are part of the activity in some way.\n4. **Praise your child** for helping to bring joy to someone’s day. This will encourage them to do it again in future."
+        },
+        "tips_text": {
+          "eng": "* Your child’s involvement will vary with age, but even a three year old can add a scribble or drawing to a card, hand over a flower, or join in a song.  \n* Try not to force your child or punish them if they feel shy or don’t want to participate. Rather try again another time."
+        }
+      },
+      "intro_text": "Small acts of kindness can have a big impact. This activity helps children to think about others and what they can do to bring joy to someone’s day.",
+      "step_1_text": "Together with your child, think of something special you could do for someone at home or in your community to put a smile on their face.\n1. **Choose a person.** Discuss with your child who you think might appreciate an act of kindness. \n2. **Discuss the options together.** For example: *“Mama has been feeling so tired taking care of baby sister and never gets time to make herself tea. What do you think we could do for her?” or “I see that xx next door struggles to care for her garden. What do you think we can do to help?”*\n3. **Support your child to contribute.** Help your child to choose what they can do. It doesn’t have to be big – all that matters is that they are part of the activity in some way.\n4. **Praise your child** for helping to bring joy to someone’s day. This will encourage them to do it again in future.",
+      "tips_text": "* Your child’s involvement will vary with age, but even a three year old can add a scribble or drawing to a card, hand over a flower, or join in a song.  \n* Try not to force your child or punish them if they feel shy or don’t want to participate. Rather try again another time."
+    },
+    {
+      "id": "what_makes_us_special",
+      "image_cover_asset": "images/learning_through_play/makes_us_special_circle.svg",
+      "image_asset": "images/learning_through_play/makes_us_special.svg",
+      "tag_list": [
+        "chat"
+      ],
+      "favourite_field": "ltp_activity_what_makes_us_special_favourite",
+      "title": "What Makes Us Special",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What Makes Us Special"
+        },
+        "intro_text": {
+          "eng": "All children have strengths that make them special and unique. Telling your child what you appreciate about them helps them feel valued and confident. This shows them to recognise strengths in others too."
+        },
+        "step_1_text": {
+          "eng": "Talk to your child about the things you appreciate about them or that makes them special. You could talk about their strengths, or about areas where your child makes an effort. Here are some examples:\n1. **Their name:** Talk about the meaning of your child’s name and why you chose it for them. \n2. **Their physical abilities:** Does your child enjoy running? Climbing? Are they good at carrying things? Sitting still when they need to? \n3. **Social skills:** Do they try to share even when it’s hard? Do they help out around the house or think of fun games to play with their friends? \n4. **Time together:** Tell your child about a particular activity that you enjoy doing with them and why it brings you joy."
+        },
+        "tips_text": {
+          "eng": "* Ask your child to add to the discussion. What do they like about themselves? What do they feel they do really well?\n* You could also ask them to draw themselves on a piece of paper or in the sand and point out their strengths in different areas (tells great stories; sees when others need help; likes building things with their hands; good at dancing etc.)\n* This activity can help when your child is having a difficult day, or as a way to connect after you have been feeling angry or frustrated with them."
+        }
+      },
+      "intro_text": "All children have strengths that make them special and unique. Telling your child what you appreciate about them helps them feel valued and confident. This shows them to recognise strengths in others too.",
+      "step_1_text": "Talk to your child about the things you appreciate about them or that makes them special. You could talk about their strengths, or about areas where your child makes an effort. Here are some examples:\n1. **Their name:** Talk about the meaning of your child’s name and why you chose it for them. \n2. **Their physical abilities:** Does your child enjoy running? Climbing? Are they good at carrying things? Sitting still when they need to? \n3. **Social skills:** Do they try to share even when it’s hard? Do they help out around the house or think of fun games to play with their friends? \n4. **Time together:** Tell your child about a particular activity that you enjoy doing with them and why it brings you joy.",
+      "tips_text": "* Ask your child to add to the discussion. What do they like about themselves? What do they feel they do really well?\n* You could also ask them to draw themselves on a piece of paper or in the sand and point out their strengths in different areas (tells great stories; sees when others need help; likes building things with their hands; good at dancing etc.)\n* This activity can help when your child is having a difficult day, or as a way to connect after you have been feeling angry or frustrated with them."
+    },
+    {
+      "id": "pattern_play",
+      "image_cover_asset": "images/learning_through_play/pattern_play_circle.svg",
+      "image_asset": "images/learning_through_play/pattern_play_1.svg",
+      "step_1_image_asset": "images/learning_through_play/pattern_play_1.svg",
+      "step_2_image_asset": "images/learning_through_play/pattern_play_2.svg",
+      "step_3_image_asset": "images/learning_through_play/pattern_play_3.svg",
+      "tag_list": [
+        "home"
+      ],
+      "favourite_field": "ltp_activity_pattern_play_favourite",
+      "title": "Pattern Play",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pattern Play"
+        },
+        "intro_text": {
+          "eng": "Create patterns with everyday objects around the house. This is a great way to develop your child’s learning skills while having fun together."
+        },
+        "resources_text": {
+          "eng": "Objects around the house"
+        },
+        "step_1_text": {
+          "eng": "1. Collect different objects that have different colours, shapes, textures or purposes. These can include bottle caps, leaves, rocks, beads, sticks, utensils. Make sure you have enough of each type so that you can create a pattern."
+        },
+        "step_2_text": {
+          "eng": "2. Help your child to sort through all the objects to create categories, based on colour, shape, texture (soft or hard), or weight (light or heavy)."
+        },
+        "step_3_text": {
+          "eng": "3. Or, you could create a pattern for your child (2 sticks, 1 rock, 3 leaves, 2 sticks, 1 rock, 2 leaves), and ask them to recreate the same pattern."
+        },
+        "tips_text": {
+          "eng": "* You can invite your child to go outside and collect their own objects according to different patterns (such as leaves of different colours and sizes, or sticks of different lengths). You can also use these objects to create drawings. \n* You can also create patterns with movement. For example, start with a pattern like “clap, click, turn around, repeat” and have your child do the same."
+        }
+      },
+      "intro_text": "Create patterns with everyday objects around the house. This is a great way to develop your child’s learning skills while having fun together.",
+      "resources_text": "Objects around the house",
+      "step_1_text": "1. Collect different objects that have different colours, shapes, textures or purposes. These can include bottle caps, leaves, rocks, beads, sticks, utensils. Make sure you have enough of each type so that you can create a pattern.",
+      "step_2_text": "2. Help your child to sort through all the objects to create categories, based on colour, shape, texture (soft or hard), or weight (light or heavy).",
+      "step_3_text": "3. Or, you could create a pattern for your child (2 sticks, 1 rock, 3 leaves, 2 sticks, 1 rock, 2 leaves), and ask them to recreate the same pattern.",
+      "tips_text": "* You can invite your child to go outside and collect their own objects according to different patterns (such as leaves of different colours and sizes, or sticks of different lengths). You can also use these objects to create drawings. \n* You can also create patterns with movement. For example, start with a pattern like “clap, click, turn around, repeat” and have your child do the same."
+    },
+    {
+      "id": "cooking_together",
+      "image_cover_asset": "images/learning_through_play/cooking_together_circle.svg",
+      "image_asset": "images/learning_through_play/cooking_together.svg",
+      "tag_list": [
+        "everyday"
+      ],
+      "favourite_field": "ltp_activity_cooking_together_favourite",
+      "title": "Cooking Together",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Cooking Together"
+        },
+        "intro_text": {
+          "eng": "Cooking together is a wonderful opportunity to talk and connect, while also teaching your child how to plan, use their hands and work together."
+        },
+        "step_1_text": {
+          "eng": "1. Think of some options for dishes that your child can help you make, or cooking activities your child can participate in.\n2. Tell them in advance about what you have planned and ask them how they might want to participate. \n3. Together with your child, gather the ingredients and utensils that you will need. Discuss with them what this will be used for. \n4. Give them a job to do, like fetching water, washing vegetables, measuring ingredients or stirring.\n5. Talk to your child about what you are making and why you are doing what you are doing (for example, *“boiling the vegetables in water will make them soft”*, or *“we are adding some salt to add more flavour”*)\n6. Enjoy the meal as a family and praise your child for their contribution."
+        },
+        "tips_text": {
+          "eng": "* Involve your child in the planning process. Let them choose the recipe, ingredients or what they help with.\n* Ask your child questions about the colours, shapes, textures and smells of the different ingredients. \n* Praise their efforts, even if the food does not turn out perfectly."
+        }
+      },
+      "intro_text": "Cooking together is a wonderful opportunity to talk and connect, while also teaching your child how to plan, use their hands and work together.",
+      "step_1_text": "1. Think of some options for dishes that your child can help you make, or cooking activities your child can participate in.\n2. Tell them in advance about what you have planned and ask them how they might want to participate. \n3. Together with your child, gather the ingredients and utensils that you will need. Discuss with them what this will be used for. \n4. Give them a job to do, like fetching water, washing vegetables, measuring ingredients or stirring.\n5. Talk to your child about what you are making and why you are doing what you are doing (for example, *“boiling the vegetables in water will make them soft”*, or *“we are adding some salt to add more flavour”*)\n6. Enjoy the meal as a family and praise your child for their contribution.",
+      "tips_text": "* Involve your child in the planning process. Let them choose the recipe, ingredients or what they help with.\n* Ask your child questions about the colours, shapes, textures and smells of the different ingredients. \n* Praise their efforts, even if the food does not turn out perfectly."
+    },
+    {
+      "id": "household_helpers",
+      "image_cover_asset": "images/learning_through_play/household_helpers_circle.svg",
+      "image_asset": "images/learning_through_play/household_helpers.svg",
+      "tag_list": [
+        "everyday"
+      ],
+      "favourite_field": "ltp_activity_household_helpers_favourite",
+      "title": "Household Helpers",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Household Helpers"
+        },
+        "intro_text": {
+          "eng": "Including your child in household chores provides an opportunity for bonding and teamwork – especially when you think of ways to make it fun."
+        },
+        "step_1_text": {
+          "eng": "1. Identify a specific area in your home that needs cleaning and organising, such as a room, cupboard, or area on the floor.\n2. Talk to your child about what needs to be done to clean the space (Like sorting items into groups, or dusting a surface).\n3. Give specific tasks to each person and work together to complete them.\n4. As you clean and organise, take the opportunity to talk and connect with your child. Ask them about their interests and share stories from your own life.\n5. When you are finished, take a moment to appreciate the team effort and praise your child for their involvement."
+        },
+        "tips_text": {
+          "eng": "* Let your child come up with an idea for what they think should be cleaned\n* Take breaks and take your time. Remember to keep things fun.\n* If your child loses interest, think about how you can bring their attention back to the activity and make it fun. Is there a song you can sing together? Or can they show you how many shapes or colours they can find around you?"
+        }
+      },
+      "intro_text": "Including your child in household chores provides an opportunity for bonding and teamwork – especially when you think of ways to make it fun.",
+      "step_1_text": "1. Identify a specific area in your home that needs cleaning and organising, such as a room, cupboard, or area on the floor.\n2. Talk to your child about what needs to be done to clean the space (Like sorting items into groups, or dusting a surface).\n3. Give specific tasks to each person and work together to complete them.\n4. As you clean and organise, take the opportunity to talk and connect with your child. Ask them about their interests and share stories from your own life.\n5. When you are finished, take a moment to appreciate the team effort and praise your child for their involvement.",
+      "tips_text": "* Let your child come up with an idea for what they think should be cleaned\n* Take breaks and take your time. Remember to keep things fun.\n* If your child loses interest, think about how you can bring their attention back to the activity and make it fun. Is there a song you can sing together? Or can they show you how many shapes or colours they can find around you?"
+    },
+    {
+      "id": "music_and_dancing",
+      "image_cover_asset": "images/learning_through_play/music_dancing_circle.svg",
+      "image_asset": "images/learning_through_play/music_dancing.svg",
+      "tag_list": [
+        "everyday",
+        "move"
+      ],
+      "favourite_field": "ltp_activity_music_and_dancing_favourite",
+      "title": "Music and Dancing",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Music and Dancing"
+        },
+        "intro_text": {
+          "eng": "Dancing and music activities are a fun way to connect with your child and a great way to get exercise."
+        },
+        "step_1_text": {
+          "eng": "1. Put on some music. \n2. Start dancing and invite your child to join in.\n3. Show each other your favourite moves, imitate your child’s moves or learn new ones together.\n4. You can also play “dance and freeze”: At a random moment, stop the music and ask your child to freeze. You can add to the challenge by asking them to freeze in the shape of an animal or other object."
+        },
+        "tips_text": {
+          "eng": "* Don't take it too seriously, be silly and have fun together.\n* If your child has a favourite song, let them choose the song they want to dance to. \n* Invite the rest of the family to join in the fun.\n* Create your own instruments with household items to sing a song you know, or make up a new song."
+        }
+      },
+      "intro_text": "Dancing and music activities are a fun way to connect with your child and a great way to get exercise.",
+      "step_1_text": "1. Put on some music. \n2. Start dancing and invite your child to join in.\n3. Show each other your favourite moves, imitate your child’s moves or learn new ones together.\n4. You can also play “dance and freeze”: At a random moment, stop the music and ask your child to freeze. You can add to the challenge by asking them to freeze in the shape of an animal or other object.",
+      "tips_text": "* Don't take it too seriously, be silly and have fun together.\n* If your child has a favourite song, let them choose the song they want to dance to. \n* Invite the rest of the family to join in the fun.\n* Create your own instruments with household items to sing a song you know, or make up a new song."
+    },
+    {
+      "id": "walking_together",
+      "image_cover_asset": "images/learning_through_play/walking_together_circle.svg",
+      "image_asset": "images/learning_through_play/walking_together.svg",
+      "tag_list": [
+        "everyday",
+        "move"
+      ],
+      "favourite_field": "ltp_activity_walking_together_favourite",
+      "title": "Walking Together",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Walking Together"
+        },
+        "intro_text": {
+          "eng": "Walking around your community is an easy and fun way to spend quality time together."
+        },
+        "step_1_text": {
+          "eng": "1. **Plan:** Make time to take a walk together with your child. It could be in a nearby park, market, or any interesting area. Talk to your child about when and where you are planning to go. \n2. **Observe and explore:** Point out interesting things that you see as you walk. This could be about people, nature or buildings. Encourage your child to point out what they see, and ask them questions about it. \n3. **Learn together:** Tell your child things you know about the area, or ask them to tell you what they know."
+        },
+        "tips_text": {
+          "eng": "* Make it fun: sing songs as you walk, take turns leading the way, see who can spot something interesting and make up a story about what you see.\n* Make it regular: Schedule regular walks and explore new locations to keep the activity fresh and fun.\n* Use technology: Bring along your smartphone to take pictures of interesting things you see on the walk. Ask your child to point out things that they would like you to photograph. When you are back home, you and your child can look at the photos together and discuss them."
+        }
+      },
+      "intro_text": "Walking around your community is an easy and fun way to spend quality time together.",
+      "step_1_text": "1. **Plan:** Make time to take a walk together with your child. It could be in a nearby park, market, or any interesting area. Talk to your child about when and where you are planning to go. \n2. **Observe and explore:** Point out interesting things that you see as you walk. This could be about people, nature or buildings. Encourage your child to point out what they see, and ask them questions about it. \n3. **Learn together:** Tell your child things you know about the area, or ask them to tell you what they know.",
+      "tips_text": "* Make it fun: sing songs as you walk, take turns leading the way, see who can spot something interesting and make up a story about what you see.\n* Make it regular: Schedule regular walks and explore new locations to keep the activity fresh and fun.\n* Use technology: Bring along your smartphone to take pictures of interesting things you see on the walk. Ask your child to point out things that they would like you to photograph. When you are back home, you and your child can look at the photos together and discuss them."
+    },
+    {
+      "id": "story",
+      "image_cover_asset": "images/learning_through_play/story_circle.svg",
+      "image_asset": "images/learning_through_play/story.svg",
+      "tag_list": [
+        "chat"
+      ],
+      "favourite_field": "ltp_activity_story_favourite",
+      "title": "Make Up a Story Together",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Make Up a Story Together"
+        },
+        "intro_text": {
+          "eng": "Creating a story together with your child is a great way to develop their listening skills, practice turn-taking and encourage their imagination."
+        },
+        "step_1_text": {
+          "eng": "Tell your child that you would like to create a story together. Explain that you will be taking turns to add to the story:\n1. Start the story with *“Once upon a time there was a…”*\n2. Let your child make up the next sentence.\n3. Then you make up a sentence.\n4. Take turns until you have a wonderful new story.\n5. Make sure to end the story on a positive note.\n6. Ask your child what their favourite part of the story was!"
+        },
+        "tips_text": {
+          "eng": "* Choose a time when your child will be able to pay attention. This can also be a useful activity when you might want to distract your child (e.g., while getting dressed or having a bath).\n* Show your child that you are listening by making eye contact, nodding, smiling or responding to what they say with praise or encouragement."
+        }
+      },
+      "intro_text": "Creating a story together with your child is a great way to develop their listening skills, practice turn-taking and encourage their imagination.",
+      "step_1_text": "Tell your child that you would like to create a story together. Explain that you will be taking turns to add to the story:\n1. Start the story with *“Once upon a time there was a…”*\n2. Let your child make up the next sentence.\n3. Then you make up a sentence.\n4. Take turns until you have a wonderful new story.\n5. Make sure to end the story on a positive note.\n6. Ask your child what their favourite part of the story was!",
+      "tips_text": "* Choose a time when your child will be able to pay attention. This can also be a useful activity when you might want to distract your child (e.g., while getting dressed or having a bath).\n* Show your child that you are listening by making eye contact, nodding, smiling or responding to what they say with praise or encouragement."
+    },
+    {
+      "id": "simon_says",
+      "image_cover_asset": "images/learning_through_play/simon_says_circle.svg",
+      "image_asset": "images/learning_through_play/simon_says.svg",
+      "tag_list": [
+        "move",
+        "home"
+      ],
+      "favourite_field": "ltp_activity_simon_says_favourite",
+      "title": "Simon Says",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Simon Says"
+        },
+        "intro_text": {
+          "eng": "This fun game helps your child to learn how to listen and follow instructions."
+        },
+        "step_1_text": {
+          "eng": "1. Explain that you are going to give directions for the group to make a specific movement or sound. Everyone should only do as you say when you start your instruction with *“Simon says”*.\n2. If you say: *“Simon says touch your nose”* then all players must touch their nose. \n3. If you say *“Jump”* without saying *“Simon says”* first, then the players must not jump. If they jumped, then they must sit down and wait until the next round of the game. \n4. Keep giving instructions until there is only one person standing. That person can be Simon in the next round. \n5. The person playing Simon can give any kind of instructions – stretch to the sky, bark like a dog, jump three times on one leg, touch your left foot."
+        },
+        "tips_text": {
+          "eng": "* Play a practice round to make sure everyone understands the rules.\n* Make sure your instructions are achievable.\n* Give all players a turn to be the leader (the person who gives instructions).\n* Do not tease or criticise children for making mistakes – it is part of the game!"
+        }
+      },
+      "intro_text": "This fun game helps your child to learn how to listen and follow instructions.",
+      "step_1_text": "1. Explain that you are going to give directions for the group to make a specific movement or sound. Everyone should only do as you say when you start your instruction with *“Simon says”*.\n2. If you say: *“Simon says touch your nose”* then all players must touch their nose. \n3. If you say *“Jump”* without saying *“Simon says”* first, then the players must not jump. If they jumped, then they must sit down and wait until the next round of the game. \n4. Keep giving instructions until there is only one person standing. That person can be Simon in the next round. \n5. The person playing Simon can give any kind of instructions – stretch to the sky, bark like a dog, jump three times on one leg, touch your left foot.",
+      "tips_text": "* Play a practice round to make sure everyone understands the rules.\n* Make sure your instructions are achievable.\n* Give all players a turn to be the leader (the person who gives instructions).\n* Do not tease or criticise children for making mistakes – it is part of the game!"
+    },
+    {
+      "id": "when_I_grow_up",
+      "image_cover_asset": "images/learning_through_play/when_grow_up_circle.svg",
+      "image_asset": "images/learning_through_play/when_grow_up.svg",
+      "tag_list": [
+        "chat"
+      ],
+      "favourite_field": "ltp_activity_when_I_grow_up_favourite",
+      "title": "When I Grow Up",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "When I Grow Up"
+        },
+        "intro_text": {
+          "eng": "A fun way to encourage your child to dream about their future, is to ask them what they want to be when they grow up."
+        },
+        "step_1_text": {
+          "eng": "1. Start with a simple question: *“What would you like to do one day when you are an adult? Or, what is something you hope to achieve when you are older?”*\n2. Encourage your child to talk about what they want to be or do one day. Ask them why. Encourage them to tell you more about their dream. \n3. You can add role-play or dress-up activities, or invite your child to draw a picture. For example, if your child wants to own their own shop one day, encourage them to create a pretend shop at home, and encourage family members to visit their shop."
+        },
+        "tips_text": {
+          "eng": "* Remember that your child’s goals and dreams at this age do not have to be realistic. You can still show interest and encourage them to engage with the topic and idea. \n* Nowadays, boys and girls can be anything they want to be. Encourage your child regardless of what you think is acceptable for boys or girls."
+        }
+      },
+      "intro_text": "A fun way to encourage your child to dream about their future, is to ask them what they want to be when they grow up.",
+      "step_1_text": "1. Start with a simple question: *“What would you like to do one day when you are an adult? Or, what is something you hope to achieve when you are older?”*\n2. Encourage your child to talk about what they want to be or do one day. Ask them why. Encourage them to tell you more about their dream. \n3. You can add role-play or dress-up activities, or invite your child to draw a picture. For example, if your child wants to own their own shop one day, encourage them to create a pretend shop at home, and encourage family members to visit their shop.",
+      "tips_text": "* Remember that your child’s goals and dreams at this age do not have to be realistic. You can still show interest and encourage them to engage with the topic and idea. \n* Nowadays, boys and girls can be anything they want to be. Encourage your child regardless of what you think is acceptable for boys or girls."
+    },
+    {
+      "id": "favourite_play",
+      "image_cover_asset": "images/learning_through_play/favorite_play_circle.svg",
+      "image_asset": "images/learning_through_play/favorite_play.svg",
+      "tag_list": [
+        "home"
+      ],
+      "favourite_field": "ltp_activity_favourite_play_favourite",
+      "title": "Favourite Play",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Favourite Play"
+        },
+        "intro_text": {
+          "eng": "All adults were children once! Sharing the games or activities you loved as a child with your own child is a great way to connect and have fun together."
+        },
+        "step_1_text": {
+          "eng": "1. Think back to when you were a child: what was one of your favourite games or ways to play?\n2. Create a similar game or activity for you and your child to play together. It doesn’t have to be exactly as you remember it – what is important is that you have fun together. \n3. Welcome your child’s ideas or suggestions to make this a shared activity that is fun for you both. \n4. Invite other family members to share their favourite play activities as well."
+        },
+        "tips_text": {
+          "eng": "* It can feel disappointing if your child is not as interested in the activity as you once were. Try to be patient and treat your child with kindness. Do not force your child to participate. \n* Think about ways to make sure that the activity is age appropriate, and that your child can take part without too much difficulty."
+        }
+      },
+      "intro_text": "All adults were children once! Sharing the games or activities you loved as a child with your own child is a great way to connect and have fun together.",
+      "step_1_text": "1. Think back to when you were a child: what was one of your favourite games or ways to play?\n2. Create a similar game or activity for you and your child to play together. It doesn’t have to be exactly as you remember it – what is important is that you have fun together. \n3. Welcome your child’s ideas or suggestions to make this a shared activity that is fun for you both. \n4. Invite other family members to share their favourite play activities as well.",
+      "tips_text": "* It can feel disappointing if your child is not as interested in the activity as you once were. Try to be patient and treat your child with kindness. Do not force your child to participate. \n* Think about ways to make sure that the activity is age appropriate, and that your child can take part without too much difficulty."
+    },
+    {
+      "id": "act_the_story",
+      "image_cover_asset": "images/learning_through_play/act_the_story_circle.svg",
+      "image_asset": "images/learning_through_play/act_the_story.svg",
+      "tag_list": [
+        "pretend",
+        "move"
+      ],
+      "favourite_field": "ltp_activity_act_the_story_favourite",
+      "title": "Act the Story",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Act the Story"
+        },
+        "intro_text": {
+          "eng": "Children love playing pretend. Acting out a story together is a great way to help children learn to be creative and work towards a common goal."
+        },
+        "step_1_text": {
+          "eng": "1. Choose a story your child knows and decide who will play which character.\n2. Discuss together what you will need to recreate the story. Household objects can be things in the story, and different areas can be different places. \n3. Tell the story and act it out together. You can do silly voices and actions for each character, and move around your home and garden or outside space."
+        },
+        "tips_text": {
+          "eng": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the ParentApp library and let your child choose a book, read it together and then act out the story."
+        }
+      },
+      "intro_text": "Children love playing pretend. Acting out a story together is a great way to help children learn to be creative and work towards a common goal.",
+      "step_1_text": "1. Choose a story your child knows and decide who will play which character.\n2. Discuss together what you will need to recreate the story. Household objects can be things in the story, and different areas can be different places. \n3. Tell the story and act it out together. You can do silly voices and actions for each character, and move around your home and garden or outside space.",
+      "tips_text": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the ParentApp library and let your child choose a book, read it together and then act out the story."
+    },
+    {
+      "id": "shadow_movie",
+      "image_cover_asset": "images/learning_through_play/shadow_movie_circle.svg",
+      "image_asset": "images/learning_through_play/shadow_movie_4.svg",
+      "step_1_image_asset": "images/learning_through_play/shadow_movie_1.svg",
+      "step_2_image_asset": "images/learning_through_play/shadow_movie_2.svg",
+      "step_3_image_asset": "images/learning_through_play/shadow_movie_3.svg",
+      "step_4_image_asset": "images/learning_through_play/shadow_movie_4.svg",
+      "tag_list": [
+        "home",
+        "pretend"
+      ],
+      "favourite_field": "ltp_activity_shadow_movie_favourite",
+      "title": "Shadow Movie",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Shadow Movie"
+        },
+        "intro_text": {
+          "eng": "Play with the shadows of different objects against a wall to create your own movie or story."
+        },
+        "resources_text": {
+          "eng": "A toilet roll tube, a torch (one on a mobile phone is fine) and sticky tape for your projector. Everyday items, like paper, fabrics or cardboard, to create characters for your show."
+        },
+        "step_1_text": {
+          "eng": "1. Make the projector by joining the toilet roll to your torch using sticky tape. If you don’t have a toilet roll or a torch, you can use a normal lamp or candle, and place it where it will make a shadow against the wall."
+        },
+        "step_2_text": {
+          "eng": "2. Work out where you want to see the shadows, like against a wall or on the floor."
+        },
+        "step_3_text": {
+          "eng": "3. Decide what items you want to use to make the characters for your shadow movie. You can create your own characters out of paper or cardboard, use existing objects or toys, or even use your hands."
+        },
+        "step_4_text": {
+          "eng": "4. Turn off the lights or close the curtains, shine the light on your characters and create a shadow story together."
+        }
+      },
+      "intro_text": "Play with the shadows of different objects against a wall to create your own movie or story.",
+      "resources_text": "A toilet roll tube, a torch (one on a mobile phone is fine) and sticky tape for your projector. Everyday items, like paper, fabrics or cardboard, to create characters for your show.",
+      "step_1_text": "1. Make the projector by joining the toilet roll to your torch using sticky tape. If you don’t have a toilet roll or a torch, you can use a normal lamp or candle, and place it where it will make a shadow against the wall.",
+      "step_2_text": "2. Work out where you want to see the shadows, like against a wall or on the floor.",
+      "step_3_text": "3. Decide what items you want to use to make the characters for your shadow movie. You can create your own characters out of paper or cardboard, use existing objects or toys, or even use your hands.",
+      "step_4_text": "4. Turn off the lights or close the curtains, shine the light on your characters and create a shadow story together."
+    },
+    {
+      "id": "build_a_road",
+      "image_cover_asset": "images/learning_through_play/build_a_road_circle.svg",
+      "image_asset": "images/learning_through_play/build_a_road.svg",
+      "tag_list": [
+        "pretend",
+        "home"
+      ],
+      "favourite_field": "ltp_activity_build_a_road_favourite",
+      "title": "Build a Road",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Build a Road"
+        },
+        "intro_text": {
+          "eng": "Build a road through your house or garden, using everyday objects in creative ways. This fun activity will develop motor, creative and problem-solving skills."
+        },
+        "step_1_text": {
+          "eng": "1. **Plan:** Together with your child, decide on the start and end point for your road. Will your road begin at the bed and continue all the way to the front door? Will your road begin under the table and end in the garden? \n2. **Find:** Work together to find objects to create your road.\n3. **Build:** Can you use sticks or rocks to create the sides of the road? Can you make bridges or tunnels? Can you use cloth or pieces of cardboard to create the road?\n4. **Drive:** Decide on objects that you will use as vehicles and drive up and down your road, or have a race."
+        },
+        "tips_text": {
+          "eng": "* Let the objects you have guide your imagination! Build a shaded area with a cloth propped up with containers or plastic bottles, or create a house with a roof and add a hill or a roundabout.\n* Remember that all children – girls and boys – can enjoy building activities."
+        }
+      },
+      "intro_text": "Build a road through your house or garden, using everyday objects in creative ways. This fun activity will develop motor, creative and problem-solving skills.",
+      "step_1_text": "1. **Plan:** Together with your child, decide on the start and end point for your road. Will your road begin at the bed and continue all the way to the front door? Will your road begin under the table and end in the garden? \n2. **Find:** Work together to find objects to create your road.\n3. **Build:** Can you use sticks or rocks to create the sides of the road? Can you make bridges or tunnels? Can you use cloth or pieces of cardboard to create the road?\n4. **Drive:** Decide on objects that you will use as vehicles and drive up and down your road, or have a race.",
+      "tips_text": "* Let the objects you have guide your imagination! Build a shaded area with a cloth propped up with containers or plastic bottles, or create a house with a roof and add a hill or a roundabout.\n* Remember that all children – girls and boys – can enjoy building activities."
+    },
+    {
+      "id": "animal_strengths",
+      "image_cover_asset": "images/learning_through_play/animal_strengths_circle.svg",
+      "image_asset": "images/learning_through_play/animal_strengths.svg",
+      "tag_list": [
+        "pretend",
+        "move"
+      ],
+      "favourite_field": "ltp_activity_animal_strengths_favourite",
+      "title": "Animal Strengths",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Animal Strengths"
+        },
+        "intro_text": {
+          "eng": "Let your imaginations run wild with this fun animal game. Let your child choose what animal they would like to pretend to be and join them in the fun."
+        },
+        "step_1_text": {
+          "eng": "1. Ask your child: If you could be any type of animal, what would you be? Why would you want to be that animal?\n2. Now let your child choose an animal for you.\n3. Use your body and voice to play the part of your animals. \n4. Talk about the different characteristics of your animal: What strengths does your animal have? What does your animal like to do? Where does your animal like to sleep? What does your animal like to eat?"
+        },
+        "tips_text": {
+          "eng": "* You can even try to do an every-day activity, like tidying the house, bathing or getting dressed, while pretending to be that animal.  \n* Invite the rest of your family to join in the fun!"
+        }
+      },
+      "intro_text": "Let your imaginations run wild with this fun animal game. Let your child choose what animal they would like to pretend to be and join them in the fun.",
+      "step_1_text": "1. Ask your child: If you could be any type of animal, what would you be? Why would you want to be that animal?\n2. Now let your child choose an animal for you.\n3. Use your body and voice to play the part of your animals. \n4. Talk about the different characteristics of your animal: What strengths does your animal have? What does your animal like to do? Where does your animal like to sleep? What does your animal like to eat?",
+      "tips_text": "* You can even try to do an every-day activity, like tidying the house, bathing or getting dressed, while pretending to be that animal.  \n* Invite the rest of your family to join in the fun!"
+    },
+    {
+      "id": "treasure_hunt",
+      "image_cover_asset": "images/learning_through_play/treasure_hunt_circle.svg",
+      "image_asset": "images/learning_through_play/treasure_hunt.svg",
+      "tag_list": [
+        "home"
+      ],
+      "favourite_field": "ltp_activity_treasure_hunt_favourite",
+      "title": "Treasure Hunt",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Treasure Hunt"
+        },
+        "intro_text": {
+          "eng": "Set out on an adventure to find different objects or “treasures”. This is a great way to help your child learn as they explore their surroundings."
+        },
+        "resources_text": {
+          "eng": "Objects around the house"
+        },
+        "step_1_text": {
+          "eng": "1. **Plan together:** Tell your child that you want to go on a treasure hunt. Decide together where you will search, and what you are searching for. You can decide to look for specific objects based on colour, shape or texture, or even based on the starting sound (for example, objects that start with the letter “S”)\n2. **Explore:** Walk around and look around to find the objects you have decided to search for.\n3. **Gather:** Place the objects you find all together - examine and discuss them. \n4. **Combine:**Once you have all your objects, you can also see if you can make something interesting with everything combined."
+        },
+        "tips_text": {
+          "eng": "* These activities work well outside too.\n* If your child brings back an object that does not fit with what you were searching for, ask them in a kind way why they brought it, instead of criticising or scolding them."
+        }
+      },
+      "intro_text": "Set out on an adventure to find different objects or “treasures”. This is a great way to help your child learn as they explore their surroundings.",
+      "resources_text": "Objects around the house",
+      "step_1_text": "1. **Plan together:** Tell your child that you want to go on a treasure hunt. Decide together where you will search, and what you are searching for. You can decide to look for specific objects based on colour, shape or texture, or even based on the starting sound (for example, objects that start with the letter “S”)\n2. **Explore:** Walk around and look around to find the objects you have decided to search for.\n3. **Gather:** Place the objects you find all together - examine and discuss them. \n4. **Combine:**Once you have all your objects, you can also see if you can make something interesting with everything combined.",
+      "tips_text": "* These activities work well outside too.\n* If your child brings back an object that does not fit with what you were searching for, ask them in a kind way why they brought it, instead of criticising or scolding them."
+    },
+    {
+      "id": "search_with_senses",
+      "image_cover_asset": "images/learning_through_play/senses_circle.svg",
+      "image_asset": "images/learning_through_play/senses_smell.svg",
+      "step_1_image_asset": "images/learning_through_play/senses_smell.svg",
+      "step_2_image_asset": "images/learning_through_play/senses_hear.svg",
+      "step_3_image_asset": "images/learning_through_play/senses_see.svg",
+      "step_4_image_asset": "images/learning_through_play/senses_touch.svg",
+      "step_5_image_asset": "images/learning_through_play/senses_taste.svg",
+      "tag_list": [
+        "home"
+      ],
+      "favourite_field": "ltp_activity_search_with_senses_favourite",
+      "title": "Search With Your Senses",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        },
+        "step_5_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Search With Your Senses"
+        },
+        "intro_text": {
+          "eng": "Engage all your senses by identifying things around you that you and your child can touch, hear, see, taste and smell."
+        },
+        "step_1_text": {
+          "eng": "Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells?"
+        },
+        "step_2_text": {
+          "eng": "2. **What can you hear?** What is making that sound? Where is it coming from?"
+        },
+        "step_3_text": {
+          "eng": "3. **What can you see?** What is near to you? What is far away?"
+        },
+        "step_4_text": {
+          "eng": "4. **What can you touch?** Discuss the different textures and how it feels to touch it."
+        },
+        "step_5_text": {
+          "eng": "5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?"
+        },
+        "tips_text": {
+          "eng": "* You can also play an “I Spy” version of the senses game, taking turns to identify something you can touch/smell/taste/hear/see, giving the letter or sound it starts with, and trying to guess what it is."
+        }
+      },
+      "intro_text": "Engage all your senses by identifying things around you that you and your child can touch, hear, see, taste and smell.",
+      "step_1_text": "Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells?",
+      "step_2_text": "2. **What can you hear?** What is making that sound? Where is it coming from?",
+      "step_3_text": "3. **What can you see?** What is near to you? What is far away?",
+      "step_4_text": "4. **What can you touch?** Discuss the different textures and how it feels to touch it.",
+      "step_5_text": "5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?",
+      "tips_text": "* You can also play an “I Spy” version of the senses game, taking turns to identify something you can touch/smell/taste/hear/see, giving the letter or sound it starts with, and trying to guess what it is."
+    },
+    {
+      "id": "count_and_compare",
+      "image_cover_asset": "images/learning_through_play/count_and_compare_circle.svg",
+      "image_asset": "images/learning_through_play/count_and_compare.svg",
+      "tag_list": [
+        "home"
+      ],
+      "favourite_field": "ltp_activity_count_and_compare_favourite",
+      "title": "Count and Compare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Count and Compare"
+        },
+        "intro_text": {
+          "eng": "There are lots of opportunities around your home or during everyday activities to count and compare objects. This is a great way to build your child’s numeracy skills, which helps them at school."
+        },
+        "resources_text": {
+          "eng": "Objects around the house"
+        },
+        "step_1_text": {
+          "eng": "Ideas for counting and comparing games:\n* Label bottles with numbers and have children count and drop small objects inside to match the number on the bottle.\n* Count your steps as you climb the stairs, count the number of chickens you see on the road, the number of fruits in a tree, the number of trucks or cars…opportunities for counting and comparing are all around us. \n* Ask your child to categorise objects: which objects are big? Which are small? Soft? Hard? Heavy? Light? Which are used for cooking? Which are used for washing up?  \n* Ask your child to make comparisons: Which car is closest to our house? Which tree is the tallest in our garden? Which shoe is the smallest?  \n* Preparing snacks or cooking food is a great way to help your child understand adding and subtracting. If we have five mangoes and we use two for dinner, how many do we have left? How many pieces of bread do we need so that each one at the table gets two pieces?"
+        },
+        "tips_text": {
+          "eng": "* Praise and encourage your child if they get it right. Don’t react negatively or with judgement if they make a mistake. If they give the wrong answer, you can simply respond with the correct answer (e.g., if they say there are three bananas, but there are actually 5, you can respond with: *“Hmmm, let’s look carefully – how many do we see? 1, 2, 3, 4, 5. I see five bananas. Can you count them again and see if you also count five?”*). This will encourage them to keep trying and to keep learning with your encouragement."
+        }
+      },
+      "intro_text": "There are lots of opportunities around your home or during everyday activities to count and compare objects. This is a great way to build your child’s numeracy skills, which helps them at school.",
+      "resources_text": "Objects around the house",
+      "step_1_text": "Ideas for counting and comparing games:\n* Label bottles with numbers and have children count and drop small objects inside to match the number on the bottle.\n* Count your steps as you climb the stairs, count the number of chickens you see on the road, the number of fruits in a tree, the number of trucks or cars…opportunities for counting and comparing are all around us. \n* Ask your child to categorise objects: which objects are big? Which are small? Soft? Hard? Heavy? Light? Which are used for cooking? Which are used for washing up?  \n* Ask your child to make comparisons: Which car is closest to our house? Which tree is the tallest in our garden? Which shoe is the smallest?  \n* Preparing snacks or cooking food is a great way to help your child understand adding and subtracting. If we have five mangoes and we use two for dinner, how many do we have left? How many pieces of bread do we need so that each one at the table gets two pieces?",
+      "tips_text": "* Praise and encourage your child if they get it right. Don’t react negatively or with judgement if they make a mistake. If they give the wrong answer, you can simply respond with the correct answer (e.g., if they say there are three bananas, but there are actually 5, you can respond with: *“Hmmm, let’s look carefully – how many do we see? 1, 2, 3, 4, 5. I see five bananas. Can you count them again and see if you also count five?”*). This will encourage them to keep trying and to keep learning with your encouragement."
+    },
+    {
+      "id": "mystery_box",
+      "image_cover_asset": "images/learning_through_play/mystery_box_circle.svg",
+      "image_asset": "images/learning_through_play/mystery_box.svg",
+      "tag_list": [
+        "home"
+      ],
+      "favourite_field": "ltp_activity_mystery_box_favourite",
+      "title": "Mystery Box",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mystery Box"
+        },
+        "intro_text": {
+          "eng": "Mystery Box is a fun game where you place an object inside a box, and let your child ask questions to figure out what the object is."
+        },
+        "resources_text": {
+          "eng": "You can use anything as a ‘box’ (a bucket, sack, packet), as long as your child cannot see what is inside.\n\nYou also need something to hide inside the mystery box."
+        },
+        "step_1_text": {
+          "eng": "1. Place any object inside the “Mystery Box”, without showing your child.\n2. Your child now asks you questions to try and guess what it is. You can only answer with “Yes” or “No”.\n3. Let your child ask as many questions as they need to guess what is in the box. If they are struggling, you can give them some hints or clues to help them. \n4. Swap roles with your child and let them choose an object to hide in the box and you try to guess what it is."
+        },
+        "tips_text": {
+          "eng": "* You can use different objects. You can also introduce themes, such as animals or fruits, to make the game more exciting. \n* You can allow your child to choose the objects or themes. This makes them feel more involved and part of the game.\n* Your child can close their eyes and touch the mystery item to guess what it is."
+        }
+      },
+      "intro_text": "Mystery Box is a fun game where you place an object inside a box, and let your child ask questions to figure out what the object is.",
+      "resources_text": "You can use anything as a ‘box’ (a bucket, sack, packet), as long as your child cannot see what is inside.\n\nYou also need something to hide inside the mystery box.",
+      "step_1_text": "1. Place any object inside the “Mystery Box”, without showing your child.\n2. Your child now asks you questions to try and guess what it is. You can only answer with “Yes” or “No”.\n3. Let your child ask as many questions as they need to guess what is in the box. If they are struggling, you can give them some hints or clues to help them. \n4. Swap roles with your child and let them choose an object to hide in the box and you try to guess what it is.",
+      "tips_text": "* You can use different objects. You can also introduce themes, such as animals or fruits, to make the game more exciting. \n* You can allow your child to choose the objects or themes. This makes them feel more involved and part of the game.\n* Your child can close their eyes and touch the mystery item to guess what it is."
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ activities.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

@@ -1,0 +1,75 @@
+{
+  "flow_type": "template",
+  "flow_name": "lib_books",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "activities",
+      "value": "activities",
+      "rows": [
+        {
+          "name": "fav_page",
+          "value": "fav_books",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.fav_page"
+        },
+        {
+          "name": "activity",
+          "value": "Library",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.activity"
+        },
+        {
+          "name": "tags",
+          "value": "book_tags",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "activities.tags"
+        },
+        {
+          "name": "data_list",
+          "value": "books",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.data_list"
+        },
+        {
+          "name": "data_list_in_loop",
+          "value": "books",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.data_list_in_loop"
+        },
+        {
+          "name": "go_to_template_prefix",
+          "value": "book_cover_",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "activities.go_to_template_prefix"
+        }
+      ],
+      "_nested_name": "activities"
+    }
+  ],
+  "_xlsxPath": "books/library_page.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

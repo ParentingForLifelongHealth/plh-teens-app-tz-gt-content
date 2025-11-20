@@ -1,0 +1,263 @@
+{
+  "flow_type": "template",
+  "flow_name": "support_activities",
+  "data_list_name": "support_activities",
+  "status": "released",
+  "rows": [
+    {
+      "name": "support",
+      "value": "support_information",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "support"
+    },
+    {
+      "name": "data_s",
+      "value": "@local.support",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "data_s",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.support",
+            "matchedExpression": "@local.support",
+            "type": "local",
+            "fieldName": "support"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.support": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@data.resource_categories.support.name",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.resource_categories.support.name",
+            "matchedExpression": "@data.resource_categories.support.name",
+            "type": "data",
+            "fieldName": "resource_categories"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.resource_categories.support.name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "desc",
+      "value": "@data.resource_categories.support.text",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "desc",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.resource_categories.support.text",
+            "matchedExpression": "@data.resource_categories.support.text",
+            "type": "data",
+            "fieldName": "resource_categories"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.resource_categories.support.text": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "items",
+      "name": "find_support_id",
+      "value": "@data.@local.data_s",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "task_card",
+          "name": "task_card_@item.id",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_support_id",
+                "@item.id"
+              ],
+              "_raw": "click | set_field: current_support_id: @item.id",
+              "_cleaned": "click | set_field: current_support_id: @item.id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "support_@item.id"
+              ],
+              "_raw": "click |  go_to: support_@item.id",
+              "_cleaned": "click |  go_to: support_@item.id"
+            }
+          ],
+          "parameter_list": {
+            "title": "@item.title",
+            "image": "@item.image_asset",
+            "variant": "button",
+            "in_progress_icon": "images/icons/in_progress.svg",
+            "completed_icon": "images/icons/tick.svg",
+            "show_progress_text": "FALSE"
+          },
+          "_nested_name": "find_support_id.task_card_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "task_card_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: current_support_id: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: current_support_id: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "1": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "support_@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click |  go_to: support_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click |  go_to: support_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              }
+            },
+            "parameter_list": {
+              "title": [
+                {
+                  "fullExpression": "@item.title",
+                  "matchedExpression": "@item.title",
+                  "type": "item",
+                  "fieldName": "title"
+                }
+              ],
+              "image": [
+                {
+                  "fullExpression": "@item.image_asset",
+                  "matchedExpression": "@item.image_asset",
+                  "type": "item",
+                  "fieldName": "image_asset"
+                }
+              ]
+            },
+            "_nested_name": [
+              {
+                "fullExpression": "find_support_id.task_card_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "action_list.1.args.0",
+              "action_list.1._raw",
+              "action_list.1._cleaned",
+              "_nested_name"
+            ],
+            "@item.title": [
+              "parameter_list.title"
+            ],
+            "@item.image_asset": [
+              "parameter_list.image"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "find_support_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.data_s",
+            "matchedExpression": "@local.data_s",
+            "type": "local",
+            "fieldName": "data_s"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data_s": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ support centre.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

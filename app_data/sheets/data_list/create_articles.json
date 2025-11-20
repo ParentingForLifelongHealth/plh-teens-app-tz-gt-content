@@ -1,0 +1,710 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "create_articles",
+  "data_list_name": "create_articles",
+  "status": "released",
+  "rows": [
+    {
+      "id": "why_create_1",
+      "category_id": "why_create",
+      "image_asset": "images/modules/create/create_1.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/11NzUX6GN9mp_PgZ1oAq942uQC3vdqUOU_0JjjIOa-LE",
+      "text_1": "This week, we want to talk about the environment you **CREATE** for your child.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, we want to talk about the environment you **CREATE** for your child."
+        },
+        "text_2": {
+          "eng": "A positive environment helps children feel safe and helps them learn."
+        }
+      },
+      "text_2": "A positive environment helps children feel safe and helps them learn."
+    },
+    {
+      "id": "why_create_2",
+      "category_id": "why_create",
+      "image_asset": "images/modules/create/create_2.svg",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_2": {
+          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **creating a positive environment** forms part of the garden image."
+        }
+      },
+      "text_2": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **creating a positive environment** forms part of the garden image."
+    },
+    {
+      "id": "why_create_3",
+      "category_id": "why_create",
+      "image_asset": "images/modules/create/create_3.gif",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/create_01.mp3",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "In the same way that all plants need sunlight to grow, all children need praise and positive encouragement from their caregivers."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Children thrive when caregivers respond to them with warmth, acceptance and praise. Just as the sun rises and sets every day, try to give your child some positive attention every day. \n\nRemember that what gets light will grow. When parents give positive attention to good behaviour with praise, children will be encouraged to behave that way more often in the future."
+        }
+      },
+      "text_1": "In the same way that all plants need sunlight to grow, all children need praise and positive encouragement from their caregivers.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Children thrive when caregivers respond to them with warmth, acceptance and praise. Just as the sun rises and sets every day, try to give your child some positive attention every day. \n\nRemember that what gets light will grow. When parents give positive attention to good behaviour with praise, children will be encouraged to behave that way more often in the future."
+    },
+    {
+      "id": "how_to_create_1",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_4.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/how_create_1.mp3",
+      "text_1_facilitator": "Here’s how you can create a positive environment for your child:",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here’s how you can create a positive environment for your child:"
+        },
+        "text_2": {
+          "eng": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Let’s say you are visiting a friend, and your children are playing together. As they play, you notice that your child sometimes shares the toys and other times grabs the toy from her friend. Instead of saying: “stop grabbing that toy!” you could say: “give your friend a chance to play with the toy” \n\nIt is easier for children to follow instructions that tell them what they should do, rather than what they shouldn’t do."
+        }
+      },
+      "text_2": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Let’s say you are visiting a friend, and your children are playing together. As they play, you notice that your child sometimes shares the toys and other times grabs the toy from her friend. Instead of saying: “stop grabbing that toy!” you could say: “give your friend a chance to play with the toy” \n\nIt is easier for children to follow instructions that tell them what they should do, rather than what they shouldn’t do."
+    },
+    {
+      "id": "how_to_create_2",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_5.svg",
+      "text_1_facilitator": "Need some convincing? Let’s do an exercise:",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Need some convincing? Let’s do an exercise:"
+        },
+        "text_2": {
+          "eng": "DO NOT THINK ABOUT AN ELEPHANT.\n\nWhat are you thinking about?"
+        }
+      },
+      "text_2": "DO NOT THINK ABOUT AN ELEPHANT.\n\nWhat are you thinking about?"
+    },
+    {
+      "id": "how_to_create_3",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_6.svg",
+      "text_2": "You probably DID think about an elephant...\n\n‘Don’t do’ instructions make children think about that thing.\n\nSometimes they do not understand what we DID want from them.\n\nAlso they often don’t like being told not to do things (just like most of us).",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "You probably DID think about an elephant...\n\n‘Don’t do’ instructions make children think about that thing.\n\nSometimes they do not understand what we DID want from them.\n\nAlso they often don’t like being told not to do things (just like most of us)."
+        }
+      }
+    },
+    {
+      "id": "how_to_create_4",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_7.svg",
+      "text_2": "NOW, THINK ABOUT A CHEETAH! \n\nWhat are you thinking about?",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "NOW, THINK ABOUT A CHEETAH! \n\nWhat are you thinking about?"
+        }
+      }
+    },
+    {
+      "id": "how_to_create_5",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_8.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/how_create_5.mp3",
+      "text_2": "That’s right - a cheetah! Positive, clear instructions help children focus on what they should be doing.",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "That’s right - a cheetah! Positive, clear instructions help children focus on what they should be doing."
+        },
+        "media_title": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "Before, I used to raise my children the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my children. It took time to learn to say “please do this” instead of “don’t do this.” \n\nMy children and even my husband tell me that they love this way of doing things, because now they know what needs to be done."
+        }
+      },
+      "media_title": "Let’s hear from a caregiver:",
+      "media_transcript": "Before, I used to raise my children the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my children. It took time to learn to say “please do this” instead of “don’t do this.” \n\nMy children and even my husband tell me that they love this way of doing things, because now they know what needs to be done."
+    },
+    {
+      "id": "how_to_create_6",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_9.svg",
+      "section_1_image_asset": "images/modules/create/create_10.svg",
+      "text_2": "**Use praise to encourage positive behaviour**\nIf we praise our children when they do something well, we will see them do more and more positive things!",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "**Use praise to encourage positive behaviour**\nIf we praise our children when they do something well, we will see them do more and more positive things!"
+        },
+        "section_1_text": {
+          "eng": "Sometimes it is hard to think of what to praise your child for! Here are some ideas from other parents:"
+        },
+        "section_1_button_text": {
+          "eng": "Ideas for praise:"
+        },
+        "section_1_extra_text": {
+          "eng": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
+        }
+      },
+      "section_1_text": "Sometimes it is hard to think of what to praise your child for! Here are some ideas from other parents:",
+      "section_1_button_text": "Ideas for praise:",
+      "section_1_extra_text": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
+    },
+    {
+      "id": "the_power_of_create_1",
+      "category_id": "power_create",
+      "image_asset": "images/modules/create/create_11.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/loved.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/valued.svg",
+      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/modules/play/angry_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/modules/play/tired_emoji.svg",
+      "title": "**Question time:**",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "**Question time:**"
+        },
+        "text_2": {
+          "eng": "Think about the last time someone thanked you, or said you did something great."
+        },
+        "quiz_1_question": {
+          "eng": "How did it make you feel?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Parents usually do not get thanked or praised enough."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Loved"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Parents usually do not get thanked or praised enough."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Valued"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Parents usually do not get thanked or praised enough."
+        },
+        "quiz_2_question": {
+          "eng": "How does it make you feel when nobody says \"thank you\"?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Angry"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Tired"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right."
+        }
+      },
+      "text_2": "Think about the last time someone thanked you, or said you did something great.",
+      "quiz_1_question": "How did it make you feel?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_feedback_1": "Parents usually do not get thanked or praised enough.",
+      "quiz_1_option_2_text": "Loved",
+      "quiz_1_feedback_2": "Parents usually do not get thanked or praised enough.",
+      "quiz_1_option_3_text": "Valued",
+      "quiz_1_feedback_3": "Parents usually do not get thanked or praised enough.",
+      "quiz_2_question": "How does it make you feel when nobody says \"thank you\"?",
+      "quiz_2_option_1_text": "Sad",
+      "quiz_2_feedback_1": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right.",
+      "quiz_2_option_2_text": "Angry",
+      "quiz_2_feedback_2": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right.",
+      "quiz_2_option_3_text": "Tired",
+      "quiz_2_feedback_3": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right."
+    },
+    {
+      "id": "the_power_of_create_2",
+      "category_id": "power_create",
+      "image_asset": "images/modules/create/create_12.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_2.mp3",
+      "text_1_facilitator": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:"
+        },
+        "image_text": {
+          "eng": "It’s so lovely to see you playing so nicely together, Neema and Robert. In five minutes it will be time to come inside and wash up."
+        },
+        "media_title": {
+          "eng": "Let’s reflect on the caregiver’s actions:"
+        },
+        "media_transcript": {
+          "eng": "What does the caregiver do before she informs her children that they will have to stop playing in five minutes’ time? She first brings attention to their positive behaviour of playing nicely together. This is a clever way to make it easier for the children to accept the next instruction."
+        }
+      },
+      "image_text": "It’s so lovely to see you playing so nicely together, Neema and Robert. In five minutes it will be time to come inside and wash up.",
+      "media_title": "Let’s reflect on the caregiver’s actions:",
+      "media_transcript": "What does the caregiver do before she informs her children that they will have to stop playing in five minutes’ time? She first brings attention to their positive behaviour of playing nicely together. This is a clever way to make it easier for the children to accept the next instruction."
+    },
+    {
+      "id": "the_power_of_create_3",
+      "category_id": "power_create",
+      "image_asset": "images/modules/create/create_13.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_3.mp3",
+      "image_text": "Catch!",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "image_text": {
+          "eng": "Catch!"
+        },
+        "media_title": {
+          "eng": "Let’s reflect on the children’s perspective:"
+        },
+        "media_transcript": {
+          "eng": "The children are having fun playing in the garden. They might not want to stop playing in five minutes’ time. If their mother came out and told them to come inside immediately (instead of giving them some warning), they may have found it difficult to listen and do what she asked."
+        }
+      },
+      "media_title": "Let’s reflect on the children’s perspective:",
+      "media_transcript": "The children are having fun playing in the garden. They might not want to stop playing in five minutes’ time. If their mother came out and told them to come inside immediately (instead of giving them some warning), they may have found it difficult to listen and do what she asked."
+    },
+    {
+      "id": "the_power_of_create_4",
+      "category_id": "power_create",
+      "image_asset": "images/modules/create/create_14.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_4.mp2",
+      "image_text": "Neema, Robert - it’s time to put the ball away and come inside now.",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "image_text": {
+          "eng": "Neema, Robert - it’s time to put the ball away and come inside now."
+        },
+        "media_title": {
+          "eng": "Let’s reflect on the caregiver’s actions:"
+        },
+        "media_transcript": {
+          "eng": "The caregiver uses her children’s names so that she makes sure they will pay attention to what she is saying. She tells them exactly what she wants them to do. This makes it easier for her children to follow her instructions."
+        }
+      },
+      "media_title": "Let’s reflect on the caregiver’s actions:",
+      "media_transcript": "The caregiver uses her children’s names so that she makes sure they will pay attention to what she is saying. She tells them exactly what she wants them to do. This makes it easier for her children to follow her instructions."
+    },
+    {
+      "id": "the_power_of_create_5",
+      "category_id": "power_create",
+      "image_asset": "images/modules/create/create_15.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_5.mp3",
+      "image_text": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story.",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "image_text": {
+          "eng": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story."
+        },
+        "media_title": {
+          "eng": "Let’s reflect on the caregiver’s actions:"
+        },
+        "media_transcript": {
+          "eng": "The caregiver praises her children for their positive behaviour before giving them another instruction. As parents I’m sure some of you are thinking: why should I praise my child for just doing the basic things that they should be doing?! That’s a normal thought to have. But praise actually helps you as a parent and can make your life easier. By praising her children before giving them a new instruction, the children are more likely to listen and do what the caregiver is asking."
+        }
+      },
+      "media_title": "Let’s reflect on the caregiver’s actions:",
+      "media_transcript": "The caregiver praises her children for their positive behaviour before giving them another instruction. As parents I’m sure some of you are thinking: why should I praise my child for just doing the basic things that they should be doing?! That’s a normal thought to have. But praise actually helps you as a parent and can make your life easier. By praising her children before giving them a new instruction, the children are more likely to listen and do what the caregiver is asking."
+    },
+    {
+      "id": "the_power_of_create_6",
+      "category_id": "power_create",
+      "image_asset": "images/modules/create/create_16.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_6.mp3",
+      "image_text": "Thank you for washing up so nicely. Let’s sit down and read a story together.",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "image_text": {
+          "eng": "Thank you for washing up so nicely. Let’s sit down and read a story together."
+        },
+        "media_title": {
+          "eng": "Let’s reflect:"
+        },
+        "media_transcript": {
+          "eng": "By using clear, positive instructions and praise to encourage her children, this caregiver successfully managed to get her children to stop their game, come inside and wash their hands. This happened without threats, screaming, tears or tantrums. By reinforcing the praise with a simple reward - like reading a story together - she helps her children to follow instructions more easily in the future."
+        }
+      },
+      "media_title": "Let’s reflect:",
+      "media_transcript": "By using clear, positive instructions and praise to encourage her children, this caregiver successfully managed to get her children to stop their game, come inside and wash their hands. This happened without threats, screaming, tears or tantrums. By reinforcing the praise with a simple reward - like reading a story together - she helps her children to follow instructions more easily in the future."
+    },
+    {
+      "id": "the_power_of_create_7",
+      "category_id": "power_create",
+      "image_asset": "images/modules/create/create_3.gif",
+      "text_1_facilitator": "Remember that what gets light will grow!",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Remember that what gets light will grow!"
+        },
+        "text_2": {
+          "eng": "Positive instead of negative attention works much better to encourage children to behave the way we want them to."
+        }
+      },
+      "text_2": "Positive instead of negative attention works much better to encourage children to behave the way we want them to."
+    },
+    {
+      "id": "using_books_1",
+      "category_id": "books_create",
+      "image_asset": "images/modules/create/create_17.svg",
+      "text_1": "Book activities are a great opportunity to give your child positive attention.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Book activities are a great opportunity to give your child positive attention."
+        },
+        "text_1_facilitator": {
+          "eng": "Here are some ideas for how you can create positive interactions during book activities:"
+        }
+      },
+      "text_1_facilitator": "Here are some ideas for how you can create positive interactions during book activities:"
+    },
+    {
+      "id": "using_books_2",
+      "category_id": "books_create",
+      "image_asset": "images/modules/create/create_18.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/create_03.mp3",
+      "text_1": "As you go through the book together, respond to what your child is saying in a positive and enthusiastic way.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "As you go through the book together, respond to what your child is saying in a positive and enthusiastic way."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Using positive responses such as “great”, “well done”, “that’s right”, “yes, tell me more”, “let’s try”, “how about” or “let’s see” during book activities will encourage your child to feel confident to interact with the book and with you. \nWhen you speak in a positive and enthusiastic way, your child will feel excited and will be eager to learn from the book and the story."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Using positive responses such as “great”, “well done”, “that’s right”, “yes, tell me more”, “let’s try”, “how about” or “let’s see” during book activities will encourage your child to feel confident to interact with the book and with you. \nWhen you speak in a positive and enthusiastic way, your child will feel excited and will be eager to learn from the book and the story."
+    },
+    {
+      "id": "using_books_3",
+      "category_id": "books_create",
+      "image_asset": "images/modules/create/create_19.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/create/create_02.mp3",
+      "text_1": "Avoid being critical or negative.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Avoid being critical or negative."
+        },
+        "text_1_facilitator": {
+          "eng": "Being critical will discourage your child from speaking or engaging in the activity."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right. \nSo, if your child makes a mistake, avoid being critical or negative. You don’t have to be hard on your child, or make fun of them when they don’t know something.\nWhen your child points to a picture and calls it the wrong name – for example pointing to a tomato and calling it an apple, all you need to do is respond with the correct word. Instead of saying “no, that is wrong! How can you say that’s an apple?!” just respond by saying “that’s a tomato” This will help them learn the correct word, without making them feel discouraged to try again."
+        }
+      },
+      "text_1_facilitator": "Being critical will discourage your child from speaking or engaging in the activity.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right. \nSo, if your child makes a mistake, avoid being critical or negative. You don’t have to be hard on your child, or make fun of them when they don’t know something.\nWhen your child points to a picture and calls it the wrong name – for example pointing to a tomato and calling it an apple, all you need to do is respond with the correct word. Instead of saying “no, that is wrong! How can you say that’s an apple?!” just respond by saying “that’s a tomato” This will help them learn the correct word, without making them feel discouraged to try again."
+    },
+    {
+      "id": "using_books_4",
+      "category_id": "books_create",
+      "image_asset": "images/modules/create/create_20.svg",
+      "text_1": "Three easy ways to use book activities to create positive interactions:\n1. Respond in a positive way to what your child is saying\n2. Avoid being critical or negative\n3. Praise your child’s efforts.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Three easy ways to use book activities to create positive interactions:\n1. Respond in a positive way to what your child is saying\n2. Avoid being critical or negative\n3. Praise your child’s efforts."
+        },
+        "text_1_facilitator": {
+          "eng": "Kindness and praise help children feel safe and confident, which helps them learn."
+        }
+      },
+      "text_1_facilitator": "Kindness and praise help children feel safe and confident, which helps them learn."
+    },
+    {
+      "id": "practice_1",
+      "category_id": "practice",
+      "image_asset": "images/modules/create/create_21.svg",
+      "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Find opportunities to give your child positive attention every day.\n📖 Share books with your child in a fun and positive way.\n😌 Remember to praise yourself too for your hard work as a parent.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Find opportunities to give your child positive attention every day.\n📖 Share books with your child in a fun and positive way.\n😌 Remember to praise yourself too for your hard work as a parent."
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

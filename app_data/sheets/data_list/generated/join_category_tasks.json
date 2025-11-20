@@ -1,0 +1,112 @@
+{
+  "flow_name": "join_category_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "title": "Relax",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relax"
+        }
+      }
+    },
+    {
+      "id": "check_in",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Check-in",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-in"
+        }
+      }
+    },
+    {
+      "id": "welcome",
+      "icon_asset": "images/icons/join_icons/welcome.svg",
+      "title": "Welcome!",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Welcome!"
+        }
+      }
+    },
+    {
+      "id": "caring_you",
+      "icon_asset": "images/icons/join_icons/caring_yourself.svg",
+      "title": "Caring for yourself",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Caring for yourself"
+        }
+      }
+    },
+    {
+      "id": "caring_child",
+      "icon_asset": "images/icons/join_icons/caring_yourchild.svg",
+      "title": "Caring for your child",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Caring for your child"
+        }
+      }
+    },
+    {
+      "id": "learn_books",
+      "icon_asset": "images/modules/play/icon_book.svg",
+      "title": "Learning through books",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Learning through books"
+        }
+      }
+    },
+    {
+      "id": "get_started",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Ready to get started?",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ready to get started?"
+        }
+      }
+    }
+  ]
+}

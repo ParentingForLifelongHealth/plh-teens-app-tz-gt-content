@@ -1,0 +1,38 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "book_levels",
+  "status": "released",
+  "data_list_name": "book_levels",
+  "rows": [
+    {
+      "id": "all_levels",
+      "text": "All",
+      "name": "all_levels"
+    },
+    {
+      "id": "level_1",
+      "text": "Level 1",
+      "description": "This is a Level 1 book for children who are eager to begin reading.",
+      "name": "level_1"
+    },
+    {
+      "id": "level_2",
+      "text": "Level 2",
+      "description": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "name": "level_2"
+    },
+    {
+      "id": "level_3",
+      "text": "Level 3",
+      "description": "This is a Level 3 book for children who are ready to read on their own.",
+      "name": "level_3"
+    },
+    {
+      "id": "level_4",
+      "text": "Level 4",
+      "name": "level_4"
+    }
+  ],
+  "_xlsxPath": "books/TZ books data.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

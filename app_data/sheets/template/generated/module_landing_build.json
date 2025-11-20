@@ -1,0 +1,139 @@
+{
+  "flow_name": "module_landing_build",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "data_items",
+      "name": "check_module_completion",
+      "value": "module_tasks",
+      "parameter_list": {
+        "filter": "@item.id == \"build\""
+      },
+      "rows": [
+        {
+          "name": "postcompose",
+          "value": "_start_at_uncompleted_with_congrats",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "check_module_completion.postcompose"
+        },
+        {
+          "type": "template",
+          "name": "module_landing",
+          "value": "module_landing",
+          "action_list": [
+            {
+              "trigger": "completed",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "completed | emit: completed",
+              "_cleaned": "completed | emit: completed"
+            },
+            {
+              "trigger": "uncompleted",
+              "action_id": "emit",
+              "args": [
+                "uncompleted"
+              ],
+              "_raw": "uncompleted | emit: uncompleted",
+              "_cleaned": "uncompleted | emit: uncompleted"
+            }
+          ],
+          "rows": [
+            {
+              "name": "module_id",
+              "value": "build",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "check_module_completion.module_landing.module_id"
+            },
+            {
+              "name": "use_pop_up",
+              "value": true,
+              "condition": "!@item.completed",
+              "type": "set_variable",
+              "_nested_name": "check_module_completion.module_landing.use_pop_up",
+              "_dynamicFields": {
+                "condition": [
+                  {
+                    "fullExpression": "!@item.completed",
+                    "matchedExpression": "!@item.completed",
+                    "type": "item",
+                    "fieldName": "completed"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "!@item.completed": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "name": "module_target_template",
+              "value": "module_build@local.postcompose",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!@item.completed",
+              "type": "set_variable",
+              "_nested_name": "check_module_completion.module_landing.module_target_template",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "module_build@local.postcompose",
+                    "matchedExpression": "@local.postcompose",
+                    "type": "local",
+                    "fieldName": "postcompose"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!@item.completed",
+                    "matchedExpression": "!@item.completed",
+                    "type": "item",
+                    "fieldName": "completed"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.postcompose": [
+                  "value"
+                ],
+                "!@item.completed": [
+                  "condition"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "check_module_completion.module_landing"
+        }
+      ],
+      "_nested_name": "check_module_completion",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == \"build\"",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@item.id": [
+          "parameter_list.filter"
+        ]
+      }
+    }
+  ]
+}

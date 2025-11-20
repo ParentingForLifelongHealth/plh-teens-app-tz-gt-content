@@ -1,0 +1,158 @@
+{
+  "flow_type": "template",
+  "flow_name": "media_transcript",
+  "status": "released",
+  "rows": [
+    {
+      "name": "prepare_id",
+      "value": "id_1",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "prepare_id"
+    },
+    {
+      "name": "module_id",
+      "value": "connect",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "name": "prepare",
+      "value": "prepare",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "prepare"
+    },
+    {
+      "name": "data",
+      "value": "@local.prepare",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.prepare",
+            "matchedExpression": "@local.prepare",
+            "type": "local",
+            "fieldName": "prepare"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "concat_prepare_id",
+      "value": "@local.data.@local.prepare_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "concat_prepare_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data.@local.prepare_id",
+            "matchedExpression": "@local.data",
+            "type": "local",
+            "fieldName": "data"
+          },
+          {
+            "fullExpression": "@local.data.@local.prepare_id",
+            "matchedExpression": "@local.prepare_id",
+            "type": "local",
+            "fieldName": "prepare_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data": [
+          "value"
+        ],
+        "@local.prepare_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "prepare_data",
+      "value": "@data.@local.concat_prepare_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "prepare_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_prepare_id",
+            "matchedExpression": "@local.concat_prepare_id",
+            "type": "local",
+            "fieldName": "concat_prepare_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_prepare_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "join"
+    },
+    {
+      "type": "text",
+      "name": "media_transcript",
+      "value": "@local.article_data.media_transcript",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "media_transcript",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.article_data.media_transcript",
+            "matchedExpression": "@local.article_data.media_transcript",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.article_data.media_transcript": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "books/TZ prepare templates.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

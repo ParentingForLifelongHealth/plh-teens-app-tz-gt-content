@@ -1,0 +1,22 @@
+{
+  "flow_name": "prep_care_categories",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "concat",
+      "args_list": [
+        "common_categories",
+        "care_categories"
+      ],
+      "output_target": "care_category_tasks"
+    }
+  ],
+  "_output_flows": [
+    {
+      "flow_name": "care_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

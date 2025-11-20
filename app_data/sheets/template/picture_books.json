@@ -1,0 +1,36 @@
+{
+  "flow_type": "template",
+  "flow_name": "picture_books",
+  "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_HEADER_DEFAULTS": {
+        "hidden": true
+      }
+    }
+  },
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Library",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "condition": false,
+      "_nested_name": "title"
+    },
+    {
+      "type": "template",
+      "name": "library_books",
+      "value": "lib_books",
+      "exclude_from_translation": true,
+      "rows": [],
+      "_nested_name": "library_books"
+    }
+  ],
+  "_xlsxPath": "books/picture_books.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

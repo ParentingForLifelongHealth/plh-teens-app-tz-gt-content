@@ -1,0 +1,29 @@
+{
+  "flow_type": "template",
+  "flow_name": "app_header",
+  "status": "released",
+  "rows": [
+    {
+      "type": "round_button",
+      "name": "back",
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "nav",
+          "args": [
+            "back"
+          ],
+          "_raw": "click | nav: back",
+          "_cleaned": "click | nav: back"
+        }
+      ],
+      "parameter_list": {
+        "icon_src": "chevron-back",
+        "variant": "navigation"
+      },
+      "_nested_name": "back"
+    }
+  ],
+  "_xlsxPath": "TZ app_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

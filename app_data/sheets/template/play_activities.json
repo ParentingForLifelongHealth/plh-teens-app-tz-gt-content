@@ -1,0 +1,73 @@
+{
+  "flow_type": "template",
+  "flow_name": "play_activities",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "activities",
+      "value": "activities",
+      "rows": [
+        {
+          "name": "fav_page",
+          "value": "fav_play",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.fav_page"
+        },
+        {
+          "name": "activity",
+          "value": "Learning Through Play",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.activity"
+        },
+        {
+          "name": "tags",
+          "value": "play_tags",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.tags"
+        },
+        {
+          "name": "data_list",
+          "value": "play",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.data_list"
+        },
+        {
+          "name": "data_list_in_loop",
+          "value": "play",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.data_list_in_loop"
+        },
+        {
+          "name": "go_to_template_prefix",
+          "value": "play_",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.go_to_template_prefix"
+        }
+      ],
+      "_nested_name": "activities"
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

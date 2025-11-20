@@ -1,0 +1,160 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "book_tags",
+  "status": "released",
+  "data_list_name": "book_tags",
+  "rows": [
+    {
+      "id": "animals",
+      "name": "animals",
+      "text": "Animals",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Animals"
+        }
+      }
+    },
+    {
+      "id": "nature",
+      "name": "nature",
+      "text": "Nature",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Nature"
+        }
+      }
+    },
+    {
+      "id": "emotions",
+      "name": "emotions",
+      "text": "Emotions",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Emotions"
+        }
+      }
+    },
+    {
+      "id": "life_skills",
+      "name": "life_skills",
+      "text": "Life Skills",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Life Skills"
+        }
+      }
+    },
+    {
+      "id": "adventure",
+      "name": "adventure",
+      "text": "Adventure",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Adventure"
+        }
+      }
+    },
+    {
+      "id": "learn",
+      "name": "learn",
+      "text": "Let's Learn",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Let's Learn"
+        }
+      }
+    },
+    {
+      "id": "family",
+      "name": "family",
+      "text": "Family",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Family"
+        }
+      }
+    },
+    {
+      "id": "friends",
+      "name": "friends",
+      "text": "Friends",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Friends"
+        }
+      }
+    },
+    {
+      "id": "play",
+      "name": "play",
+      "text": "Let's Play",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Let's Play"
+        }
+      }
+    },
+    {
+      "id": "count",
+      "name": "count",
+      "text": "Let's Count",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Let's Count"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "books/TZ books data.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

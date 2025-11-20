@@ -1,0 +1,54 @@
+{
+  "flow_name": "module_care_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "images/modules/care/care_title_image.svg",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "image"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Well done for finishing the CARE module! \nHere is a song to celebrate you!",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    },
+    {
+      "type": "audio",
+      "name": "audio",
+      "value": "audio/songs/watoto_wangu_ehh.mp3",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "audio"
+    },
+    {
+      "type": "button",
+      "name": "odk_button",
+      "value": "Feedback",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "odk_form"
+          ],
+          "_raw": "click |  go_to: odk_form",
+          "_cleaned": "click |  go_to: odk_form"
+        }
+      ],
+      "_nested_name": "odk_button"
+    }
+  ]
+}

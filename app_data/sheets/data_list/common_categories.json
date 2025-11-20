@@ -1,0 +1,40 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "common_categories",
+  "data_list_name": "common_categories",
+  "status": "released",
+  "rows": [
+    {
+      "id": "relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "title": "Relax",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relax"
+        }
+      }
+    },
+    {
+      "id": "check_in",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Check-in",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-in"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

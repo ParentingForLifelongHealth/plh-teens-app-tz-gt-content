@@ -1,0 +1,621 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "prepare",
+  "data_list_name": "prepare",
+  "status": "released",
+  "rows": [
+    {
+      "id": "join_1",
+      "module_id": "join",
+      "book_id": "little_shoots",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=pDMy4uQrGRQ",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Ideas for book activities",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ideas for book activities"
+        }
+      }
+    },
+    {
+      "id": "join_2",
+      "module_id": "join",
+      "book_id": "things_that_matter",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=33l261vBt1s",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=33l261vBt1s",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "More ideas for book activities",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "More ideas for book activities"
+        }
+      }
+    },
+    {
+      "id": "join_3",
+      "module_id": "join",
+      "book_id": "when_grow_up",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "connect_1",
+      "module_id": "connect",
+      "book_id": "to_the_top",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=Nm6fSxi6cO0",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=Wg8bZCzIJ28",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Being responsive during book activities",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Being responsive during book activities"
+        }
+      }
+    },
+    {
+      "id": "connect_2",
+      "module_id": "connect",
+      "book_id": "moms_red_coat",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=whWQJGYhQ4M",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=D6UV5Zu8jwE",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Using books to build your child's vocabulary",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books to build your child's vocabulary"
+        }
+      }
+    },
+    {
+      "id": "connect_3",
+      "module_id": "connect",
+      "book_id": "bee_and_elephant",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "create_1",
+      "module_id": "create",
+      "book_id": "babys_first_photo",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=9MZY9uDurE4",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=E2LNLEtnP7o",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Creating positive experiences",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Creating positive experiences"
+        }
+      }
+    },
+    {
+      "id": "create_2",
+      "module_id": "create",
+      "book_id": "shongololo_s_shoes",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=yDuKs6G9LNI",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=AoA9yiZJR28",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Bringing the book’s story to life",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Bringing the book’s story to life"
+        }
+      }
+    },
+    {
+      "id": "create_3",
+      "module_id": "create",
+      "book_id": "yes_you_can",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "play_1",
+      "module_id": "play",
+      "book_id": "lesedis_sandbox",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Using books in playful ways",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books in playful ways"
+        }
+      }
+    },
+    {
+      "id": "play_2",
+      "module_id": "play",
+      "book_id": "lefas_bath",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=LAWO0cwEOCQ",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=ASKuT2zZ7j8",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Using books to talk about feelings",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books to talk about feelings"
+        }
+      }
+    },
+    {
+      "id": "play_3",
+      "module_id": "play",
+      "book_id": "mama_whats_for_lunch",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "talk_1",
+      "module_id": "talk",
+      "book_id": "jasu_loves_football",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "talk_2",
+      "module_id": "talk",
+      "book_id": "no_go_sleep",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "talk_3",
+      "module_id": "talk",
+      "book_id": "scared_tumi",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "build_1",
+      "module_id": "build",
+      "book_id": "fifi_and_teddy",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "build_2",
+      "module_id": "build",
+      "book_id": "lost_toy",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "build_3",
+      "module_id": "build",
+      "book_id": "angry_akku",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "explore_1",
+      "module_id": "explore",
+      "book_id": "zibu_and_zizo",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "explore_2",
+      "module_id": "explore",
+      "book_id": "big_blue_bus",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "explore_3",
+      "module_id": "explore",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "care_1",
+      "module_id": "care",
+      "book_id": "decision",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "care_2",
+      "module_id": "care",
+      "book_id": "my_inside_weather",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "care_3",
+      "module_id": "care",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "reflect_1",
+      "module_id": "reflect",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "reflect_2",
+      "module_id": "reflect",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "reflect_3",
+      "module_id": "reflect",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "id_22",
+      "module_id": "id",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "id_23",
+      "module_id": "id",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "id_24",
+      "module_id": "id",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    },
+    {
+      "id": "id_25",
+      "module_id": "id",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
+      "title": "Prepare",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "books/TZ prepare data.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

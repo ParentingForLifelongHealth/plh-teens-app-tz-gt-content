@@ -1,0 +1,167 @@
+{
+  "flow_type": "template",
+  "flow_name": "resource_centre",
+  "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_HEADER_DEFAULTS": {
+        "hidden": true
+      }
+    }
+  },
+  "rows": [
+    {
+      "type": "title",
+      "value": "Resource Centre",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "name": "title_2",
+      "_nested_name": "title_2"
+    },
+    {
+      "name": "activity",
+      "value": "_activities",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "activity"
+    },
+    {
+      "type": "items",
+      "name": "items_loop",
+      "value": "@data.resource_categories",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "task_card",
+          "name": "task_card_1",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "@item.id@local.activity"
+              ],
+              "_raw": "click |  go_to: @item.id@local.activity",
+              "_cleaned": "click |  go_to: @item.id@local.activity"
+            }
+          ],
+          "parameter_list": {
+            "title": "@item.name",
+            "image": "@item.image_asset",
+            "variant": "button"
+          },
+          "_nested_name": "items_loop.task_card_1",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@item.id@local.activity",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    },
+                    {
+                      "fullExpression": "@item.id@local.activity",
+                      "matchedExpression": "@local.activity",
+                      "type": "local",
+                      "fieldName": "activity"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@local.activity",
+                    "type": "local",
+                    "fieldName": "activity"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@local.activity",
+                    "type": "local",
+                    "fieldName": "activity"
+                  }
+                ]
+              }
+            },
+            "parameter_list": {
+              "title": [
+                {
+                  "fullExpression": "@item.name",
+                  "matchedExpression": "@item.name",
+                  "type": "item",
+                  "fieldName": "name"
+                }
+              ],
+              "image": [
+                {
+                  "fullExpression": "@item.image_asset",
+                  "matchedExpression": "@item.image_asset",
+                  "type": "item",
+                  "fieldName": "image_asset"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@local.activity": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@item.name": [
+              "parameter_list.title"
+            ],
+            "@item.image_asset": [
+              "parameter_list.image"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "items_loop",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.resource_categories",
+            "matchedExpression": "@data.resource_categories",
+            "type": "data",
+            "fieldName": "resource_categories"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.resource_categories": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

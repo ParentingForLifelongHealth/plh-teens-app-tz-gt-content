@@ -1,0 +1,77 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "care_categories",
+  "data_list_name": "care_categories",
+  "status": "released",
+  "rows": [
+    {
+      "id": "why_care",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Why CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Why CARE"
+        }
+      }
+    },
+    {
+      "id": "how_care",
+      "icon_asset": "images/modules/play/icon_light_bulb.svg",
+      "title": "How to CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to CARE"
+        }
+      }
+    },
+    {
+      "id": "power_care",
+      "icon_asset": "images/modules/play/icon_star.svg",
+      "title": "The power of CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The power of CARE"
+        }
+      }
+    },
+    {
+      "id": "books_care",
+      "icon_asset": "images/modules/play/icon_book.svg",
+      "title": "Using books to CARE",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books to CARE"
+        }
+      }
+    },
+    {
+      "id": "practice",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Ready to practice?",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ready to practice?"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

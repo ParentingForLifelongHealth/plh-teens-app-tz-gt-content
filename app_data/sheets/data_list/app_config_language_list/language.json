@@ -1,0 +1,33 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "language",
+  "status": "released",
+  "data_list_name": "language",
+  "flow_subtype": "app_config_language_list",
+  "rows": [
+    {
+      "id": "gb_en",
+      "country_code": "gb",
+      "country_label": "United Kingdom",
+      "country_icon": "images/flags/gb.svg",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "gb_en",
+      "text": "English",
+      "image": "images/flags/gb.svg"
+    },
+    {
+      "id": "tz_sw",
+      "country_code": "tz",
+      "country_label": "Tanzania",
+      "country_icon": "images/flags/tz.svg",
+      "language_code": "sw",
+      "language_label": "Kiswahili",
+      "name": "tz_sw",
+      "text": "Kiswahili",
+      "image": "images/flags/tz.svg"
+    }
+  ],
+  "_xlsxPath": "deployment_data_tz.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

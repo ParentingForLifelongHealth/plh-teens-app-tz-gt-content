@@ -1,0 +1,176 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "play_tags",
+  "data_list_name": "play_tags",
+  "status": "released",
+  "rows": [
+    {
+      "id": "everyday",
+      "attached_single_doc": "https://docs.google.com/document/d/1VWRi_cCZY6JEU619WkwdpZCTd4SJZhnAxxYMSnZD56I",
+      "name": "everyday",
+      "_translations": {
+        "name": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "everyday"
+        },
+        "title": {
+          "eng": "Everyday activities"
+        },
+        "text": {
+          "eng": "Everyday activities"
+        },
+        "description": {
+          "eng": "Have fun AND learn through everyday activities."
+        }
+      },
+      "title": "Everyday activities",
+      "text": "Everyday activities",
+      "description": "Have fun AND learn through everyday activities."
+    },
+    {
+      "id": "home",
+      "name": "home",
+      "_translations": {
+        "name": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "home"
+        },
+        "title": {
+          "eng": "Learning at home"
+        },
+        "text": {
+          "eng": "Learning at home"
+        },
+        "description": {
+          "eng": "Help grow your child’s skills for school and life."
+        }
+      },
+      "title": "Learning at home",
+      "text": "Learning at home",
+      "description": "Help grow your child’s skills for school and life."
+    },
+    {
+      "id": "pretend",
+      "name": "pretend",
+      "_translations": {
+        "name": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "pretend"
+        },
+        "title": {
+          "eng": "Pretend play"
+        },
+        "text": {
+          "eng": "Pretend play"
+        },
+        "description": {
+          "eng": "Encourage your child’s imagination and creativity."
+        }
+      },
+      "title": "Pretend play",
+      "text": "Pretend play",
+      "description": "Encourage your child’s imagination and creativity."
+    },
+    {
+      "id": "chat",
+      "name": "chat",
+      "_translations": {
+        "name": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "chat"
+        },
+        "title": {
+          "eng": "Chat together"
+        },
+        "text": {
+          "eng": "Chat together"
+        },
+        "description": {
+          "eng": "Talk with each other to get to know each other better."
+        }
+      },
+      "title": "Chat together",
+      "text": "Chat together",
+      "description": "Talk with each other to get to know each other better."
+    },
+    {
+      "id": "move",
+      "name": "move",
+      "_translations": {
+        "name": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "move"
+        },
+        "title": {
+          "eng": "Move your body"
+        },
+        "text": {
+          "eng": "Move your body"
+        },
+        "description": {
+          "eng": "Moving your body to relax and spend time together."
+        }
+      },
+      "title": "Move your body",
+      "text": "Move your body",
+      "description": "Moving your body to relax and spend time together."
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ activities.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

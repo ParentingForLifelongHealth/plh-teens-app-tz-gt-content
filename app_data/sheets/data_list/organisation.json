@@ -1,0 +1,28 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "organisation",
+  "status": "released",
+  "data_list_name": "organisation",
+  "rows": [
+    {
+      "id": "organisation_7",
+      "name": "PLH",
+      "image_asset": "images/logos/PLH.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_8",
+      "name": "IDEMS",
+      "image_asset": "images/logos/IDEMS.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_11",
+      "name": "LEGO",
+      "image_asset": "images/logos/lego_foundation.png",
+      "group": "funders"
+    }
+  ],
+  "_xlsxPath": "deployment_data_tz.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

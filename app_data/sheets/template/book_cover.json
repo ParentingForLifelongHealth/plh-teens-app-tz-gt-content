@@ -1,0 +1,664 @@
+{
+  "flow_type": "template",
+  "flow_name": "book_cover",
+  "status": "released",
+  "rows": [
+    {
+      "name": "book_id",
+      "value": "who_took_my_shoe",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "book_id"
+    },
+    {
+      "name": "book",
+      "value": "books",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "book"
+    },
+    {
+      "name": "data",
+      "value": "@local.book",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book",
+            "matchedExpression": "@local.book",
+            "type": "local",
+            "fieldName": "book"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "concat_book_id",
+      "value": "@local.data.@local.book_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "concat_book_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data.@local.book_id",
+            "matchedExpression": "@local.data",
+            "type": "local",
+            "fieldName": "data"
+          },
+          {
+            "fullExpression": "@local.data.@local.book_id",
+            "matchedExpression": "@local.book_id",
+            "type": "local",
+            "fieldName": "book_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data": [
+          "value"
+        ],
+        "@local.book_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "book_data",
+      "value": "@data.@local.concat_book_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "book_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_book_id",
+            "matchedExpression": "@local.concat_book_id",
+            "type": "local",
+            "fieldName": "concat_book_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_book_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "join"
+    },
+    {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_8",
+      "_nested_name": "set_variable_8"
+    },
+    {
+      "name": "level_id",
+      "value": "@local.book_data.level_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "level_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book_data.level_id",
+            "matchedExpression": "@local.book_data.level_id",
+            "type": "local",
+            "fieldName": "book_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book_data.level_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "book_level",
+      "value": "book_levels",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "book_level"
+    },
+    {
+      "name": "description",
+      "value": "description",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "description"
+    },
+    {
+      "name": "concat_level_id",
+      "value": "@local.book_level.@local.level_id.@local.description",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "concat_level_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book_level.@local.level_id.@local.description",
+            "matchedExpression": "@local.book_level",
+            "type": "local",
+            "fieldName": "book_level"
+          },
+          {
+            "fullExpression": "@local.book_level.@local.level_id.@local.description",
+            "matchedExpression": "@local.level_id",
+            "type": "local",
+            "fieldName": "level_id"
+          },
+          {
+            "fullExpression": "@local.book_level.@local.level_id.@local.description",
+            "matchedExpression": "@local.description",
+            "type": "local",
+            "fieldName": "description"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book_level": [
+          "value"
+        ],
+        "@local.level_id": [
+          "value"
+        ],
+        "@local.description": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "level_description",
+      "value": "@data.@local.concat_level_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "level_description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_level_id",
+            "matchedExpression": "@local.concat_level_id",
+            "type": "local",
+            "fieldName": "concat_level_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_level_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "attribution",
+      "value": "Attribution",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "attribution"
+    },
+    {
+      "name": "author",
+      "value": "Author",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "author"
+    },
+    {
+      "name": "illustrator",
+      "value": "Illustrator",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "illustrator"
+    },
+    {
+      "name": "editor",
+      "value": "Editor",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "editor"
+    },
+    {
+      "name": "designer",
+      "value": "Designer",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "designer"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_1",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "value": "@local.book_data.title",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "flex:2"
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "dg_1.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.book_data.title",
+                "matchedExpression": "@local.book_data.title",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.book_data.title": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "image",
+          "name": "image_cover_asset",
+          "value": "@local.book_data.image_cover_asset",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "flex:1"
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "dg_1.image_cover_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.book_data.image_cover_asset",
+                "matchedExpression": "@local.book_data.image_cover_asset",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.book_data.image_cover_asset": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_1"
+    },
+    {
+      "type": "text",
+      "name": "description",
+      "value": "@local.book_data.description",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book_data.description",
+            "matchedExpression": "@local.book_data.description",
+            "type": "local",
+            "fieldName": "book_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book_data.description": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "accordion",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "acc_1",
+          "value": "@local.attribution",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "display_group",
+              "name": "dg_2",
+              "parameter_list": {
+                "style": "column"
+              },
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "type": "text",
+                  "name": "author_illustrator",
+                  "value": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "exclude_from_translation": true,
+                  "_nested_name": "accordion_22.acc_1.dg_2.author_illustrator",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.author",
+                        "type": "local",
+                        "fieldName": "author"
+                      },
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.book_data.author",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      },
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.illustrator",
+                        "type": "local",
+                        "fieldName": "illustrator"
+                      },
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.book_data.illustrator",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      },
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.editor",
+                        "type": "local",
+                        "fieldName": "editor"
+                      },
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.book_data.editor",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      },
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.designer",
+                        "type": "local",
+                        "fieldName": "designer"
+                      },
+                      {
+                        "fullExpression": "**@local.author:** @local.book_data.author\n**@local.illustrator:** @local.book_data.illustrator\n**@local.editor:** @local.book_data.editor\n**@local.designer:** @local.book_data.designer",
+                        "matchedExpression": "@local.book_data.designer",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.author": [
+                      "value"
+                    ],
+                    "@local.book_data.author": [
+                      "value"
+                    ],
+                    "@local.illustrator": [
+                      "value"
+                    ],
+                    "@local.book_data.illustrator": [
+                      "value"
+                    ],
+                    "@local.editor": [
+                      "value"
+                    ],
+                    "@local.book_data.editor": [
+                      "value"
+                    ],
+                    "@local.designer": [
+                      "value"
+                    ],
+                    "@local.book_data.designer": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "name": "print_level_description",
+                  "value": "@local.level_description",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "condition": "!!@local.level_description",
+                  "exclude_from_translation": true,
+                  "_nested_name": "accordion_22.acc_1.dg_2.print_level_description",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.level_description",
+                        "matchedExpression": "@local.level_description",
+                        "type": "local",
+                        "fieldName": "level_description"
+                      }
+                    ],
+                    "condition": [
+                      {
+                        "fullExpression": "!!@local.level_description",
+                        "matchedExpression": "!@local.level_description",
+                        "type": "local",
+                        "fieldName": "level_description"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.level_description": [
+                      "value"
+                    ],
+                    "!@local.level_description": [
+                      "condition"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "name": "licence",
+                  "value": "@local.book_data.licence",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "condition": "!!@local.book_data.licence",
+                  "exclude_from_translation": true,
+                  "_nested_name": "accordion_22.acc_1.dg_2.licence",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.book_data.licence",
+                        "matchedExpression": "@local.book_data.licence",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      }
+                    ],
+                    "condition": [
+                      {
+                        "fullExpression": "!!@local.book_data.licence",
+                        "matchedExpression": "!@local.book_data.licence",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.book_data.licence": [
+                      "value"
+                    ],
+                    "!@local.book_data.licence": [
+                      "condition"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "accordion_22.acc_1.dg_2"
+            }
+          ],
+          "_nested_name": "accordion_22.acc_1",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.attribution",
+                "matchedExpression": "@local.attribution",
+                "type": "local",
+                "fieldName": "attribution"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.attribution": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "accordion_22",
+      "_nested_name": "accordion_22"
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Start Reading",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_book_id",
+            "@local.book_data.id"
+          ],
+          "_raw": "click | set_field: current_book_id: @local.book_data.id",
+          "_cleaned": "click | set_field: current_book_id: @local.book_data.id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "book_page"
+          ],
+          "_raw": "click | pop_up: book_page | fullscreen: true",
+          "_cleaned": "click | pop_up: book_page | fullscreen: true",
+          "params": {
+            "fullscreen": true
+          }
+        }
+      ],
+      "parameter_list": {
+        "style": "navigation"
+      },
+      "_nested_name": "button",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.book_data.id",
+                  "matchedExpression": "@local.book_data.id",
+                  "type": "local",
+                  "fieldName": "book_data"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: current_book_id: @local.book_data.id",
+                "matchedExpression": "@local.book_data.id",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: current_book_id: @local.book_data.id",
+                "matchedExpression": "@local.book_data.id",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.book_data.id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "books/picture_books.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

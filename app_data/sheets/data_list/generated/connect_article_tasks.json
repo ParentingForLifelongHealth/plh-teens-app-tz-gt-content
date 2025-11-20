@@ -1,0 +1,688 @@
+{
+  "flow_name": "connect_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_10",
+      "lottie_asset": "lottie/bulging_circles.json",
+      "media_asset": "audio/relax/relax_10.mp3",
+      "media_type": "audio",
+      "tag_list": [
+        "notice"
+      ],
+      "image_cover_asset": "images/relax/relax_10.svg",
+      "title": "Feel the Ground",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feel the Ground"
+        },
+        "transcript": {
+          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+        }
+      },
+      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+      "category_id": "relax",
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1AUTWhsdOO6sBN5ffSyHEIiXseZ4TTlXLbnMLLOa2hXM",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "why_connect_1",
+      "media_asset": "audio/modules/connect/connect_01.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1PAWPEQpGAcIjyAUbXC2O0uSkRawq1MxFgHf9Im9lqps",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, we are focusing on the topic of **CONNECTION**."
+        },
+        "text_2": {
+          "eng": "Connecting with your child and spending quality time together makes a big difference to their development."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Connection is the feeling you have with those special people in your life where you feel safe to be yourself and that they support you no matter what. It’s when you feel seen, understood and valued.\n\nChildren who have a strong connection with their caregivers are healthier, have better relationships, and find it easier to overcome challenges. The simple act of spending some one-on-one time with your child on a regular basis can make a big difference to their lives."
+        }
+      },
+      "category_id": "why_connect",
+      "text_1": "This week, we are focusing on the topic of **CONNECTION**.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_1.svg",
+      "text_2": "Connecting with your child and spending quality time together makes a big difference to their development.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Connection is the feeling you have with those special people in your life where you feel safe to be yourself and that they support you no matter what. It’s when you feel seen, understood and valued.\n\nChildren who have a strong connection with their caregivers are healthier, have better relationships, and find it easier to overcome challenges. The simple act of spending some one-on-one time with your child on a regular basis can make a big difference to their lives.",
+      "completed": false
+    },
+    {
+      "id": "why_connect_2",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_2": {
+          "eng": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **connecting with your child** forms a part of the garden image."
+        }
+      },
+      "category_id": "why_connect",
+      "image_asset": "images/modules/connect/connect_2.svg",
+      "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **connecting with your child** forms a part of the garden image.",
+      "completed": false
+    },
+    {
+      "id": "why_connect_3",
+      "media_asset": "audio/modules/connect/connect_02.mp3",
+      "media_type": "audio",
+      "title": "The ParentApp Garden",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "A plant that is firmly connected to the soil can grow strong roots and withstand storms. Children need strong connections with their caregivers to grow and thrive."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "When a plant is firmly connected to the soil, it grows strong and healthy roots. In the same way, a child who feels supported and close to their parents will have a safe foundation from which to grow and learn.\n\nWhen roots are strong, plants can survive storms and bad weather. When children have strong connections with their caregivers, they can overcome challenges and cope with difficulties."
+        }
+      },
+      "category_id": "why_connect",
+      "text_1": "A plant that is firmly connected to the soil can grow strong roots and withstand storms. Children need strong connections with their caregivers to grow and thrive.",
+      "image_asset": "images/modules/connect/connect_3.gif",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "When a plant is firmly connected to the soil, it grows strong and healthy roots. In the same way, a child who feels supported and close to their parents will have a safe foundation from which to grow and learn.\n\nWhen roots are strong, plants can survive storms and bad weather. When children have strong connections with their caregivers, they can overcome challenges and cope with difficulties.",
+      "completed": false
+    },
+    {
+      "id": "how_to_connect_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Connecting with your child is when you focus on them and show interest in what they are doing or saying."
+        },
+        "text_1_facilitator": {
+          "eng": "Here’s how to get started:"
+        },
+        "text_2": {
+          "eng": "**Make time to connect on a regular basis.**\n\nEven 10-15 minutes can make a big difference. See it as an opportunity to take a break and relax together."
+        }
+      },
+      "category_id": "how_connect",
+      "text_1": "Connecting with your child is when you focus on them and show interest in what they are doing or saying.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_4.svg",
+      "text_2": "**Make time to connect on a regular basis.**\n\nEven 10-15 minutes can make a big difference. See it as an opportunity to take a break and relax together.",
+      "text_1_facilitator": "Here’s how to get started:",
+      "completed": false
+    },
+    {
+      "id": "how_to_connect_2",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "During one-on-one time, **give your child your full attention.** \n\nTo help you focus on your child during one-on-one time, try to minimise distractions."
+        },
+        "quiz_1_question": {
+          "eng": "What might distract you during one-on-one time?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "My to-do list"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "This is something that happens to all parents! It is normal to get distracted. \n\nIf you find yourself thinking about other things, that’s okay. Notice when this happens and bring your focus to your child."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Other children needing my attention"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "It can be really hard to focus on one child when you are also caring for other children.\n\nTry to set up tasks or activities for your other children before-hand. There might still be interruptions, and that’s also okay."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Incoming calls or messages"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "We are all easily distracted by our phones. Putting your phone away or putting it on silent could help."
+        }
+      },
+      "category_id": "how_connect",
+      "quiz_1_feedback_1": "This is something that happens to all parents! It is normal to get distracted. \n\nIf you find yourself thinking about other things, that’s okay. Notice when this happens and bring your focus to your child.",
+      "_translations": {
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_2": "It can be really hard to focus on one child when you are also caring for other children.\n\nTry to set up tasks or activities for your other children before-hand. There might still be interruptions, and that’s also okay.",
+      "quiz_1_feedback_3": "We are all easily distracted by our phones. Putting your phone away or putting it on silent could help.",
+      "quiz_1_question": "What might distract you during one-on-one time?",
+      "quiz_1_option_1_text": "My to-do list",
+      "quiz_1_option_2_text": "Other children needing my attention",
+      "quiz_1_option_3_text": "Incoming calls or messages",
+      "image_asset": "images/modules/connect/connect_5.svg",
+      "text_2": "During one-on-one time, **give your child your full attention.** \n\nTo help you focus on your child during one-on-one time, try to minimise distractions.",
+      "completed": false
+    },
+    {
+      "id": "how_to_connect_3",
+      "media_asset": "audio/modules/connect/connect_03.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "During one-on-one time, **be responsive and enthusiastic.**\n\nRespond to what your child is doing and saying with enthusiasm and encouragement."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "As you spend time together, pay attention to what your child is doing or saying. \nRespond to what your child is doing with enthusiasm and praise. Try not to be critical or negative during one-on-one time.\nGiving your child your full attention and responding with enthusiasm helps them to feel close and connected to you."
+        }
+      },
+      "category_id": "how_connect",
+      "image_asset": "images/modules/connect/connect_6.svg",
+      "text_2": "During one-on-one time, **be responsive and enthusiastic.**\n\nRespond to what your child is doing and saying with enthusiasm and encouragement.",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "As you spend time together, pay attention to what your child is doing or saying. \nRespond to what your child is doing with enthusiasm and praise. Try not to be critical or negative during one-on-one time.\nGiving your child your full attention and responding with enthusiasm helps them to feel close and connected to you.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_connection_1",
+      "media_asset": "audio/modules/connect/connect_04.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "When I first heard I had to spend one-on-one time with my child, it was hard for me. I’m always doing things for my child, why do I need to get involved if they are playing happily by themselves? I did not want to spoil my child so that he thinks we have to do everything together. \n\nBut after thinking about how good I feel when someone makes an effort to spend time with me and to listen to me, I thought that this might be really good for my child as well. So I decided to try it. \n\nI sat down next to my child and suggested that we draw a picture together. I asked her what she would like to draw. She suggested we draw our house and garden. I asked her what she would like me to draw, and she said I can draw the tree outside our house, while she draws the house. It was actually really relaxing to sit and do something together. We had a nice discussion about some of our favourite things about our home and what we enjoy doing together as a family."
+        }
+      },
+      "category_id": "power_connect",
+      "media_title": "Listen to learn more:",
+      "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "media_transcript": "When I first heard I had to spend one-on-one time with my child, it was hard for me. I’m always doing things for my child, why do I need to get involved if they are playing happily by themselves? I did not want to spoil my child so that he thinks we have to do everything together. \n\nBut after thinking about how good I feel when someone makes an effort to spend time with me and to listen to me, I thought that this might be really good for my child as well. So I decided to try it. \n\nI sat down next to my child and suggested that we draw a picture together. I asked her what she would like to draw. She suggested we draw our house and garden. I asked her what she would like me to draw, and she said I can draw the tree outside our house, while she draws the house. It was actually really relaxing to sit and do something together. We had a nice discussion about some of our favourite things about our home and what we enjoy doing together as a family.",
+      "text_1_facilitator": "Let’s hear from a caregiver:",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_connection_2",
+      "media_asset": "audio/modules/connect/connect_05.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Did you know: connecting with your child can help reduce negative behaviours."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "When our children are being difficult, it can be even harder to find the time and energy to connect with them. But this is often when children benefit from connection the most. \n\nChildren are more likely to act out when they feel unseen or unsupported. If you notice your child is being difficult or acting out, try to make some time to connect with them and spend one-on-one time together."
+        }
+      },
+      "category_id": "power_connect",
+      "text_1": "Did you know: connecting with your child can help reduce negative behaviours.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_7.svg",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "When our children are being difficult, it can be even harder to find the time and energy to connect with them. But this is often when children benefit from connection the most. \n\nChildren are more likely to act out when they feel unseen or unsupported. If you notice your child is being difficult or acting out, try to make some time to connect with them and spend one-on-one time together.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_connection_3",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?"
+        }
+      },
+      "category_id": "power_connect",
+      "image_asset": "images/modules/connect/connect_8.svg",
+      "image_text": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_connection_4",
+      "media_asset": "audio/modules/connect/connect_06.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Remember that what you experience, you can express. What you pour into your child’s cup is what will pour out. When your child experiences kindness and understanding, they learn how to do the same for other people. \n\nThis does not mean that you allow your child to do whatever they want without consequences. You can support your child to improve their behaviour while still showing them that your love for them does not change."
+        }
+      },
+      "category_id": "power_connect",
+      "media_title": "Listen to learn more:",
+      "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "media_transcript": "Remember that what you experience, you can express. What you pour into your child’s cup is what will pour out. When your child experiences kindness and understanding, they learn how to do the same for other people. \n\nThis does not mean that you allow your child to do whatever they want without consequences. You can support your child to improve their behaviour while still showing them that your love for them does not change.",
+      "text_1_facilitator": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy.",
+      "completed": false
+    },
+    {
+      "id": "using_books_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Sharing a book with your child is a great way to connect and spend quality time together."
+        },
+        "text_1_facilitator": {
+          "eng": "Here are some ideas for how you can use book activities to connect."
+        }
+      },
+      "category_id": "books_connect",
+      "text_1": "Sharing a book with your child is a great way to connect and spend quality time together.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_9.svg",
+      "text_1_facilitator": "Here are some ideas for how you can use book activities to connect.",
+      "completed": false
+    },
+    {
+      "id": "using_books_2",
+      "media_type": "youtube",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Make book and story activities part of your daily routine."
+        },
+        "media_title": {
+          "eng": "Watch this video to learn more:"
+        },
+        "media_transcript": {
+          "eng": "By reading together every day, your child will learn to love books and enjoy reading. The more time children spend looking at books, the more they learn. So, make reading part of your daily routine.\n\nEven in a busy day, find some time to look at books and read with your child. Even 10 minutes a day can make the world of difference.\n\nFind a time that works best for your family. This might be first thing in the morning or towards the end of the day when you want your child to come inside. Reading before bedtime can also help children fall asleep easier."
+        },
+        "quiz_1_question": {
+          "eng": "What time do you think will work for your family?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Morning"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "A book activity in the morning can be a great way to connect with your child and help start their day on the right note."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Afternoon"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Sharing a book together in the afternoon can be a great way to connect and take a break during a busy day."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Evening"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Book activities before bedtime is a great way to help children settle down and fall asleep easier."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Weekends"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "It can be really hard to find time during the busy week for book activities. Weekends are a great time to catch up with children and connect."
+        }
+      },
+      "category_id": "books_connect",
+      "text_1": "Make book and story activities part of your daily routine.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_1": "A book activity in the morning can be a great way to connect with your child and help start their day on the right note.",
+      "quiz_1_feedback_2": "Sharing a book together in the afternoon can be a great way to connect and take a break during a busy day.",
+      "quiz_1_feedback_3": "Book activities before bedtime is a great way to help children settle down and fall asleep easier.",
+      "quiz_1_question": "What time do you think will work for your family?",
+      "quiz_1_option_1_text": "Morning",
+      "quiz_1_option_2_text": "Afternoon",
+      "quiz_1_option_3_text": "Evening",
+      "image_asset": "images/modules/connect/connect_10.svg",
+      "media_title": "Watch this video to learn more:",
+      "media_transcript": "By reading together every day, your child will learn to love books and enjoy reading. The more time children spend looking at books, the more they learn. So, make reading part of your daily routine.\n\nEven in a busy day, find some time to look at books and read with your child. Even 10 minutes a day can make the world of difference.\n\nFind a time that works best for your family. This might be first thing in the morning or towards the end of the day when you want your child to come inside. Reading before bedtime can also help children fall asleep easier.",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=j13hQKKL0ww",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=j13hQKKL0ww",
+      "quiz_1_option_4_text": "Weekends",
+      "quiz_1_feedback_4": "It can be really hard to find time during the busy week for book activities. Weekends are a great time to catch up with children and connect.",
+      "completed": false
+    },
+    {
+      "id": "using_books_3",
+      "media_asset": "audio/modules/connect/connect_08.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "As you go through the book, give your child your full attention. Notice and respond to what your child is interested in."
+        },
+        "media_title": {
+          "eng": "Listen for an example:"
+        },
+        "media_transcript": {
+          "eng": "As you go through the book, notice what your child is looking at, pointing at, or talking about and respond to it. \nFor example, if your child is looking at the picture of the sandwich, you could say: “Look, he is eating some bread. What do you think is on the bread? What do you like to eat on your bread?”\nGive your child time to respond, and let them set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead as much as possible."
+        }
+      },
+      "category_id": "books_connect",
+      "text_1": "As you go through the book, give your child your full attention. Notice and respond to what your child is interested in.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_11.svg",
+      "media_title": "Listen for an example:",
+      "media_transcript": "As you go through the book, notice what your child is looking at, pointing at, or talking about and respond to it. \nFor example, if your child is looking at the picture of the sandwich, you could say: “Look, he is eating some bread. What do you think is on the bread? What do you like to eat on your bread?”\nGive your child time to respond, and let them set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead as much as possible.",
+      "completed": false
+    },
+    {
+      "id": "using_books_4",
+      "media_asset": "audio/modules/connect/connect_09.mp3",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Don’t force your child if they are not interested. Rather try again another time."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "While it might feel tempting to force your child to do a book activity with you, this can do more harm in the long term. \nIf your child enjoys the activity and has a positive experience, they will want to do it again. And the more time children spend looking at books and talking about the pictures, the more they learn and the better they do at school. \nInvite your child to join you in a book activity. If they don’t want to, rather try again another time. Keep asking them without putting pressure on them. You can also tell them about a particular book or story that you would like to share with them, to spark their interest."
+        }
+      },
+      "category_id": "books_connect",
+      "text_1": "Don’t force your child if they are not interested. Rather try again another time.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_12.svg",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "While it might feel tempting to force your child to do a book activity with you, this can do more harm in the long term. \nIf your child enjoys the activity and has a positive experience, they will want to do it again. And the more time children spend looking at books and talking about the pictures, the more they learn and the better they do at school. \nInvite your child to join you in a book activity. If they don’t want to, rather try again another time. Keep asking them without putting pressure on them. You can also tell them about a particular book or story that you would like to share with them, to spark their interest.",
+      "completed": false
+    },
+    {
+      "id": "using_books_5",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Three easy ways to use book activities to connect:\n1. Give your child your full attention as you go through the book together.\n\n2. Notice what your child is interested in and talk about that.\n\n3. Don’t force your child if they are not interested. Rather try again another time."
+        }
+      },
+      "category_id": "books_connect",
+      "text_1": "Three easy ways to use book activities to connect:\n1. Give your child your full attention as you go through the book together.\n\n2. Notice what your child is interested in and talk about that.\n\n3. Don’t force your child if they are not interested. Rather try again another time.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_13.svg",
+      "completed": false
+    },
+    {
+      "id": "practice_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Small actions, big results! Parents who practice at home get better results."
+        },
+        "text_2": {
+          "eng": "For your home practice:\n\n🤝 Make some time to spend with your child one-on-one.\n\n📖 Make book activities part of your routine, and use it as a time to connect. \n\n😌 Spending quality time with our children is important, but make sure you take some time for yourself too."
+        }
+      },
+      "category_id": "practice",
+      "text_1": "Small actions, big results! Parents who practice at home get better results.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "image_asset": "images/modules/connect/connect_14.svg",
+      "text_2": "For your home practice:\n\n🤝 Make some time to spend with your child one-on-one.\n\n📖 Make book activities part of your routine, and use it as a time to connect. \n\n😌 Spending quality time with our children is important, but make sure you take some time for yourself too.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

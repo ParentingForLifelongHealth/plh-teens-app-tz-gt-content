@@ -1,0 +1,81 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_hp_options_relax",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "modules",
+    "output_flow_name": "hp_{@gen.id}_relax",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "home_practice_options",
+      "value": "home_practice_options",
+      "parameter_list": [
+        "completed | emit: completed",
+        "uncompleted | emit: uncompleted"
+      ],
+      "rows": [
+        {
+          "name": "module_id",
+          "value": "@gen.id"
+        },
+        {
+          "name": "home_practice_type",
+          "value": "relax"
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "modules/TZ home_practice templates.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_output_flows": [
+    {
+      "flow_name": "hp_join_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_connect_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_care_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_create_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_play_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_talk_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_build_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_explore_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "hp_reflect_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

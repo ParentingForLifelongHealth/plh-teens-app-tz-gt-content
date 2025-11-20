@@ -1,0 +1,102 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_prep_articles",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "modules_released_not_join",
+    "output_flow_name": "prep_{@gen.id}_articles",
+    "output_flow_type": "data_pipe",
+    "output_flow_subtype": "generated"
+  },
+  "comment": "could be a global sheet, same as KW",
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "id == \"@gen.relax_id\""
+      ],
+      "input_source": "relax"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "category_id: relax"
+      ],
+      "output_target": "{@gen.id}_relax | local_only;"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "id == \"@gen.check_in_id\""
+      ],
+      "input_source": "check_in"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "category_id: check_in"
+      ],
+      "output_target": "{@gen.id}_check_in | local_only;"
+    },
+    {
+      "operation": "concat",
+      "args_list": [
+        "{@gen.id}_relax",
+        "{@gen.id}_check_in",
+        "{@gen.id}_articles"
+      ],
+      "input_source": false
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "completed: FALSE"
+      ],
+      "output_target": "{@gen.id}_article_tasks"
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_output_flows": [
+    {
+      "flow_name": "prep_connect_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_care_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_create_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_talk_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_build_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_explore_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_reflect_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    }
+  ]
+}

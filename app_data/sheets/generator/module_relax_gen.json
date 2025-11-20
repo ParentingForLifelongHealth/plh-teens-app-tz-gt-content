@@ -1,0 +1,118 @@
+{
+  "flow_type": "generator",
+  "flow_name": "module_relax_gen",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "modules",
+    "output_flow_name": "article_{@gen.id}_{@gen.relax_id}",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "header",
+      "value": "header",
+      "rows": [
+        {
+          "name": "title",
+          "value": "@data.common_categories.relax.title"
+        },
+        {
+          "name": "icon_asset",
+          "value": "@data.common_categories.relax.icon_asset"
+        }
+      ]
+    },
+    {
+      "type": "template",
+      "name": "relax",
+      "value": "relax",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "id",
+          "value": "@gen.relax_id"
+        },
+        {
+          "type": "nested_properties",
+          "name": "nav_buttons",
+          "rows": [
+            {
+              "name": "is_standalone_task",
+              "value": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "modules/TZ articles template generators.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_output_flows": [
+    {
+      "flow_name": "article_join_relax_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_connect_relax_10",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_care_relax_18",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_create_relax_17",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_play_relax_21",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_talk_relax_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_build_relax_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_explore_relax_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_reflect_@gen.relax_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

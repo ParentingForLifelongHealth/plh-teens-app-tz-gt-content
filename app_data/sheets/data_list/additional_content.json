@@ -1,0 +1,223 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "additional_content",
+  "data_list_name": "additional_content",
+  "status": "released",
+  "rows": [
+    {
+      "id": "budgeting",
+      "step_1_image_asset": "images/additional_info/think.svg",
+      "step_2_image_asset": "images/additional_info/choose.svg",
+      "step_3_image_asset": "images/additional_info/build.svg",
+      "step_4_image_asset": "images/additional_info/plan.svg",
+      "tag_list": [
+        "finance"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/181d0x10HEFkSaaGt6XaD1saDo0hk8Sx6fZ2clYsUFt0",
+      "title": "Budgeting",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "resources_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {},
+        "step_4_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Budgeting"
+        },
+        "intro_text": {
+          "eng": "When we make a budget together, we can agree how to spend and save to prevent stress and work towards our family goals.\nThere are four steps in doing a family budget:"
+        },
+        "resources_text": {
+          "eng": "Paper, pen, stones or beans"
+        },
+        "step_1_text": {
+          "eng": "**Think:**\n1. Think about what you spend money on each month.\n2. Get a piece of paper and draw pictures of all the things that you and your family spend money on each month.\n3. Write next to each picture how much things cost each month (there is no need to share the number of you don’t want)\n4. Add how much money you have to spend each month."
+        },
+        "step_2_text": {
+          "eng": "**Choose:**\n1. Think about your needs and wants. WANT is something you can live without while NEED is something you cannot live without.\n2. Look at your list of things you spend money on and choose which are the NEEDS that you cannot live without and why? and which are WANTS, nice things but not essential and why?\n3. Which are things could you try to spend less money on?"
+        },
+        "step_3_text": {
+          "eng": "**Build:**\n1. Make a budget: Write down what your income is for a month.\n2. Take some stones or beans or anything write lots of bits. This is your income for the month (For example: if your income is Tsh 5000/= and you have 20 beans each bean is Tsh 2500/=\n3. Decide what you will spend on what and put the stones /objects on the image"
+        },
+        "step_4_text": {
+          "eng": "**Plan:**\nPlan how you can save money, so you can deal with emergencies and realize your family goals. If you can save even a tiny amount for the future or emergency-it can make a big difference over time:\n1. Add a circle called “emergencies”\n2. Add a circle called “family goals”\n3. Now try to move your money around so you can save a bit every month for each of these"
+        },
+        "tips_text": {
+          "eng": "CONGRATULATIONS! You have made your budget! Remember to do this exercise again with your other family members-If you agree on a  plan together it will make a huge difference!"
+        }
+      },
+      "intro_text": "When we make a budget together, we can agree how to spend and save to prevent stress and work towards our family goals.\nThere are four steps in doing a family budget:",
+      "resources_text": "Paper, pen, stones or beans",
+      "step_1_text": "**Think:**\n1. Think about what you spend money on each month.\n2. Get a piece of paper and draw pictures of all the things that you and your family spend money on each month.\n3. Write next to each picture how much things cost each month (there is no need to share the number of you don’t want)\n4. Add how much money you have to spend each month.",
+      "step_2_text": "**Choose:**\n1. Think about your needs and wants. WANT is something you can live without while NEED is something you cannot live without.\n2. Look at your list of things you spend money on and choose which are the NEEDS that you cannot live without and why? and which are WANTS, nice things but not essential and why?\n3. Which are things could you try to spend less money on?",
+      "step_3_text": "**Build:**\n1. Make a budget: Write down what your income is for a month.\n2. Take some stones or beans or anything write lots of bits. This is your income for the month (For example: if your income is Tsh 5000/= and you have 20 beans each bean is Tsh 2500/=\n3. Decide what you will spend on what and put the stones /objects on the image",
+      "step_4_text": "**Plan:**\nPlan how you can save money, so you can deal with emergencies and realize your family goals. If you can save even a tiny amount for the future or emergency-it can make a big difference over time:\n1. Add a circle called “emergencies”\n2. Add a circle called “family goals”\n3. Now try to move your money around so you can save a bit every month for each of these",
+      "tips_text": "CONGRATULATIONS! You have made your budget! Remember to do this exercise again with your other family members-If you agree on a  plan together it will make a huge difference!"
+    },
+    {
+      "id": "income_generating",
+      "step_1_image_asset": "(insert image)",
+      "step_2_image_asset": "(insert image)",
+      "step_3_image_asset": "(insert image)",
+      "tag_list": [
+        "finance"
+      ],
+      "title": "Income Generating Activities",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {},
+        "step_4_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Income Generating Activities"
+        },
+        "intro_text": {
+          "eng": "Many caregivers face significant financial challenges while striving to provide for their families. Acknowledging these challenges, we present practical suggestions for income-generating activities that can help alleviate financial stress and improve household stability"
+        },
+        "step_1_text": {
+          "eng": "**Joining or Starting a VICOBA Group:** Join an existing Village Community Banking (VICOBA) group in your community or start your own with trusted individuals."
+        },
+        "step_2_text": {
+          "eng": "**Accessing Government Youth Funds:** For individuals up to 24 years old, utilize government youth funds as a start-up for group projects like poultry farming or catering, depending on what is feasible in your context."
+        },
+        "step_3_text": {
+          "eng": "**Craft Making:** Engage in soap making, batik making, and crafting accessories such as bracelets, earrings, necklaces, and handbags using locally available materials like beads or leather."
+        },
+        "step_4_text": {
+          "eng": ""
+        },
+        "tips_text": {
+          "eng": "Take a moment to think about additional activities you can do in your community as a group or as an individual. Something that can help strengthen your household income.\n\nREPSSI is available to provide guidance on any of these activities if you wish to implement them."
+        }
+      },
+      "intro_text": "Many caregivers face significant financial challenges while striving to provide for their families. Acknowledging these challenges, we present practical suggestions for income-generating activities that can help alleviate financial stress and improve household stability",
+      "step_1_text": "**Joining or Starting a VICOBA Group:** Join an existing Village Community Banking (VICOBA) group in your community or start your own with trusted individuals.",
+      "step_2_text": "**Accessing Government Youth Funds:** For individuals up to 24 years old, utilize government youth funds as a start-up for group projects like poultry farming or catering, depending on what is feasible in your context.",
+      "step_3_text": "**Craft Making:** Engage in soap making, batik making, and crafting accessories such as bracelets, earrings, necklaces, and handbags using locally available materials like beads or leather.",
+      "step_4_text": "",
+      "tips_text": "Take a moment to think about additional activities you can do in your community as a group or as an individual. Something that can help strengthen your household income.\n\nREPSSI is available to provide guidance on any of these activities if you wish to implement them."
+    },
+    {
+      "id": "nutrition",
+      "step_1_image_asset": "(insert image)",
+      "step_2_image_asset": "(insert image)",
+      "step_3_image_asset": "(insert image)",
+      "step_4_image_asset": "(insert image)",
+      "step_5_image_asset": "(insert image)",
+      "tag_list": [
+        "nutrition"
+      ],
+      "title": "Nutrition",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {},
+        "step_4_text": {},
+        "step_5_text": {},
+        "tips_text": {},
+        "extension_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Nutrition"
+        },
+        "intro_text": {
+          "eng": "Good nutrition helps build a strong immune system, keeping young children healthy and better able to fight off colds and other infections. For kids aged 4–6, aim for a balanced diet with fruits, veggies, whole grains, lean meats or beans, and dairy or fortified soy products. Try to limit sugary snacks, salty foods, and fried treats. Also, remember to keep them well hydrated, about 5 cups (1.2 L) of fluids a day, and a bit more when it’s hot.\nHere are key nutrition considerations below:"
+        },
+        "step_1_text": {
+          "eng": "**Fruits and Vegetables:** Encourage a variety of colorful fruits and vegetables to provide essential vitamins and minerals for the child."
+        },
+        "step_2_text": {
+          "eng": "**Whole Grains:** Choose whole grains over refined grains to provide fiber and other nutrients."
+        },
+        "step_3_text": {
+          "eng": "**Lean Protein:** Include lean protein sources like chicken, fish, beans, and lentils to support muscle development."
+        },
+        "step_4_text": {
+          "eng": "**Dairy or Fortified Soy Alternatives:** Ensure adequate calcium intake for bone health through dairy or fortified soy alternatives."
+        },
+        "step_5_text": {
+          "eng": "**Hydration:** Provide plenty of water throughout the day, especially during physical activity."
+        },
+        "tips_text": {
+          "eng": "Additional Tips for Caregivers:\n**Be Patient and Persistent:** It may take several attempts for children to try new foods. Continue to offer a variety of healthy options and be patient.\n\n**Consult with a Healthcare Professional:** If you have any concerns about your child's nutrition or growth, consult with a pediatrician or registered dietitian. \n\nAll food meant for children should be prepared and stored with excellent hygiene and flavor, without too much heat or spice."
+        },
+        "extension_text": {
+          "eng": "All nutrients are essential, the deficiencies in vitamins and minerals can lead to various health problems. i.e impaired vision, malnutrition, infections, respiratory illnesses, impaired cognitive development. Many of these deficiencies are preventable through nutrition education and consumption of health diet."
+        }
+      },
+      "intro_text": "Good nutrition helps build a strong immune system, keeping young children healthy and better able to fight off colds and other infections. For kids aged 4–6, aim for a balanced diet with fruits, veggies, whole grains, lean meats or beans, and dairy or fortified soy products. Try to limit sugary snacks, salty foods, and fried treats. Also, remember to keep them well hydrated, about 5 cups (1.2 L) of fluids a day, and a bit more when it’s hot.\nHere are key nutrition considerations below:",
+      "step_1_text": "**Fruits and Vegetables:** Encourage a variety of colorful fruits and vegetables to provide essential vitamins and minerals for the child.",
+      "step_2_text": "**Whole Grains:** Choose whole grains over refined grains to provide fiber and other nutrients.",
+      "step_3_text": "**Lean Protein:** Include lean protein sources like chicken, fish, beans, and lentils to support muscle development.",
+      "step_4_text": "**Dairy or Fortified Soy Alternatives:** Ensure adequate calcium intake for bone health through dairy or fortified soy alternatives.",
+      "step_5_text": "**Hydration:** Provide plenty of water throughout the day, especially during physical activity.",
+      "tips_text": "Additional Tips for Caregivers:\n**Be Patient and Persistent:** It may take several attempts for children to try new foods. Continue to offer a variety of healthy options and be patient.\n\n**Consult with a Healthcare Professional:** If you have any concerns about your child's nutrition or growth, consult with a pediatrician or registered dietitian. \n\nAll food meant for children should be prepared and stored with excellent hygiene and flavor, without too much heat or spice.",
+      "extension_text": "All nutrients are essential, the deficiencies in vitamins and minerals can lead to various health problems. i.e impaired vision, malnutrition, infections, respiratory illnesses, impaired cognitive development. Many of these deficiencies are preventable through nutrition education and consumption of health diet."
+    },
+    {
+      "id": "eating_habits",
+      "tag_list": [
+        "nutrition"
+      ],
+      "title": "Healthy eating habits",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {},
+        "step_4_text": {},
+        "step_5_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Healthy eating habits"
+        },
+        "intro_text": {
+          "eng": "How to Encourage Healthy Eating Habits:"
+        },
+        "step_1_text": {
+          "eng": "1. Eating together as a family, enjoy foods of all the groups to help children imitate the example of older siblings and parents"
+        },
+        "step_2_text": {
+          "eng": "2. Encouraging them to help select healthy colored fruits, vegetables, and healthy meats or other foods during grocery shopping"
+        },
+        "step_3_text": {
+          "eng": "3. Letting them help with food preparation especially from the vegetable and pulses group"
+        },
+        "step_4_text": {
+          "eng": "4. Stocking fruits rather than fruit juice and chews, and cold water rather than soda or other sweetened drinks"
+        },
+        "step_5_text": {
+          "eng": "5. Sharing interesting information about how foods are grown and how they reach the local market"
+        },
+        "tips_text": {
+          "eng": "**Involve Children in Meal Preparation:** Allow children to participate in age-appropriate food preparation tasks, which can help them develop a positive relationship with food.\n\n**Make Mealtimes Fun and Social:** As caregiver/parent create a positive and relaxed environment for mealtimes to encourage healthy eating habits and responsive feeding."
+        }
+      },
+      "intro_text": "How to Encourage Healthy Eating Habits:",
+      "step_1_text": "1. Eating together as a family, enjoy foods of all the groups to help children imitate the example of older siblings and parents",
+      "step_2_text": "2. Encouraging them to help select healthy colored fruits, vegetables, and healthy meats or other foods during grocery shopping",
+      "step_3_text": "3. Letting them help with food preparation especially from the vegetable and pulses group",
+      "step_4_text": "4. Stocking fruits rather than fruit juice and chews, and cold water rather than soda or other sweetened drinks",
+      "step_5_text": "5. Sharing interesting information about how foods are grown and how they reach the local market",
+      "tips_text": "**Involve Children in Meal Preparation:** Allow children to participate in age-appropriate food preparation tasks, which can help them develop a positive relationship with food.\n\n**Make Mealtimes Fun and Social:** As caregiver/parent create a positive and relaxed environment for mealtimes to encourage healthy eating habits and responsive feeding."
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ additional_content.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

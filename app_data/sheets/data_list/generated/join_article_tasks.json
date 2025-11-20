@@ -1,0 +1,834 @@
+{
+  "flow_name": "join_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_intro_1",
+      "category_id": "relax",
+      "image_asset": "images/modules/join/relax_1.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/14tosyClbj4_AdiiHF1ukwTYZ5h_5fftTy1u5j4GpaoE",
+      "text_1": "Being a parent is stressful!",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Being a parent is stressful!"
+        },
+        "text_1_facilitator": {
+          "eng": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children."
+        }
+      },
+      "text_1_facilitator": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children.",
+      "completed": false
+    },
+    {
+      "id": "relax_intro_2",
+      "category_id": "relax",
+      "image_asset": "images/modules/join/relax_2.svg",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself."
+        }
+      },
+      "text_1_facilitator": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself.",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "relax_4",
+      "category_id": "relax",
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe to Three"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause."
+        }
+      },
+      "media_type": "audio",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "title": "Breathe to Three",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "lottie_asset": "lottie/square_flow.json",
+      "tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_4.svg",
+      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause.",
+      "completed": false
+    },
+    {
+      "id": "check_in_10",
+      "category_id": "check_in",
+      "attached_single_doc": "https://docs.google.com/document/d/1AUTWhsdOO6sBN5ffSyHEIiXseZ4TTlXLbnMLLOa2hXM",
+      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "So good to hear you are feeling well today. You are incredible!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "welcome_1",
+      "category_id": "welcome",
+      "image_asset": "images/modules/join/join_1.svg",
+      "text_1": "Well done for starting your ParentApp journey, it’s good to have you here.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Well done for starting your ParentApp journey, it’s good to have you here."
+        },
+        "media_title": {
+          "eng": "Listen to your welcome message:"
+        },
+        "media_transcript": {
+          "eng": "A very warm welcome to you - dear parent! We are thrilled that you have decided to join our community of caregivers. The fact that you are using ParentApp right now means that your children, their wellbeing and development is important to you. The aim of this app is to guide and support you in your important role as a parent. \n\nAs parents ourselves, we know how hard parenting can be - how tired, frustrated and overwhelmed we all sometimes feel. \n\nWe know that an app can’t solve all your problems, but we hope that ParentApp can make you feel slightly less alone, and make things feel just a little bit easier and more manageable."
+        },
+        "quiz_1_question": {
+          "eng": "Ready to get started?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes, let’s go!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! Let’s take a look at what you can expect from ParentApp."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Not yet – I have questions…"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We understand! Let’s first take a look at what you can expect from ParentApp."
+        }
+      },
+      "media_type": "audio",
+      "media_asset": "audio/modules/join/welcome_1.mp3",
+      "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
+      "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
+      "media_title": "Listen to your welcome message:",
+      "media_transcript": "A very warm welcome to you - dear parent! We are thrilled that you have decided to join our community of caregivers. The fact that you are using ParentApp right now means that your children, their wellbeing and development is important to you. The aim of this app is to guide and support you in your important role as a parent. \n\nAs parents ourselves, we know how hard parenting can be - how tired, frustrated and overwhelmed we all sometimes feel. \n\nWe know that an app can’t solve all your problems, but we hope that ParentApp can make you feel slightly less alone, and make things feel just a little bit easier and more manageable.",
+      "quiz_1_question": "Ready to get started?",
+      "quiz_1_option_1_text": "Yes, let’s go!",
+      "quiz_1_feedback_1": "Great! Let’s take a look at what you can expect from ParentApp.",
+      "quiz_1_option_2_text": "Not yet – I have questions…",
+      "quiz_1_feedback_2": "We understand! Let’s first take a look at what you can expect from ParentApp.",
+      "completed": false
+    },
+    {
+      "id": "welcome_2",
+      "category_id": "welcome",
+      "image_asset": "images/modules/join/all_modules.svg",
+      "text_1": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent."
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "welcome_3",
+      "category_id": "welcome",
+      "image_asset": "images/modules/join/join_2.svg",
+      "text_1": "Every ParentApp module will support you to:\n1. build a strong relationship with your child\n2. use books and stories to boost your child’s learning\n3. take care of yourself",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Every ParentApp module will support you to:\n1. build a strong relationship with your child\n2. use books and stories to boost your child’s learning\n3. take care of yourself"
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "One of the main goals of ParentApp for Kids is to help you build a strong and loving relationship with your child. Strong relationships with parents set children up for success in life. That’s why ParentApp offers tried and tested parenting tools to support you in your role as a parent.  \n\nWe know how important your child is to you, and that you want the very best for them. That’s why ParentApp has a digital library with books and guidance for how to use them to help your child learn. \n\nLastly: because we know how important YOU are to your children, ParentApp supports you to take care of yourself too."
+        }
+      },
+      "media_type": "audio",
+      "media_asset": "audio/modules/join/welcome_2.mp3",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "One of the main goals of ParentApp for Kids is to help you build a strong and loving relationship with your child. Strong relationships with parents set children up for success in life. That’s why ParentApp offers tried and tested parenting tools to support you in your role as a parent.  \n\nWe know how important your child is to you, and that you want the very best for them. That’s why ParentApp has a digital library with books and guidance for how to use them to help your child learn. \n\nLastly: because we know how important YOU are to your children, ParentApp supports you to take care of yourself too.",
+      "completed": false
+    },
+    {
+      "id": "caring_you_1",
+      "category_id": "caring_you",
+      "image_asset": "images/modules/join/join_3.svg",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "**ParentApp supports you to take care of yourself.**"
+        },
+        "text_2": {
+          "eng": "We often don’t look after ourselves enough. But this is so important, especially as a parent! \n\nReducing our stress and treating ourselves well helps us AND our children."
+        }
+      },
+      "text_1_facilitator": "**ParentApp supports you to take care of yourself.**",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "text_2": "We often don’t look after ourselves enough. But this is so important, especially as a parent! \n\nReducing our stress and treating ourselves well helps us AND our children.",
+      "completed": false
+    },
+    {
+      "id": "caring_you_2",
+      "category_id": "caring_you",
+      "image_asset": "images/modules/join/join_4.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Why is my wellbeing important to my child?"
+        }
+      },
+      "text_2": "Why is my wellbeing important to my child?",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "caring_you_3",
+      "category_id": "caring_you",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Great question. Caring for others starts with caring for yourself."
+        },
+        "section_1_text": {
+          "eng": "Remember that you cannot pour from an empty cup."
+        },
+        "section_1_button_text": {
+          "eng": "Learn more:"
+        },
+        "section_1_extra_text": {
+          "eng": "If your own cup is empty, you won’t have anything to pour into your child’s cup. Take care of yourself, so you can take care of your child."
+        }
+      },
+      "text_1_facilitator": "Great question. Caring for others starts with caring for yourself.",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        }
+      },
+      "section_1_image_asset": "images/modules/join/join_5.svg",
+      "section_1_text": "Remember that you cannot pour from an empty cup.",
+      "section_1_button_text": "Learn more:",
+      "section_1_extra_text": "If your own cup is empty, you won’t have anything to pour into your child’s cup. Take care of yourself, so you can take care of your child.",
+      "completed": false
+    },
+    {
+      "id": "caring_you_4",
+      "category_id": "caring_you",
+      "image_asset": "images/modules/join/join_6.svg",
+      "text_1": "Every week, ParentApp will support you to take a pause, relax, and look after yourself.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Every week, ParentApp will support you to take a pause, relax, and look after yourself."
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "caring_child_1",
+      "category_id": "caring_child",
+      "image_asset": "images/modules/join/join_7.svg",
+      "text_1": "**ParentApp supports you to build a strong relationship with your child.**",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**ParentApp supports you to build a strong relationship with your child.**"
+        },
+        "text_2": {
+          "eng": "A strong and loving relationship with your child is one of the biggest investments you can make in their future."
+        },
+        "media_title": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "I have three children, and I love them very much. I try my best to give them what they need, even when life is hard. I make sure that they are fed, washed, safe, and that they go to school. It’s also really important to me that my children respect others, that they behave properly, and keep our family name in good standing. \nThe way I was raised – we would get into real trouble if we didn’t behave the way our parents wanted us to. My parents would hit me and my siblings to get us to behave. It’s what I know, so I thought that this should be the way I raise my kids as well. \nI really want my children to respect me, but I also want them to feel that they can trust me with their concerns and feelings. Even though my parents hit me and I turned out fine, I think I would have benefited from a relationship with my parents that was more accepting, loving and understanding – where I felt less fear about being hit or beaten, or to tell them about my problems."
+        }
+      },
+      "media_type": "audio",
+      "media_asset": "audio/modules/join/care_1.m4a",
+      "media_title": "Let’s hear from a caregiver:",
+      "media_transcript": "I have three children, and I love them very much. I try my best to give them what they need, even when life is hard. I make sure that they are fed, washed, safe, and that they go to school. It’s also really important to me that my children respect others, that they behave properly, and keep our family name in good standing. \nThe way I was raised – we would get into real trouble if we didn’t behave the way our parents wanted us to. My parents would hit me and my siblings to get us to behave. It’s what I know, so I thought that this should be the way I raise my kids as well. \nI really want my children to respect me, but I also want them to feel that they can trust me with their concerns and feelings. Even though my parents hit me and I turned out fine, I think I would have benefited from a relationship with my parents that was more accepting, loving and understanding – where I felt less fear about being hit or beaten, or to tell them about my problems.",
+      "text_2": "A strong and loving relationship with your child is one of the biggest investments you can make in their future.",
+      "completed": false
+    },
+    {
+      "id": "caring_child_2",
+      "category_id": "caring_child",
+      "image_asset": "images/modules/join/join_8.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "What creates a strong and loving relationship between a caregiver and child?"
+        }
+      },
+      "text_2": "What creates a strong and loving relationship between a caregiver and child?",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "caring_child_3",
+      "category_id": "caring_child",
+      "image_asset": "images/modules/join/join_9.svg",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Great question. In ParentApp for Kids, we use the image of a garden to think about what children need from their parents to grow and thrive."
+        },
+        "media_title": {
+          "eng": "Watch this video to learn more:"
+        }
+      },
+      "text_1_facilitator": "Great question. In ParentApp for Kids, we use the image of a garden to think about what children need from their parents to grow and thrive.",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
+      },
+      "media_type": "video",
+      "media_title": "Watch this video to learn more:",
+      "completed": false
+    },
+    {
+      "id": "caring_child_4",
+      "category_id": "caring_child",
+      "image_asset": "images/modules/join/join_10.gif",
+      "text_1": "Each element in the ParentApp Garden represents a powerful parenting tool.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "**The ParentApp Garden**"
+        },
+        "text_1": {
+          "eng": "Each element in the ParentApp Garden represents a powerful parenting tool."
+        },
+        "text_2": {
+          "eng": "Every week we will focus on one of these parenting tools, and demonstrate how you can use it to support your child in positive ways."
+        }
+      },
+      "text_2": "Every week we will focus on one of these parenting tools, and demonstrate how you can use it to support your child in positive ways.",
+      "title": "**The ParentApp Garden**",
+      "completed": false
+    },
+    {
+      "id": "caring_child_5",
+      "category_id": "caring_child",
+      "image_asset": "images/modules/join/join_11.svg",
+      "text_1": "ParentApp also includes ideas for activities that you and your child can do together at home.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "ParentApp also includes ideas for activities that you and your child can do together at home."
+        },
+        "text_2": {
+          "eng": "These activities were specifically designed to help children learn in positive ways while spending time with you."
+        }
+      },
+      "text_2": "These activities were specifically designed to help children learn in positive ways while spending time with you.",
+      "completed": false
+    },
+    {
+      "id": "learn_books_1",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_12.svg",
+      "text_1": "**ParentApp supports you to use stories and books to help your child learn.**",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**ParentApp supports you to use stories and books to help your child learn.**"
+        },
+        "text_2": {
+          "eng": "Sharing stories and looking at books together benefits children in many ways."
+        },
+        "media_title": {
+          "eng": "Watch this video to learn more:"
+        },
+        "media_transcript": {
+          "eng": "As caregivers, we want what’s best for our children. We want them to grow into successful, happy, healthy adults who contribute to society. One of the best ways to set your child up for success is to look at books together and talk about them with your child. This is a great way to help build your child’s brain, develop their reading skills, and help them become successful learners.\n\nFrom babies to adolescents, reading or talking about the pictures and story helps children in many ways:\n\nChildren learn new sounds and words, and how to use them.\n\nThey learn how to listen and concentrate, which helps them at school.\n\nBooks and stories help children use their imagination, think and learn about the world. This helps them in every aspect of life."
+        },
+        "quiz_1_question": {
+          "eng": "Do you spend time looking at books or reading with your child?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! We are excited to share some ideas with you that you and your child might enjoy."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Not really"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay! We are excited to get you started on your book-sharing journey."
+        }
+      },
+      "media_type": "youtube",
+      "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
+      "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
+      "media_title": "Watch this video to learn more:",
+      "media_transcript": "As caregivers, we want what’s best for our children. We want them to grow into successful, happy, healthy adults who contribute to society. One of the best ways to set your child up for success is to look at books together and talk about them with your child. This is a great way to help build your child’s brain, develop their reading skills, and help them become successful learners.\n\nFrom babies to adolescents, reading or talking about the pictures and story helps children in many ways:\n\nChildren learn new sounds and words, and how to use them.\n\nThey learn how to listen and concentrate, which helps them at school.\n\nBooks and stories help children use their imagination, think and learn about the world. This helps them in every aspect of life.",
+      "quiz_1_question": "Do you spend time looking at books or reading with your child?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! We are excited to share some ideas with you that you and your child might enjoy.",
+      "quiz_1_option_2_text": "Not really",
+      "quiz_1_feedback_2": "That’s okay! We are excited to get you started on your book-sharing journey.",
+      "text_2": "Sharing stories and looking at books together benefits children in many ways.",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "completed": false
+    },
+    {
+      "id": "learn_books_2",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_13.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "At what age can I start sharing books with my child?"
+        }
+      },
+      "text_2": "At what age can I start sharing books with my child?",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "learn_books_3",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_14.svg",
+      "text_1": "It is never too early to start! Children of all ages – even young babies – benefit from book activities.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It is never too early to start! Children of all ages – even young babies – benefit from book activities."
+        },
+        "media_title": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n\nI was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n\nWith my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n\nWith my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child."
+        }
+      },
+      "media_type": "audio",
+      "media_asset": "audio/modules/join/learn_book_3.mp3",
+      "media_title": "Let’s hear from a caregiver:",
+      "media_transcript": "Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n\nI was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n\nWith my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n\nWith my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child.",
+      "completed": false
+    },
+    {
+      "id": "learn_books_4",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_15.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "How can I do book activities with my child if I struggle with reading myself?"
+        }
+      },
+      "text_2": "How can I do book activities with my child if I struggle with reading myself?",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "learn_books_5",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_16.svg",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "This is a concern for many parents and caregivers. The good news is that you don’t need to read the book’s text when doing book activities."
+        },
+        "media_title": {
+          "eng": "Watch to learn more:"
+        },
+        "media_transcript": {
+          "eng": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.\n\nSo, find a few minutes a day, every day, to read with your child. It’s one of the greatest gifts you can give them."
+        }
+      },
+      "text_1_facilitator": "This is a concern for many parents and caregivers. The good news is that you don’t need to read the book’s text when doing book activities.",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "media_type": "youtube",
+      "media_title": "Watch to learn more:",
+      "media_transcript": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.\n\nSo, find a few minutes a day, every day, to read with your child. It’s one of the greatest gifts you can give them.",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=cG2oixBlzQ0",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=cG2oixBlzQ0",
+      "completed": false
+    },
+    {
+      "id": "learn_books_6",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_17.svg",
+      "text_1": "ParentApp provides many practical and fun activities that you can do without needing to read the book’s text.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "ParentApp provides many practical and fun activities that you can do without needing to read the book’s text."
+        },
+        "media_title": {
+          "eng": "Watch to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Book activities are a great way to have fun together with your child. Let’s take a look at how you can share this book with your child in a playful and engaging way. \n\nThis book is all about the joy of playing. Join Lesedi as his imagination takes him all the way to the beach for an adventure! \n\nDescribe the pictures to your child and ask them questions about the story. Point to the sandbox and ask your chid: “What is this for?” Point to boy in the picture and ask: “How do you think he is feeling? What do you think he is going to do next?”\n\nMimic actions from the pictures or story. Together with your child, pretend to put your feet in the sand and wiggle your toes. Talk about what the sand would feel like? \n\nMimic the sound of the wind swooping in and blowing the umbrella away. Demonstrate surprise and ask your child how they would feel if that happened to them. \n\nRemember, book activities do not have to be serious. The goal is to make it a playful experience. We hope you enjoy the book and have fun together!"
+        }
+      },
+      "media_type": "youtube",
+      "media_title": "Watch to learn more:",
+      "media_transcript": "Book activities are a great way to have fun together with your child. Let’s take a look at how you can share this book with your child in a playful and engaging way. \n\nThis book is all about the joy of playing. Join Lesedi as his imagination takes him all the way to the beach for an adventure! \n\nDescribe the pictures to your child and ask them questions about the story. Point to the sandbox and ask your chid: “What is this for?” Point to boy in the picture and ask: “How do you think he is feeling? What do you think he is going to do next?”\n\nMimic actions from the pictures or story. Together with your child, pretend to put your feet in the sand and wiggle your toes. Talk about what the sand would feel like? \n\nMimic the sound of the wind swooping in and blowing the umbrella away. Demonstrate surprise and ask your child how they would feel if that happened to them. \n\nRemember, book activities do not have to be serious. The goal is to make it a playful experience. We hope you enjoy the book and have fun together!",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "completed": false
+    },
+    {
+      "id": "learn_books_7",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_18.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?"
+        }
+      },
+      "text_2": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "learn_books_8",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_19.svg",
+      "text_1": "Great question. We know that in many cultures, including Africa, parents pass down values and life lessons to children through storytelling.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Great question. We know that in many cultures, including Africa, parents pass down values and life lessons to children through storytelling."
+        },
+        "text_2": {
+          "eng": "Let’s look at some of the ways that book activities build on this tradition:"
+        },
+        "media_transcript": {
+          "eng": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!"
+        }
+      },
+      "media_type": "audio",
+      "media_asset": "audio/modules/join/learn_book_8.mp3",
+      "media_transcript": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!",
+      "text_2": "Let’s look at some of the ways that book activities build on this tradition:",
+      "completed": false
+    },
+    {
+      "id": "learn_books_9",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_20.svg",
+      "text_1": "How can I do book activities if we don’t have any picture books at home?",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "How can I do book activities if we don’t have any picture books at home?"
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "learn_books_10",
+      "category_id": "learn_books",
+      "image_asset": "images/modules/join/join_21.svg",
+      "text_1": "We know that many families across the world struggle to access picture books for their children, or have only one or two books at home.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "We know that many families across the world struggle to access picture books for their children, or have only one or two books at home."
+        },
+        "text_2": {
+          "eng": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning."
+        }
+      },
+      "text_2": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning.",
+      "completed": false
+    },
+    {
+      "id": "get_started_1",
+      "category_id": "get_started",
+      "image_asset": "images/modules/join/join_22.svg",
+      "text_1": "To get you started on your ParentApp journey, we’ve prepared some home activities for you:",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "To get you started on your ParentApp journey, we’ve prepared some home activities for you:"
+        },
+        "text_2": {
+          "eng": "🤝 **Play activities for you and your child.** \nThese activities provide opportunities to bond while also supporting your child’s learning.\n\n📖 **Digital books to share with your child.** \nFind a comfortable place to sit and share one of the many books available in the app. \n\n😌 **Short but powerful relaxing activities.** \nBeing a parent can be so stressful. Take a moment for yourself to relax, breathe or reflect."
+        }
+      },
+      "text_2": "🤝 **Play activities for you and your child.** \nThese activities provide opportunities to bond while also supporting your child’s learning.\n\n📖 **Digital books to share with your child.** \nFind a comfortable place to sit and share one of the many books available in the app. \n\n😌 **Short but powerful relaxing activities.** \nBeing a parent can be so stressful. Take a moment for yourself to relax, breathe or reflect.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "flow_type": "template",
+  "flow_name": "settings_login",
+  "status": "released",
+  "rows": [
+    {
+      "name": "is_user_signed_in",
+      "value": "!!@fields._auth_user_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "is_user_signed_in",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "!!@fields._auth_user_id",
+            "matchedExpression": "!@fields._auth_user_id",
+            "type": "fields",
+            "fieldName": "_auth_user_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@fields._auth_user_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "just_logged_in",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "just_logged_in"
+    },
+    {
+      "type": "template",
+      "name": "settings_header",
+      "value": "settings_header",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "title",
+          "value": "@global.account",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "settings_header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.account",
+                "matchedExpression": "@global.account",
+                "type": "global",
+                "fieldName": "account"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.account": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "settings_header"
+    },
+    {
+      "type": "template",
+      "name": "account",
+      "value": "account",
+      "rows": [
+        {
+          "name": "show_title",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "account.show_title"
+        }
+      ],
+      "_nested_name": "account"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_global",
+    "path": "PLH settings.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1uBEmZtqR_EeWZCjDQ6i6fdL56Vh8IasbzpEGTVlmNvs"
+  }
+}

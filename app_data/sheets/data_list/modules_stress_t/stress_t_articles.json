@@ -1,0 +1,577 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "stress_t_articles",
+  "data_list_name": "stress_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_stress_t",
+  "module": "stress_t",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "media_type": "audio",
+      "media_asset": "/audio/teen/topic_intros/stress_intro_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "Today's topic is about managing stress.\n\nWe know it can be very stressful to raise teenagers. When you manage your stress, it helps you and your family.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today's topic is about managing stress.\n\nWe know it can be very stressful to raise teenagers. When you manage your stress, it helps you and your family."
+        },
+        "media_title": {
+          "eng": "Can managing stress help you and your family? Tap play to find out"
+        },
+        "media_transcript": {
+          "eng": "Greetings everyone.\n\nToday's topic is managing stress.\n\nIt is important to know how to manage our stress. At times our children can behave in ways that make us feel stressed and us as parents can make our children feel stressed too.\n\nSo, it is important to notice when we feel stressed and take a pause and breathe. That will help you manage your stress."
+        }
+      },
+      "media_title": "Can managing stress help you and your family? Tap play to find out",
+      "media_transcript": "Greetings everyone.\n\nToday's topic is managing stress.\n\nIt is important to know how to manage our stress. At times our children can behave in ways that make us feel stressed and us as parents can make our children feel stressed too.\n\nSo, it is important to notice when we feel stressed and take a pause and breathe. That will help you manage your stress."
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "media_type": "audio",
+      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer."
+        },
+        "media_title": {
+          "eng": "Pause, take a breath. Now hear how taking a simple pause helped @data.characters.media_female_4.name and her teens"
+        },
+        "media_transcript": {
+          "eng": "Life is tough sometimes. Before I joined @global.app_name, I used to be grumpy at all times. I would take out my anger on everyone at home, not only my teens but even my husband as well. They would run away when I came home because they knew I would start yelling at them.\n\nLearning to take a pause and breathe was difficult at first. But every time I tried it, it helped me to calm down. Now my teens are no longer running away when I come home and they actually listen better than when I used to shout at them!"
+        }
+      },
+      "media_title": "Pause, take a breath. Now hear how taking a simple pause helped @data.characters.media_female_4.name and her teens",
+      "media_transcript": "Life is tough sometimes. Before I joined @global.app_name, I used to be grumpy at all times. I would take out my anger on everyone at home, not only my teens but even my husband as well. They would run away when I came home because they knew I would start yelling at them.\n\nLearning to take a pause and breathe was difficult at first. But every time I tried it, it helped me to calm down. Now my teens are no longer running away when I come home and they actually listen better than when I used to shout at them!"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress1_t_1.svg",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "Let’s look at an example of how stress can sometimes just get too much, for all of us:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s look at an example of how stress can sometimes just get too much, for all of us:"
+        },
+        "text_2": {
+          "eng": "@data.characters.f1_father.name lost his job. He was sitting at home feeling frustrated and stressed when @data.characters.f1_son_18.name entered the room."
+        }
+      },
+      "text_2": "@data.characters.f1_father.name lost his job. He was sitting at home feeling frustrated and stressed when @data.characters.f1_son_18.name entered the room."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress1_t_2.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "Can I have money to buy some airtime?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Can I have money to buy some airtime?"
+        },
+        "character_2_text": {
+          "eng": "Leave me alone and mind your own business!"
+        }
+      },
+      "character_2_text": "Leave me alone and mind your own business!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress1_t_3.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "What did I do? You never listen!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "What did I do? You never listen!"
+        },
+        "character_2_text": {
+          "eng": "I said leave me alone or you will get a beating!"
+        }
+      },
+      "character_2_text": "I said leave me alone or you will get a beating!"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress1_t_4.svg",
+      "character_1_id": "f1_daughter_13",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "Look! I have made a house!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Look! I have made a house!"
+        }
+      }
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress1_t_5.svg",
+      "character_1_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "Who cares about your stupid house!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Who cares about your stupid house!"
+        }
+      }
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "quiz_1_option_1_image_asset": "images/faces/sad.svg",
+      "quiz_1_option_2_image_asset": "images/faces/scared.svg",
+      "quiz_1_option_3_image_asset": "images/faces/confused.svg",
+      "quiz_1_option_4_image_asset": "images/faces/angry.svg",
+      "quiz_2_option_1_image_asset": "images/faces/sad.svg",
+      "quiz_2_option_2_image_asset": "images/faces/scared.svg",
+      "quiz_2_option_3_image_asset": "images/faces/confused.svg",
+      "quiz_2_option_4_image_asset": "images/faces/angry.svg",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "Let's think about what happened in this story.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_4": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {},
+        "quiz_3_option_3_text": {},
+        "quiz_3_feedback_3": {},
+        "quiz_3_option_4_text": {},
+        "quiz_3_feedback_4": {},
+        "quiz_3_option_5_text": {},
+        "quiz_3_feedback_5": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's think about what happened in this story."
+        },
+        "quiz_1_question": {
+          "eng": "How do you think @data.characters.f1_father.name's son and daughter felt?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes. They felt hurt and confused by @data.characters.f1_father.name’s anger."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Scared"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes. They felt scared when @data.characters.f1_father.name was so angry."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Confused"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes. They felt hurt and confused by @data.characters.f1_father.name’s anger."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Angry"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes. It’s normal to feel angry when someone speaks to you in a harsh way."
+        },
+        "quiz_2_question": {
+          "eng": "And @data.characters.f1_father.name?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Scared"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Confused"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "Angry"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
+        },
+        "quiz_3_question": {
+          "eng": "What could @data.characters.f1_father.name have done differently?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Recognise why he felt stressed"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Yes. Noticing stress helps us pause before reacting."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Take a deep breath and speak calmly"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Yes. Breathing first helps us respond with calm."
+        },
+        "quiz_3_option_3_text": {
+          "eng": "Show he understands his teen's feelings"
+        },
+        "quiz_3_feedback_3": {
+          "eng": "Yes. Understanding feelings helps everyone feel better."
+        },
+        "quiz_3_option_4_text": {
+          "eng": "Think about solutions together with @data.characters.f1_son_18.name"
+        },
+        "quiz_3_feedback_4": {
+          "eng": "Yes. Solving problems together helps the family."
+        },
+        "quiz_3_option_5_text": {
+          "eng": "Do something positive together with @data.characters.f1_son_18.name"
+        },
+        "quiz_3_feedback_5": {
+          "eng": "Yes. Positive moments help reduce stress."
+        }
+      },
+      "quiz_1_question": "How do you think @data.characters.f1_father.name's son and daughter felt?",
+      "quiz_1_option_1_text": "Sad",
+      "quiz_1_feedback_1": "Yes. They felt hurt and confused by @data.characters.f1_father.name’s anger.",
+      "quiz_1_option_2_text": "Scared",
+      "quiz_1_feedback_2": "Yes. They felt scared when @data.characters.f1_father.name was so angry.",
+      "quiz_1_option_3_text": "Confused",
+      "quiz_1_feedback_3": "Yes. They felt hurt and confused by @data.characters.f1_father.name’s anger.",
+      "quiz_1_option_4_text": "Angry",
+      "quiz_1_feedback_4": "Yes. It’s normal to feel angry when someone speaks to you in a harsh way.",
+      "quiz_2_question": "And @data.characters.f1_father.name?",
+      "quiz_2_option_1_text": "Sad",
+      "quiz_2_feedback_1": "Yes. He felt stressed and overwhelmed by the situation.",
+      "quiz_2_option_2_text": "Scared",
+      "quiz_2_feedback_2": "Yes. He felt stressed and overwhelmed by the situation.",
+      "quiz_2_option_3_text": "Confused",
+      "quiz_2_feedback_3": "Yes. He felt stressed and overwhelmed by the situation.",
+      "quiz_2_option_4_text": "Angry",
+      "quiz_2_feedback_4": "Yes. He felt stressed and overwhelmed by the situation.",
+      "quiz_3_question": "What could @data.characters.f1_father.name have done differently?",
+      "quiz_3_option_1_text": "Recognise why he felt stressed",
+      "quiz_3_feedback_1": "Yes. Noticing stress helps us pause before reacting.",
+      "quiz_3_option_2_text": "Take a deep breath and speak calmly",
+      "quiz_3_feedback_2": "Yes. Breathing first helps us respond with calm.",
+      "quiz_3_option_3_text": "Show he understands his teen's feelings",
+      "quiz_3_feedback_3": "Yes. Understanding feelings helps everyone feel better.",
+      "quiz_3_option_4_text": "Think about solutions together with @data.characters.f1_son_18.name",
+      "quiz_3_feedback_4": "Yes. Solving problems together helps the family.",
+      "quiz_3_option_5_text": "Do something positive together with @data.characters.f1_son_18.name",
+      "quiz_3_feedback_5": "Yes. Positive moments help reduce stress."
+    },
+    {
+      "id": "explore_7",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress2_t_1.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_13",
+      "character_3_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "Thank you for thinking along! Let’s go back in time and see what would happen if things went a little differently for @data.characters.f1_father.name, @data.characters.f1_daughter_13.name, and @data.characters.f1_son_18.name",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Thank you for thinking along! Let’s go back in time and see what would happen if things went a little differently for @data.characters.f1_father.name, @data.characters.f1_daughter_13.name, and @data.characters.f1_son_18.name"
+        },
+        "text_2": {
+          "eng": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better."
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. But I know this is also hard for you. How are you feeling?"
+        },
+        "character_2_text": {
+          "eng": "I feel worried when I need to ask for anything. The answer is always no."
+        },
+        "character_3_text": {
+          "eng": "I also feel worried. I want to help, but I don’t know how."
+        }
+      },
+      "text_2": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better.",
+      "character_1_text": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. But I know this is also hard for you. How are you feeling?",
+      "character_2_text": "I feel worried when I need to ask for anything. The answer is always no.",
+      "character_3_text": "I also feel worried. I want to help, but I don’t know how."
+    },
+    {
+      "id": "explore_8",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress2_t_2.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "Thank you for telling me, @data.characters.f1_daughter_13.name. We need to find small ways to spend less. We still want to give you what you need, but things like airtime and tutoring cost a lot.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Thank you for telling me, @data.characters.f1_daughter_13.name. We need to find small ways to spend less. We still want to give you what you need, but things like airtime and tutoring cost a lot."
+        },
+        "character_2_text": {
+          "eng": "And, @data.characters.f1_son_18.name, thank you for wanting to help, I am sure you have great ideas."
+        }
+      },
+      "character_2_text": "And, @data.characters.f1_son_18.name, thank you for wanting to help, I am sure you have great ideas."
+    },
+    {
+      "id": "explore_9",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress2_t_3.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_daughter_13",
+      "character_3_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "Maybe I have an idea. @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Maybe I have an idea. @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?"
+        },
+        "character_2_text": {
+          "eng": "Yes! I like learning with her!"
+        },
+        "character_3_text": {
+          "eng": "That is a wonderful idea. I always thought @data.characters.f1_daughter_16.name could be a great teacher one day."
+        },
+        "quiz_1_question": {
+          "eng": "Think of your own life: What has helped you to feel calm in a stressful moment?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Take 5 breaths"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! Breathing helps you feel calmer."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Walk away for a moment"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Good! A short break can help you calm down."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Share how you feel"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Nice! Sharing feelings can reduce stress."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Talk to a friend"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes! Talking to someone can make things lighter."
+        }
+      },
+      "character_2_text": "Yes! I like learning with her!",
+      "character_3_text": "That is a wonderful idea. I always thought @data.characters.f1_daughter_16.name could be a great teacher one day.",
+      "quiz_1_question": "Think of your own life: What has helped you to feel calm in a stressful moment?",
+      "quiz_1_option_1_text": "Take 5 breaths",
+      "quiz_1_feedback_1": "Great! Breathing helps you feel calmer.",
+      "quiz_1_option_2_text": "Walk away for a moment",
+      "quiz_1_feedback_2": "Good! A short break can help you calm down.",
+      "quiz_1_option_3_text": "Share how you feel",
+      "quiz_1_feedback_3": "Nice! Sharing feelings can reduce stress.",
+      "quiz_1_option_4_text": "Talk to a friend",
+      "quiz_1_feedback_4": "Yes! Talking to someone can make things lighter."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "There are two home activities for this week:\n\n1) Whenever you are feeling stressed or upset with your teen, take five breaths in and out before you react.\nAnd when you're both calm, share with each other how you feel. \n\n2) Choose a \"Safety Word\" with your teen, and think of a situation together when you could use this.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "There are two home activities for this week:\n\n1) Whenever you are feeling stressed or upset with your teen, take five breaths in and out before you react.\nAnd when you're both calm, share with each other how you feel. \n\n2) Choose a \"Safety Word\" with your teen, and think of a situation together when you could use this."
+        },
+        "text_2": {
+          "eng": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together"
+        },
+        "quiz_1_question": {
+          "eng": "Can you respond calmly and choose a “Safety Word” with your teen this week?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! Staying calm and having a “Safety Word” will help you and your family."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "I think so"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s a good start. When you are stressed, remember to take a few deep breaths, it will make it easier to respond calmly."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
+        }
+      },
+      "text_2": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together",
+      "quiz_1_question": "Can you respond calmly and choose a “Safety Word” with your teen this week?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! Staying calm and having a “Safety Word” will help you and your family.",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "That’s a good start. When you are stressed, remember to take a few deep breaths, it will make it easier to respond calmly.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
+    },
+    {
+      "id": "teen_test_1",
+      "category_id": "teen_test",
+      "media_type": "audio",
+      "media_asset": "/audio/teen/testimonials/teen/teen_test_stress_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "Remember, when we practice responding calmly and sharing how we feel, our teens learn to do the same. This skill will help them their whole life!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Remember, when we practice responding calmly and sharing how we feel, our teens learn to do the same. This skill will help them their whole life!"
+        },
+        "media_title": {
+          "eng": "Hear how @data.characters.media_son_1.name learned to stay calm from his father"
+        },
+        "media_transcript": {
+          "eng": "Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me and I would get so angry as well at him and everyone else.\n\nNow, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n\nIt really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person."
+        }
+      },
+      "media_title": "Hear how @data.characters.media_son_1.name learned to stay calm from his father",
+      "media_transcript": "Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me and I would get so angry as well at him and everyone else.\n\nNow, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n\nIt really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person."
+    }
+  ],
+  "_source": {
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

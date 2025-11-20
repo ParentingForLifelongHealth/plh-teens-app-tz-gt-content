@@ -1,0 +1,60 @@
+{
+  "flow_type": "data_list",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_splash_slides",
+  "status": "released",
+  "rows": [
+    {
+      "id": "slide_1",
+      "image_asset": "images/onboarding/frustrated.svg",
+      "duration_sec": 4,
+      "text": "Raising teenagers is hard",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Raising teenagers is hard"
+        }
+      }
+    },
+    {
+      "id": "slide_2",
+      "image_asset": "images/onboarding/loving_parent.svg",
+      "duration_sec": 4,
+      "text": "You are the best parent your teen could have",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "You are the best parent your teen could have"
+        }
+      }
+    },
+    {
+      "id": "slide_3",
+      "image_asset": "images/onboarding/join_parents.svg",
+      "duration_sec": 4,
+      "text": "Join over 200 million parents who have used our resources",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Join over 200 million parents who have used our resources"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "data/TZ onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1V1i6pGZASQWux3EkVtDhO7zPw7rR1E0Y7H_5Ld0DEfI"
+  },
+  "_metadata": {
+    "duration_sec": {
+      "type": "number"
+    }
+  }
+}

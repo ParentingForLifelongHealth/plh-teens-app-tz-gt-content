@@ -18,6 +18,25 @@
         },
         {
           "type": "button",
+          "name": "button_delay_days",
+          "value": "Change countdown days",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "countdown_days"
+              ],
+              "_raw": "click | go_to: countdown_days"
+            }
+          ],
+          "_nested_name": "dg_dev.button_delay_days"
+        },
+        {
+          "type": "button",
           "name": "button_templates",
           "value": "Templates",
           "_translations": {
@@ -272,8 +291,8 @@
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "TZ app_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1Ws2I7e08zwIvh1BUMYG0VYTeizyVmrbozM29Mu9lr_g"
+    "name": "kids_teens_global",
+    "path": "PLH app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jWVWtpRFixLG5K_m2vQIKnhqTMAIq6_F0pSdApBQ1jc"
   }
 }

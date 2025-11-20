@@ -40,53 +40,88 @@
     }
   ],
   "_source": {
-    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+    "name": "kids_global",
     "path": "templates/modules/module_navigation.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1MeuVFYp7ovMCABdgC5c1mExgDK8Xop13fzzBNR5EAPo"
   },
   "_output_flows": [
     {
-      "flow_name": "module_join",
+      "flow_name": "module_selfcare_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_connect",
+      "flow_name": "module_oneononetime_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_care",
+      "flow_name": "module_praise_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_create",
+      "flow_name": "module_instructions_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_play",
+      "flow_name": "module_stress_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_talk",
+      "flow_name": "module_problemsolving_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_build",
+      "flow_name": "module_money_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_explore",
+      "flow_name": "module_rules_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_reflect",
+      "flow_name": "module_consequences_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_safety_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_crisis_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_srh_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_stayingsafe_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_grief_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_learn_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_celebrate_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

@@ -1,0 +1,136 @@
+{
+  "flow_type": "template",
+  "flow_name": "library_tools",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@data.library.tools.title",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.library.tools.title",
+            "matchedExpression": "@data.library.tools.title",
+            "type": "data",
+            "fieldName": "library"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.library.tools.title": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "tool_tiles",
+      "parameter_list": {
+        "style": "two_columns"
+      },
+      "rows": [
+        {
+          "type": "items",
+          "value": "@data.modules",
+          "rows": [
+            {
+              "type": "template",
+              "name": "tool_tile_@item.id",
+              "value": "tool_tile",
+              "rows": [
+                {
+                  "name": "module_id",
+                  "value": "@item.id",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "tool_tiles.items_1.tool_tile_@item.id.module_id",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ],
+                    "_nested_name": [
+                      {
+                        "fullExpression": "tool_tiles.items_1.tool_tile_@item.id.module_id",
+                        "matchedExpression": "@item.id.module_id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id": [
+                      "value"
+                    ],
+                    "@item.id.module_id": [
+                      "_nested_name"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "tool_tiles.items_1.tool_tile_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "tool_tile_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "tool_tiles.items_1.tool_tile_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "name": "items_1",
+          "_nested_name": "tool_tiles.items_1",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.modules",
+                "matchedExpression": "@data.modules",
+                "type": "data",
+                "fieldName": "modules"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@data.modules": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "tool_tiles"
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "templates/TZ library templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MGs2gu5skGfdltNo18dLS3cqGmyT_m3h4SlWpZi0cJQ"
+  }
+}

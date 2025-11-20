@@ -4,462 +4,365 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "join",
-      "status": "released",
-      "number": "1",
-      "facilitator_id": "facilitator_man",
-      "check_in_id": "check_in_10",
+      "id": "selfcare_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 2.1,
+      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
+      "image_asset": "images/homescreen/self_care.svg",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1cpweixtTIA5RygkDLXN27XvFdYzh3Ta7YSbi8HOhw4o",
+      "title": "Taking Care of Yourself",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Taking Care of Yourself"
+        }
+      },
+      "completed": false,
+      "task_child": "selfcare_t_article_tasks"
+    },
+    {
+      "id": "oneononetime_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 2.2,
+      "bottom_aligned_image_asset": "images/homescreen/listview/one_on_one_t.svg",
+      "image_asset": "images/homescreen/one_on_one_t.svg",
       "relax_id": "relax_4",
-      "relax_id_list": [
-        "relax_25",
-        "relax_9",
-        "relax_4"
-      ],
-      "play_id_list": [
-        "happy_things",
-        "gardening",
-        "something_special"
-      ],
-      "books_id_list": [
-        "little_shoots",
-        "things_that_matter",
-        "when_grow_up"
-      ],
-      "audio_asset": "audio/songs/maua_mazuri.mp3",
-      "image_asset": "images/modules/join/join_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "JOIN",
+      "check_in_id": "check_in_2",
+      "title": "One-on-One Time",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "JOIN"
-        },
-        "description": {
-          "eng": "Welcome to the ParentApp for Kids community!"
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the JOIN module! \nHere is a song to celebrate you!"
+          "eng": "One-on-One Time"
         }
       },
-      "description": "Welcome to the ParentApp for Kids community!",
-      "congratulation_text": "Well done for finishing the JOIN module! \nHere is a song to celebrate you!",
       "completed": false,
-      "task_child": "join_article_tasks"
+      "task_child": "oneononetime_t_article_tasks"
     },
     {
-      "id": "connect",
-      "status": "released",
-      "number": "2",
-      "facilitator_id": "facilitator_woman",
-      "check_in_id": "check_in_1",
-      "relax_id": "relax_10",
-      "relax_id_list": [
-        "relax_16",
-        "relax_3",
-        "relax_10"
+      "id": "praise_t",
+      "tag_list": [
+        "teen"
       ],
-      "play_id_list": [
-        "what_makes_us_special",
-        "pattern_play",
-        "cooking_together"
-      ],
-      "books_id_list": [
-        "to_the_top",
-        "moms_red_coat",
-        "bee_and_elephant"
-      ],
-      "audio_asset": "audio/songs/bilinge_bayoyo.mp3",
-      "image_asset": "images/modules/connect/connect_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "CONNECT",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "CONNECT"
-        },
-        "description": {
-          "eng": "Making time to connect with your child helps build a strong and positive relationship."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the CONNECT module! \nHere is a song to celebrate you!"
-        }
-      },
-      "description": "Making time to connect with your child helps build a strong and positive relationship.",
-      "congratulation_text": "Well done for finishing the CONNECT module! \nHere is a song to celebrate you!",
-      "completed": false,
-      "task_child": "connect_article_tasks"
-    },
-    {
-      "id": "care",
-      "status": "released",
-      "number": "3",
-      "facilitator_id": "facilitator_man",
-      "check_in_id": "check_in_12",
-      "relax_id": "relax_18",
-      "relax_id_list": [
-        "relax_15",
-        "relax_23",
-        "relax_1"
-      ],
-      "play_id_list": [
-        "hide_and_seek",
-        "traditional_game",
-        "dream_travel"
-      ],
-      "books_id_list": [
-        "decision",
-        "my_inside_weather",
-        "lebo_and_gogos_tea_party"
-      ],
-      "audio_asset": "audio/songs/watoto_wangu_ehh.mp3",
-      "image_asset": "images/modules/care/care_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "CARE",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "CARE"
-        },
-        "description": {
-          "eng": "Caring for yourself and caring for others go hand-in-hand."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
-        }
-      },
-      "description": "Caring for yourself and caring for others go hand-in-hand.",
-      "congratulation_text": "Well done for finishing the CARE module! \nHere is a song to celebrate you!",
-      "completed": false,
-      "task_child": "care_article_tasks"
-    },
-    {
-      "id": "create",
-      "status": "released",
-      "number": "4",
-      "facilitator_id": "facilitator_woman",
-      "check_in_id": "check_in_8",
+      "number": 2.3,
+      "bottom_aligned_image_asset": "images/homescreen/listview/praise_t.svg",
+      "image_asset": "images/homescreen/praise_t.svg",
       "relax_id": "relax_17",
-      "relax_id_list": [
-        "relax_13",
-        "relax_14",
-        "relax_17"
-      ],
-      "play_id_list": [
-        "household_helpers",
-        "music_and_dancing",
-        "walking_together"
-      ],
-      "books_id_list": [
-        "babys_first_photo",
-        "shongololo_s_shoes",
-        "yes_you_can"
-      ],
-      "audio_asset": "audio/songs/napenda_kuhesabu_namba.mp3",
-      "image_asset": "images/modules/create/create_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "CREATE",
+      "check_in_id": "check_in_3",
+      "title": "Praise",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "CREATE"
-        },
-        "description": {
-          "eng": "Create a positive and supportive environment for your child to learn in."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the CREATE module! \nHere is a song to celebrate you!"
+          "eng": "Praise"
         }
       },
-      "description": "Create a positive and supportive environment for your child to learn in.",
-      "congratulation_text": "Well done for finishing the CREATE module! \nHere is a song to celebrate you!",
       "completed": false,
-      "task_child": "create_article_tasks"
+      "task_child": "praise_t_article_tasks"
     },
     {
-      "id": "play",
-      "status": "released",
-      "number": "5",
-      "facilitator_id": "facilitator_man",
-      "check_in_id": "check_in_13",
-      "relax_id": "relax_21",
-      "relax_id_list": [
-        "relax_8",
-        "relax_20",
-        "relax_21"
+      "id": "instructions_t",
+      "tag_list": [
+        "teen"
       ],
-      "play_id_list": [
-        "favourite_play",
-        "act_the_story",
-        "shadow_movie"
-      ],
-      "books_id_list": [
-        "lesedis_sandbox",
-        "lefas_bath",
-        "mama_whats_for_lunch"
-      ],
-      "audio_asset": "audio/songs/mabata_madogo.mp3",
-      "image_asset": "images/modules/play/play_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "PLAY",
+      "number": 2.4,
+      "bottom_aligned_image_asset": "images/homescreen/listview/instruct_t.svg",
+      "image_asset": "images/homescreen/instruct_t.svg",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_4",
+      "title": "Positive Instructions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "PLAY"
-        },
-        "description": {
-          "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the PLAY module! \nHere is a song to celebrate you!"
+          "eng": "Positive Instructions"
         }
       },
-      "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
-      "congratulation_text": "Well done for finishing the PLAY module! \nHere is a song to celebrate you!",
       "completed": false,
-      "task_child": "play_article_tasks"
+      "task_child": "instructions_t_article_tasks"
     },
     {
-      "id": "talk",
-      "status": "released",
-      "number": "6",
-      "facilitator_id": "facilitator_woman",
-      "check_in_id": "check_in_5",
-      "relax_id": "relax_2",
-      "relax_id_list": [
-        "relax_6",
-        "relax_19",
-        "relax_2"
+      "id": "stress_t",
+      "tag_list": [
+        "teen"
       ],
-      "play_id_list": [
-        "story",
-        "simon_says",
-        "when_I_grow_up"
-      ],
-      "books_id_list": [
-        "jasu_loves_football",
-        "beautiful_day",
-        "scared_tumi"
-      ],
-      "audio_asset": "audio/songs/yai_bovu.mp3",
-      "image_asset": "images/modules/talk/talk_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "TALK",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "TALK"
-        },
-        "description": {
-          "eng": "Words are powerful. What you say to your child and how you say it makes a difference."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the TALK module! \nHere is a song to celebrate you!"
-        }
-      },
-      "description": "Words are powerful. What you say to your child and how you say it makes a difference.",
-      "congratulation_text": "Well done for finishing the TALK module! \nHere is a song to celebrate you!",
-      "completed": false,
-      "task_child": "talk_article_tasks"
-    },
-    {
-      "id": "build",
-      "status": "released",
-      "number": "7",
-      "facilitator_id": "facilitator_man",
-      "check_in_id": "check_in_11",
+      "number": 2.5,
+      "bottom_aligned_image_asset": "images/homescreen/listview/stress_t.svg",
+      "image_asset": "images/homescreen/stress_t.svg",
       "relax_id": "relax_7",
-      "relax_id_list": [
-        "relax_24",
-        "relax_12",
-        "relax_7"
-      ],
-      "play_id_list": [
-        "build_a_road",
-        "animal_strengths",
-        "treasure_hunt"
-      ],
-      "books_id_list": [
-        "fifi_and_teddy",
-        "lost_toy",
-        "angry_akku"
-      ],
-      "audio_asset": "audio/songs/ukuti_ukuti.mp3",
-      "image_asset": "images/modules/build/build_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "BUILD",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "BUILD"
-        },
-        "description": {
-          "eng": "Help your child build skills to deal with challenges."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the BUILD module! \nHere is a song to celebrate you!"
-        }
-      },
-      "description": "Help your child build skills to deal with challenges.",
-      "congratulation_text": "Well done for finishing the BUILD module! \nHere is a song to celebrate you!",
-      "completed": false,
-      "task_child": "build_article_tasks"
-    },
-    {
-      "id": "explore",
-      "status": "released",
-      "number": "8",
-      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_5",
-      "relax_id": "relax_11",
-      "relax_id_list": [
-        "relax_22",
-        "relax_5",
-        "relax_11"
-      ],
-      "play_id_list": [
-        "search_with_senses",
-        "count_and_compare",
-        "mystery_box"
-      ],
-      "books_id_list": [
-        "zibu_and_zizo",
-        "big_blue_bus",
-        "yello_earth_brown_earth"
-      ],
-      "audio_asset": "audio/songs/ngozi_ya_kenge_2.mp3",
-      "image_asset": "images/modules/explore/explore_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "EXPLORE",
+      "title": "Managing Stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "congratulation_text": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "EXPLORE"
-        },
-        "description": {
-          "eng": "Support your child to explore and learn from the world around them."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the EXPLORE module! \nHere is a song to celebrate you!"
+          "eng": "Managing Stress"
         }
       },
-      "description": "Support your child to explore and learn from the world around them.",
-      "congratulation_text": "Well done for finishing the EXPLORE module! \nHere is a song to celebrate you!",
       "completed": false,
-      "task_child": "explore_article_tasks"
+      "task_child": "stress_t_article_tasks"
     },
     {
-      "id": "reflect",
-      "status": "released",
-      "number": "9",
-      "facilitator_id": "facilitator_man",
-      "check_in_id": "check_in_1",
-      "relax_id": "relax_9",
-      "relax_id_list": [
-        "relax_3",
-        "relax_8",
-        "relax_9"
+      "id": "problemsolving_t",
+      "tag_list": [
+        "teen"
       ],
-      "play_id_list": [
-        "cooking_traditional_food",
-        "reflect_positive",
-        "making_music"
-      ],
-      "books_id_list": [
-        "things_that_matter",
-        "yes_you_can",
-        "lesedis_sandbox"
-      ],
-      "audio_asset": "audio/songs/kulea_pamoja.mp3",
-      "image_asset": "images/modules/reflect/reflect_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "REFLECT",
+      "number": 2.6,
+      "bottom_aligned_image_asset": "images/homescreen/listview/solve_t.svg",
+      "image_asset": "images/homescreen/solve_t.svg",
+      "relax_id": "relax_11",
+      "check_in_id": "check_in_6",
+      "title": "Solve Problems",
       "_translations": {
-        "title": {},
-        "description": {},
-        "congratulation_text": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "REFLECT"
-        },
-        "description": {
-          "eng": "Celebrate and reflect on everything you have learnt on your ParentApp journey."
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the REFLECT module! \nHere is a song to celebrate you!"
+          "eng": "Solve Problems"
         }
       },
-      "description": "Celebrate and reflect on everything you have learnt on your ParentApp journey.",
-      "congratulation_text": "Well done for finishing the REFLECT module! \nHere is a song to celebrate you!",
       "completed": false,
-      "task_child": "reflect_article_tasks"
+      "task_child": "problemsolving_t_article_tasks"
+    },
+    {
+      "id": "money_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 2.7,
+      "bottom_aligned_image_asset": "images/homescreen/listview/money_t.svg",
+      "image_asset": "images/homescreen/money_t.svg",
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_7",
+      "title": "Family Budgets",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Family Budgets"
+        }
+      },
+      "completed": false,
+      "task_child": "money_t_article_tasks"
+    },
+    {
+      "id": "rules_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 2.8,
+      "bottom_aligned_image_asset": "images/homescreen/listview/rules_t.svg",
+      "image_asset": "images/homescreen/rules_t.svg",
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_8",
+      "title": "Rules",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Rules"
+        }
+      },
+      "completed": false,
+      "task_child": "rules_t_article_tasks"
+    },
+    {
+      "id": "consequences_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 2.9,
+      "bottom_aligned_image_asset": "images/homescreen/listview/consequence_t.svg",
+      "image_asset": "images/homescreen/consequence_t.svg",
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_9",
+      "title": "Calm Consequences",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Calm Consequences"
+        }
+      },
+      "completed": false,
+      "task_child": "consequences_t_article_tasks"
+    },
+    {
+      "id": "safety_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.1,
+      "bottom_aligned_image_asset": "images/homescreen/listview/safe_t.svg",
+      "image_asset": "images/homescreen/safe_t.svg",
+      "relax_id": "relax_12",
+      "check_in_id": "check_in_10",
+      "title": "Teen Safety",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Teen Safety"
+        }
+      },
+      "completed": false,
+      "task_child": "safety_t_article_tasks"
+    },
+    {
+      "id": "crisis_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.2,
+      "bottom_aligned_image_asset": "images/homescreen/listview/crisis_t.svg",
+      "image_asset": "images/homescreen/crisis_t.svg",
+      "relax_id": "relax_13",
+      "check_in_id": "check_in_11",
+      "title": "Crisis",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crisis"
+        }
+      },
+      "completed": false,
+      "task_child": "crisis_t_article_tasks"
+    },
+    {
+      "id": "srh_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.4,
+      "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
+      "image_asset": "images/homescreen/srh_t.svg",
+      "relax_id": "relax_15",
+      "check_in_id": "check_in_12",
+      "title": "Body Changes and Intimate Relationships",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body Changes and Intimate Relationships"
+        }
+      },
+      "completed": false,
+      "task_child": "srh_t_article_tasks"
+    },
+    {
+      "id": "stayingsafe_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.5,
+      "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
+      "image_asset": "images/homescreen/svp_t.svg",
+      "relax_id": "relax_17",
+      "check_in_id": "check_in_13",
+      "title": "Staying Safe",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Staying Safe"
+        }
+      },
+      "completed": false,
+      "task_child": "stayingsafe_t_article_tasks"
+    },
+    {
+      "id": "grief_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.6,
+      "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
+      "image_asset": "images/homescreen/grief_t.svg",
+      "relax_id": "relax_22",
+      "check_in_id": "check_in_14",
+      "title": "Coping with Grief",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Coping with Grief"
+        }
+      },
+      "completed": false,
+      "task_child": "grief_t_article_tasks"
+    },
+    {
+      "id": "learn_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.7,
+      "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
+      "image_asset": "images/homescreen/learn_t.svg",
+      "relax_id": "relax_20",
+      "check_in_id": "check_in_15",
+      "title": "Helping Your Teen Learn",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Helping Your Teen Learn"
+        }
+      },
+      "completed": false,
+      "task_child": "learn_t_article_tasks"
+    },
+    {
+      "id": "celebrate_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 4,
+      "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
+      "image_asset": "images/homescreen/celebrate_t.svg",
+      "relax_id": "relax_14",
+      "check_in_id": "check_in_16",
+      "title": "Celebration",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Celebration"
+        }
+      },
+      "completed": false,
+      "task_child": "celebrate_t_article_tasks"
     }
   ],
   "_metadata": {
+    "number": {
+      "type": "number"
+    },
     "completed": {
       "type": "boolean"
     }

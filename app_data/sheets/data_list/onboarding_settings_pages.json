@@ -1,0 +1,34 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "onboarding_settings_pages",
+  "status": "released",
+  "data_list_name": "onboarding_settings_pages",
+  "rows": [
+    {
+      "id": "page_1",
+      "completed": false
+    },
+    {
+      "id": "page_2",
+      "completed": false
+    },
+    {
+      "id": "page_3",
+      "completed": false
+    },
+    {
+      "id": "page_4",
+      "completed": false
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "templates/TZ onboarding templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+  },
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

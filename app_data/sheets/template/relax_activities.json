@@ -4,79 +4,133 @@
   "status": "released",
   "rows": [
     {
-      "type": "template",
-      "name": "activities",
-      "value": "activities",
-      "exclude_from_translation": true,
+      "type": "display_group",
+      "name": "heading",
       "rows": [
         {
-          "name": "fav_page",
-          "value": "fav_relax",
+          "type": "title",
+          "name": "title",
+          "value": "@data.library.relax.title",
           "_translations": {
             "value": {}
           },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "activities.fav_page"
-        },
-        {
-          "name": "activity",
-          "value": "Relax",
-          "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+          "parameter_list": {
+            "style": "tiny"
           },
-          "type": "set_variable",
-          "_nested_name": "activities.activity"
-        },
-        {
-          "name": "tags",
-          "value": "relax_tags",
-          "_translations": {
-            "value": {}
+          "_nested_name": "heading.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.library.relax.title",
+                "matchedExpression": "@data.library.relax.title",
+                "type": "data",
+                "fieldName": "library"
+              }
+            ]
           },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "activities.tags"
-        },
-        {
-          "name": "data_list",
-          "value": "relax",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "activities.data_list"
-        },
-        {
-          "name": "data_list_in_loop",
-          "value": "relax",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "activities.data_list_in_loop"
-        },
-        {
-          "name": "go_to_template_prefix",
-          "value": "article_",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "activities.go_to_template_prefix"
+          "_dynamicDependencies": {
+            "@data.library.relax.title": [
+              "value"
+            ]
+          }
         }
       ],
-      "_nested_name": "activities"
+      "_nested_name": "heading"
+    },
+    {
+      "type": "items",
+      "value": "@data.relax",
+      "rows": [
+        {
+          "type": "template",
+          "name": "card_@item.id",
+          "value": "relax_card",
+          "rows": [
+            {
+              "name": "id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "items_4.card_@item.id.id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items_4.card_@item.id.id",
+                    "matchedExpression": "@item.id.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ],
+                "@item.id.id": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "items_4.card_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "card_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items_4.card_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        }
+      ],
+      "name": "items_4",
+      "_nested_name": "items_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.relax",
+            "matchedExpression": "@data.relax",
+            "type": "data",
+            "fieldName": "relax"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.relax": [
+          "value"
+        ]
+      }
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "Resource centre/TZ resource centre.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1BoC8Zide9G0WNwqkVA2VYAEsE47kSUrBeFUJ8TJI7f0"
+    "name": "kids_global",
+    "path": "templates/relax_activities.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1nCQAjjE-dWhwaK9Xu4AXnoR_yMppug88_BbSE4IEg9k"
   }
 }

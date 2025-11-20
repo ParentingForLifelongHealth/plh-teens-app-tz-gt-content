@@ -1,0 +1,78 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_library_article",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "library_article",
+    "output_flow_name": "library_article_{@gen.id}",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "library_article",
+      "value": "library_article",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "@gen.id",
+          "exclude_from_translation": true
+        }
+      ]
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "templates/TZ library templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MGs2gu5skGfdltNo18dLS3cqGmyT_m3h4SlWpZi0cJQ"
+  },
+  "_output_flows": [
+    {
+      "flow_name": "library_article_support_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_support_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_support_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_support_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_support_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_support_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_support_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

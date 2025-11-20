@@ -5,167 +5,575 @@
   "status": "released",
   "rows": [
     {
-      "id": "facilitator_woman",
+      "id": "facilitator_female",
+      "name": "Neema",
       "role": "facilitator",
-      "image_asset": "images/facilitator_face_woman.svg"
+      "image_asset": "images/character_icons/TZ_FACILITATOR_FEMALE.svg",
+      "intro_image_asset": "images/onboarding/facilitator_female_onboarding_icon.svg"
     },
     {
-      "id": "facilitator_man",
+      "id": "facilitator_male",
+      "name": "Steven",
       "role": "facilitator",
-      "image_asset": "images/facilitator_face_man.svg"
-    },
-    {
-      "id": "facilitator_woman_blue",
-      "role": "facilitator",
-      "image_asset": "images/character/female_facilitator_blue_circle.svg"
-    },
-    {
-      "id": "facilitator_man_blue",
-      "role": "facilitator",
-      "image_asset": "images/character/male_facilitator_blue_circle.svg"
-    },
-    {
-      "id": "female_facilitator",
-      "role": "facilitator",
-      "image_asset": "images/character/female_facilitator.svg"
-    },
-    {
-      "id": "male_facilitator",
-      "role": "facilitator",
-      "image_asset": "images/character/male_facilitator.svg"
+      "image_asset": "images/character_icons/TZ_FACILITATOR_MALE.svg",
+      "intro_image_asset": "images/onboarding/facilitator_male_onboarding_icon.svg"
     },
     {
       "id": "f1_mother",
+      "caps_id": "F1_MOTHER",
       "family_no": 1,
-      "name": "Mama Shayo",
+      "name": "Amina",
+      "role_name_tz_sw": "Mama",
       "role": "caregiver",
-      "image_asset": "images/character/family_1_mom.svg"
+      "image_asset": "images/character_icons/F1_MOTHER.svg",
+      "Flag if column E has duplicate names": "Duplicate",
+      "role_name": "Mother",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Mother"
+        }
+      }
     },
     {
       "id": "f1_father",
+      "caps_id": "F1_FATHER",
       "family_no": 1,
-      "name": "Bwana Shayo",
+      "name": "Jumanne",
+      "role_name_tz_sw": "Baba",
       "role": "caregiver",
-      "image_asset": "images/character/family_1_dad.svg"
+      "image_asset": "images/character_icons/F1_FATHER.svg",
+      "Flag if column E has duplicate names": "Duplicate",
+      "role_name": "Father",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Father"
+        }
+      }
     },
     {
-      "id": "f1_girl",
+      "id": "f1_son_18",
+      "caps_id": "F1_SON_18",
       "family_no": 1,
-      "name": "Aneth",
+      "age": 17,
+      "name": "Solomoni",
       "role": "child",
-      "image_asset": "images/character/family_1_young_girl.svg"
+      "image_asset": "images/character_icons/F1_SON_18.svg",
+      "Flag if column E has duplicate names": ""
     },
     {
-      "id": "f1_child_boy",
+      "id": "f1_daughter_16",
+      "caps_id": "F1_DAUGHTER_16",
       "family_no": 1,
-      "name": "Peter",
+      "age": 16,
+      "name": "Shukuru",
       "role": "child",
-      "image_asset": "images/character/family_1_boy.svg"
+      "image_asset": "images/character_icons/F1_DAUGHTER_16.svg",
+      "Flag if column E has duplicate names": ""
     },
     {
-      "id": "f1_grandma",
+      "id": "f1_daughter_13",
+      "caps_id": "F1_DAUGHTER_13",
       "family_no": 1,
-      "name": "Bibi Jane",
-      "role": "caregiver",
-      "image_asset": "images/character/family_1_grandma.svg"
-    },
-    {
-      "id": "f1_baby_boy",
-      "family_no": 1,
-      "name": "Joseph",
+      "age": 13,
+      "name": "Faraja",
       "role": "child",
-      "image_asset": "images/character/family_2_baby.svg"
+      "image_asset": "images/character_icons/F1_DAUGHTER_13.svg",
+      "Flag if column E has duplicate names": ""
     },
     {
-      "id": "f2_boy",
+      "id": "f2_grandmother",
+      "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,
-      "name": "Dennis",
-      "role": "child",
-      "image_asset": "images/character/family_2_boy.svg"
+      "name": "Aisha",
+      "role_name_tz_sw": "Bibi",
+      "role": "caregiver",
+      "image_asset": "images/character_icons/F2_GRANDMOTHER.svg",
+      "Flag if column E has duplicate names": "Duplicate",
+      "role_name": "Grandmother",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Grandmother"
+        }
+      }
     },
     {
-      "id": "f2_father",
+      "id": "f2_grandfather",
+      "caps_id": "F2_GRANDFATHER",
       "family_no": 2,
-      "name": "Bwana Masanja",
+      "name": "Saguda",
+      "role_name_tz_sw": "Babu",
       "role": "caregiver",
-      "image_asset": "images/character/family_2_dad.svg"
+      "image_asset": "images/character_icons/F2_GRANDFATHER.svg",
+      "Flag if column E has duplicate names": "",
+      "role_name": "Grandfather",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Grandfather"
+        }
+      }
     },
     {
-      "id": "f2_mother",
+      "id": "f2_daughter_19",
+      "caps_id": "F2_DAUGHTER_19",
       "family_no": 2,
-      "name": "Mama Masanja",
-      "role": "caregiver",
-      "image_asset": "images/character/family_2_mom.svg"
+      "age": 17,
+      "name": "Sabrina",
+      "role": "child",
+      "image_asset": "images/character_icons/F2_DAUGHTER_19.svg",
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
-      "id": "f2_teen_girl",
+      "id": "f2_son_15",
+      "caps_id": "F2_SON_15",
       "family_no": 2,
-      "name": "Anna",
+      "name": "John",
       "role": "child",
-      "image_asset": "images/character/family_2_teen_girl.svg"
-    },
-    {
-      "id": "f3_boy_wheelchair",
-      "family_no": 3,
-      "name": "Asie",
-      "role": "child",
-      "image_asset": "images/character/family_3_boy_wheelchair.svg"
-    },
-    {
-      "id": "f3_girl",
-      "family_no": 3,
-      "name": "Amina",
-      "role": "child",
-      "image_asset": "images/character/family_3_girl.svg"
-    },
-    {
-      "id": "f3_grandma",
-      "family_no": 3,
-      "name": "Bibi Musa",
-      "role": "caregiver",
-      "image_asset": "images/character/family_3_grandma.svg"
-    },
-    {
-      "id": "f3_grandpa",
-      "family_no": 3,
-      "name": "Babu Musa",
-      "role": "caregiver",
-      "image_asset": "images/character/family_3_grandpa.svg"
+      "image_asset": "images/character_icons/F2_SON_15.svg",
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "f3_mother",
+      "caps_id": "F3_MOTHER",
       "family_no": 3,
-      "name": "Mama Issa",
+      "name": "Zulpha",
+      "role_name_tz_sw": "Mama",
       "role": "caregiver",
-      "image_asset": "images/character/family_3_mom.svg"
+      "image_asset": "images/character_icons/F3_MOTHER.svg",
+      "Flag if column E has duplicate names": "Duplicate",
+      "role_name": "Mother",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Mother"
+        }
+      }
     },
     {
-      "id": "f3_older_boy",
+      "id": "f3_uncle",
+      "caps_id": "F3_UNCLE",
       "family_no": 3,
-      "name": "Hamisi",
-      "role": "child",
-      "image_asset": "images/character/family_3_older_boy.svg"
-    },
-    {
-      "id": "nandi_mom",
-      "name": "Mama",
+      "name": "Sendeu",
+      "role_name_tz_sw": "Mjomba",
       "role": "caregiver",
-      "image_asset": "images/character/nandi_mom.png"
+      "image_asset": "images/character_icons/F3_UNCLE.svg",
+      "Flag if column E has duplicate names": "",
+      "role_name": "Uncle",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Uncle"
+        }
+      }
     },
     {
-      "id": "nandi",
-      "name": "Nandi",
+      "id": "f3_daughter_12",
+      "caps_id": "F3_DAUGHTER_12",
+      "family_no": 3,
+      "age": 12,
+      "name": "Upendo",
       "role": "child",
-      "image_asset": "images/character/nandi.png"
+      "image_asset": "images/character_icons/F3_DAUGHTER_12.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "f4_daughter_13",
+      "caps_id": "F4_Daughter_13",
+      "family_no": 4,
+      "age": 13,
+      "name": "Malaika",
+      "role": "child",
+      "image_asset": "images/character_icons/F4_DAUGHTER_13.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "f4_father",
+      "caps_id": "F4_FATHER",
+      "family_no": 4,
+      "name": "Mabula",
+      "role_name_tz_sw": "Baba",
+      "role": "caregiver",
+      "image_asset": "images/character_icons/F4_FATHER.svg",
+      "Flag if column E has duplicate names": "",
+      "role_name": "Father",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Father"
+        }
+      }
+    },
+    {
+      "id": "f4_aunt",
+      "caps_id": "F4_AUNT",
+      "family_no": 4,
+      "name": "Esta",
+      "role_name_tz_sw": "Shangazi Esta",
+      "role": "caregiver",
+      "role_name": "Aunty Esta",
+      "_translations": {
+        "role_name": {}
+      },
+      "_translatedFields": {
+        "role_name": {
+          "eng": "Aunty Esta"
+        }
+      }
+    },
+    {
+      "id": "man_in_car",
+      "caps_id": "MAN_IN_CAR",
+      "name": "Samwel",
+      "image_asset": "images/character_icons/MAN_IN_CAR.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "boyfriend_1",
+      "caps_id": "BOYFRIEND_1",
+      "name": "Benjamin",
+      "image_asset": "images/character_icons/BOYFRIEND_1.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "man_threat",
+      "caps_id": "MAN_THREAT",
+      "name": "Kelvin",
+      "image_asset": "images/character_icons/BOYFRIEND_1.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "girlfriend_1",
+      "caps_id": "GIRLFRIEND_1",
+      "name": "Debora",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "teacher_1",
+      "caps_id": "TEACHER_1",
+      "name": "Mwalimu",
+      "image_asset": "images/character_icons/TEACHER_1.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_female_1",
+      "caps_id": "FRIEND_FEMALE_1",
+      "name": "Joyce",
+      "image_asset": "images/character_icons/FRIEND_FEMALE_1.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_female_2",
+      "caps_id": "FRIEND_FEMALE_2",
+      "name": "Veronica",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_female_3",
+      "caps_id": "FRIEND_FEMALE_3",
+      "name": "Maria",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_male_1",
+      "caps_id": "FRIEND_MALE_1",
+      "name": "God",
+      "image_asset": "images/character_icons/FRIEND_MALE_1.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_male_2",
+      "caps_id": "FRIEND_MALE_2",
+      "name": "Emanuel",
+      "image_asset": "images/character_icons/FRIEND_MALE_2.svg",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_male_3",
+      "caps_id": "FRIEND_MALE_3",
+      "name": "Furaha",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "friend_male_4",
+      "caps_id": "FRIEND_MALE_4",
+      "name": "Hassan",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_male_1",
+      "caps_id": "MEDIA_MALE_1",
+      "name": "Joshua",
+      "Media Details  (Teens)": "Selfcare_t (caregiver & teens)",
+      "Media Details  (YC)": "selfcare",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_male_2",
+      "caps_id": "MEDIA_MALE_2",
+      "name": "Jackson",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_male_3",
+      "caps_id": "MEDIA_MALE_3",
+      "name": "Goodluck",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_male_4",
+      "caps_id": "MEDIA_MALE_4",
+      "name": "Jason"
+    },
+    {
+      "id": "media_male_5",
+      "caps_id": "MEDIA_MALE_5",
+      "name": "Godfried"
+    },
+    {
+      "id": "media_female_1",
+      "caps_id": "MEDIA_FEMALE_1",
+      "name": "Rebeka",
+      "Media Details  (Teens)": "1on1_t",
+      "Media Details  (YC)": "1on1",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_female_2",
+      "caps_id": "MEDIA_FEMALE_2",
+      "name": "Esta",
+      "Media Details  (Teens)": "Praise_t",
+      "Media Details  (YC)": "praise",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_female_3",
+      "caps_id": "MEDIA_FEMALE_3",
+      "name": "Aisha",
+      "Media Details  (Teens)": "instructions_t",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_female_4",
+      "caps_id": "MEDIA_FEMALE_4",
+      "name": "Amina",
+      "Media Details  (Teens)": "stress_t",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_female_5",
+      "caps_id": "MEDIA_FEMALE_5",
+      "name": "Asha",
+      "Media Details  (Teens)": "problemsolving_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_female_6",
+      "caps_id": "MEDIA_FEMALE_6",
+      "name": "Zulpha",
+      "Media Details  (Teens)": "money_t",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_female_7",
+      "caps_id": "MEDIA_FEMALE_7",
+      "name": "Naomi",
+      "Media Details  (Teens)": "rules_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_female_8",
+      "caps_id": "MEDIA_FEMALE_8",
+      "name": "Salma",
+      "Media Details  (Teens)": "Safety_t",
+      "Media Details  (YC)": "feelings",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_female_9",
+      "caps_id": "MEDIA_FEMALE_9",
+      "name": "Aisha",
+      "Media Details  (Teens)": "crisis_t",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_female_10",
+      "caps_id": "MEDIA_FEMALE_10",
+      "name": "Aneth",
+      "Media Details  (Teens)": "srh_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_female_11",
+      "caps_id": "MEDIA_FEMALE_11",
+      "name": "Miriam",
+      "Media Details  (Teens)": "stayingsafe_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_female_12",
+      "caps_id": "MEDIA_FEMALE_12",
+      "name": "Anjela",
+      "Media Details  (Teens)": "grief_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_female_13",
+      "caps_id": "MEDIA_FEMALE_13",
+      "name": "Irene",
+      "Media Details  (Teens)": "consequences_t",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_female_14",
+      "caps_id": "MEDIA_FEMALE_14",
+      "name": "Sabrina",
+      "Media Details  (Teens)": "learn_t",
+      "Media Details  (YC)": "child development",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_son_1",
+      "caps_id": "MEDIA_SON_1",
+      "name": "Baraka",
+      "Media Details  (Teens)": "problemsolving_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_son_2",
+      "caps_id": "MEDIA_SON_2",
+      "name": "Jafari",
+      "Media Details  (Teens)": "stress_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_son_3",
+      "caps_id": "MEDIA_SON_3",
+      "name": "Doto",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_son_4",
+      "caps_id": "MEDIA_SON_4",
+      "name": "Jumanne",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_daughter_1",
+      "caps_id": "MEDIA_DAUGHTER_1",
+      "name": "Siwema",
+      "Media Details  (Teens)": "1on1_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_2",
+      "caps_id": "MEDIA_DAUGHTER_2",
+      "name": "Rose",
+      "Media Details  (Teens)": "praise_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_3",
+      "caps_id": "MEDIA_DAUGHTER_3",
+      "name": "Irene",
+      "Media Details  (Teens)": "instructiosn_t",
+      "Flag if column E has duplicate names": "Duplicate"
+    },
+    {
+      "id": "media_daughter_4",
+      "caps_id": "MEDIA_DAUGHTER_4",
+      "name": "Zuwena",
+      "Media Details  (Teens)": "Budget_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_5",
+      "caps_id": "MEDIA_DAUGHTER_5",
+      "name": "Nuru",
+      "Media Details  (Teens)": "Rules_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_6",
+      "caps_id": "MEDIA_DAUGHTER_6",
+      "name": "Victoria",
+      "Media Details  (Teens)": "Consequences_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_7",
+      "caps_id": "MEDIA_DAUGHTER_7",
+      "name": "Jamila",
+      "Media Details  (Teens)": "safety_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_8",
+      "caps_id": "MEDIA_DAUGHTER_8",
+      "name": "Sauda",
+      "Media Details  (Teens)": "srh_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_9",
+      "caps_id": "MEDIA_DAUGHTER_9",
+      "name": "Lilian",
+      "Media Details  (Teens)": "stayingsafe_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_10",
+      "caps_id": "MEDIA_DAUGHTER_10",
+      "name": "Farida",
+      "Media Details  (Teens)": "grief",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_11",
+      "caps_id": "MEDIA_DAUGHTER_11",
+      "name": "Emmy",
+      "Media Details  (Teens)": "learn_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "media_daughter_12",
+      "caps_id": "MEDIA_DAUGHTER_12",
+      "name": "Magreth",
+      "Media Details  (Teens)": "crisis_t",
+      "Flag if column E has duplicate names": ""
+    },
+    {
+      "id": "doll_name",
+      "caps_id": "DOLL_NAME",
+      "name": "Wema"
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "modules/TZ characters.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1BxsBeIneu-lOGK-o8udjkUMTMDC0nvim6JstUDqXFc4"
+    "name": "teens_tz",
+    "path": "data/TZ characters.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1F07jqq33WYeJNFOlW0-GRFEX2wZBVBMcdjTSvdGkvLk"
   },
   "_metadata": {
     "family_no": {
+      "type": "number"
+    },
+    "age": {
       "type": "number"
     }
   }

@@ -1,0 +1,837 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "consequences_t_articles",
+  "data_list_name": "consequences_t_articles",
+  "status": "released",
+  "flow_subtype": "modules_consequences_t",
+  "module": "consequences_t",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "media_type": "audio",
+      "media_asset": "/audio/teen/topic_intros/consequence_intro_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). \n\nOther consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). \n\nOther consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”)."
+        },
+        "media_title": {
+          "eng": "How will introducing calm consequences help you and your family? Tap play to learn"
+        },
+        "media_transcript": {
+          "eng": "Greetings, everyone.\n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist us to agree on introducing calm consequences to our teenagers, and our teenagers will easily remember them when they are involved and that will make them responsible."
+        }
+      },
+      "media_title": "How will introducing calm consequences help you and your family? Tap play to learn",
+      "media_transcript": "Greetings, everyone.\n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist us to agree on introducing calm consequences to our teenagers, and our teenagers will easily remember them when they are involved and that will make them responsible."
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "media_type": "audio",
+      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "When your teen behaves well you praise them, and when they break an agreed rule you give a calm consequence. \n\nCalm consequences work best when they are fair, agreed on together, and used consistently — not in anger.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When your teen behaves well you praise them, and when they break an agreed rule you give a calm consequence. \n\nCalm consequences work best when they are fair, agreed on together, and used consistently — not in anger."
+        },
+        "media_title": {
+          "eng": "Agreeing on consequences together works! Tap play to hear @data.characters.media_male_5.name tell his story"
+        },
+        "media_transcript": {
+          "eng": "When my teenagers made me angry, I used to shout and punish them right away. I felt so overwhelmed that I even threatened to leave. But nothing changed — they still did the same things, even when I shouted.\n\n@global.app_name helped me see that teens listen better when I am calm. Now, when something happens, I take a deep breath and say, ‘We will talk about this later when we are both calm.’\n\nWe also agree on consequences together before something goes wrong. This has made a big difference — we can resolve problems together, and I feel much less stressed.\nI wish I knew this earlier, but it’s never too late to start."
+        }
+      },
+      "media_title": "Agreeing on consequences together works! Tap play to hear @data.characters.media_male_5.name tell his story",
+      "media_transcript": "When my teenagers made me angry, I used to shout and punish them right away. I felt so overwhelmed that I even threatened to leave. But nothing changed — they still did the same things, even when I shouted.\n\n@global.app_name helped me see that teens listen better when I am calm. Now, when something happens, I take a deep breath and say, ‘We will talk about this later when we are both calm.’\n\nWe also agree on consequences together before something goes wrong. This has made a big difference — we can resolve problems together, and I feel much less stressed.\nI wish I knew this earlier, but it’s never too late to start."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence1_t_1.svg",
+      "character_1_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "Let's read what happened with @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's read what happened with @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f1_son_18.name! What time is this? You are late!"
+        }
+      },
+      "character_1_text": "@data.characters.f1_son_18.name! What time is this? You are late!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence1_t_2.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "Sorry @data.characters.f1_father.role_name – you can go back to sleep.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Sorry @data.characters.f1_father.role_name – you can go back to sleep."
+        },
+        "character_2_text": {
+          "eng": "It is WAY past the time you were supposed to be home!"
+        }
+      },
+      "character_2_text": "It is WAY past the time you were supposed to be home!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence1_t_3.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "I can explain, @data.characters.f1_father.role_name, I can.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I can explain, @data.characters.f1_father.role_name, I can."
+        },
+        "character_2_text": {
+          "eng": "@data.characters.f1_son_18.name, you broke our rule! You will get punished for this!"
+        }
+      },
+      "character_2_text": "@data.characters.f1_son_18.name, you broke our rule! You will get punished for this!"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence1_t_4.svg",
+      "character_1_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!”",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!”"
+        }
+      }
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "Let's think about what happened in this story.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's think about what happened in this story."
+        },
+        "quiz_1_question": {
+          "eng": "How do you think @data.characters.f1_father.name felt after this conversation?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Angry"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Worried"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Dissapointed"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse."
+        },
+        "quiz_2_question": {
+          "eng": "Why did giving a consequence this way not work well?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "@data.characters.f1_father.name was angry"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Yes. Reacting in anger made the situation worse."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "@data.characters.f1_father.name did not let his son, @data.characters.f1_son_18.name, explain"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Yes. He did not listen, so his son felt unheard and more upset."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "The consequence was not discussed beforehand"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Yes. Consequences work better when they are agreed on in advance, not decided in the heat of the moment."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "The consequence was too strong"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Yes. Very harsh consequences can feel unfair and damage trust."
+        }
+      },
+      "quiz_1_question": "How do you think @data.characters.f1_father.name felt after this conversation?",
+      "quiz_1_option_1_text": "Angry",
+      "quiz_1_feedback_1": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse.",
+      "quiz_1_option_2_text": "Worried",
+      "quiz_1_feedback_2": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse.",
+      "quiz_1_option_3_text": "Dissapointed",
+      "quiz_1_feedback_3": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse.",
+      "quiz_2_question": "Why did giving a consequence this way not work well?",
+      "quiz_2_option_1_text": "@data.characters.f1_father.name was angry",
+      "quiz_2_feedback_1": "Yes. Reacting in anger made the situation worse.",
+      "quiz_2_option_2_text": "@data.characters.f1_father.name did not let his son, @data.characters.f1_son_18.name, explain",
+      "quiz_2_feedback_2": "Yes. He did not listen, so his son felt unheard and more upset.",
+      "quiz_2_option_3_text": "The consequence was not discussed beforehand",
+      "quiz_2_feedback_3": "Yes. Consequences work better when they are agreed on in advance, not decided in the heat of the moment.",
+      "quiz_2_option_4_text": "The consequence was too strong",
+      "quiz_2_feedback_4": "Yes. Very harsh consequences can feel unfair and damage trust."
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence2_t_1.svg",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "Teens often break rules — it’s a normal part of growing up.\n\nWe can guide them without anger or violence. Calm consequences help them learn from their actions and take responsibility.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Teens often break rules — it’s a normal part of growing up.\n\nWe can guide them without anger or violence. Calm consequences help them learn from their actions and take responsibility."
+        },
+        "quiz_1_question": {
+          "eng": "Imagine you are the parent and @data.characters.f1_son_18.name came home late. \nWhat consequence would help here?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Limit phone time next day"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Do additional chores during the week"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Cannot see friends on the weekend"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
+        }
+      },
+      "quiz_1_question": "Imagine you are the parent and @data.characters.f1_son_18.name came home late. \nWhat consequence would help here?",
+      "quiz_1_option_1_text": "Limit phone time next day",
+      "quiz_1_feedback_1": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
+      "quiz_1_option_2_text": "Do additional chores during the week",
+      "quiz_1_feedback_2": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
+      "quiz_1_option_3_text": "Cannot see friends on the weekend",
+      "quiz_1_feedback_3": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "Here are some tips to help you with calm consequences:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_2_button_text": {},
+        "section_2_extra_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_3_button_text": {},
+        "section_3_extra_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are some tips to help you with calm consequences:"
+        },
+        "section_1_title": {
+          "eng": "EXPLAIN"
+        },
+        "section_1_text": {
+          "eng": "Check you are both calm. Take a few breaths. Explain to your teen why you are concerned about their behaviour.\n\nExplain the reasons why the rule mattered. You can share your feelings – it is okay to say you are dissappointed."
+        },
+        "section_2_title": {
+          "eng": "AGREE"
+        },
+        "section_2_text": {
+          "eng": "Plan consequences with your teen for following and not following the rule.\n\nAsk for their ideas. Talk until you agree on something realistic.\n\nMake a consequence for NOT following the rule and a privilege when they DO follow the rule."
+        },
+        "section_2_button_text": {
+          "eng": "More tips"
+        },
+        "section_2_extra_text": {
+          "eng": "Remember, consequences are more successful if you discuss and agree in advance with teens before you apply them."
+        },
+        "section_3_title": {
+          "eng": "ACT"
+        },
+        "section_3_text": {
+          "eng": "**When your teen follows the rule, give praise and privileges!** \nThey will feel respected and valued. Remember: The more we praise them, the more they will show that good behaviour!\n\n\n**When your teen does not follow the rule, follow through with the consequence.** \nWhen your teen breaks the rule, calmly give the consequence. This should be FAIR (not too harsh), IMMEDIATE (do it straight away), CONSISTENT (same every time)."
+        },
+        "section_3_button_text": {
+          "eng": "More tips"
+        },
+        "section_3_extra_text": {
+          "eng": "Remember, you can also agree on GOOD consequences for GOOD actions to see more positive behaviour!"
+        }
+      },
+      "section_1_title": "EXPLAIN",
+      "section_1_text": "Check you are both calm. Take a few breaths. Explain to your teen why you are concerned about their behaviour.\n\nExplain the reasons why the rule mattered. You can share your feelings – it is okay to say you are dissappointed.",
+      "section_2_title": "AGREE",
+      "section_2_text": "Plan consequences with your teen for following and not following the rule.\n\nAsk for their ideas. Talk until you agree on something realistic.\n\nMake a consequence for NOT following the rule and a privilege when they DO follow the rule.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "Remember, consequences are more successful if you discuss and agree in advance with teens before you apply them.",
+      "section_3_title": "ACT",
+      "section_3_text": "**When your teen follows the rule, give praise and privileges!** \nThey will feel respected and valued. Remember: The more we praise them, the more they will show that good behaviour!\n\n\n**When your teen does not follow the rule, follow through with the consequence.** \nWhen your teen breaks the rule, calmly give the consequence. This should be FAIR (not too harsh), IMMEDIATE (do it straight away), CONSISTENT (same every time).",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "Remember, you can also agree on GOOD consequences for GOOD actions to see more positive behaviour!"
+    },
+    {
+      "id": "explore_9",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_1.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "Now let's go back to @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Now let's go back to @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:"
+        },
+        "character_1_text": {
+          "eng": "I am concerned that you are often still coming home late, @data.characters.f1_son_18.name. What can we do to help you remember to come home in time?"
+        },
+        "character_2_text": {
+          "eng": "If I come home in time, maybe I can stay up 30 minutes later than usual?"
+        }
+      },
+      "character_1_text": "I am concerned that you are often still coming home late, @data.characters.f1_son_18.name. What can we do to help you remember to come home in time?",
+      "character_2_text": "If I come home in time, maybe I can stay up 30 minutes later than usual?"
+    },
+    {
+      "id": "explore_10",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_2.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "That is a good idea! And what should we do if you don’t follow the rule?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "That is a good idea! And what should we do if you don’t follow the rule?"
+        },
+        "character_2_text": {
+          "eng": "Hmm… I don’t know…"
+        }
+      },
+      "character_2_text": "Hmm… I don’t know…"
+    },
+    {
+      "id": "explore_11",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_3.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "Oh come on, I know you have some ideas.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Oh come on, I know you have some ideas."
+        },
+        "character_2_text": {
+          "eng": "Okay…. What about, I have to do my homework?"
+        }
+      },
+      "character_2_text": "Okay…. What about, I have to do my homework?"
+    },
+    {
+      "id": "explore_12",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_4.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "You have to do your homework anyway. If you forget the rule, is it fair that you will not be able to see your friends the next day?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "You have to do your homework anyway. If you forget the rule, is it fair that you will not be able to see your friends the next day?"
+        },
+        "character_2_text": {
+          "eng": "Okay, @data.characters.f1_father.role_name."
+        }
+      },
+      "character_2_text": "Okay, @data.characters.f1_father.role_name."
+    },
+    {
+      "id": "explore_13",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_5.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_2": "*The next day...*",
+      "_translations": {
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "*The next day...*"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f1_son_18.name! What time is it! It is late!"
+        },
+        "character_2_text": {
+          "eng": "Sorry, @data.characters.f1_father.role_name. I can explain!"
+        }
+      },
+      "character_1_text": "@data.characters.f1_son_18.name! What time is it! It is late!",
+      "character_2_text": "Sorry, @data.characters.f1_father.role_name. I can explain!"
+    },
+    {
+      "id": "explore_14",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_6.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "It is WAY past the time you were supposed to be home!\n\nWe talked about this, it is dangerous to stay out late.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "It is WAY past the time you were supposed to be home!\n\nWe talked about this, it is dangerous to stay out late."
+        },
+        "character_2_text": {
+          "eng": "You promised you would listen to me, @data.characters.f1_father.role_name."
+        }
+      },
+      "character_2_text": "You promised you would listen to me, @data.characters.f1_father.role_name."
+    },
+    {
+      "id": "explore_15",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_7.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "Okay you are right, I am sorry. It scares me when you do things that are not safe. Now tell me, why were you late?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Okay you are right, I am sorry. It scares me when you do things that are not safe. Now tell me, why were you late?"
+        },
+        "character_2_text": {
+          "eng": "My friends wanted me to stay longer. They were calling me a baby for having to go home already."
+        }
+      },
+      "character_2_text": "My friends wanted me to stay longer. They were calling me a baby for having to go home already."
+    },
+    {
+      "id": "explore_16",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_8.svg",
+      "character_1_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "I know it can be hard to say no to your friends. To be honest, I also find this hard sometimes. \n\nLet’s talk more in the morning so we can work out how you can handle this better with your friends.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I know it can be hard to say no to your friends. To be honest, I also find this hard sometimes. \n\nLet’s talk more in the morning so we can work out how you can handle this better with your friends."
+        }
+      }
+    },
+    {
+      "id": "explore_17",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/consequence/consequence3_t_9.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "character_1_text": "I am sorry I worried you and @data.characters.f1_mother.role_name.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I am sorry I worried you and @data.characters.f1_mother.role_name."
+        },
+        "character_2_text": {
+          "eng": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night."
+        }
+      },
+      "character_2_text": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night."
+    },
+    {
+      "id": "explore_18",
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "Let's think about this story.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's think about this story."
+        },
+        "quiz_1_question": {
+          "eng": "Why did using a consequence work well this time?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "@data.characters.f1_father.name and his son, @data.characters.f1_son_18.name, discussed consequences when they were both calm"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "They agreed on consequences together"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "@data.characters.f1_father.name responded calmly but firmly when @data.characters.f1_son_18.name broke the rule"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "@data.characters.f1_father.name listened to his son"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "The consequence was realistic and appropriate"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more."
+        }
+      },
+      "quiz_1_question": "Why did using a consequence work well this time?",
+      "quiz_1_option_1_text": "@data.characters.f1_father.name and his son, @data.characters.f1_son_18.name, discussed consequences when they were both calm",
+      "quiz_1_feedback_1": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more.",
+      "quiz_1_option_2_text": "They agreed on consequences together",
+      "quiz_1_feedback_2": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more.",
+      "quiz_1_option_3_text": "@data.characters.f1_father.name responded calmly but firmly when @data.characters.f1_son_18.name broke the rule",
+      "quiz_1_feedback_3": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more.",
+      "quiz_1_option_4_text": "@data.characters.f1_father.name listened to his son",
+      "quiz_1_feedback_4": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more.",
+      "quiz_1_option_5_text": "The consequence was realistic and appropriate",
+      "quiz_1_feedback_5": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more."
+    },
+    {
+      "id": "explore_19",
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "It is time to learn and practise!\n\nNow let’s practise choosing calm consequences for common situations.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It is time to learn and practise!\n\nNow let’s practise choosing calm consequences for common situations."
+        },
+        "quiz_1_question": {
+          "eng": "Here are some ideas from other parents. Tap each behaviour to see an example of a fair consequence!"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Negative Behaviour: Coming home after the agreed time"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Negative Consequence: Cannot see friends the next day."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Negative Behaviour: Talking rudely"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Negative Consequence: Write a letter of apology."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Positive Behaviour: Helping out with shopping"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Positive Consequence: 30 minutes extra doing an activity of their choice."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Positive Behaviour: Helping look after younger siblings"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Positive Consequence: One hour of extra time with friends on the weekend."
+        },
+        "quiz_2_question": {
+          "eng": "Now let's think more about negative consequences. Which of these consequences do you feel is appropriate?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Not seeing any friends for a month"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "This may be hard to do for you and also too harsh! \n\nRemember, consequences should be fair, immediate and consistent."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Cancelling their birthday plans in a month's time"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "This is too far in the future and too harsh as well! \n\nRemember, consequences should be fair, immediate and consistent."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "No TV this evening"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Perfect, this sounds fair and can be done straight away."
+        }
+      },
+      "quiz_1_question": "Here are some ideas from other parents. Tap each behaviour to see an example of a fair consequence!",
+      "quiz_1_option_1_text": "Negative Behaviour: Coming home after the agreed time",
+      "quiz_1_feedback_1": "Negative Consequence: Cannot see friends the next day.",
+      "quiz_1_option_2_text": "Negative Behaviour: Talking rudely",
+      "quiz_1_feedback_2": "Negative Consequence: Write a letter of apology.",
+      "quiz_1_option_3_text": "Positive Behaviour: Helping out with shopping",
+      "quiz_1_feedback_3": "Positive Consequence: 30 minutes extra doing an activity of their choice.",
+      "quiz_1_option_4_text": "Positive Behaviour: Helping look after younger siblings",
+      "quiz_1_feedback_4": "Positive Consequence: One hour of extra time with friends on the weekend.",
+      "quiz_2_question": "Now let's think more about negative consequences. Which of these consequences do you feel is appropriate?",
+      "quiz_2_option_1_text": "Not seeing any friends for a month",
+      "quiz_2_feedback_1": "This may be hard to do for you and also too harsh! \n\nRemember, consequences should be fair, immediate and consistent.",
+      "quiz_2_option_2_text": "Cancelling their birthday plans in a month's time",
+      "quiz_2_feedback_2": "This is too far in the future and too harsh as well! \n\nRemember, consequences should be fair, immediate and consistent.",
+      "quiz_2_option_3_text": "No TV this evening",
+      "quiz_2_feedback_3": "Perfect, this sounds fair and can be done straight away."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "It is time to learn and practise!\n\nYour home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It is time to learn and practise!\n\nYour home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule."
+        },
+        "text_2": {
+          "eng": "**Remember, consequences should be:** \n⚖️ FAIR (not too harsh) \n💨 IMMEDIATE (do it straight away) \n🎯 CONSISTENT (same every time)"
+        },
+        "quiz_1_question": {
+          "eng": "Can you agree on one NEGATIVE consequence and one POSITIVE consequence with your teen?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's fantastic! When teens help choose their own consequences - both positive and negative - they are more likely to understand and stick to them. You are helping them grow into a responsible young adult."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "I think so"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s a great start! Take your time - you can come up with ideas together step by step."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That's okay. These conversations can be tricky at first. Keep spending time together and try again when the moment feels right. You are already on the right path."
+        }
+      },
+      "text_2": "**Remember, consequences should be:** \n⚖️ FAIR (not too harsh) \n💨 IMMEDIATE (do it straight away) \n🎯 CONSISTENT (same every time)",
+      "quiz_1_question": "Can you agree on one NEGATIVE consequence and one POSITIVE consequence with your teen?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That's fantastic! When teens help choose their own consequences - both positive and negative - they are more likely to understand and stick to them. You are helping them grow into a responsible young adult.",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "That’s a great start! Take your time - you can come up with ideas together step by step.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That's okay. These conversations can be tricky at first. Keep spending time together and try again when the moment feels right. You are already on the right path."
+    },
+    {
+      "id": "teen_test_1",
+      "category_id": "teen_test",
+      "media_type": "audio",
+      "media_asset": "/audio/teen/testimonials/teen/teen_test_consequence_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_1_facilitator": "When consequences are calm, clear, and agreed on together, teens are more likely to follow the rules. They will feel respected, not punished, and that is the best way to help our teens learn.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When consequences are calm, clear, and agreed on together, teens are more likely to follow the rules. They will feel respected, not punished, and that is the best way to help our teens learn."
+        },
+        "media_title": {
+          "eng": "Tap play to hear how @data.characters.media_daughter_6.name learned to appreciate calm consequences"
+        },
+        "media_transcript": {
+          "eng": "My mom and dad would always punish me when they were angry with me. They would shout at me and I would also get angry. I often did not follow the rules, because they were too harsh, I did not understand what they were saying, or I would not even bother listening to them, because we were all angry.\n\nOne day, they asked me: Let's think together what the consequence should be for not coming home in time. It was great to give my view – before something happens that makes us all angry. We are all calm and agree first. It is easier for me to follow the rules now because I know I agreed on the rule and on the consequence if I do not follow the rule."
+        }
+      },
+      "media_title": "Tap play to hear how @data.characters.media_daughter_6.name learned to appreciate calm consequences",
+      "media_transcript": "My mom and dad would always punish me when they were angry with me. They would shout at me and I would also get angry. I often did not follow the rules, because they were too harsh, I did not understand what they were saying, or I would not even bother listening to them, because we were all angry.\n\nOne day, they asked me: Let's think together what the consequence should be for not coming home in time. It was great to give my view – before something happens that makes us all angry. We are all calm and agree first. It is easier for me to follow the rules now because I know I agreed on the rule and on the consequence if I do not follow the rule."
+    }
+  ],
+  "_source": {
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

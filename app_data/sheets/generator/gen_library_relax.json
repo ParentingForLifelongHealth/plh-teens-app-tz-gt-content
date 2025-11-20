@@ -1,0 +1,98 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_library_relax",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "library_relax",
+    "output_flow_name": "library_article_@gen.id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "header",
+      "value": "header",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "nav_stack",
+          "args": [
+            "close_top"
+          ],
+          "_raw": "completed | nav_stack: close_top"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "nav_stack",
+          "args": [
+            "close_top"
+          ],
+          "_raw": "uncompleted | nav_stack: close_top"
+        }
+      ],
+      "rows": [
+        {
+          "name": "title",
+          "value": "@data.common_categories.relax.title"
+        },
+        {
+          "name": "icon_asset",
+          "value": "@data.common_categories.relax.icon_asset"
+        }
+      ]
+    },
+    {
+      "type": "template",
+      "name": "article",
+      "value": "relax",
+      "rows": [
+        {
+          "name": "id",
+          "value": "@gen.id"
+        },
+        {
+          "name": "show_nav_buttons",
+          "value": false
+        }
+      ]
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "templates/TZ library templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MGs2gu5skGfdltNo18dLS3cqGmyT_m3h4SlWpZi0cJQ"
+  },
+  "_output_flows": [
+    {
+      "flow_name": "library_article_relax_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_relax_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_relax_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_relax_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_relax_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "library_article_relax_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

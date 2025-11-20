@@ -4,18 +4,18 @@
   "status": "released",
   "rows": [
     {
-      "name": "prepare_id",
-      "value": "join_1",
+      "name": "article_id",
+      "value": "intro_connect",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "prepare_id"
+      "_nested_name": "article_id"
     },
     {
       "name": "module_id",
-      "value": "join",
+      "value": "connect",
       "_translations": {
         "value": {}
       },
@@ -24,18 +24,18 @@
       "_nested_name": "module_id"
     },
     {
-      "name": "prepare",
-      "value": "prepare",
+      "name": "articles",
+      "value": "_articles",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "prepare"
+      "_nested_name": "articles"
     },
     {
       "name": "data",
-      "value": "@local.prepare",
+      "value": "@local.module_id@local.articles",
       "_translations": {
         "value": {}
       },
@@ -45,41 +45,50 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.prepare",
-            "matchedExpression": "@local.prepare",
+            "fullExpression": "@local.module_id@local.articles",
+            "matchedExpression": "@local.module_id",
             "type": "local",
-            "fieldName": "prepare"
+            "fieldName": "module_id"
+          },
+          {
+            "fullExpression": "@local.module_id@local.articles",
+            "matchedExpression": "@local.articles",
+            "type": "local",
+            "fieldName": "articles"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.prepare": [
+        "@local.module_id": [
+          "value"
+        ],
+        "@local.articles": [
           "value"
         ]
       }
     },
     {
-      "name": "concat_prepare_id",
-      "value": "@local.data.@local.prepare_id",
+      "name": "concat_article_id",
+      "value": "@local.data.@local.article_id",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "concat_prepare_id",
+      "_nested_name": "concat_article_id",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.data.@local.prepare_id",
+            "fullExpression": "@local.data.@local.article_id",
             "matchedExpression": "@local.data",
             "type": "local",
             "fieldName": "data"
           },
           {
-            "fullExpression": "@local.data.@local.prepare_id",
-            "matchedExpression": "@local.prepare_id",
+            "fullExpression": "@local.data.@local.article_id",
+            "matchedExpression": "@local.article_id",
             "type": "local",
-            "fieldName": "prepare_id"
+            "fieldName": "article_id"
           }
         ]
       },
@@ -87,32 +96,32 @@
         "@local.data": [
           "value"
         ],
-        "@local.prepare_id": [
+        "@local.article_id": [
           "value"
         ]
       }
     },
     {
-      "name": "prepare_data",
-      "value": "@data.@local.concat_prepare_id",
+      "name": "article_data",
+      "value": "@data.@local.concat_article_id",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "prepare_data",
+      "_nested_name": "article_data",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.@local.concat_prepare_id",
-            "matchedExpression": "@local.concat_prepare_id",
+            "fullExpression": "@data.@local.concat_article_id",
+            "matchedExpression": "@local.concat_article_id",
             "type": "local",
-            "fieldName": "concat_prepare_id"
+            "fieldName": "concat_article_id"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.concat_prepare_id": [
+        "@local.concat_article_id": [
           "value"
         ]
       }
@@ -130,7 +139,7 @@
     {
       "type": "text",
       "name": "media_transcript",
-      "value": "@local.prepare_data.media_transcript",
+      "value": "@local.article_data.media_transcript",
       "_translations": {
         "value": {}
       },
@@ -139,23 +148,23 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.prepare_data.media_transcript",
-            "matchedExpression": "@local.prepare_data.media_transcript",
+            "fullExpression": "@local.article_data.media_transcript",
+            "matchedExpression": "@local.article_data.media_transcript",
             "type": "local",
-            "fieldName": "prepare_data"
+            "fieldName": "article_data"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.prepare_data.media_transcript": [
+        "@local.article_data.media_transcript": [
           "value"
         ]
       }
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "books/TZ prepare templates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1z4MT24DSfcffLI3QlrzhdQYR2niskXOOZPN3F2o216A"
+    "name": "kids_global",
+    "path": "templates/modules/articles.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
   }
 }

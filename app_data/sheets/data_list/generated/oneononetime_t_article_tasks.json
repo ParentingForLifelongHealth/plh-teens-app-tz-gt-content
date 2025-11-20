@@ -1,0 +1,566 @@
+{
+  "flow_name": "oneononetime_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_4",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "media_type": "audio",
+      "title": "Breathe to three",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe to three"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!"
+        }
+      },
+      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! So good to hear you are in a positive space."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Things are not always easy. But that is how we can grow and learn every day!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
+      "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
+      "quiz_1_feedback_3": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "media_asset": "/audio/teen/topic_intros/1on1_intro_t.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today’s topic is about spending one-on-one time with our teens.\n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut spending just a few minutes of focused time each day helps build trust, love — and can even helps your teen learn."
+        },
+        "media_title": {
+          "eng": "Why is spending one-on-one time with your teens important? Tap play to learn"
+        },
+        "media_transcript": {
+          "eng": "Hello.\n\nOur topic today is one-on-one time with our children.\n\nIt is important to spend time with our children so that they can get to understand us, and for us to get an opportunity to understand them.\n\nRemember, a family with good understanding lives in harmony."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today’s topic is about spending one-on-one time with our teens.\n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut spending just a few minutes of focused time each day helps build trust, love — and can even helps your teen learn.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "Why is spending one-on-one time with your teens important? Tap play to learn",
+      "media_transcript": "Hello.\n\nOur topic today is one-on-one time with our children.\n\nIt is important to spend time with our children so that they can get to understand us, and for us to get an opportunity to understand them.\n\nRemember, a family with good understanding lives in harmony.",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's discuss, what is one-on-one time?\n\nOne-on-one time is when you focus on your teens, without distractions like TVs or phones. Let your teens take lead in choosing what you do or talk about.\n\nIt is great if you can spend fifteen minutes a day together, but even five minutes a day is really good."
+        },
+        "media_title": {
+          "eng": "Hear how one-on-one time helped @data.characters.media_female_1.name and her teen"
+        },
+        "media_transcript": {
+          "eng": "When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together.\n\nBut I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time.\n\nFirst, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence and even about girlfriends and those things!"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Let's discuss, what is one-on-one time?\n\nOne-on-one time is when you focus on your teens, without distractions like TVs or phones. Let your teens take lead in choosing what you do or talk about.\n\nIt is great if you can spend fifteen minutes a day together, but even five minutes a day is really good.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "Hear how one-on-one time helped @data.characters.media_female_1.name and her teen",
+      "media_transcript": "When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together.\n\nBut I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time.\n\nFirst, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence and even about girlfriends and those things!",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Doing a chore with your child is one simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together."
+        },
+        "character_1_text": {
+          "eng": "Hi @data.characters.f3_daughter_12.name! I have 5 minutes of one-on-one time before work. What would you like to do together?"
+        },
+        "character_2_text": {
+          "eng": "I still need to feed the chickens. Do you want to come and collect the eggs?"
+        },
+        "character_3_text": {
+          "eng": "Of course!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Doing a chore with your child is one simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_daughter_12",
+      "character_3_id": "f3_mother",
+      "character_1_text": "Hi @data.characters.f3_daughter_12.name! I have 5 minutes of one-on-one time before work. What would you like to do together?",
+      "character_2_text": "I still need to feed the chickens. Do you want to come and collect the eggs?",
+      "character_3_text": "Of course!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Thank you for helping me, @data.characters.f3_mother.name. It’s nice to do this together. I was feeling very nervous about my test today."
+        },
+        "character_2_text": {
+          "eng": "You have studied so hard, @data.characters.f3_daughter_12.name. You always try your best, and we are proud of you."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "character_1_id": "f3_daughter_12",
+      "character_2_id": "f3_mother",
+      "character_1_text": "Thank you for helping me, @data.characters.f3_mother.name. It’s nice to do this together. I was feeling very nervous about my test today.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "You have studied so hard, @data.characters.f3_daughter_12.name. You always try your best, and we are proud of you.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Thank you, @data.characters.f3_mother_role.name! Oh look, the wire is loose. The baby chicks can get out."
+        },
+        "character_2_text": {
+          "eng": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school."
+        },
+        "quiz_1_question": {
+          "eng": "What does @data.characters.f3_mother.name do to make one-on-one time work well?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Listen and follow @data.characters.f3_daughter_12.name’s lead"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Praise @data.characters.f3_daughter_12.name"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Focus fully on @data.characters.f3_daughter_12.name (no distractions)"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Set a clear time limit"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Make it fun"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+        },
+        "quiz_2_question": {
+          "eng": "True or False? Women AND men need to spend one-on-one time with their teens."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Actually, teens feel more loved and supported when male and female caregivers each spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Not sure"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "quiz_1_feedback_1": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_3_feedback_1": {}
+      },
+      "quiz_1_feedback_2": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
+      "quiz_1_feedback_3": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
+      "quiz_1_question": "What does @data.characters.f3_mother.name do to make one-on-one time work well?",
+      "quiz_1_option_1_text": "Listen and follow @data.characters.f3_daughter_12.name’s lead",
+      "quiz_1_option_2_text": "Praise @data.characters.f3_daughter_12.name",
+      "quiz_1_option_3_text": "Focus fully on @data.characters.f3_daughter_12.name (no distractions)",
+      "character_1_id": "f3_daughter_12",
+      "character_2_id": "f3_mother",
+      "character_1_text": "Thank you, @data.characters.f3_mother_role.name! Oh look, the wire is loose. The baby chicks can get out.",
+      "character_2_text": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school.",
+      "quiz_1_option_4_text": "Set a clear time limit",
+      "quiz_1_feedback_4": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
+      "quiz_1_option_5_text": "Make it fun",
+      "quiz_1_feedback_5": "All of these are correct! @data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
+      "quiz_2_question": "True or False? Women AND men need to spend one-on-one time with their teens.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "Actually, teens feel more loved and supported when male and female caregivers each spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_2_option_3_text": "Not sure",
+      "quiz_2_feedback_3": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_3_feedback_1": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are some skills to help guide you in spending one-on-one time with your teen!"
+        },
+        "section_1_title": {
+          "eng": "DAY"
+        },
+        "section_1_text": {
+          "eng": "Try to do it every day. \n\nFind 5 minutes (or more!) each day when your teen does not have something else they want to do."
+        },
+        "section_1_button_text": {
+          "eng": "Many short moments of connection each day or week help build trust and give you more chances to guide your teen than long, serious conversations."
+        },
+        "section_2_title": {
+          "eng": "PLAY"
+        },
+        "section_2_text": {
+          "eng": "Let your teen choose.\n\nWhen teens choose, they feel more confident — and they can even learn during this special time with you.\n\nTell your teen you want to spend a few minutes together and let them pick what to do or talk about. It may feel strange at first, but with time they will enjoy it."
+        },
+        "section_2_button_text": {
+          "eng": "One-on-one time helps you understand your teen’s world better. Ask open questions like “What was the best part of your day?” or “Can you show me something you enjoy?”. This helps them feel seen and supported."
+        },
+        "section_3_title": {
+          "eng": "STAY"
+        },
+        "section_3_text": {
+          "eng": "Give your full attention. Put aside distractions, listen closely, and show interest. Accept what your teen shares without judging them."
+        },
+        "section_4_title": {
+          "eng": "LEARN"
+        },
+        "section_4_text": {
+          "eng": "One-on-one time also helps your teen learn. Teens learn best when they feel connected and supported. Spend time with them, encourage them to try, and be patient with mistakes. Praise their effort so they feel safe and confident. Mistakes are part of learning — stay patient so your teen feels ready to try again."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Here are some skills to help guide you in spending one-on-one time with your teen!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_1_button_text": {},
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {},
+        "section_2_button_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_icon_asset": "images/icons/clock_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_4_icon_asset": "images/icons/brain_blue.png",
+      "section_1_title": "DAY",
+      "section_1_text": "Try to do it every day. \n\nFind 5 minutes (or more!) each day when your teen does not have something else they want to do.",
+      "section_1_button_text": "Many short moments of connection each day or week help build trust and give you more chances to guide your teen than long, serious conversations.",
+      "section_2_title": "PLAY",
+      "section_2_text": "Let your teen choose.\n\nWhen teens choose, they feel more confident — and they can even learn during this special time with you.\n\nTell your teen you want to spend a few minutes together and let them pick what to do or talk about. It may feel strange at first, but with time they will enjoy it.",
+      "section_2_button_text": "One-on-one time helps you understand your teen’s world better. Ask open questions like “What was the best part of your day?” or “Can you show me something you enjoy?”. This helps them feel seen and supported.",
+      "section_3_title": "STAY",
+      "section_3_text": "Give your full attention. Put aside distractions, listen closely, and show interest. Accept what your teen shares without judging them.",
+      "section_4_title": "LEARN",
+      "section_4_text": "One-on-one time also helps your teen learn. Teens learn best when they feel connected and supported. Spend time with them, encourage them to try, and be patient with mistakes. Praise their effort so they feel safe and confident. Mistakes are part of learning — stay patient so your teen feels ready to try again.",
+      "completed": false
+    },
+    {
+      "id": "practise",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Spending one-on-one time with your teen can be hard to plan.\n\n*Remember to use your new skills*:\n📅 DAY: try to do it every day\n⚽ PLAY: let your teen choose how to spend one-on-one time\n🎯 STAY: be focused on your teen\n📓 LEARN: connect with your teen — this helps them learn!"
+        },
+        "quiz_1_question": {
+          "eng": "What could you do to spend one-on-one time with your teen?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Walk to the shops"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Play a game/sport"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Have tea after school"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Prepare dinner"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Review homework"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting."
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {}
+      },
+      "quiz_1_feedback_2": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
+      "quiz_1_feedback_3": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
+      "quiz_1_question": "What could you do to spend one-on-one time with your teen?",
+      "quiz_1_option_1_text": "Walk to the shops",
+      "quiz_1_option_2_text": "Play a game/sport",
+      "quiz_1_option_3_text": "Have tea after school",
+      "text_1_facilitator": "Spending one-on-one time with your teen can be hard to plan.\n\n*Remember to use your new skills*:\n📅 DAY: try to do it every day\n⚽ PLAY: let your teen choose how to spend one-on-one time\n🎯 STAY: be focused on your teen\n📓 LEARN: connect with your teen — this helps them learn!",
+      "quiz_1_option_4_text": "Prepare dinner",
+      "quiz_1_feedback_4": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
+      "quiz_1_option_5_text": "Review homework",
+      "quiz_1_feedback_5": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "This week's home activity is to spend 5-15 minutes of one-on-one time with your teen, every day that you can."
+        },
+        "quiz_1_question": {
+          "eng": "Can you spend one-on-one time with your teen this week?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's great! Parents who spend focused one-on-one time with their teens can build trust and love!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "I think so"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "You can do it! Try spending just a few minutes each day with your teen. Remember that you can always think of ways that do not take up extra time, like walking to the shop or preparing dinner together."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That's okay. Spending focused time with your teen will become easier as you build a routine. At first, you can try to think of ways that do not take up extra time, like doing a chore together."
+        }
+      },
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That's great! Parents who spend focused one-on-one time with their teens can build trust and love!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "You can do it! Try spending just a few minutes each day with your teen. Remember that you can always think of ways that do not take up extra time, like walking to the shop or preparing dinner together.",
+      "quiz_1_feedback_3": "That's okay. Spending focused time with your teen will become easier as you build a routine. At first, you can try to think of ways that do not take up extra time, like doing a chore together.",
+      "quiz_1_question": "Can you spend one-on-one time with your teen this week?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
+      "text_1_facilitator": "This week's home activity is to spend 5-15 minutes of one-on-one time with your teen, every day that you can.",
+      "completed": false
+    },
+    {
+      "id": "teen_test_1",
+      "media_asset": "/audio/teen/testimonials/teen/teen_test_1on1_t.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Remember, spending even a few minutes of one-on-one time with your teen each day can strengthen your relationship and build trust. \n\nListening closely and sharing small moments helps teens feel loved and supported."
+        },
+        "media_title": {
+          "eng": "Here's what @data.characters.media_daughter_1.name has to say about one-on-one time with her mother"
+        },
+        "media_transcript": {
+          "eng": "When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick.” But she said “No, I just want to spend time.” I was sceptical, but I accepted.\n\nShe asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own.\n\nThe more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now."
+        }
+      },
+      "category_id": "teen_test",
+      "nested": false,
+      "text_1_facilitator": "Remember, spending even a few minutes of one-on-one time with your teen each day can strengthen your relationship and build trust. \n\nListening closely and sharing small moments helps teens feel loved and supported.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "Here's what @data.characters.media_daughter_1.name has to say about one-on-one time with her mother",
+      "media_transcript": "When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick.” But she said “No, I just want to spend time.” I was sceptical, but I accepted.\n\nShe asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own.\n\nThe more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

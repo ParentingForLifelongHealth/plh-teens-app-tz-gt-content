@@ -5,73 +5,138 @@
   "rows": [
     {
       "name": "home",
-      "value": "Home",
+      "value": "@global.home",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "home"
-    },
-    {
-      "name": "library",
-      "value": "Library",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+      "_nested_name": "home",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.home",
+            "matchedExpression": "@global.home",
+            "type": "global",
+            "fieldName": "home"
+          }
+        ]
       },
-      "type": "set_variable",
-      "_nested_name": "library"
-    },
-    {
-      "name": "resource",
-      "value": "Resources",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "resource"
+      "_dynamicDependencies": {
+        "@global.home": [
+          "value"
+        ]
+      }
     },
     {
       "name": "settings",
-      "value": "Settings",
+      "value": "@global.settings",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "settings"
+      "_nested_name": "settings",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.settings",
+            "matchedExpression": "@global.settings",
+            "type": "global",
+            "fieldName": "settings"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.settings": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "rewards",
+      "value": "@global.rewards",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "rewards",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.rewards",
+            "matchedExpression": "@global.rewards",
+            "type": "global",
+            "fieldName": "rewards"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.rewards": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "library",
+      "value": "@global.library",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "library",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.library",
+            "matchedExpression": "@global.library",
+            "type": "global",
+            "fieldName": "library"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.library": [
+          "value"
+        ]
+      }
     },
     {
       "name": "button_list",
       "value": [
         {
-          "text": "@local.home",
-          "image": "images/icons/house_blue.svg",
+          "name": "home_button",
+          "label": "@local.home",
+          "icon": "images/icons/home.svg",
+          "active_icon": "images/icons/home_active.svg",
           "target_template": "home_screen"
         },
         {
-          "text": "@local.library",
-          "image": "images/icons/pic_books.svg",
-          "target_template": "picture_books"
+          "name": "rewards_button",
+          "label": "@local.rewards",
+          "icon": "images/icons/trophy_footer.svg",
+          "active_icon": "images/icons/trophy_footer_active.svg",
+          "target_template": "activity_library"
         },
         {
-          "text": "@local.resource",
-          "image": "images/icons/jigsaw_blue.svg",
-          "target_template": "resource_centre"
+          "name": "library_button",
+          "label": "@local.library",
+          "icon": "images/icons/local_library.svg",
+          "active_icon": "images/icons/local_library_active.svg",
+          "target_template": "library"
         },
         {
-          "text": "@local.settings",
-          "image": "images/icons/cogwheel_blue.svg",
+          "name": "settings_button",
+          "label": "@local.settings",
+          "icon": "images/icons/settings.svg",
+          "active_icon": "images/icons/settings_active.svg",
           "target_template": "settings"
         }
       ],
-      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "button_list",
       "_dynamicFields": {
         "value": {
           "0": {
-            "text": [
+            "label": [
               {
                 "fullExpression": "@local.home",
                 "matchedExpression": "@local.home",
@@ -81,7 +146,17 @@
             ]
           },
           "1": {
-            "text": [
+            "label": [
+              {
+                "fullExpression": "@local.rewards",
+                "matchedExpression": "@local.rewards",
+                "type": "local",
+                "fieldName": "rewards"
+              }
+            ]
+          },
+          "2": {
+            "label": [
               {
                 "fullExpression": "@local.library",
                 "matchedExpression": "@local.library",
@@ -90,18 +165,8 @@
               }
             ]
           },
-          "2": {
-            "text": [
-              {
-                "fullExpression": "@local.resource",
-                "matchedExpression": "@local.resource",
-                "type": "local",
-                "fieldName": "resource"
-              }
-            ]
-          },
           "3": {
-            "text": [
+            "label": [
               {
                 "fullExpression": "@local.settings",
                 "matchedExpression": "@local.settings",
@@ -114,52 +179,27 @@
       },
       "_dynamicDependencies": {
         "@local.home": [
-          "value.0.text"
+          "value.0.label"
+        ],
+        "@local.rewards": [
+          "value.1.label"
         ],
         "@local.library": [
-          "value.1.text"
-        ],
-        "@local.resource": [
-          "value.2.text"
+          "value.2.label"
         ],
         "@local.settings": [
-          "value.3.text"
+          "value.3.label"
         ]
       }
     },
     {
-      "name": "button_list",
-      "value": [
-        {
-          "image": "images/icons/house_blue.svg",
-          "target_template": "home_screen"
-        },
-        {
-          "image": "images/icons/pic_books.svg",
-          "target_template": "picture_books"
-        },
-        {
-          "image": "images/icons/jigsaw_blue.svg",
-          "target_template": "resource_centre"
-        },
-        {
-          "image": "images/icons/cogwheel_blue.svg",
-          "target_template": "settings"
-        }
-      ],
-      "condition": false,
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "button_list"
-    },
-    {
-      "type": "navigation_bar",
-      "name": "nav_buttons",
+      "type": "plh_bottom_nav",
       "parameter_list": {
         "button_list": "@local.button_list",
-        "variant": "text_primary"
+        "variant": "pill"
       },
-      "_nested_name": "nav_buttons",
+      "name": "plh_bottom_nav_7",
+      "_nested_name": "plh_bottom_nav_7",
       "_dynamicFields": {
         "parameter_list": {
           "button_list": [
@@ -180,8 +220,8 @@
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "TZ app_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1Ws2I7e08zwIvh1BUMYG0VYTeizyVmrbozM29Mu9lr_g"
+    "name": "teens_tz",
+    "path": "templates/TZ app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1UjnrSmRlo6n5zIC2JG1_FVnA5Q6bazApMU2QXIbOgw0"
   }
 }

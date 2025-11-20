@@ -4,112 +4,42 @@
   "status": "released",
   "rows": [
     {
-      "name": "is_standalone_task",
-      "value": false,
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "is_standalone_task"
-    },
-    {
-      "name": "display_uncompleted",
-      "value": false,
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "display_uncompleted"
-    },
-    {
-      "name": "completed_text",
-      "value": "Done",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      },
-      "type": "set_variable",
-      "_nested_name": "completed_text"
-    },
-    {
-      "name": "completed_icon",
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "completed_icon"
-    },
-    {
-      "type": "display_group",
-      "name": "if_standalone",
-      "exclude_from_translation": true,
-      "parameter_list": {
-        "style": "column"
-      },
-      "condition": "@local.is_standalone_task",
-      "rows": [],
-      "_nested_name": "if_standalone",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@local.is_standalone_task",
-            "matchedExpression": "@local.is_standalone_task",
-            "type": "local",
-            "fieldName": "is_standalone_task"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.is_standalone_task": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "display_uncompleted",
+      "name": "show_previous",
       "value": true,
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "display_uncompleted"
+      "_nested_name": "show_previous"
     },
     {
-      "name": "completed_text",
+      "name": "show_next",
+      "value": true,
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "completed_text"
+      "_nested_name": "show_next"
     },
     {
-      "name": "completed_icon",
+      "name": "previous_icon_src",
+      "value": "arrow-back",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "previous_icon_src"
+    },
+    {
+      "name": "next_icon_src",
       "value": "arrow-forward",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "completed_icon"
-    },
-    {
-      "type": "display_group",
-      "name": "if_in_sequence",
-      "exclude_from_translation": true,
-      "condition": "!@local.is_standalone_task",
-      "rows": [],
-      "_nested_name": "if_in_sequence",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "!@local.is_standalone_task",
-            "matchedExpression": "!@local.is_standalone_task",
-            "type": "local",
-            "fieldName": "is_standalone_task"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "!@local.is_standalone_task": [
-          "condition"
-        ]
-      }
+      "_nested_name": "next_icon_src"
     },
     {
       "type": "display_group",
       "name": "buttons",
-      "exclude_from_translation": true,
       "parameter_list": {
         "style": "navigation"
       },
@@ -127,26 +57,61 @@
               "_raw": "click | emit:uncompleted"
             }
           ],
-          "exclude_from_translation": true,
           "parameter_list": {
-            "icon_src": "arrow-back",
-            "variant": "module",
-            "style": "information"
+            "icon_src": "@local.previous_icon_src",
+            "variant": "module"
           },
-          "condition": "!!@local.display_uncompleted",
+          "condition": "!!@local.show_previous",
           "_nested_name": "buttons.button_previous",
           "_dynamicFields": {
+            "parameter_list": {
+              "icon_src": [
+                {
+                  "fullExpression": "@local.previous_icon_src",
+                  "matchedExpression": "@local.previous_icon_src",
+                  "type": "local",
+                  "fieldName": "previous_icon_src"
+                }
+              ]
+            },
             "condition": [
               {
-                "fullExpression": "!!@local.display_uncompleted",
-                "matchedExpression": "!@local.display_uncompleted",
+                "fullExpression": "!!@local.show_previous",
+                "matchedExpression": "!@local.show_previous",
                 "type": "local",
-                "fieldName": "display_uncompleted"
+                "fieldName": "show_previous"
               }
             ]
           },
           "_dynamicDependencies": {
-            "!@local.display_uncompleted": [
+            "@local.previous_icon_src": [
+              "parameter_list.icon_src"
+            ],
+            "!@local.show_previous": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "spacer",
+          "style_list": [
+            "flex: 1"
+          ],
+          "condition": "!@local.show_previous",
+          "_nested_name": "buttons.spacer",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@local.show_previous",
+                "matchedExpression": "!@local.show_previous",
+                "type": "local",
+                "fieldName": "show_previous"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.show_previous": [
               "condition"
             ]
           }
@@ -164,105 +129,37 @@
               "_raw": "click | emit:completed"
             }
           ],
-          "exclude_from_translation": true,
           "parameter_list": {
-            "icon_src": "@local.completed_icon",
-            "variant": "module",
-            "style": "information"
+            "icon_src": "@local.next_icon_src",
+            "variant": "module"
           },
-          "condition": "!@local.is_standalone_task",
+          "condition": "!!@local.show_next",
           "_nested_name": "buttons.button_next",
           "_dynamicFields": {
             "parameter_list": {
               "icon_src": [
                 {
-                  "fullExpression": "@local.completed_icon",
-                  "matchedExpression": "@local.completed_icon",
+                  "fullExpression": "@local.next_icon_src",
+                  "matchedExpression": "@local.next_icon_src",
                   "type": "local",
-                  "fieldName": "completed_icon"
+                  "fieldName": "next_icon_src"
                 }
               ]
             },
             "condition": [
               {
-                "fullExpression": "!@local.is_standalone_task",
-                "matchedExpression": "!@local.is_standalone_task",
+                "fullExpression": "!!@local.show_next",
+                "matchedExpression": "!@local.show_next",
                 "type": "local",
-                "fieldName": "is_standalone_task"
+                "fieldName": "show_next"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.completed_icon": [
+            "@local.next_icon_src": [
               "parameter_list.icon_src"
             ],
-            "!@local.is_standalone_task": [
-              "condition"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_completed",
-          "value": "@local.completed_text",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit:completed"
-            }
-          ],
-          "parameter_list": {
-            "style": "information",
-            "icon_secondary_asset": "@local.completed_icon"
-          },
-          "style_list": [
-            "flex: 1"
-          ],
-          "condition": "!!@local.is_standalone_task",
-          "_nested_name": "buttons.button_completed",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.completed_text",
-                "matchedExpression": "@local.completed_text",
-                "type": "local",
-                "fieldName": "completed_text"
-              }
-            ],
-            "parameter_list": {
-              "icon_secondary_asset": [
-                {
-                  "fullExpression": "@local.completed_icon",
-                  "matchedExpression": "@local.completed_icon",
-                  "type": "local",
-                  "fieldName": "completed_icon"
-                }
-              ]
-            },
-            "condition": [
-              {
-                "fullExpression": "!!@local.is_standalone_task",
-                "matchedExpression": "!@local.is_standalone_task",
-                "type": "local",
-                "fieldName": "is_standalone_task"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.completed_text": [
-              "value"
-            ],
-            "@local.completed_icon": [
-              "parameter_list.icon_secondary_asset"
-            ],
-            "!@local.is_standalone_task": [
+            "!@local.show_next": [
               "condition"
             ]
           }
@@ -272,8 +169,8 @@
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "TZ app_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1Ws2I7e08zwIvh1BUMYG0VYTeizyVmrbozM29Mu9lr_g"
+    "name": "kids_teens_global",
+    "path": "PLH app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jWVWtpRFixLG5K_m2vQIKnhqTMAIq6_F0pSdApBQ1jc"
   }
 }

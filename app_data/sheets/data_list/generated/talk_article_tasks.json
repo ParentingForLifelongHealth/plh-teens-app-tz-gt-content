@@ -155,7 +155,7 @@
       },
       "category_id": "why_talk",
       "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
-      "image_asset": "images/modules/connect/connect_2.svg",
+      "image_asset": "images/modules/talk/why_talk_2.svg",
       "text_1_facilitator": "Let’s see how **talking with your child** forms part of the garden image.",
       "completed": false
     },
@@ -190,7 +190,7 @@
       },
       "category_id": "why_talk",
       "text_1": "The amount of water that plants receive determines how they grow. \nIn the same way - how much you talk to your child and what you say to them is important for their development.",
-      "image_asset": "images/modules/connect/connect_3.gif",
+      "image_asset": "images/modules/talk/talk.gif",
       "media_title": "Listen to learn more:",
       "media_transcript": "Plants that don’t get enough water won’t grow. In the same way, children struggle when they don’t get enough information from their caregivers.\nJust as harsh streams of water can damage small plants, a parent’s harsh words can interfere with a child’s growth. \nThat is why your words and how you use them play a powerful role in shaping your child.",
       "completed": false
@@ -462,7 +462,7 @@
         "text_1": {},
         "text_1_facilitator": {}
       },
-      "image_asset": "https://drive.google.com/file/d/1Rf0_bMs8wMs6P7Kce68rRikFiMTGWvze/view?usp=share_link",
+      "image_asset": "images/modules/talk/books_talk.svg",
       "text_1_facilitator": "Here are some ideas for how you can use books to talk and interact:",
       "completed": false
     },
@@ -490,15 +490,14 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "Book page from To the Top! (page 5)",
+      "image_asset": "images/books/to_the_top/page5.jpg",
       "media_title": "Listen to learn more:",
       "media_transcript": "Looking at this page, here are some ideas for what you can name and describe for your child:\nLook, there is a bird sitting on that flower. The bird has a sharp beak and a long tail. I can see two other birds flying in the sky, can you see them? What do they look like? What else can we see that’s flying?”\n“What animal can you see sitting on the rock? And what animal can you see sitting on the grass?\"\n“Look, they are walking up the mountain. What does he have in his hand? The mountain is steep, so the stick helps him to keep his balance. What is he carrying on his back? What do you think is inside?”",
       "completed": false
     },
     {
       "id": "using_books_3",
-      "media_asset": "https://drive.google.com/file/d/1pWNccBun0H3azChW1ITzOZPZ_xenGGfV/view?usp=share_link",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1": {
           "eng": "**Ask questions**\n \nThis helps your child to talk about the pictures, and think about what is happening."
@@ -522,6 +521,8 @@
       "image_asset": "images/modules/talk/talk_10.svg",
       "media_title": "Watch this video to learn more:",
       "media_transcript": "Asking your child questions will help them talk about what they see in the pictures, and think about what is happening.\nUsing Who/What/Where/Why/How questions are great ways to encourage your child to answer using words other than “yes” and “no. \nQuestions like: \n“Where is rabbit standing?\nWhat are they eating? \nWhy are they lying down?”\nHelp your child understand events by asking them what is happening and why it is happening.\nHelp them understand the characters in the story better, by asking them why they think the character is doing that, or what the character might be thinking or feeling.",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=7CSMJ9i46JA",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=IYJ2ooNS21U",
       "completed": false
     },
     {
@@ -537,7 +538,7 @@
           "eng": "See examples:"
         },
         "section_1_extra_text": {
-          "eng": "Look at your child / make eye contact\nNod your head\nMake encouraging sounds \nRespond to what they say"
+          "eng": "* Look at your child / make eye contact\n* Nod your head\n* Make encouraging sounds \n* Respond to what they say"
         }
       },
       "category_id": "books_talk",
@@ -549,10 +550,9 @@
         "section_1_extra_text": {}
       },
       "image_asset": "images/modules/talk/talk_11.svg",
-      "section_1_image_asset": "https://drive.google.com/file/d/1gvZo3Dr_dSTGv_tEQG9WKIz8iR5yJzqN/view?usp=share_link",
       "section_1_text": "How can I show my child that I am listening?",
       "section_1_button_text": "See examples:",
-      "section_1_extra_text": "Look at your child / make eye contact\nNod your head\nMake encouraging sounds \nRespond to what they say",
+      "section_1_extra_text": "* Look at your child / make eye contact\n* Nod your head\n* Make encouraging sounds \n* Respond to what they say",
       "completed": false
     },
     {

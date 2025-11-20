@@ -217,6 +217,9 @@
       "text": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**"
     }
   ],
-  "_xlsxPath": "deployment_data_tz.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "deployment_data_tz.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/16kJDfiHpqGnadsRw9emO6sCZuuACJKKOw2TdzLWjCvg"
+  }
 }

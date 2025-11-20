@@ -8,15 +8,15 @@
       "id": "children",
       "image_asset": "images/support/support_children.svg",
       "image_1_asset": "images/icons/cellphone.svg",
-      "phone_no_1": "Call number 116.",
       "image_2_asset": "images/icons/cellphone.svg",
-      "phone_no_2": "Call number 119",
       "title": "Support for Children",
       "_translations": {
         "title": {},
         "sub_title_1": {},
+        "phone_no_1": {},
         "text_1": {},
         "sub_title_2": {},
+        "phone_no_2": {},
         "text_2": {},
         "facilitator_text_2": {}
       },
@@ -27,11 +27,17 @@
         "sub_title_1": {
           "eng": "Children’s issues Support"
         },
+        "phone_no_1": {
+          "eng": "Call number 116."
+        },
         "text_1": {
           "eng": "This is a toll-free number. It is concerned with providing support to child abuse incidents/ cases together with other children’s needs."
         },
         "sub_title_2": {
           "eng": "Mental Health Psychosocial Support for Children"
+        },
+        "phone_no_2": {
+          "eng": "Call number 119"
         },
         "text_2": {
           "eng": "This is a tollfree number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide."
@@ -41,8 +47,10 @@
         }
       },
       "sub_title_1": "Children’s issues Support",
+      "phone_no_1": "Call number 116.",
       "text_1": "This is a toll-free number. It is concerned with providing support to child abuse incidents/ cases together with other children’s needs.",
       "sub_title_2": "Mental Health Psychosocial Support for Children",
+      "phone_no_2": "Call number 119",
       "text_2": "This is a tollfree number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide.",
       "facilitator_text_2": "**You can also see Social Welfare Officer** in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:\n- Ten Cell leaders\n- Street Local Government leader/Chairperson\n- Police Gender Desk for GBV"
     },
@@ -50,11 +58,11 @@
       "id": "caregivers",
       "image_asset": "images/support/support_caregivers.svg",
       "image_1_asset": "images/icons/cellphone.svg",
-      "phone_no_1": "Call number 119",
       "title": "Support for Caregivers",
       "_translations": {
         "title": {},
         "sub_title_1": {},
+        "phone_no_1": {},
         "text_1": {},
         "facilitator_text_1": {}
       },
@@ -65,6 +73,9 @@
         "sub_title_1": {
           "eng": "Mental Health Psychosocial Support for caregivers/parents"
         },
+        "phone_no_1": {
+          "eng": "Call number 119"
+        },
         "text_1": {
           "eng": "This is a toll free number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide."
         },
@@ -73,6 +84,7 @@
         }
       },
       "sub_title_1": "Mental Health Psychosocial Support for caregivers/parents",
+      "phone_no_1": "Call number 119",
       "text_1": "This is a toll free number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide.",
       "facilitator_text_1": "**You can also see Social Welfare Officer** in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:\n- Ten Cell leaders\n- Street Local Government leader/Chairperson\n- Police Gender Desk for GBV"
     },
@@ -80,29 +92,29 @@
       "id": "kinondoni_org",
       "image_asset": "images/support/list_org_kinondoni.svg",
       "image_1_asset": "images/icons/cellphone.svg",
-      "phone_no_1": "Call 0222773038",
       "image_2_asset": "images/icons/cellphone.svg",
-      "phone_no_2": "Call 0782317434",
       "image_3_asset": "images/icons/cellphone.svg",
-      "phone_no_3": "Call 0783885958",
       "image_4_asset": "images/icons/cellphone.svg",
-      "phone_no_4": "Call number 116.",
       "image_5_asset": "images/icons/cellphone.svg",
-      "phone_no_5": "Call 0762211827\nCall 0744654725\nCall 0717697768",
       "title": "List of Organizations in Kinondoni District",
       "_translations": {
         "title": {},
         "sub_title_1": {},
         "description_1": {},
+        "phone_no_1": {},
         "sub_title_2": {},
         "description_2": {},
+        "phone_no_2": {},
         "sub_title_3": {},
         "description_3": {},
+        "phone_no_3": {},
         "sub_title_4": {},
         "description_4": {},
+        "phone_no_4": {},
         "text_4": {},
         "sub_title_5": {},
-        "description_5": {}
+        "description_5": {},
+        "phone_no_5": {}
       },
       "_translatedFields": {
         "title": {
@@ -114,11 +126,17 @@
         "description_1": {
           "eng": "**Support provided:** Legal Aid\n**Office Location in Dar es Salaam:** Kijitonyama"
         },
+        "phone_no_1": {
+          "eng": "Call 0222773038"
+        },
         "sub_title_2": {
           "eng": "Policy Forum"
         },
         "description_2": {
           "eng": "**Support provided:** Legal Aid"
+        },
+        "phone_no_2": {
+          "eng": "Call 0782317434"
         },
         "sub_title_3": {
           "eng": "Family Vibes Foundation"
@@ -126,11 +144,17 @@
         "description_3": {
           "eng": "**Support provided:** Guidance and Counselling, and Mental Health Psychosocial Support Services"
         },
+        "phone_no_3": {
+          "eng": "Call 0783885958"
+        },
         "sub_title_4": {
           "eng": "CSEMA"
         },
         "description_4": {
           "eng": "**Support Provided:** Guidance and Counselling\n\n**Office Location in Dar es Salaam:** Mwanayamala"
+        },
+        "phone_no_4": {
+          "eng": "Call number 116."
         },
         "text_4": {
           "eng": "This is a toll-free number. It is concerning with providing support to child abuse incidents/ cases together with other children’s needs."
@@ -140,21 +164,32 @@
         },
         "description_5": {
           "eng": "**Support provided:** Guidance and Counselling For People living with HIV & AIDS, OVC f& Families, Child Protections Support Services,\nHIV & AIDS Support Services ( Care and Treatment for HIV infected People), Home Based Care Services, Palliative Care Services,\nOrphans and Vulnerable Services, Cervical Cancer Testing, PMTCT Support Services (Prevention of Mother to Child Transmission of HIV) and GBV &VAC SUPPORT Services\n\n**Office Location in Dar es Salaam:** Chang”ombe Head quarter and all church hospitals in all  Five Dar es salaam Municipalities"
+        },
+        "phone_no_5": {
+          "eng": "Call 0762211827\nCall 0744654725\nCall 0717697768"
         }
       },
       "sub_title_1": "Legal and Human Rights Center (LHRC)",
       "description_1": "**Support provided:** Legal Aid\n**Office Location in Dar es Salaam:** Kijitonyama",
+      "phone_no_1": "Call 0222773038",
       "sub_title_2": "Policy Forum",
       "description_2": "**Support provided:** Legal Aid",
+      "phone_no_2": "Call 0782317434",
       "sub_title_3": "Family Vibes Foundation",
       "description_3": "**Support provided:** Guidance and Counselling, and Mental Health Psychosocial Support Services",
+      "phone_no_3": "Call 0783885958",
       "sub_title_4": "CSEMA",
       "description_4": "**Support Provided:** Guidance and Counselling\n\n**Office Location in Dar es Salaam:** Mwanayamala",
+      "phone_no_4": "Call number 116.",
       "text_4": "This is a toll-free number. It is concerning with providing support to child abuse incidents/ cases together with other children’s needs.",
       "sub_title_5": "PASADA (Pastoral Services for People living with HIV & AIDS Dar es salaam Archdiocese)",
-      "description_5": "**Support provided:** Guidance and Counselling For People living with HIV & AIDS, OVC f& Families, Child Protections Support Services,\nHIV & AIDS Support Services ( Care and Treatment for HIV infected People), Home Based Care Services, Palliative Care Services,\nOrphans and Vulnerable Services, Cervical Cancer Testing, PMTCT Support Services (Prevention of Mother to Child Transmission of HIV) and GBV &VAC SUPPORT Services\n\n**Office Location in Dar es Salaam:** Chang”ombe Head quarter and all church hospitals in all  Five Dar es salaam Municipalities"
+      "description_5": "**Support provided:** Guidance and Counselling For People living with HIV & AIDS, OVC f& Families, Child Protections Support Services,\nHIV & AIDS Support Services ( Care and Treatment for HIV infected People), Home Based Care Services, Palliative Care Services,\nOrphans and Vulnerable Services, Cervical Cancer Testing, PMTCT Support Services (Prevention of Mother to Child Transmission of HIV) and GBV &VAC SUPPORT Services\n\n**Office Location in Dar es Salaam:** Chang”ombe Head quarter and all church hospitals in all  Five Dar es salaam Municipalities",
+      "phone_no_5": "Call 0762211827\nCall 0744654725\nCall 0717697768"
     }
   ],
-  "_xlsxPath": "Resource centre/TZ support centre.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ support centre.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1d3q7BIcjUVbUjg6cO0YRW9G7jTBTzRmxiP-xI5a_PEU"
+  }
 }

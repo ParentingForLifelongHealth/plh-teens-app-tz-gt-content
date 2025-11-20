@@ -1077,6 +1077,9 @@
       "quiz_1_option_3_text": "Sad"
     }
   ],
-  "_xlsxPath": "modules/TZ check_in.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ check_in.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1pUHVOA6942x9mvHj8RvBaS5oFKoGy_3Te2puZ-idJW4"
+  }
 }

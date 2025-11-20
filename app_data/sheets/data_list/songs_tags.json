@@ -7,15 +7,12 @@
     {
       "id": "animal",
       "name": "animal",
+      "title": "Animal songs",
       "_translations": {
-        "name": {},
         "title": {},
         "text": {}
       },
       "_translatedFields": {
-        "name": {
-          "eng": "animal"
-        },
         "title": {
           "eng": "Animal songs"
         },
@@ -23,21 +20,17 @@
           "eng": "Animal songs"
         }
       },
-      "title": "Animal songs",
       "text": "Animal songs"
     },
     {
       "id": "child_care",
       "name": "child_care",
+      "title": "Child care and protection songs",
       "_translations": {
-        "name": {},
         "title": {},
         "text": {}
       },
       "_translatedFields": {
-        "name": {
-          "eng": "child_care"
-        },
         "title": {
           "eng": "Child care and protection songs"
         },
@@ -45,21 +38,17 @@
           "eng": "Child care and protection songs"
         }
       },
-      "title": "Child care and protection songs",
       "text": "Child care and protection songs"
     },
     {
       "id": "fun",
       "name": "fun",
+      "title": "Fun Songs",
       "_translations": {
-        "name": {},
         "title": {},
         "text": {}
       },
       "_translatedFields": {
-        "name": {
-          "eng": "fun"
-        },
         "title": {
           "eng": "Fun Songs"
         },
@@ -67,21 +56,17 @@
           "eng": "Fun Songs"
         }
       },
-      "title": "Fun Songs",
       "text": "Fun Songs"
     },
     {
       "id": "counting",
       "name": "counting",
+      "title": "Counting Song",
       "_translations": {
-        "name": {},
         "title": {},
         "text": {}
       },
       "_translatedFields": {
-        "name": {
-          "eng": "counting"
-        },
         "title": {
           "eng": "Counting Song"
         },
@@ -89,21 +74,17 @@
           "eng": "Counting Song"
         }
       },
-      "title": "Counting Song",
       "text": "Counting Song"
     },
     {
       "id": "plant",
       "name": "plant",
+      "title": "Plant Song",
       "_translations": {
-        "name": {},
         "title": {},
         "text": {}
       },
       "_translatedFields": {
-        "name": {
-          "eng": "plant"
-        },
         "title": {
           "eng": "Plant Song"
         },
@@ -111,10 +92,12 @@
           "eng": "Plant Song"
         }
       },
-      "title": "Plant Song",
       "text": "Plant Song"
     }
   ],
-  "_xlsxPath": "Resource centre/TZ songs.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ songs.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1gVr0Rh4q0NyYC08mx_d_uePUj_1haAD6KaAYGzLz5AI"
+  }
 }

@@ -5,6 +5,30 @@
   "data_list_name": "organisation",
   "rows": [
     {
+      "id": "organisation_9",
+      "name": "SU",
+      "image_asset": "images/logos/su_logo.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_10",
+      "name": "REPSSI",
+      "image_asset": "images/logos/REPSSI_logo.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_13",
+      "name": "NIMR",
+      "image_asset": "images/logos/NIMR_logo.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_12",
+      "name": "ILCHR",
+      "image_asset": "images/logos/ILCHR_logo.png",
+      "group": "partners"
+    },
+    {
       "id": "organisation_7",
       "name": "PLH",
       "image_asset": "images/logos/PLH.png",
@@ -23,6 +47,9 @@
       "group": "funders"
     }
   ],
-  "_xlsxPath": "deployment_data_tz.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "deployment_data_tz.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/16kJDfiHpqGnadsRw9emO6sCZuuACJKKOw2TdzLWjCvg"
+  }
 }

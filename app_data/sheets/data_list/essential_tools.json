@@ -1,0 +1,603 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "essential_tools",
+  "data_list_name": "essential_tools",
+  "status": "released",
+  "rows": [
+    {
+      "id": "connect",
+      "image_cover_asset": "images/modules/connect/connect_title_image.svg",
+      "image_asset": "images/modules/connect/connect_title_image.svg",
+      "step_1_image_asset": "images/modules/connect/connect_4.svg",
+      "step_2_image_asset": "images/modules/connect/connect_5.svg",
+      "step_3_image_asset": "images/modules/connect/connect_6.svg",
+      "tag_list": [
+        "connect"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1hrrPriBHEfb_Y7KvUuZy_SSlkvmRc41jyEu4g7Q8Rmc",
+      "title": "Connect",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Connect"
+        },
+        "intro_text": {
+          "eng": "Connecting with your child is when you focus on them and show interest in what they are doing or saying. Here’s how to get started:"
+        },
+        "step_1_text": {
+          "eng": "**Make time to connect on a regular basis.**\n\nEven 10-15 minutes can make a big difference. See it as an opportunity to take a break and relax together."
+        },
+        "step_2_text": {
+          "eng": "During one-on-one time, **give your child your full attention.** \n\nTo help you focus on your child during one-on-one time, try to minimise distractions."
+        },
+        "step_3_text": {
+          "eng": "During one-on-one time, **be responsive and enthusiastic.**\n\nRespond to what your child is doing and saying with enthusiasm and encouragement."
+        }
+      },
+      "intro_text": "Connecting with your child is when you focus on them and show interest in what they are doing or saying. Here’s how to get started:",
+      "step_1_text": "**Make time to connect on a regular basis.**\n\nEven 10-15 minutes can make a big difference. See it as an opportunity to take a break and relax together.",
+      "step_2_text": "During one-on-one time, **give your child your full attention.** \n\nTo help you focus on your child during one-on-one time, try to minimise distractions.",
+      "step_3_text": "During one-on-one time, **be responsive and enthusiastic.**\n\nRespond to what your child is doing and saying with enthusiasm and encouragement."
+    },
+    {
+      "id": "create",
+      "image_cover_asset": "images/essential_tools/create_title.svg",
+      "image_asset": "images/modules/create/create_15.svg",
+      "step_1_image_asset": "images/modules/create/create_4.svg",
+      "step_2_image_asset": "images/modules/create/create_9.svg",
+      "tag_list": [
+        "create"
+      ],
+      "title": "Create",
+      "_translations": {
+        "title": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Create"
+        },
+        "intro_text": {
+          "eng": "Here’s how you can create a positive environment for your child:"
+        },
+        "step_1_text": {
+          "eng": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something."
+        },
+        "step_2_text": {
+          "eng": "**Use praise to encourage positive behaviour**\n\nIf we praise our children when they do something well, we will see them do more and more positive things!"
+        },
+        "tips_text": {
+          "eng": "Ideas for praise:\n1. Being kind to someone \n2. Sharing their toys\n3. Packing away their things \n4. Saying 'please' or 'thank you' \n5. Helping out around the house\n6. Listening"
+        }
+      },
+      "intro_text": "Here’s how you can create a positive environment for your child:",
+      "step_1_text": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something.",
+      "step_2_text": "**Use praise to encourage positive behaviour**\n\nIf we praise our children when they do something well, we will see them do more and more positive things!",
+      "tips_text": "Ideas for praise:\n1. Being kind to someone \n2. Sharing their toys\n3. Packing away their things \n4. Saying 'please' or 'thank you' \n5. Helping out around the house\n6. Listening"
+    },
+    {
+      "id": "play",
+      "image_cover_asset": "images/essential_tools/play_title.svg",
+      "image_asset": "images/modules/play/using_books_5.svg",
+      "step_1_image_asset": "images/modules/play/how_to_play_1.svg",
+      "step_2_image_asset": "images/modules/play/how_to_play_2.svg",
+      "step_3_image_asset": "images/modules/play/how_to_play_3.svg",
+      "tag_list": [
+        "play"
+      ],
+      "title": "Play",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Play"
+        },
+        "intro_text": {
+          "eng": "There is no right or wrong way to play. The important thing is to have fun together. Here are some ideas for supporting your child through play:"
+        },
+        "step_1_text": {
+          "eng": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play."
+        },
+        "step_2_text": {
+          "eng": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development."
+        },
+        "step_3_text": {
+          "eng": "**Keep it joyful and fun!**\nBeing playful does not mean that your child won’t respect you or take you seriously: play actually helps to strengthen your relationship with your child. And when relationships are strong, dealing with stress and challenges become easier."
+        }
+      },
+      "intro_text": "There is no right or wrong way to play. The important thing is to have fun together. Here are some ideas for supporting your child through play:",
+      "step_1_text": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
+      "step_2_text": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development.",
+      "step_3_text": "**Keep it joyful and fun!**\nBeing playful does not mean that your child won’t respect you or take you seriously: play actually helps to strengthen your relationship with your child. And when relationships are strong, dealing with stress and challenges become easier."
+    },
+    {
+      "id": "talk",
+      "image_cover_asset": "images/essential_tools/talk_title.jpg",
+      "image_asset": "images/modules/talk/talk_7.svg",
+      "step_1_image_asset": "images/modules/talk/talk_1.svg",
+      "step_2_image_asset": "images/modules/talk/talk_2.svg",
+      "step_3_image_asset": "images/modules/talk/talk_3.svg",
+      "tag_list": [
+        "talk"
+      ],
+      "title": "Talk",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Talk"
+        },
+        "intro_text": {
+          "eng": "Children learn a lot from what we say, and how we say it. Here’s how to talk to your child:"
+        },
+        "step_1_text": {
+          "eng": "**Name and describe things to your child**\n\nThis helps your child understand what is happening."
+        },
+        "step_2_text": {
+          "eng": "**Explain WHY** \n\nThis helps your child understand cause and effect. It also helps them to follow instructions."
+        },
+        "step_3_text": {
+          "eng": "**TALK with kindness** \n\nUse your words to build your child up, not to break them down."
+        }
+      },
+      "intro_text": "Children learn a lot from what we say, and how we say it. Here’s how to talk to your child:",
+      "step_1_text": "**Name and describe things to your child**\n\nThis helps your child understand what is happening.",
+      "step_2_text": "**Explain WHY** \n\nThis helps your child understand cause and effect. It also helps them to follow instructions.",
+      "step_3_text": "**TALK with kindness** \n\nUse your words to build your child up, not to break them down."
+    },
+    {
+      "id": "explore_solutions",
+      "image_cover_asset": "images/essential_tools/explore_title.svg",
+      "image_asset": "images/modules/explore/power_explore_3.svg",
+      "step_1_image_asset": "images/modules/explore/power_explore_2.svg",
+      "step_2_image_asset": "images/modules/explore/power_explore_3.svg",
+      "step_3_image_asset": "images/modules/explore/power_explore_4.svg",
+      "step_4_image_asset": "images/modules/explore/power_explore_5.svg",
+      "tag_list": [
+        "explore"
+      ],
+      "title": "Explore solutions",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {},
+        "step_4_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Explore solutions"
+        },
+        "intro_text": {
+          "eng": "Instead of solving your child’s problems for them, support them to come up with solutions that they can try themselves."
+        },
+        "step_1_text": {
+          "eng": "**Talk about the problem**\nTalk to your child about the problem in need of a solution."
+        },
+        "step_2_text": {
+          "eng": "**Find solutions**\nTogether, think about possible solutions for this problem. What can your child do to overcome the problem?"
+        },
+        "step_3_text": {
+          "eng": "**Choose a solution to try**\nLet your child choose which option they want to try."
+        },
+        "step_4_text": {
+          "eng": "**Reflect and learn**\nDiscuss with your child whether or not the solution worked, or what they might want to do differently next time."
+        }
+      },
+      "intro_text": "Instead of solving your child’s problems for them, support them to come up with solutions that they can try themselves.",
+      "step_1_text": "**Talk about the problem**\nTalk to your child about the problem in need of a solution.",
+      "step_2_text": "**Find solutions**\nTogether, think about possible solutions for this problem. What can your child do to overcome the problem?",
+      "step_3_text": "**Choose a solution to try**\nLet your child choose which option they want to try.",
+      "step_4_text": "**Reflect and learn**\nDiscuss with your child whether or not the solution worked, or what they might want to do differently next time."
+    },
+    {
+      "id": "build_skills",
+      "image_cover_asset": "images/essential_tools/build_skills.svg",
+      "image_asset": "images/modules/build/power_build_4.svg",
+      "step_1_image_asset": "images/modules/build/how_build_2.svg",
+      "step_2_image_asset": "images/modules/build/how_build_3.svg",
+      "tag_list": [
+        "build"
+      ],
+      "title": "Build skills",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Build skills"
+        },
+        "intro_text": {
+          "eng": "Here are some ideas for helping children build the skills they need to cope with challenges."
+        },
+        "step_1_text": {
+          "eng": "**Talk about feelings**\n Noticing and talking about feelings help children learn to express and manage their emotions – even the difficult ones."
+        },
+        "step_2_text": {
+          "eng": "**Show them how**\n Children learn a lot by watching their parents. So, instead of telling your child how to cope with a challenging situation, show them with your own behaviours."
+        }
+      },
+      "intro_text": "Here are some ideas for helping children build the skills they need to cope with challenges.",
+      "step_1_text": "**Talk about feelings**\n Noticing and talking about feelings help children learn to express and manage their emotions – even the difficult ones.",
+      "step_2_text": "**Show them how**\n Children learn a lot by watching their parents. So, instead of telling your child how to cope with a challenging situation, show them with your own behaviours."
+    },
+    {
+      "id": "care_for_yourself",
+      "image_cover_asset": "images/essential_tools/care_yourself.svg",
+      "image_asset": "images/modules/join/join_3.svg",
+      "step_1_image_asset": "images/modules/care/take_a_pause.svg",
+      "step_2_image_asset": "images/modules/care/kind_yourself.svg",
+      "step_3_image_asset": "images/modules/care/how_care_connect.svg",
+      "tag_list": [
+        "care"
+      ],
+      "title": "Care for yourself",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Care for yourself"
+        },
+        "intro_text": {
+          "eng": "Taking care of yourself is an important parenting skill. Let’s look at three powerful ideas."
+        },
+        "step_1_text": {
+          "eng": "**Take a pause**\n\nTaking a pause helps us to feel calmer in stressful moments."
+        },
+        "step_2_text": {
+          "eng": "**Be kind to yourself**\n\nBeing a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of."
+        },
+        "step_3_text": {
+          "eng": "**Connect with others**\n\nConnect with your family and friends - you are not alone."
+        }
+      },
+      "intro_text": "Taking care of yourself is an important parenting skill. Let’s look at three powerful ideas.",
+      "step_1_text": "**Take a pause**\n\nTaking a pause helps us to feel calmer in stressful moments.",
+      "step_2_text": "**Be kind to yourself**\n\nBeing a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of.",
+      "step_3_text": "**Connect with others**\n\nConnect with your family and friends - you are not alone."
+    },
+    {
+      "id": "use_books_connect",
+      "image_cover_asset": "images/essential_tools/books_circle_connect.svg",
+      "image_asset": "images/modules/connect/connect_9.svg",
+      "step_1_image_asset": "images/modules/connect/connect_13.svg",
+      "step_2_image_asset": "images/modules/connect/connect_11.jpg",
+      "step_3_image_asset": "images/modules/connect/connect_12.svg",
+      "tag_list": [
+        "connect"
+      ],
+      "title": "Use books to connect",
+      "_translations": {
+        "title": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to connect"
+        },
+        "intro_text": {
+          "eng": "Sharing a book with your child is a great way to connect and spend quality time together."
+        },
+        "step_1_text": {
+          "eng": "As you go through the book, give your child your full attention."
+        },
+        "step_2_text": {
+          "eng": "Notice and respond to what your child is interested in."
+        },
+        "step_3_text": {
+          "eng": "Don’t force your child if they are not interested. Rather try again another time."
+        }
+      },
+      "intro_text": "Sharing a book with your child is a great way to connect and spend quality time together.",
+      "step_1_text": "As you go through the book, give your child your full attention.",
+      "step_2_text": "Notice and respond to what your child is interested in.",
+      "step_3_text": "Don’t force your child if they are not interested. Rather try again another time."
+    },
+    {
+      "id": "use_books_create",
+      "image_cover_asset": "images/essential_tools/books_circle_create.svg",
+      "image_asset": "images/modules/create/create_17.svg",
+      "step_1_image_asset": "images/modules/create/create_18.svg",
+      "step_2_image_asset": "images/modules/create/create_19.svg",
+      "step_3_image_asset": "images/modules/create/create_20.svg",
+      "tag_list": [
+        "create"
+      ],
+      "title": "Use books to create",
+      "_translations": {
+        "title": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {},
+        "step_3_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to create"
+        },
+        "intro_text": {
+          "eng": "Here are some ideas for how you can create positive interactions during book activities:"
+        },
+        "step_1_text": {
+          "eng": "As you go through the book together, respond to what your child is saying in a positive and enthusiastic way."
+        },
+        "step_2_text": {
+          "eng": "Avoid being critical or negative. Being critical will discourage your child from speaking or engaging in the activity."
+        },
+        "step_3_text": {
+          "eng": "Praise your child’s efforts. Kindness and praise help children feel safe and confident, which helps them learn."
+        }
+      },
+      "intro_text": "Here are some ideas for how you can create positive interactions during book activities:",
+      "step_1_text": "As you go through the book together, respond to what your child is saying in a positive and enthusiastic way.",
+      "step_2_text": "Avoid being critical or negative. Being critical will discourage your child from speaking or engaging in the activity.",
+      "step_3_text": "Praise your child’s efforts. Kindness and praise help children feel safe and confident, which helps them learn."
+    },
+    {
+      "id": "use_books_play",
+      "image_cover_asset": "images/essential_tools/books_circle_play.svg",
+      "image_asset": "images/modules/play/using_books_1.svg",
+      "step_1_image_asset": "images/modules/play/using_books_5.svg",
+      "step_2_image_asset": "images/modules/play/using_books_3.svg",
+      "step_3_image_asset": "images/modules/play/using_books_4.svg",
+      "tag_list": [
+        "play"
+      ],
+      "title": "Use books to play",
+      "_translations": {
+        "title": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to play"
+        },
+        "intro_text": {
+          "eng": "Book activities can be playful too! Here are some ways that you can make book activities fun."
+        },
+        "step_1_text": {
+          "eng": "Use a lively, playful voice, with different voices for different characters."
+        },
+        "step_2_text": {
+          "eng": "You can mimic different actions from the story."
+        },
+        "step_3_text": {
+          "eng": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds."
+        }
+      },
+      "intro_text": "Book activities can be playful too! Here are some ways that you can make book activities fun.",
+      "step_1_text": "Use a lively, playful voice, with different voices for different characters.",
+      "step_2_text": "You can mimic different actions from the story.",
+      "step_3_text": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds."
+    },
+    {
+      "id": "use_books_care",
+      "image_cover_asset": "images/essential_tools/books_care.svg",
+      "image_asset": "images/modules/care/using_books_2.svg",
+      "step_1_image_asset": "images/modules/care/using_books_1.svg",
+      "step_2_image_asset": "images/modules/care/using_books_2.svg",
+      "step_3_image_asset": "images/modules/care/using_books_3.svg",
+      "tag_list": [
+        "care"
+      ],
+      "title": "Use books to care",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to care"
+        },
+        "intro_text": {
+          "eng": "Book activities and stories are great for taking a pause, relaxing, and having some fun with your family."
+        },
+        "step_1_text": {
+          "eng": "You can use book activities to take a pause when you feel stressed."
+        },
+        "step_2_text": {
+          "eng": "Connecting with others helps us feel less alone. You can use book activities to connect with your child and your family."
+        },
+        "step_3_text": {
+          "eng": "Having some fun is helpful for parents too. You can use stories to relax, laugh and have fun together."
+        }
+      },
+      "intro_text": "Book activities and stories are great for taking a pause, relaxing, and having some fun with your family.",
+      "step_1_text": "You can use book activities to take a pause when you feel stressed.",
+      "step_2_text": "Connecting with others helps us feel less alone. You can use book activities to connect with your child and your family.",
+      "step_3_text": "Having some fun is helpful for parents too. You can use stories to relax, laugh and have fun together."
+    },
+    {
+      "id": "use_books_talk",
+      "image_cover_asset": "images/essential_tools/books_circle_talk.svg",
+      "image_asset": "images/modules/talk/books_talk.svg",
+      "step_1_image_asset": "images/modules/talk/talk_12.svg",
+      "step_2_image_asset": "images/modules/talk/talk_10.svg",
+      "step_3_image_asset": "images/modules/talk/talk_11.svg",
+      "tag_list": [
+        "talk"
+      ],
+      "title": "Use books to talk",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to talk"
+        },
+        "intro_text": {
+          "eng": "Book activities offer many opportunities for you and your child to talk and interact. Here are some ideas for how you can use books to talk and interact:"
+        },
+        "step_1_text": {
+          "eng": "**Name and describe what you see in the pictures**\nThis helps your child learn new words and understand what is happening in the story."
+        },
+        "step_2_text": {
+          "eng": "**Ask questions**\nThis helps your child to talk about the pictures, and think about what is happening."
+        },
+        "step_3_text": {
+          "eng": "**Show your child you are listening.**\nThis will encourage your child to talk more."
+        }
+      },
+      "intro_text": "Book activities offer many opportunities for you and your child to talk and interact. Here are some ideas for how you can use books to talk and interact:",
+      "step_1_text": "**Name and describe what you see in the pictures**\nThis helps your child learn new words and understand what is happening in the story.",
+      "step_2_text": "**Ask questions**\nThis helps your child to talk about the pictures, and think about what is happening.",
+      "step_3_text": "**Show your child you are listening.**\nThis will encourage your child to talk more."
+    },
+    {
+      "id": "use_books_build",
+      "image_cover_asset": "images/essential_tools/books_circle_build.svg",
+      "image_asset": "images/modules/build/reading_build.svg",
+      "tag_list": [
+        "build"
+      ],
+      "title": "Use books to build",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to build"
+        },
+        "intro_text": {
+          "eng": "Here are some ideas for using books and stories to help children build their social and emotional skills:"
+        },
+        "step_1_text": {
+          "eng": "Talk about what the characters are feeling."
+        },
+        "step_2_text": {
+          "eng": "Ask questions about what the characters are doing and why."
+        },
+        "step_3_text": {
+          "eng": "Reflect together on the story and what you have learned."
+        }
+      },
+      "intro_text": "Here are some ideas for using books and stories to help children build their social and emotional skills:",
+      "step_1_text": "Talk about what the characters are feeling.",
+      "step_2_text": "Ask questions about what the characters are doing and why.",
+      "step_3_text": "Reflect together on the story and what you have learned."
+    },
+    {
+      "id": "use_books_explore",
+      "image_cover_asset": "images/essential_tools/books_circle_explore.svg",
+      "image_asset": "images/modules/explore/reading_explore.svg",
+      "tag_list": [
+        "explore"
+      ],
+      "title": "Use books to explore",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to explore"
+        },
+        "intro_text": {
+          "eng": "Books and stories encourage children to explore different ideas and learn about the world. Here’s how to use books to explore:"
+        },
+        "step_1_text": {
+          "eng": "**Ask questions about the story**\nThis helps children think about what is happening, why this might be happening, and what might happen next."
+        },
+        "step_2_text": {
+          "eng": "Make connections between what you see in the book and your child’s life."
+        },
+        "step_3_text": {
+          "eng": "**Count and compare**  \n Use the pictures to count or make comparisons between different objects or characters."
+        }
+      },
+      "intro_text": "Books and stories encourage children to explore different ideas and learn about the world. Here’s how to use books to explore:",
+      "step_1_text": "**Ask questions about the story**\nThis helps children think about what is happening, why this might be happening, and what might happen next.",
+      "step_2_text": "Make connections between what you see in the book and your child’s life.",
+      "step_3_text": "**Count and compare**  \n Use the pictures to count or make comparisons between different objects or characters."
+    }
+  ],
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ essential_tools.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1U0xYy0YacgKQKZFWVV009Hbb4eGD18MPJ6cU5M8BeT0"
+  }
+}

@@ -17,8 +17,7 @@
               "args": [
                 "uncompleted"
               ],
-              "_raw": "click | emit: uncompleted",
-              "_cleaned": "click | emit: uncompleted"
+              "_raw": "click | emit: uncompleted"
             }
           ],
           "parameter_list": {
@@ -55,6 +54,9 @@
       "_nested_name": "dg_row"
     }
   ],
-  "_xlsxPath": "Tz settings.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Tz settings.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1ItJ9TnB2nqWuPacFcLM-Bzy0ZF1U0LOtZlBPqq3l_SY"
+  }
 }

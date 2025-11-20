@@ -29,8 +29,8 @@
       "module_id": "join",
       "book_id": "things_that_matter",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=33l261vBt1s",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=33l261vBt1s",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=F3oagLRGRIw",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=npbrqB6RWdQ",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
       "title": "More ideas for book activities",
       "_translations": {
@@ -48,59 +48,74 @@
       "id": "join_3",
       "module_id": "join",
       "book_id": "when_grow_up",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/modules/connect/connect_11.jpg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/when_grow_up.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Connect the story to real life",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Connect the story to real life"
+        },
+        "media_transcript": {
+          "eng": "“When I grow up” is a great book for talking about different types of work and things that people can do. As you go through the book, ask your child questions like: “What clothes is she wearing? What is she doing? Why do you think she is doing that? What else can you see in the picture? \n \nConnect the story to your child’s world by asking if your child has seen any of these things in real life. Ask what they would like to do if they were in the story? And what would they like to be one day when they grow up? \n \nRemember to respond in a positive way to what your child says. Build your child up instead of breaking them down!"
         }
-      }
+      },
+      "media_transcript": "“When I grow up” is a great book for talking about different types of work and things that people can do. As you go through the book, ask your child questions like: “What clothes is she wearing? What is she doing? Why do you think she is doing that? What else can you see in the picture? \n \nConnect the story to your child’s world by asking if your child has seen any of these things in real life. Ask what they would like to do if they were in the story? And what would they like to be one day when they grow up? \n \nRemember to respond in a positive way to what your child says. Build your child up instead of breaking them down!"
     },
     {
       "id": "connect_1",
       "module_id": "connect",
       "book_id": "to_the_top",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=Nm6fSxi6cO0",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=Wg8bZCzIJ28",
+      "image_asset": "images/modules/connect/connect_12.svg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/connect_1.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Being responsive during book activities",
+      "title": "Invite your child to join you in a book activity",
       "_translations": {
-        "title": {
+        "title": {},
+        "text": {
           "tz_sw": true
-        }
+        },
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Being responsive during book activities"
+          "eng": "Invite your child to join you in a book activity"
+        },
+        "text": {
+          "eng": "Don’t force your child if they are not interested. Rather try again another time."
+        },
+        "media_transcript": {
+          "eng": "Sharing a book with your child is a great way to connect and spend quality time together. Start by inviting your child to join you in a book activity. If they don’t want to, rather try again another time. Keep asking them without putting pressure on them. You can also tell them about a particular book or story that you would like to share with them, to spark their interest.\nAs you go through the book, give your child your full attention. Notice and respond to what your child is interested in.Describe the animals, surroundings and characters and ask your child questions about what they see."
         }
-      }
+      },
+      "text": "Don’t force your child if they are not interested. Rather try again another time.",
+      "media_transcript": "Sharing a book with your child is a great way to connect and spend quality time together. Start by inviting your child to join you in a book activity. If they don’t want to, rather try again another time. Keep asking them without putting pressure on them. You can also tell them about a particular book or story that you would like to share with them, to spark their interest.\nAs you go through the book, give your child your full attention. Notice and respond to what your child is interested in.Describe the animals, surroundings and characters and ask your child questions about what they see."
     },
     {
       "id": "connect_2",
       "module_id": "connect",
       "book_id": "moms_red_coat",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=whWQJGYhQ4M",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=D6UV5Zu8jwE",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=Nm6fSxi6cO0",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=Wg8bZCzIJ28",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Using books to build your child's vocabulary",
+      "title": "Be responsive during book activities",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Using books to build your child's vocabulary"
+          "eng": "Be responsive during book activities"
         }
       }
     },
@@ -109,18 +124,16 @@
       "module_id": "connect",
       "book_id": "bee_and_elephant",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=whWQJGYhQ4M",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=D6UV5Zu8jwE",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Name and describe what you see in the pictures",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Name and describe what you see in the pictures"
         }
       }
     },
@@ -129,60 +142,73 @@
       "module_id": "create",
       "book_id": "babys_first_photo",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=9MZY9uDurE4",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=E2LNLEtnP7o",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=cRhs1HNOKoE",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=MHSXrUAV254",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Creating positive experiences",
+      "title": "Create positive experiences",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Creating positive experiences"
+          "eng": "Create positive experiences"
+        },
+        "text": {
+          "eng": "Watch this video to see how you can share this book to create a positive experience for you and your child."
         }
-      }
+      },
+      "text": "Watch this video to see how you can share this book to create a positive experience for you and your child."
     },
     {
       "id": "create_2",
       "module_id": "create",
       "book_id": "shongololo_s_shoes",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=yDuKs6G9LNI",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=AoA9yiZJR28",
+      "image_asset": "images/modules/play/using_books_4.svg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/shongololos_shoes.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Bringing the book’s story to life",
+      "title": "Describe the pictures, mimic sounds and actions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Bringing the book’s story to life"
+          "eng": "Describe the pictures, mimic sounds and actions"
+        },
+        "media_transcript": {
+          "eng": "Shongololo has many feet. This means he needs lots of shoes! But where have they all gone? Encourage your child to find all Shongololo’s shoes as you go through the book together. Ask your child questions about what the animals in the story are doing and what they are using the shoes for? Make it fun by acting out what the different animals are doing."
         }
-      }
+      },
+      "media_transcript": "Shongololo has many feet. This means he needs lots of shoes! But where have they all gone? Encourage your child to find all Shongololo’s shoes as you go through the book together. Ask your child questions about what the animals in the story are doing and what they are using the shoes for? Make it fun by acting out what the different animals are doing."
     },
     {
       "id": "create_3",
       "module_id": "create",
       "book_id": "yes_you_can",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/learning_through_play/when_grow_up.svg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/yes_ you_can.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Connect the story to real life",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Connect the story to real life"
+        },
+        "media_transcript": {
+          "eng": "Join Teacher Langa’s class as they share what they want to be when they grow up. Chef, builder, nurse or artist? Tell your child more about what these jobs involve or ask your child what jobs they have seen people do in their community? \nEncourage your child to talk about what they want to be or do one day. Ask them why. Encourage them to tell you more about their dream."
         }
-      }
+      },
+      "media_transcript": "Join Teacher Langa’s class as they share what they want to be when they grow up. Chef, builder, nurse or artist? Tell your child more about what these jobs involve or ask your child what jobs they have seen people do in their community? \nEncourage your child to talk about what they want to be or do one day. Ask them why. Encourage them to tell you more about their dream."
     },
     {
       "id": "play_1",
@@ -190,97 +216,104 @@
       "book_id": "lesedis_sandbox",
       "media_type": "youtube",
       "youtube_gb_en": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=GJx020kakvc",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Using books in playful ways",
+      "title": "Use books in playful ways",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Using books in playful ways"
+          "eng": "Use books in playful ways"
+        },
+        "text": {
+          "eng": "Watch this video to see how you can share this book with your child in a fun and playful way."
         }
-      }
+      },
+      "text": "Watch this video to see how you can share this book with your child in a fun and playful way."
     },
     {
       "id": "play_2",
       "module_id": "play",
       "book_id": "lefas_bath",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=LAWO0cwEOCQ",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=ASKuT2zZ7j8",
+      "image_asset": "images/modules/play/using_books_5.svg",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Using books to talk about feelings",
+      "title": "Mimic sounds, actions and emotions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Using books to talk about feelings"
+          "eng": "Mimic sounds, actions and emotions"
+        },
+        "text": {
+          "eng": "Lefa’s Bath has lots of animals and fun events that you can act out with your child. You can also describe what Lefa is doing and how she is feeling."
         }
-      }
+      },
+      "text": "Lefa’s Bath has lots of animals and fun events that you can act out with your child. You can also describe what Lefa is doing and how she is feeling."
     },
     {
       "id": "play_3",
       "module_id": "play",
       "book_id": "mama_whats_for_lunch",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/essential_tools/essential_tools_3.jpg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/mama_whats_lunch.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Count, talk about colors, shapes and sizes",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Count, talk about colors, shapes and sizes"
+        },
+        "media_transcript": {
+          "eng": "Join Thabo and his sister Tumi as their mother creates all sorts of surprises for their lunch. \nCount the different foods, ask questions about the food’s colors, shapes, sizes, textures and tastes. \nAsk your child what food they know? And what do they like to eat? \nAnd when you have dinner later, talk about the color, shape, texture and taste of your delicious food!"
         }
-      }
+      },
+      "media_transcript": "Join Thabo and his sister Tumi as their mother creates all sorts of surprises for their lunch. \nCount the different foods, ask questions about the food’s colors, shapes, sizes, textures and tastes. \nAsk your child what food they know? And what do they like to eat? \nAnd when you have dinner later, talk about the color, shape, texture and taste of your delicious food!"
     },
     {
       "id": "talk_1",
       "module_id": "talk",
       "book_id": "jasu_loves_football",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=-QuSmYyoQVI",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=zYc4Qs4_cZ4",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Ask questions about what is happening and why",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Ask questions about what is happening and why"
         }
       }
     },
     {
       "id": "talk_2",
       "module_id": "talk",
-      "book_id": "no_go_sleep",
+      "book_id": "beautiful_day",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=7CSMJ9i46JA",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=IYJ2ooNS21U",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Describe the pictures, ask questions, make it fun!",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Describe the pictures, ask questions, make it fun!"
         }
       }
     },
@@ -288,79 +321,92 @@
       "id": "talk_3",
       "module_id": "talk",
       "book_id": "scared_tumi",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/modules/build/power_build_5.svg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/scared_tumi.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Talk about feelings and how to manage them",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Talk about feelings and how to manage them"
+        },
+        "media_transcript": {
+          "eng": "Everybody gets scared sometimes. Use this book to talk to your child about different feelings: What makes us feel scared? What can we do when we feel this way?\nRemember that it is normal for children to have big feelings sometimes! As their caregivers, you can show them that these feelings are okay, and you can be an example for how to cope when they feel this way."
         }
-      }
+      },
+      "media_transcript": "Everybody gets scared sometimes. Use this book to talk to your child about different feelings: What makes us feel scared? What can we do when we feel this way?\nRemember that it is normal for children to have big feelings sometimes! As their caregivers, you can show them that these feelings are okay, and you can be an example for how to cope when they feel this way."
     },
     {
       "id": "build_1",
       "module_id": "build",
       "book_id": "fifi_and_teddy",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/essential_tools/essential_tools_2.jpg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/fifty_n_tedy.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Ask questions about the characters and what they are doing",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Ask questions about the characters and what they are doing"
+        },
+        "media_transcript": {
+          "eng": "Fifi has a brown teddy that she loves very much. Use this story to describe different feelings, actions and events to your child. \nAsk your child what the characters are doing and why they think they are doing that? This will help your child understand the story better. It will also help them to learn about different emotions and behaviors too."
         }
-      }
+      },
+      "media_transcript": "Fifi has a brown teddy that she loves very much. Use this story to describe different feelings, actions and events to your child. \nAsk your child what the characters are doing and why they think they are doing that? This will help your child understand the story better. It will also help them to learn about different emotions and behaviors too."
     },
     {
       "id": "build_2",
       "module_id": "build",
       "book_id": "lost_toy",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/essential_tools/essential_tools_1.jpg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/lost_toy.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Talk about and demonstrate emotions from the story",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Talk about and demonstrate emotions from the story"
+        },
+        "media_transcript": {
+          "eng": "This book is great for talking to your child about different emotions, experiences and events!\nUse your face and voice to demonstrate what the characters are feeling. You could say: “Oh no! he is feeling sad. He lost his toy.”\nOr you can say: “Hooray!! They found it! They are happy.”\nYou can ask: “What did this child lose? How is he feeling? Who will help him? What do you think will happen next?”\nYou can also ask your child how they would have felt if this happened to them, and what they would have done."
         }
-      }
+      },
+      "media_transcript": "This book is great for talking to your child about different emotions, experiences and events!\nUse your face and voice to demonstrate what the characters are feeling. You could say: “Oh no! he is feeling sad. He lost his toy.”\nOr you can say: “Hooray!! They found it! They are happy.”\nYou can ask: “What did this child lose? How is he feeling? Who will help him? What do you think will happen next?”\nYou can also ask your child how they would have felt if this happened to them, and what they would have done."
     },
     {
       "id": "build_3",
       "module_id": "build",
       "book_id": "angry_akku",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=LAWO0cwEOCQ",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=ASKuT2zZ7j8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Connect to story to your child’s emotions and experiences",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Connect to story to your child’s emotions and experiences"
         }
       }
     },
@@ -368,58 +414,60 @@
       "id": "explore_1",
       "module_id": "explore",
       "book_id": "zibu_and_zizo",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/essential_tools/essential_tools_4.jpg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/zibu_n_zizo.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Explore similarities and differences between the story and your child’s life",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Explore similarities and differences between the story and your child’s life"
+        },
+        "media_transcript": {
+          "eng": "This book is great for connecting pictures and stories to your child’s own life and experiences. Explore with your child: “Zibu and Zizo walk to school – how about you? They like to eat banana bread – what do you like to eat?”\nShow your child that different people can like different things, and that it’s okay. You can say: “Zibu likes soccer, Zizo likes drawing. What do you like to do? And how is that similar or different to what your friends like to do?”"
         }
-      }
+      },
+      "media_transcript": "This book is great for connecting pictures and stories to your child’s own life and experiences. Explore with your child: “Zibu and Zizo walk to school – how about you? They like to eat banana bread – what do you like to eat?”\nShow your child that different people can like different things, and that it’s okay. You can say: “Zibu likes soccer, Zizo likes drawing. What do you like to do? And how is that similar or different to what your friends like to do?”"
     },
     {
       "id": "explore_2",
       "module_id": "explore",
       "book_id": "big_blue_bus",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=yDuKs6G9LNI",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=AoA9yiZJR28",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Connect the events in the story to your child’s own experiences. How is it the same or different?",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Connect the events in the story to your child’s own experiences. How is it the same or different?"
         }
       }
     },
     {
       "id": "explore_3",
       "module_id": "explore",
+      "book_id": "yello_earth_brown_earth",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=qxi5jYve8LA",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=DjTJAxgEUpI",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Use the pictures to count, categorize and compare",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Use the pictures to count, categorize and compare"
         }
       }
     },
@@ -428,68 +476,81 @@
       "module_id": "care",
       "book_id": "decision",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=yDuKs6G9LNI",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=AoA9yiZJR28",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Bring the story to life",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Bring the story to life"
+        },
+        "text": {
+          "eng": "Connect what happens in the story to similarities and differences in your child’s world."
         }
-      }
+      },
+      "text": "Connect what happens in the story to similarities and differences in your child’s world."
     },
     {
       "id": "care_2",
       "module_id": "care",
       "book_id": "my_inside_weather",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "image_asset": "images/modules/build/how_build_2.svg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/inside_wether.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Talk about events and emotions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Talk about events and emotions"
+        },
+        "media_transcript": {
+          "eng": "Sometimes how we feel can be hard to talk about. But everyone knows how to talk about the weather. \n \nYou can use the pictures in this story to talk about different types of weather like sunshine, clouds, rain, or wind – and what we do when we experience these types of weather. \n You can also use the pictures to talk about different emotions such as feeling happy, sad, angry, upset or excited. You can ask your child: “when do you feel that way? What do you do when you feel that way?”\n Talking about feelings can feel strange at first but is a very effective way to help children learn to manage their emotions and behavior."
         }
-      }
+      },
+      "media_transcript": "Sometimes how we feel can be hard to talk about. But everyone knows how to talk about the weather. \n \nYou can use the pictures in this story to talk about different types of weather like sunshine, clouds, rain, or wind – and what we do when we experience these types of weather. \n You can also use the pictures to talk about different emotions such as feeling happy, sad, angry, upset or excited. You can ask your child: “when do you feel that way? What do you do when you feel that way?”\n Talking about feelings can feel strange at first but is a very effective way to help children learn to manage their emotions and behavior."
     },
     {
       "id": "care_3",
       "module_id": "care",
+      "book_id": "lebo_and_gogos_tea_party",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=9MZY9uDurE4&list=PLYKWA4eBDiaAY7z13wUcPjVmjyTwXX7-X&index=1",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=E2LNLEtnP7o&list=PLYKWA4eBDiaAY7z13wUcPjVmjyTwXX7-X&index=2",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Create positive experiences",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Create positive experiences"
+        },
+        "text": {
+          "eng": "Respond in a positive way, make it fun and praise your child’s efforts."
         }
-      }
+      },
+      "text": "Respond in a positive way, make it fun and praise your child’s efforts."
     },
     {
       "id": "reflect_1",
       "module_id": "reflect",
+      "book_id": "things_that_matter",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=F3oagLRGRIw",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=npbrqB6RWdQ",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "More ideas for book activities",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -497,125 +558,57 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "More ideas for book activities"
         }
       }
     },
     {
       "id": "reflect_2",
       "module_id": "reflect",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "book_id": "yes_you_can",
+      "image_asset": "images/learning_through_play/when_grow_up.svg",
+      "media_type": "audio",
+      "media_asset": "audio/prepare/yes_ you_can.mp3",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Connect the story to real life",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Connect the story to real life"
+        },
+        "media_transcript": {
+          "eng": "Join Teacher Langa’s class as they share what they want to be when they grow up. Chef, builder, nurse or artist? Tell your child more about what these jobs involve or ask your child what jobs they have seen people do in their community? \nEncourage your child to talk about what they want to be or do one day. Ask them why. Encourage them to tell you more about their dream."
         }
-      }
+      },
+      "media_transcript": "Join Teacher Langa’s class as they share what they want to be when they grow up. Chef, builder, nurse or artist? Tell your child more about what these jobs involve or ask your child what jobs they have seen people do in their community? \nEncourage your child to talk about what they want to be or do one day. Ask them why. Encourage them to tell you more about their dream."
     },
     {
       "id": "reflect_3",
       "module_id": "reflect",
+      "book_id": "lesedis_sandbox",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=GJx020kakvc",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Use books in playful ways",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
-        }
-      }
-    },
-    {
-      "id": "id_22",
-      "module_id": "id",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
-      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Prepare"
-        }
-      }
-    },
-    {
-      "id": "id_23",
-      "module_id": "id",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
-      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Prepare"
-        }
-      }
-    },
-    {
-      "id": "id_24",
-      "module_id": "id",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
-      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Prepare"
-        }
-      }
-    },
-    {
-      "id": "id_25",
-      "module_id": "id",
-      "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
-      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Prepare"
+          "eng": "Use books in playful ways"
         }
       }
     }
   ],
-  "_xlsxPath": "books/TZ prepare data.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "books/TZ prepare data.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1uR83fIoDDaEmVje45wGqt_XV3J6T7IZPKNUWkY7Kd7k"
+  }
 }

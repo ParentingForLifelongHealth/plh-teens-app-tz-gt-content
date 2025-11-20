@@ -138,8 +138,8 @@
     },
     {
       "id": "what_makes_us_special",
-      "image_cover_asset": "images/learning_through_play/makes_us_special_circle.svg",
-      "image_asset": "images/learning_through_play/makes_us_special.svg",
+      "image_cover_asset": "images/learning_through_play/what_makes_us_special_circle.svg",
+      "image_asset": "images/learning_through_play/what_makes_us_special.svg",
       "tag_list": [
         "chat"
       ],
@@ -180,7 +180,7 @@
     {
       "id": "pattern_play",
       "image_cover_asset": "images/learning_through_play/pattern_play_circle.svg",
-      "image_asset": "images/learning_through_play/pattern_play_1.svg",
+      "image_asset": "images/learning_through_play/treasure_hunt.svg",
       "step_1_image_asset": "images/learning_through_play/pattern_play_1.svg",
       "step_2_image_asset": "images/learning_through_play/pattern_play_2.svg",
       "step_3_image_asset": "images/learning_through_play/pattern_play_3.svg",
@@ -769,7 +769,7 @@
     {
       "id": "treasure_hunt",
       "image_cover_asset": "images/learning_through_play/treasure_hunt_circle.svg",
-      "image_asset": "images/learning_through_play/treasure_hunt.svg",
+      "image_asset": "images/learning_through_play/pattern_play_1.svg",
       "tag_list": [
         "home"
       ],
@@ -983,8 +983,186 @@
       "resources_text": "You can use anything as a ‘box’ (a bucket, sack, packet), as long as your child cannot see what is inside.\n\nYou also need something to hide inside the mystery box.",
       "step_1_text": "1. Place any object inside the “Mystery Box”, without showing your child.\n2. Your child now asks you questions to try and guess what it is. You can only answer with “Yes” or “No”.\n3. Let your child ask as many questions as they need to guess what is in the box. If they are struggling, you can give them some hints or clues to help them. \n4. Swap roles with your child and let them choose an object to hide in the box and you try to guess what it is.",
       "tips_text": "* You can use different objects. You can also introduce themes, such as animals or fruits, to make the game more exciting. \n* You can allow your child to choose the objects or themes. This makes them feel more involved and part of the game.\n* Your child can close their eyes and touch the mystery item to guess what it is."
+    },
+    {
+      "id": "cooking_traditional_food",
+      "image_cover_asset": "images/learning_through_play/cook_traditional_circle.svg",
+      "image_asset": "images/learning_through_play/cook_traditional.svg",
+      "favourite_field": "ltp_activity_cooking_traditional_food_favourite",
+      "title": "Cooking Traditional Food",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Cooking Traditional Food"
+        },
+        "intro_text": {
+          "eng": "Cooking traditional Tanzanian food with your child is a great way to connect, learn new skills, and share stories about your culture."
+        },
+        "step_1_text": {
+          "eng": "1. Choose a recipe: Find a traditional recipe that you and your child would like to prepare. You can also ask friends and family for their favourites.\n2. Gather ingredients: Ask your child to help you get all the necessary ingredients and materials.\n3. Clean and prepare the cooking area: Make sure the kitchen area is clean and tidy before you start cooking. Teach your child to wash their hands thoroughly when working with food.\n4. Enjoy the meal: Eat the meal you prepared together! Talk about the flavours and textures of the food and share stories about traditional food in your culture."
+        },
+        "tips_text": {
+          "eng": "* Prepare your child: Ask your child in the morning if they can help you with the cooking tonight.\n* Involve them: Tell them what you are cooking tonight and ask them if they know the ingredients.\n* Clear tasks: Ask your child to fetch utensils, or prepare ingredients. They will be more interested if they help you and not only watch you cook."
+        }
+      },
+      "intro_text": "Cooking traditional Tanzanian food with your child is a great way to connect, learn new skills, and share stories about your culture.",
+      "step_1_text": "1. Choose a recipe: Find a traditional recipe that you and your child would like to prepare. You can also ask friends and family for their favourites.\n2. Gather ingredients: Ask your child to help you get all the necessary ingredients and materials.\n3. Clean and prepare the cooking area: Make sure the kitchen area is clean and tidy before you start cooking. Teach your child to wash their hands thoroughly when working with food.\n4. Enjoy the meal: Eat the meal you prepared together! Talk about the flavours and textures of the food and share stories about traditional food in your culture.",
+      "tips_text": "* Prepare your child: Ask your child in the morning if they can help you with the cooking tonight.\n* Involve them: Tell them what you are cooking tonight and ask them if they know the ingredients.\n* Clear tasks: Ask your child to fetch utensils, or prepare ingredients. They will be more interested if they help you and not only watch you cook."
+    },
+    {
+      "id": "hide_and_seek",
+      "image_cover_asset": "images/learning_through_play/hide_and_seek_circle.svg",
+      "image_asset": "images/learning_through_play/hide_and_seek.svg",
+      "favourite_field": "ltp_activity_hide_and_seek_favourite",
+      "title": "Hide and Seek",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Hide and Seek"
+        },
+        "intro_text": {
+          "eng": "Children love hide and seek, and this can be fun for adults too."
+        },
+        "step_1_text": {
+          "eng": "1. Take turns being the hider and the seeker. \n2. Count to 10 to give the other person an opportunity to find a hiding place. \n3. Once you have counted to 10, go look for the person who is hiding."
+        },
+        "tips_text": {
+          "eng": "* This can be a quick activity to build connection with your child if you are struggling to get them to cooperate, or if you are feeling frustrated. Closing your eyes and counting to ten (or sitting in your hiding spot) can be a helpful way to find a quick moment of calm."
+        }
+      },
+      "intro_text": "Children love hide and seek, and this can be fun for adults too.",
+      "step_1_text": "1. Take turns being the hider and the seeker. \n2. Count to 10 to give the other person an opportunity to find a hiding place. \n3. Once you have counted to 10, go look for the person who is hiding.",
+      "tips_text": "* This can be a quick activity to build connection with your child if you are struggling to get them to cooperate, or if you are feeling frustrated. Closing your eyes and counting to ten (or sitting in your hiding spot) can be a helpful way to find a quick moment of calm."
+    },
+    {
+      "id": "reflect_positive",
+      "image_cover_asset": "images/learning_through_play/reflect_on_positive_circle.svg",
+      "image_asset": "images/learning_through_play/reflect_on_positive.svg",
+      "favourite_field": "ltp_activity_reflect_positive_favourite",
+      "title": "Reflect on the Positive",
+      "_translations": {
+        "title": {},
+        "intro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reflect on the Positive"
+        },
+        "intro_text": {
+          "eng": "At the end of the day, take a minute to:\n* Tell your child about one fun thing you did today\n* Ask your child to tell you about one fun thing they did\n* Praise your child for one thing they did well today\n* Praise yourself for one thing you did well"
+        }
+      },
+      "intro_text": "At the end of the day, take a minute to:\n* Tell your child about one fun thing you did today\n* Ask your child to tell you about one fun thing they did\n* Praise your child for one thing they did well today\n* Praise yourself for one thing you did well"
+    },
+    {
+      "id": "making_music",
+      "image_cover_asset": "images/learning_through_play/making_music_circle.svg",
+      "image_asset": "images/learning_through_play/making_music.svg",
+      "favourite_field": "ltp_activity_making_music_favourite",
+      "title": "Make Music",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Make Music"
+        },
+        "intro_text": {
+          "eng": "Making sounds and music together is a great way to connect with your child, practice taking turns and getting creative together."
+        },
+        "step_1_text": {
+          "eng": "1. Create homemade instruments with household items such as boxes, cans, pots, plastic bottles filled with different objects.\n2. Explore the sounds they make and how you can bring the sounds together to sing a song you know, or make up a new song."
+        },
+        "tips_text": {
+          "eng": "* Invite the rest of the family to join in the fun.\n* Don't take it too seriously, be silly and have fun together.\n* If your child has a favourite song, let them choose the song they want to make music to.\n * Play a song on your phone and see how you can play your instruments along to the music."
+        }
+      },
+      "intro_text": "Making sounds and music together is a great way to connect with your child, practice taking turns and getting creative together.",
+      "step_1_text": "1. Create homemade instruments with household items such as boxes, cans, pots, plastic bottles filled with different objects.\n2. Explore the sounds they make and how you can bring the sounds together to sing a song you know, or make up a new song.",
+      "tips_text": "* Invite the rest of the family to join in the fun.\n* Don't take it too seriously, be silly and have fun together.\n* If your child has a favourite song, let them choose the song they want to make music to.\n * Play a song on your phone and see how you can play your instruments along to the music."
+    },
+    {
+      "id": "traditional_game",
+      "image_cover_asset": "images/learning_through_play/bao_icon.svg",
+      "image_asset": "images/learning_through_play/bao.png",
+      "favourite_field": "ltp_activity_traditional_game_favourite",
+      "title": "Traditional Game",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "resources_text": {},
+        "step_1_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Traditional Game"
+        },
+        "intro_text": {
+          "eng": "Playing Bao can be a fun way to relax and spend time with your child, or with a friend."
+        },
+        "resources_text": {
+          "eng": "You can play by drawing a Bao board in the sand and finding 32 small seeds, stones, or other small objects.\nThe board has 2 rows with 8 small pits in each one, and 2 larger pits at the ends of the rows."
+        },
+        "step_1_text": {
+          "eng": "1. Place 2 pieces (seeds, stones or whatever you found) in each of the smaller pits. The larger pits at the end of each row should be empty.\n2. Decide who will go first. Choose one pit from your side, pick up the stones (there should be 2) and move in a circle around the board, drop one stone into each pit. It is then the other person's turn. The goal is to get all your stones into your big pit before the other person.\n3. Keep playing until you have no more stones or no one can move any stones anymore. The person with the most stones in the big pit wins."
+        },
+        "tips_text": {
+          "eng": "* If you are playing with your child, play a practice game to help them understand the rules.\n* If you are playing with a friend, make time to connect and share how you have been doing."
+        }
+      },
+      "intro_text": "Playing Bao can be a fun way to relax and spend time with your child, or with a friend.",
+      "resources_text": "You can play by drawing a Bao board in the sand and finding 32 small seeds, stones, or other small objects.\nThe board has 2 rows with 8 small pits in each one, and 2 larger pits at the ends of the rows.",
+      "step_1_text": "1. Place 2 pieces (seeds, stones or whatever you found) in each of the smaller pits. The larger pits at the end of each row should be empty.\n2. Decide who will go first. Choose one pit from your side, pick up the stones (there should be 2) and move in a circle around the board, drop one stone into each pit. It is then the other person's turn. The goal is to get all your stones into your big pit before the other person.\n3. Keep playing until you have no more stones or no one can move any stones anymore. The person with the most stones in the big pit wins.",
+      "tips_text": "* If you are playing with your child, play a practice game to help them understand the rules.\n* If you are playing with a friend, make time to connect and share how you have been doing."
+    },
+    {
+      "id": "dream_travel",
+      "image_cover_asset": "images/learning_through_play/dream_travel_circle.svg",
+      "image_asset": "images/learning_through_play/dream_travel.svg",
+      "favourite_field": "ltp_activity_dream_travel_favourite",
+      "title": "Dream Travel",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Dream Travel"
+        },
+        "intro_text": {
+          "eng": "You can’t always travel, but you can always dream!"
+        },
+        "step_1_text": {
+          "eng": "1. Ask your child: Where would you want to travel to? How would you get there? What would you pack? What would you do on your trip? What would you see? \n2. Look at a map together, or draw one.\n3. Choose a country that your child has never heard of and learn about the country together."
+        },
+        "tips_text": {
+          "eng": "* Choose a dream travel destination and make up a travel story for the whole family."
+        }
+      },
+      "intro_text": "You can’t always travel, but you can always dream!",
+      "step_1_text": "1. Ask your child: Where would you want to travel to? How would you get there? What would you pack? What would you do on your trip? What would you see? \n2. Look at a map together, or draw one.\n3. Choose a country that your child has never heard of and learn about the country together.",
+      "tips_text": "* Choose a dream travel destination and make up a travel story for the whole family."
     }
   ],
-  "_xlsxPath": "Resource centre/TZ activities.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ activities.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WOmg7BHLz0c1sU8S_-HG5FUXruXqitsizusLZID9YbQ"
+  }
 }

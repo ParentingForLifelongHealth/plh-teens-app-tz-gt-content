@@ -20,8 +20,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -29,8 +28,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "exclude_from_translation": true,
@@ -83,8 +81,11 @@
       ]
     }
   ],
-  "_xlsxPath": "modules/TZ check_in article_generator.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ check_in article_generator.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11DjWR9QLqKk01Z7pdJoAQeGUAzDRyLwiMf7RULooX1M"
+  },
   "_output_flows": [
     {
       "flow_name": "article_join_check_in_10",
@@ -127,7 +128,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_reflect_@gen.check_in_id",
+      "flow_name": "article_reflect_check_in_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

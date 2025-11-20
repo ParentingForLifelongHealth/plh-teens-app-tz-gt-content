@@ -71,7 +71,6 @@
         "value": {}
       },
       "condition": "!!(@local.prepare_row.title)",
-      "exclude_from_translation": true,
       "_nested_name": "prepare_title",
       "_dynamicFields": {
         "value": [
@@ -94,6 +93,142 @@
       "_dynamicDependencies": {
         "@local.prepare_row.title": [
           "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "name": "image_dg",
+      "value": "@local.prepare_row.image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.prepare_row.image_asset)",
+      "exclude_from_translation": true,
+      "_nested_name": "image_dg",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.prepare_row.image_asset",
+            "matchedExpression": "@local.prepare_row.image_asset",
+            "type": "local",
+            "fieldName": "prepare_row"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.prepare_row.image_asset)",
+            "matchedExpression": "@local.prepare_row.image_asset",
+            "type": "local",
+            "fieldName": "prepare_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_row.image_asset": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "prepare_text",
+      "value": "@local.prepare_row.text",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.prepare_row.text)",
+      "_nested_name": "prepare_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.prepare_row.text",
+            "matchedExpression": "@local.prepare_row.text",
+            "type": "local",
+            "fieldName": "prepare_row"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.prepare_row.text)",
+            "matchedExpression": "@local.prepare_row.text",
+            "type": "local",
+            "fieldName": "prepare_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_row.text": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "audio_dg",
+      "condition": "@local.prepare_row.media_type == \"audio\"",
+      "parameter_list": {
+        "style": "column"
+      },
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "audio",
+          "name": "media_asset",
+          "value": "@local.prepare_row.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "transcript_text": "@local.prepare_row.media_transcript"
+          },
+          "_nested_name": "audio_dg.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.prepare_row.media_asset",
+                "matchedExpression": "@local.prepare_row.media_asset",
+                "type": "local",
+                "fieldName": "prepare_row"
+              }
+            ],
+            "parameter_list": {
+              "transcript_text": [
+                {
+                  "fullExpression": "@local.prepare_row.media_transcript",
+                  "matchedExpression": "@local.prepare_row.media_transcript",
+                  "type": "local",
+                  "fieldName": "prepare_row"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.prepare_row.media_asset": [
+              "value"
+            ],
+            "@local.prepare_row.media_transcript": [
+              "parameter_list.transcript_text"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "audio_dg",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.prepare_row.media_type == \"audio\"",
+            "matchedExpression": "@local.prepare_row.media_type",
+            "type": "local",
+            "fieldName": "prepare_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_row.media_type": [
           "condition"
         ]
       }
@@ -151,78 +286,104 @@
       }
     },
     {
-      "type": "display_group",
-      "name": "audio_dg",
-      "condition": "@local.prepare_row.media_type == \"audio\"",
-      "parameter_list": {
-        "style": "column"
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_12",
+      "_nested_name": "set_variable_12"
+    },
+    {
+      "name": "youtube",
+      "value": "youtube_",
+      "_translations": {
+        "value": {}
       },
       "exclude_from_translation": true,
-      "rows": [
-        {
-          "type": "audio",
-          "name": "media_asset",
-          "value": "@local.prepare_row.media_asset",
-          "_translations": {
-            "value": {}
-          },
-          "parameter_list": {
-            "transcript_text": "@local.prepare_row.media_transcript"
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "audio_dg.media_asset",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.prepare_row.media_asset",
-                "matchedExpression": "@local.prepare_row.media_asset",
-                "type": "local",
-                "fieldName": "prepare_row"
-              }
-            ],
-            "parameter_list": {
-              "transcript_text": [
-                {
-                  "fullExpression": "@local.prepare_row.media_transcript",
-                  "matchedExpression": "@local.prepare_row.media_transcript",
-                  "type": "local",
-                  "fieldName": "prepare_row"
-                }
-              ]
-            }
-          },
-          "_dynamicDependencies": {
-            "@local.prepare_row.media_asset": [
-              "value"
-            ],
-            "@local.prepare_row.media_transcript": [
-              "parameter_list.transcript_text"
-            ]
-          }
-        }
-      ],
-      "_nested_name": "audio_dg",
+      "type": "set_variable",
+      "_nested_name": "youtube"
+    },
+    {
+      "name": "language",
+      "value": "@fields._app_language",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "language",
       "_dynamicFields": {
-        "condition": [
+        "value": [
           {
-            "fullExpression": "@local.prepare_row.media_type == \"audio\"",
-            "matchedExpression": "@local.prepare_row.media_type",
-            "type": "local",
-            "fieldName": "prepare_row"
+            "fullExpression": "@fields._app_language",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.prepare_row.media_type": [
-          "condition"
+        "@fields._app_language": [
+          "value"
         ]
       }
     },
     {
+      "name": "youtube_column",
+      "value": "@local.youtube@local.language",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_10",
-      "_nested_name": "set_variable_10"
+      "_nested_name": "youtube_column",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.youtube@local.language",
+            "matchedExpression": "@local.youtube",
+            "type": "local",
+            "fieldName": "youtube"
+          },
+          {
+            "fullExpression": "@local.youtube@local.language",
+            "matchedExpression": "@local.language",
+            "type": "local",
+            "fieldName": "language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube": [
+          "value"
+        ],
+        "@local.language": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "youtube_concat",
+      "value": "prepare_row.@local.youtube_column",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "youtube_concat",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "prepare_row.@local.youtube_column",
+            "matchedExpression": "@local.youtube_column",
+            "type": "local",
+            "fieldName": "youtube_column"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube_column": [
+          "value"
+        ]
+      }
     },
     {
       "type": "display_group",
@@ -233,100 +394,6 @@
       },
       "exclude_from_translation": true,
       "rows": [
-        {
-          "name": "youtube",
-          "value": "youtube_",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "youtube_dg.youtube"
-        },
-        {
-          "name": "language",
-          "value": "@fields._app_language",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "youtube_dg.language",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@fields._app_language",
-                "matchedExpression": "@fields._app_language",
-                "type": "fields",
-                "fieldName": "_app_language"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields._app_language": [
-              "value"
-            ]
-          }
-        },
-        {
-          "name": "youtube_column",
-          "value": "@local.youtube@local.language",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "youtube_dg.youtube_column",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.youtube@local.language",
-                "matchedExpression": "@local.youtube",
-                "type": "local",
-                "fieldName": "youtube"
-              },
-              {
-                "fullExpression": "@local.youtube@local.language",
-                "matchedExpression": "@local.language",
-                "type": "local",
-                "fieldName": "language"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.youtube": [
-              "value"
-            ],
-            "@local.language": [
-              "value"
-            ]
-          }
-        },
-        {
-          "name": "youtube_concat",
-          "value": "prepare_row.@local.youtube_column",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "youtube_dg.youtube_concat",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "prepare_row.@local.youtube_column",
-                "matchedExpression": "@local.youtube_column",
-                "type": "local",
-                "fieldName": "youtube_column"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.youtube_column": [
-              "value"
-            ]
-          }
-        },
         {
           "type": "youtube",
           "name": "youtube_player",
@@ -373,8 +440,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_13",
-      "_nested_name": "set_variable_13"
+      "name": "set_variable_15",
+      "_nested_name": "set_variable_15"
     },
     {
       "type": "template",
@@ -387,8 +454,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -396,8 +462,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "exclude_from_translation": true,
@@ -405,6 +470,9 @@
       "_nested_name": "nav_buttons"
     }
   ],
-  "_xlsxPath": "books/TZ prepare templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "books/TZ prepare templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1z4MT24DSfcffLI3QlrzhdQYR2niskXOOZPN3F2o216A"
+  }
 }

@@ -20,8 +20,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -29,8 +28,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -45,8 +43,11 @@
       ]
     }
   ],
-  "_xlsxPath": "modules/TZ module_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1hIT1V3xGZRFyD-k2heJibYr-UTqkkCc6eCvreiokNMk"
+  },
   "_output_flows": [
     {
       "flow_name": "module_build_start_at_relax",

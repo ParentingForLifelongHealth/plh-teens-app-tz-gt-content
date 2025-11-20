@@ -231,6 +231,46 @@
       }
     },
     {
+      "type": "text",
+      "name": "print_media_title",
+      "value": "@local.row_data.title",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "condition": "!!@local.row_data.title",
+      "_nested_name": "print_media_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.title",
+            "matchedExpression": "@local.row_data.title",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!@local.row_data.title",
+            "matchedExpression": "!@local.row_data.title",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.title": [
+          "value"
+        ],
+        "!@local.row_data.title": [
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "audio",
       "name": "audio",
       "value": "@local.row_data.media_asset",
@@ -239,7 +279,6 @@
       },
       "exclude_from_translation": true,
       "parameter_list": {
-        "title": "@local.row_data.title",
         "transcript_text": "@local.row_data.transcript"
       },
       "condition": "@local.row_data.media_type == \"audio\"",
@@ -254,14 +293,6 @@
           }
         ],
         "parameter_list": {
-          "title": [
-            {
-              "fullExpression": "@local.row_data.title",
-              "matchedExpression": "@local.row_data.title",
-              "type": "local",
-              "fieldName": "row_data"
-            }
-          ],
           "transcript_text": [
             {
               "fullExpression": "@local.row_data.transcript",
@@ -283,9 +314,6 @@
       "_dynamicDependencies": {
         "@local.row_data.media_asset": [
           "value"
-        ],
-        "@local.row_data.title": [
-          "parameter_list.title"
         ],
         "@local.row_data.transcript": [
           "parameter_list.transcript_text"
@@ -332,6 +360,12 @@
       }
     },
     {
+      "name": "show_nav_buttons",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_nav_buttons"
+    },
+    {
       "type": "template",
       "name": "nav_buttons",
       "value": "nav_buttons",
@@ -342,8 +376,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -351,10 +384,10 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
+      "condition": "@local.show_nav_buttons",
       "rows": [
         {
           "name": "is_standalone_task",
@@ -379,9 +412,27 @@
           }
         }
       ],
-      "_nested_name": "nav_buttons"
+      "_nested_name": "nav_buttons",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.show_nav_buttons",
+            "matchedExpression": "@local.show_nav_buttons",
+            "type": "local",
+            "fieldName": "show_nav_buttons"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.show_nav_buttons": [
+          "condition"
+        ]
+      }
     }
   ],
-  "_xlsxPath": "templates/relax_activities.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+  "_source": {
+    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+    "path": "templates/relax_activities.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1nCQAjjE-dWhwaK9Xu4AXnoR_yMppug88_BbSE4IEg9k"
+  }
 }

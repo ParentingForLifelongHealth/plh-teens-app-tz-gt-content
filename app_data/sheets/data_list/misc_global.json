@@ -1,0 +1,32 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "misc_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "yes",
+      "value": "Yes"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "type": "declare_field_default",
+      "name": "facilitator_id",
+      "value": "facilitator"
+    },
+    {
+      "type": "declare_field_default",
+      "name": "facilitator_name",
+      "value": "@data.characters.facilitator.name"
+    }
+  ],
+  "_source": {
+    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+    "path": "data/deployment_data.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jZ85so4nhvr0HwKIpiQnACxas5ZWXSonzS9cR-19zw8"
+  }
+}

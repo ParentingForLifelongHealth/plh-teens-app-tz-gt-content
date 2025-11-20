@@ -20,8 +20,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -29,8 +28,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -41,8 +39,11 @@
       ]
     }
   ],
-  "_xlsxPath": "Resource centre/TZ activities template generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ activities template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1FiEWcDDXwBAr9-NLo2E4Kk1JSoRH2yTWbR-F3WxAixc"
+  },
   "_output_flows": [
     {
       "flow_name": "play_happy_things",
@@ -146,6 +147,36 @@
     },
     {
       "flow_name": "play_mystery_box",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_cooking_traditional_food",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_hide_and_seek",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_reflect_positive",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_making_music",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_traditional_game",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_dream_travel",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

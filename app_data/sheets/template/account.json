@@ -1,0 +1,745 @@
+{
+  "flow_type": "template",
+  "flow_name": "account",
+  "status": "released",
+  "rows": [
+    {
+      "name": "is_user_signed_in",
+      "value": "!!@fields._auth_user_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "is_user_signed_in",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "!!@fields._auth_user_id",
+            "matchedExpression": "!@fields._auth_user_id",
+            "type": "fields",
+            "fieldName": "_auth_user_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@fields._auth_user_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "just_logged_in",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "just_logged_in"
+    },
+    {
+      "name": "show_title",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_title"
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@global.account",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.show_title",
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.account",
+            "matchedExpression": "@global.account",
+            "type": "global",
+            "fieldName": "account"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.show_title",
+            "matchedExpression": "@local.show_title",
+            "type": "local",
+            "fieldName": "show_title"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.account": [
+          "value"
+        ],
+        "@local.show_title": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "login",
+      "condition": "!@local.is_user_signed_in",
+      "parameter_list": {
+        "style": "column"
+      },
+      "rows": [
+        {
+          "type": "text",
+          "name": "text_login",
+          "value": "@global.login_optional_why",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!@global.login_is_mandatory",
+          "_nested_name": "login.text_login",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.login_optional_why",
+                "matchedExpression": "@global.login_optional_why",
+                "type": "global",
+                "fieldName": "login_optional_why"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!@global.login_is_mandatory",
+                "matchedExpression": "!@global.login_is_mandatory",
+                "type": "global",
+                "fieldName": "login_is_mandatory"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.login_optional_why": [
+              "value"
+            ],
+            "!@global.login_is_mandatory": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "apple_sign_in_button",
+          "name": "button_apple_sign_in",
+          "value": "@global.login_apple",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reprocess"
+              ],
+              "_raw": "click | emit: force_reprocess"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "just_logged_in",
+                true
+              ],
+              "_raw": "click | set_local: just_logged_in: true"
+            }
+          ],
+          "condition": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
+          "_nested_name": "login.button_apple_sign_in",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.login_apple",
+                "matchedExpression": "@global.login_apple",
+                "type": "global",
+                "fieldName": "login_apple"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
+                "matchedExpression": "@fields._platform",
+                "type": "fields",
+                "fieldName": "_platform"
+              },
+              {
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
+                "matchedExpression": "@fields._operating_system",
+                "type": "fields",
+                "fieldName": "_operating_system"
+              },
+              {
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
+                "matchedExpression": "@fields._operating_system",
+                "type": "fields",
+                "fieldName": "_operating_system"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.login_apple": [
+              "value"
+            ],
+            "@fields._platform": [
+              "condition"
+            ],
+            "@fields._operating_system": [
+              "condition",
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "google_sign_in_button",
+          "name": "button_google_sign_in",
+          "value": "@global.login_google",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reprocess"
+              ],
+              "_raw": "click | emit: force_reprocess"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "just_logged_in",
+                true
+              ],
+              "_raw": "click | set_local: just_logged_in: true"
+            }
+          ],
+          "_nested_name": "login.button_google_sign_in",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.login_google",
+                "matchedExpression": "@global.login_google",
+                "type": "global",
+                "fieldName": "login_google"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.login_google": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "login",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.is_user_signed_in",
+            "matchedExpression": "!@local.is_user_signed_in",
+            "type": "local",
+            "fieldName": "is_user_signed_in"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.is_user_signed_in": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "logged_in",
+      "condition": "@local.is_user_signed_in",
+      "parameter_list": {
+        "style": "column"
+      },
+      "rows": [
+        {
+          "type": "display_group",
+          "name": "dg_column",
+          "parameter_list": {
+            "variant": "box_secondary",
+            "style": "column"
+          },
+          "rows": [
+            {
+              "type": "image",
+              "name": "user_picture",
+              "value": "@fields._auth_user_picture",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!!@fields._auth_user_picture",
+              "parameter_list": {
+                "style": "rounded_corners"
+              },
+              "style_list": [
+                "width: 96px",
+                "height: 96px"
+              ],
+              "_nested_name": "logged_in.dg_column.user_picture",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@fields._auth_user_picture",
+                    "matchedExpression": "@fields._auth_user_picture",
+                    "type": "fields",
+                    "fieldName": "_auth_user_picture"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!@fields._auth_user_picture",
+                    "matchedExpression": "!@fields._auth_user_picture",
+                    "type": "fields",
+                    "fieldName": "_auth_user_picture"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@fields._auth_user_picture": [
+                  "value"
+                ],
+                "!@fields._auth_user_picture": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "user_name",
+              "value": "@fields._auth_user_name",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!!@fields._auth_user_name",
+              "parameter_list": {
+                "text_align": "center"
+              },
+              "_nested_name": "logged_in.dg_column.user_name",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@fields._auth_user_name",
+                    "matchedExpression": "@fields._auth_user_name",
+                    "type": "fields",
+                    "fieldName": "_auth_user_name"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!@fields._auth_user_name",
+                    "matchedExpression": "!@fields._auth_user_name",
+                    "type": "fields",
+                    "fieldName": "_auth_user_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@fields._auth_user_name": [
+                  "value"
+                ],
+                "!@fields._auth_user_name": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "name_missing",
+              "value": "@global.logged_in",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!@fields._auth_user_name",
+              "parameter_list": {
+                "text_align": "center"
+              },
+              "_nested_name": "logged_in.dg_column.name_missing",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.logged_in",
+                    "matchedExpression": "@global.logged_in",
+                    "type": "global",
+                    "fieldName": "logged_in"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!@fields._auth_user_name",
+                    "matchedExpression": "!@fields._auth_user_name",
+                    "type": "fields",
+                    "fieldName": "_auth_user_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.logged_in": [
+                  "value"
+                ],
+                "!@fields._auth_user_name": [
+                  "condition"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "logged_in.dg_column"
+        },
+        {
+          "type": "display_group",
+          "name": "dg_row",
+          "rows": [
+            {
+              "type": "button",
+              "name": "button_sign_out",
+              "value": "<u>@global.logout</u>",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "server_sync"
+                  ],
+                  "_raw": "click | emit: server_sync"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "auth",
+                  "args": [
+                    "sign_out"
+                  ],
+                  "_raw": "click | auth: sign_out"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "force_reprocess"
+                  ],
+                  "_raw": "click | emit: force_reprocess"
+                }
+              ],
+              "condition": "!@global.login_is_mandatory",
+              "exclude_from_translation": true,
+              "parameter_list": {
+                "variant": "card",
+                "style": "no-background"
+              },
+              "style_list": [
+                "flex: 1"
+              ],
+              "_nested_name": "logged_in.dg_row.button_sign_out",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "<u>@global.logout</u>",
+                    "matchedExpression": "@global.logout",
+                    "type": "global",
+                    "fieldName": "logout"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!@global.login_is_mandatory",
+                    "matchedExpression": "!@global.login_is_mandatory",
+                    "type": "global",
+                    "fieldName": "login_is_mandatory"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.logout": [
+                  "value"
+                ],
+                "!@global.login_is_mandatory": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "button_sign_out",
+              "value": "<u>@global.logout</u>",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "server_sync"
+                  ],
+                  "_raw": "click | emit: server_sync"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "auth",
+                  "args": [
+                    "sign_out"
+                  ],
+                  "_raw": "click | auth: sign_out"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "reset_data",
+                  "args": [],
+                  "_raw": "click | reset_data"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "reset_app",
+                  "args": [],
+                  "_raw": "click | reset_app"
+                }
+              ],
+              "condition": "@global.login_is_mandatory",
+              "exclude_from_translation": true,
+              "parameter_list": {
+                "variant": "card",
+                "style": "no-background"
+              },
+              "style_list": [
+                "flex: 1"
+              ],
+              "_nested_name": "logged_in.dg_row.button_sign_out",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "<u>@global.logout</u>",
+                    "matchedExpression": "@global.logout",
+                    "type": "global",
+                    "fieldName": "logout"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "@global.login_is_mandatory",
+                    "matchedExpression": "@global.login_is_mandatory",
+                    "type": "global",
+                    "fieldName": "login_is_mandatory"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.logout": [
+                  "value"
+                ],
+                "@global.login_is_mandatory": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "button_delete_account",
+              "value": "<u>@global.delete_account</u>",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "pop_up",
+                  "args": [
+                    "delete_account_warning"
+                  ],
+                  "_raw": "click | pop_up: delete_account_warning"
+                }
+              ],
+              "exclude_from_translation": true,
+              "parameter_list": {
+                "variant": "card",
+                "style": "no-background"
+              },
+              "style_list": [
+                "flex: 1"
+              ],
+              "_nested_name": "logged_in.dg_row.button_delete_account",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "<u>@global.delete_account</u>",
+                    "matchedExpression": "@global.delete_account",
+                    "type": "global",
+                    "fieldName": "delete_account"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.delete_account": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "logged_in.dg_row"
+        },
+        {
+          "type": "data_items",
+          "name": "find_last_synced_id",
+          "value": "_auth_profiles",
+          "condition": "@local.just_logged_in && !@global.login_is_mandatory",
+          "parameter_list": {
+            "sort": "updatedAt",
+            "reverse": "true",
+            "limit": "1"
+          },
+          "rows": [
+            {
+              "type": "text",
+              "name": "text_previous_login",
+              "value": "@global.previous_login",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "margin-bottom: 12px"
+              ],
+              "_nested_name": "logged_in.find_last_synced_id.text_previous_login",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.previous_login",
+                    "matchedExpression": "@global.previous_login",
+                    "type": "global",
+                    "fieldName": "previous_login"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.previous_login": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "button_restore",
+              "value": "@global.restore_data",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "user",
+                  "args": [
+                    "import",
+                    "@item.id"
+                  ],
+                  "_raw": "click | user: import: @item.id"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "force_reprocess"
+                  ],
+                  "_raw": "click | emit: force_reprocess"
+                }
+              ],
+              "_nested_name": "logged_in.find_last_synced_id.button_restore",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.restore_data",
+                    "matchedExpression": "@global.restore_data",
+                    "type": "global",
+                    "fieldName": "restore_data"
+                  }
+                ],
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "1": [
+                        {
+                          "fullExpression": "@item.id",
+                          "matchedExpression": "@item.id",
+                          "type": "item",
+                          "fieldName": "id"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | user: import: @item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  }
+                }
+              },
+              "_dynamicDependencies": {
+                "@global.restore_data": [
+                  "value"
+                ],
+                "@item.id": [
+                  "action_list.0.args.1",
+                  "action_list.0._raw"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "logged_in.find_last_synced_id",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.just_logged_in && !@global.login_is_mandatory",
+                "matchedExpression": "@local.just_logged_in",
+                "type": "local",
+                "fieldName": "just_logged_in"
+              },
+              {
+                "fullExpression": "@local.just_logged_in && !@global.login_is_mandatory",
+                "matchedExpression": "!@global.login_is_mandatory",
+                "type": "global",
+                "fieldName": "login_is_mandatory"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.just_logged_in": [
+              "condition"
+            ],
+            "!@global.login_is_mandatory": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "logged_in",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.is_user_signed_in",
+            "matchedExpression": "@local.is_user_signed_in",
+            "type": "local",
+            "fieldName": "is_user_signed_in"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.is_user_signed_in": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "name": "19wSspWYMbRc75een-kS0q0aq24--75u8",
+    "path": "app_auth.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1sgEFVcnisQMCpDrT7O2_Rb3ATV38cI1Elv3ATfr_RvE"
+  }
+}

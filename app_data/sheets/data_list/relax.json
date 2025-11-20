@@ -271,19 +271,17 @@
         "title": {
           "tz_sw": true
         },
-        "transcript": {
-          "tz_sw": true
-        }
+        "transcript": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Feel the Ground"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing an ordinary activity like washing up. It can really help!"
         }
       },
-      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing an ordinary activity like washing up. It can really help!"
     },
     {
       "id": "relax_11",
@@ -503,10 +501,10 @@
           "eng": "Taking Care of Yourself"
         },
         "transcript": {
-          "eng": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your breathing_heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different."
+          "eng": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different."
         }
       },
-      "transcript": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your breathing_heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different."
+      "transcript": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different."
     },
     {
       "id": "relax_19",
@@ -705,6 +703,9 @@
       "transcript": "Close your eyes. Imagine you are holding a cup, filled with tea. Then someone walks by and bumps into you, making you spill your tea everywhere. \nWhy did you spill the tea? Because someone bumped into you? Not exactly. \n You spilled tea, because there was tea in your cup. Had there been coffee in the cup, you would have spilled coffee. \n What does this mean?\nIt means that: Whatever is inside your cup, is what will spill out.\nIn the same way, when life comes along and shakes you, whatever is inside you, is what will spill out. Life provides the cup, you choose what to fill it with.\nSo take a moment to think about what you want to fill your cup with. \nLet’s work towards filling our cups with gratitude, forgiveness, joy, strength, and kindness."
     }
   ],
-  "_xlsxPath": "Resource centre/TZ relax.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ relax.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1SO0CR3D18daVc2AoHwTkfk1P2B4j3yVORDZx-lg7KiU"
+  }
 }

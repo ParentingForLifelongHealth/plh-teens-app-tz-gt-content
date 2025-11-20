@@ -102,8 +102,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -111,8 +110,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "exclude_from_translation": true,
@@ -196,6 +194,9 @@
       "_nested_name": "article"
     }
   ],
-  "_xlsxPath": "modules/TZ articles template generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ articles template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/15d9DPA9zQQf0O11Sou65KP6B1qZjo9ElNiqAHHOU0rc"
+  }
 }

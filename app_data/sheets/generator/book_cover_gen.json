@@ -20,8 +20,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -29,8 +28,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -41,8 +39,11 @@
       ]
     }
   ],
-  "_xlsxPath": "books/TZ book template generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "books/TZ book template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1f1tv998FgW-bXfpPoA-_eoumTdjR_Z6-naz9ucyjUH4"
+  },
   "_output_flows": [
     {
       "flow_name": "book_cover_who_took_my_shoe",

@@ -4,8 +4,8 @@ import sheets from "scripts/src/commands/app-data/postProcess/sheets";
 const config = extendDeploymentConfig({ name: "plh_kids_tz_gt", parent: "plh_kids" });
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-gt-content.git",
-  content_tag_latest: "2.2.32",
+  content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-app-tz-gt-content.git",
+  content_tag_latest: "2.2.33",
 };
 
 config.android = {

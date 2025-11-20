@@ -16,6 +16,9 @@
       ]
     }
   ],
-  "_xlsxPath": "books/TZ books data.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "books/TZ books data.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1zMzxZ_GF4i9m0EpA3InD8kZSo8vxAQEmHnAKS8ou7Qk"
+  }
 }

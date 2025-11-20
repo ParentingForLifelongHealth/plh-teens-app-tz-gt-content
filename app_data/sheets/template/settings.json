@@ -23,8 +23,7 @@
           "args": [
             "force_reload"
           ],
-          "_raw": "nav_resume | emit: force_reload",
-          "_cleaned": "nav_resume | emit: force_reload"
+          "_raw": "nav_resume | emit: force_reload"
         }
       ],
       "_nested_name": "update_login_button"
@@ -133,7 +132,6 @@
         "variant": "inline_padding",
         "style": "column"
       },
-      "exclude_from_translation": true,
       "rows": [
         {
           "type": "button",
@@ -157,7 +155,6 @@
                 "settings_profile"
               ],
               "_raw": "click | pop_up: settings_profile | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_profile | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -216,7 +213,6 @@
                 "settings_language_select"
               ],
               "_raw": "click | pop_up: settings_language_select | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_language_select | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -287,7 +283,6 @@
                 "settings_user_id"
               ],
               "_raw": "click | pop_up: settings_user_id | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_user_id | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -330,6 +325,74 @@
               "value"
             ],
             "@local.user_id_icon": [
+              "parameter_list.icon"
+            ],
+            "@local.next_icon_asset": [
+              "parameter_list.icon_secondary_asset"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_how",
+          "value": "How to use @global.app_name",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "variant": "card",
+            "icon": "@local.about_icon",
+            "icon_secondary_asset": "@local.next_icon_asset",
+            "style": "no-background",
+            "text_align": "left"
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "tour_video"
+              ],
+              "_raw": "click | pop_up: tour_video | fullscreen: true",
+              "params": {
+                "fullscreen": true
+              }
+            }
+          ],
+          "_nested_name": "dg_account.button_how",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "How to use @global.app_name",
+                "matchedExpression": "@global.app_name",
+                "type": "global",
+                "fieldName": "app_name"
+              }
+            ],
+            "parameter_list": {
+              "icon": [
+                {
+                  "fullExpression": "@local.about_icon",
+                  "matchedExpression": "@local.about_icon",
+                  "type": "local",
+                  "fieldName": "about_icon"
+                }
+              ],
+              "icon_secondary_asset": [
+                {
+                  "fullExpression": "@local.next_icon_asset",
+                  "matchedExpression": "@local.next_icon_asset",
+                  "type": "local",
+                  "fieldName": "next_icon_asset"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@global.app_name": [
+              "value"
+            ],
+            "@local.about_icon": [
               "parameter_list.icon"
             ],
             "@local.next_icon_asset": [
@@ -383,14 +446,12 @@
                 "settings_about"
               ],
               "_raw": "click | pop_up: settings_about | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_about | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
               }
             }
           ],
-          "exclude_from_translation": true,
           "_nested_name": "dg_general.button_about",
           "_dynamicFields": {
             "value": [
@@ -454,7 +515,6 @@
                 "settings_terms"
               ],
               "_raw": "click | pop_up: settings_terms | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_terms | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -525,7 +585,6 @@
                 "settings_privacy_policy"
               ],
               "_raw": "click | pop_up: settings_privacy_policy | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_privacy_policy | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -627,6 +686,9 @@
       }
     }
   ],
-  "_xlsxPath": "Tz settings.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Tz settings.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1ItJ9TnB2nqWuPacFcLM-Bzy0ZF1U0LOtZlBPqq3l_SY"
+  }
 }

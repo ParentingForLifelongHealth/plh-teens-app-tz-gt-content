@@ -578,9 +578,9 @@
     {
       "id": "the_power_of_play_16",
       "category_id": "power_play",
-      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
-      "quiz_2_option_2_image_asset": "images/modules/play/scared_emoji.svg",
-      "quiz_2_option_3_image_asset": "images/modules/play/awake_emoji.svg",
+      "quiz_2_option_1_image_asset": "images/icons/faces/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/icons/faces/scared_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/icons/faces/awake_emoji.svg",
       "title": "Question time:",
       "_translations": {
         "title": {
@@ -830,6 +830,9 @@
       }
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WJxiCe992r7W0P5a6ykzI0ytZ8-JHkOVoDcq_-vpwFo"
+  }
 }

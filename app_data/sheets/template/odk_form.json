@@ -4,79 +4,65 @@
   "status": "released",
   "rows": [
     {
+      "name": "module_id",
+      "value": "join",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "join"
+    },
+    {
+      "name": "now",
+      "value": "@calc(now())",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "now",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(now())",
+            "matchedExpression": "@calc(now())",
+            "type": "calc",
+            "fieldName": "now()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(now())": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "title",
       "name": "title",
-      "value": "General Feedback Form",
+      "value": "Feedback Form",
       "_translations": {
         "value": {}
       },
       "_nested_name": "title"
     },
     {
-      "type": "display_group",
-      "name": "form_parameters",
-      "rows": [
-        {
-          "type": "text",
-          "name": "form_asset_name",
-          "value": "form_asset",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "width: 120px"
-          ],
-          "condition": false,
-          "_nested_name": "form_parameters.form_asset_name"
-        },
-        {
-          "type": "text_box",
-          "name": "form_asset_input",
-          "value": "odk_form.json",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "width: 200px"
-          ],
-          "action_list": [
-            {
-              "trigger": "changed",
-              "action_id": "emit",
-              "args": [
-                "force_reprocess"
-              ],
-              "_raw": "changed | emit:force_reprocess",
-              "_cleaned": "changed | emit:force_reprocess"
-            }
-          ],
-          "condition": false,
-          "_nested_name": "form_parameters.form_asset_input"
-        },
-        {
-          "type": "text",
-          "name": "form_asset_description",
-          "value": "Path to form asset data. This must be pre-processed using the xlsform converter workspace.",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "width: 300px"
-          ],
-          "condition": false,
-          "_nested_name": "form_parameters.form_asset_description"
-        }
-      ],
-      "_nested_name": "form_parameters"
-    },
-    {
-      "type": "subtitle",
-      "value": "**Module Feedback**",
+      "name": "form_asset_input",
+      "value": "odk/general_survey.json",
       "_translations": {
         "value": {}
       },
-      "name": "subtitle_5",
-      "_nested_name": "subtitle_5"
+      "type": "set_variable",
+      "_nested_name": "form_asset_input"
     },
     {
       "type": "odk_form",
@@ -86,11 +72,10 @@
           "trigger": "changed",
           "action_id": "set_field",
           "args": [
-            "odk_output",
+            "odk_survey_@local.module_id",
             "this.value"
           ],
-          "_raw": "changed | set_field: odk_output: @local.form_1",
-          "_cleaned": "changed | set_field: odk_output: @local.form_1"
+          "_raw": "changed | set_field: odk_survey_@local.module_id: @local.form_1"
         }
       ],
       "parameter_list": {
@@ -100,17 +85,25 @@
       "_dynamicFields": {
         "action_list": {
           "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "odk_survey_@local.module_id",
+                  "matchedExpression": "@local.module_id",
+                  "type": "local",
+                  "fieldName": "module_id"
+                }
+              ]
+            },
             "_raw": [
               {
-                "fullExpression": "changed | set_field: odk_output: @local.form_1",
-                "matchedExpression": "@local.form_1",
+                "fullExpression": "changed | set_field: odk_survey_@local.module_id: @local.form_1",
+                "matchedExpression": "@local.module_id",
                 "type": "local",
-                "fieldName": "form_1"
-              }
-            ],
-            "_cleaned": [
+                "fieldName": "module_id"
+              },
               {
-                "fullExpression": "changed | set_field: odk_output: @local.form_1",
+                "fullExpression": "changed | set_field: odk_survey_@local.module_id: @local.form_1",
                 "matchedExpression": "@local.form_1",
                 "type": "local",
                 "fieldName": "form_1"
@@ -130,9 +123,12 @@
         }
       },
       "_dynamicDependencies": {
+        "@local.module_id": [
+          "action_list.0.args.0",
+          "action_list.0._raw"
+        ],
         "@local.form_1": [
-          "action_list.0._raw",
-          "action_list.0._cleaned"
+          "action_list.0._raw"
         ],
         "@local.form_asset_input": [
           "parameter_list.form_asset"
@@ -146,6 +142,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "_nested_name": "subtitle"
     },
     {
@@ -155,6 +152,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "_nested_name": "form_1_values",
       "_dynamicFields": {
         "value": [
@@ -171,8 +169,121 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Submit",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "odk_survey_@local.module_id@local.join@local.now",
+            "@local.form_1"
+          ],
+          "_raw": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed"
+        }
+      ],
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "odk_survey_@local.module_id@local.join@local.now",
+                  "matchedExpression": "@local.module_id",
+                  "type": "local",
+                  "fieldName": "module_id"
+                },
+                {
+                  "fullExpression": "odk_survey_@local.module_id@local.join@local.now",
+                  "matchedExpression": "@local.join",
+                  "type": "local",
+                  "fieldName": "join"
+                },
+                {
+                  "fullExpression": "odk_survey_@local.module_id@local.join@local.now",
+                  "matchedExpression": "@local.now",
+                  "type": "local",
+                  "fieldName": "now"
+                }
+              ],
+              "1": [
+                {
+                  "fullExpression": "@local.form_1",
+                  "matchedExpression": "@local.form_1",
+                  "type": "local",
+                  "fieldName": "form_1"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.now",
+                "type": "local",
+                "fieldName": "now"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.form_1",
+                "type": "local",
+                "fieldName": "form_1"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "action_list.0.args.0",
+          "action_list.0._raw"
+        ],
+        "@local.join": [
+          "action_list.0.args.0",
+          "action_list.0._raw"
+        ],
+        "@local.now": [
+          "action_list.0.args.0",
+          "action_list.0._raw"
+        ],
+        "@local.form_1": [
+          "action_list.0.args.1",
+          "action_list.0._raw"
+        ]
+      }
     }
   ],
-  "_xlsxPath": "modules/TZ module_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1hIT1V3xGZRFyD-k2heJibYr-UTqkkCc6eCvreiokNMk"
+  }
 }

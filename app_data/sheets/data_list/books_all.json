@@ -7,7 +7,7 @@
     {
       "id": "who_took_my_shoe",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_my_shoe.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_my_shoe.png",
       "tag_list": [
         "learn",
         "animals"
@@ -15,8 +15,6 @@
       "level_id": "level_2",
       "author": "Elana Bregin",
       "illustrator": "Nicki Blackbeard",
-      "editor": "ab",
-      "designer": "gt",
       "image_1_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page4.jpg",
       "image_2_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page5.jpg",
       "image_3_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page6.jpg",
@@ -279,7 +277,7 @@
     {
       "id": "no_go_sleep",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_dont_want_sleep.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_dont_want_sleep.png",
       "tag_list": [
         "family",
         "emotions",
@@ -456,7 +454,7 @@
     {
       "id": "scared_tumi",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_scared_tumi.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_scared_tumi.png",
       "tag_list": [
         "emotions",
         "family"
@@ -659,7 +657,7 @@
     {
       "id": "moms_red_coat",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_moms_red_coat.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_moms_red_coat.png",
       "tag_list": [
         "family",
         "emotions",
@@ -900,7 +898,7 @@
     {
       "id": "amma_be_back",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_amma_be_back.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_amma_be_back.png",
       "tag_list": [
         "family",
         "emotions",
@@ -1060,7 +1058,7 @@
     {
       "id": "bee_and_elephant",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_bee_and_elephant.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_bee_and_elephant.png",
       "tag_list": [
         "animals",
         "nature"
@@ -1214,7 +1212,7 @@
     {
       "id": "reba_wants_ice_cream",
       "status": "draft",
-      "image_cover_asset": "images/books/reba_wants_ice_cream/image_1.jpg",
+      "image_cover_asset": "images/books/reba_wants_ice_cream/image_1.png",
       "tag_list": [
         "family",
         "adventure",
@@ -1369,7 +1367,7 @@
     {
       "id": "ranis_first_day_at_school",
       "status": "draft",
-      "image_cover_asset": "images/books/ranis_first_day_at_school/image_1.jpg",
+      "image_cover_asset": "images/books/ranis_first_day_at_school/image_1.png",
       "tag_list": [
         "family",
         "life_skills",
@@ -1458,7 +1456,7 @@
     {
       "id": "ma_hurry_up",
       "status": "draft",
-      "image_cover_asset": "images/books/ma_hurry_up/image_1.jpg",
+      "image_cover_asset": "images/books/ma_hurry_up/image_1.png",
       "tag_list": [
         "family",
         "life_skills",
@@ -1594,7 +1592,7 @@
     {
       "id": "katiitis_song",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_katiitis_song.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_katiitis_song.png",
       "tag_list": [
         "nature",
         "animals",
@@ -2081,7 +2079,7 @@
     {
       "id": "fifi_and_teddy",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_fifi_teddy.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_fifi_teddy.png",
       "tag_list": [
         "emotions",
         "family",
@@ -2261,7 +2259,7 @@
     {
       "id": "how_you_want_your_eggs",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_how_want_eggs.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_how_want_eggs.png",
       "tag_list": [
         "family"
       ],
@@ -2385,7 +2383,7 @@
     {
       "id": "lebo_and_gogos_tea_party",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_lebo_gogo.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_lebo_gogo.png",
       "tag_list": [
         "emotions",
         "family",
@@ -2406,8 +2404,11 @@
       "image_10_asset": "images/books/lebo_gogo_tea_party/page13.jpg",
       "image_11_asset": "images/books/lebo_gogo_tea_party/page14.jpg",
       "image_12_asset": "images/books/lebo_gogo_tea_party/page15.jpg",
-      "title": "Lebo and Gogo's Tea Party",
+      "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "_translations": {
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
@@ -2420,38 +2421,53 @@
         "text_1_left": {
           "tz_sw": true
         },
+        "guidance_1_a": {},
         "text_2_left": {
           "tz_sw": true
         },
+        "guidance_2_a": {},
         "text_3_right": {
           "tz_sw": true
         },
+        "guidance_3_a": {},
         "text_4_left": {
           "tz_sw": true
         },
+        "guidance_4_a": {},
         "text_5": {
           "tz_sw": true
         },
+        "guidance_5_a": {},
         "text_6_left": {
           "tz_sw": true
         },
+        "guidance_6_a": {},
         "text_7_left": {
           "tz_sw": true
         },
+        "guidance_7_a": {},
         "text_8_left": {
           "tz_sw": true
         },
+        "guidance_8_a": {},
         "text_9_left": {
           "tz_sw": true
         },
+        "guidance_9_a": {},
         "text_10_left": {
           "tz_sw": true
         },
+        "guidance_10_a": {},
         "text_11_left": {
           "tz_sw": true
-        }
+        },
+        "guidance_11_a": {},
+        "guidance_12_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?"
+        },
         "title": {
           "eng": "Lebo and Gogo's Tea Party"
         },
@@ -2464,55 +2480,104 @@
         "text_1_left": {
           "eng": "Lebo is at Gogo’s farm. She is bored with chasing the animals. \"Now you chase me, Gogo!\" Lebo shouts as she races past. \"Slow down, Lebo,\" Gogo says, hurrying to catch up."
         },
+        "guidance_1_a": {
+          "eng": "Describe the picture by pointing at the different images and say, “Look at this! Who do we see here? It’s a little girl and her grandma. Do you think they might be at a farm? What do you think they are doing?”"
+        },
         "text_2_left": {
           "eng": "Gogo trips over a rock while chasing Lebo. \"Ouch!\" she screams. Gogo has hurt her ankle."
+        },
+        "guidance_2_a": {
+          "eng": "Say, “Oh no! It looks like grandma might trip. She’s about to fall. I hope she will be okay.”"
         },
         "text_3_right": {
           "eng": "She comes back from the doctor with a special boot and crutches. \"Gogo, come back to the city with us so that we can take care of you,\" says Lebo’s mom. \"I won’t leave my farm. I will manage on my own,\" Gogo replies, stubbornly."
         },
+        "guidance_3_a": {
+          "eng": "Help the child to learn new words by pointing at the picture and naming the things you see. Say, “This is a special boot” and “These are crutches.” Then explain: “The doctor gave these to grandma because her leg is hurt.”\n\nAsk, “How do you think grandma feels? What makes you say that?”"
+        },
         "text_4_left": {
           "eng": "\"Gogo, you must come. We will have so much fun!\" Lebo says, excitedly."
+        },
+        "guidance_4_a": {
+          "eng": "Say, “Look, the girl is giving her grandma a hug, how kind! Would you like to give me a hug too?” (When the child hugs you, respond warmly with) “Mmm, that feels so nice. Thank you for the lovely hug!”"
         },
         "text_5": {
           "eng": "During the drive, Lebo bounces on her seat. She thinks of all the wild adventures she and Gogo will have in the city."
         },
+        "guidance_5_a": {
+          "eng": "Say, “Now, let’s look and talk together!” Point to the picture and ask your child, “How many houses can you see? How many cars are there? How many animals can you find? What color is the car? What color are the roofs of the houses? Can you tell me the color that both animals have?"
+        },
         "text_6_left": {
           "eng": "When they arrive at the house, Gogo rests on the sofa."
+        },
+        "guidance_6_a": {
+          "eng": "Help your child learn new words by pointing to things in the picture and saying their names. Ask your child to repeat after you. For example, you can say: ‘This is a lamp. These are crochet hooks. This is wool. This is a remote control.”"
         },
         "text_7_left": {
           "eng": "Lebo dashes into the lounge. \"Gogo, Gogo, I know what we can do today! We can go to the mall. There are lots of shops with nice toys and ice cream!\" \"I’m afraid I can’t. The mall is too big, and I will get so tired.\""
         },
+        "guidance_7_a": {
+          "eng": "Say, “look at the thought bubble above the girl’s head, could she be thinking of going to the shopping mall” \n\nAsk, “Have you ever been to the shopping mall?” If yes, “how was it? What did you do? Who did you go with?”"
+        },
         "text_8_left": {
           "eng": "\"Gogo, Gogo, I know what we can do today! We can go to the park!\" \"I’m afraid that won’t work. The dogs in the park will run around and could make me fall again.\""
+        },
+        "guidance_8_a": {
+          "eng": "Point at the thought bubble above the girl's head and say, “Now, let's look into the girl’s thought bubble again, what do you think she is thinking?"
         },
         "text_9_left": {
           "eng": "A second later, Lebo’s eyes are wide with excitement. \"Gogo, Gogo, I know what else we can do today. Let’s go to the beach.\" \"I’m sorry, Lebo. I’m afraid my crutches will sink into the soft sand.\""
         },
+        "guidance_9_a": {
+          "eng": "Point at the thought bubble again and say, “Wow, the girl is now thinking of something else, i wonder what could be going on in her mind.”"
+        },
         "text_10_left": {
           "eng": "Lebo is quiet while Gogo knits. Suddenly she has an idea!"
         },
+        "guidance_10_a": {
+          "eng": "Point to the girl and say: \"Look at her, she looks like she’s really thinking about something.\"Then ask the child: \"Can you show me what you look like when you're thinking really hard?\""
+        },
         "text_11_left": {
           "eng": "\"Gogo, Gogo, I know what we can do today! Let’s have a tea party. Gogo, you can sit here. I will bring everything to you because you are hurt.\""
+        },
+        "guidance_11_a": {
+          "eng": "Say, “Look! Maybe the girl is thinking about having a tea party. She brought many cups and a kettle, even though it's just her and grandma. Can you see her face? She looks very, very happy!”\nThen say, “This is how I look when I’m happy. Now, can you show me your happy face?”"
+        },
+        "guidance_12_a": {
+          "eng": "Say, \"Finally, everyone is having a tea party! Even Teddy is joining in with tea and biscuits. How fun is that?\"\nThen ask: \"How do you think everyone feels?\" \"What do you think about the story? Did you like it? Why or why not?\""
         }
       },
+      "title": "Lebo and Gogo's Tea Party",
       "description": "Lebo is excited to have a day of adventure with Gogo. When Gogo hurts herself, she can’t do anything that Lebo wants to do. What can Gogo and Lebo do to have fun together?",
       "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1_left": "Lebo is at Gogo’s farm. She is bored with chasing the animals. \"Now you chase me, Gogo!\" Lebo shouts as she races past. \"Slow down, Lebo,\" Gogo says, hurrying to catch up.",
+      "guidance_1_a": "Describe the picture by pointing at the different images and say, “Look at this! Who do we see here? It’s a little girl and her grandma. Do you think they might be at a farm? What do you think they are doing?”",
       "text_2_left": "Gogo trips over a rock while chasing Lebo. \"Ouch!\" she screams. Gogo has hurt her ankle.",
+      "guidance_2_a": "Say, “Oh no! It looks like grandma might trip. She’s about to fall. I hope she will be okay.”",
       "text_3_right": "She comes back from the doctor with a special boot and crutches. \"Gogo, come back to the city with us so that we can take care of you,\" says Lebo’s mom. \"I won’t leave my farm. I will manage on my own,\" Gogo replies, stubbornly.",
+      "guidance_3_a": "Help the child to learn new words by pointing at the picture and naming the things you see. Say, “This is a special boot” and “These are crutches.” Then explain: “The doctor gave these to grandma because her leg is hurt.”\n\nAsk, “How do you think grandma feels? What makes you say that?”",
       "text_4_left": "\"Gogo, you must come. We will have so much fun!\" Lebo says, excitedly.",
+      "guidance_4_a": "Say, “Look, the girl is giving her grandma a hug, how kind! Would you like to give me a hug too?” (When the child hugs you, respond warmly with) “Mmm, that feels so nice. Thank you for the lovely hug!”",
       "text_5": "During the drive, Lebo bounces on her seat. She thinks of all the wild adventures she and Gogo will have in the city.",
+      "guidance_5_a": "Say, “Now, let’s look and talk together!” Point to the picture and ask your child, “How many houses can you see? How many cars are there? How many animals can you find? What color is the car? What color are the roofs of the houses? Can you tell me the color that both animals have?",
       "text_6_left": "When they arrive at the house, Gogo rests on the sofa.",
+      "guidance_6_a": "Help your child learn new words by pointing to things in the picture and saying their names. Ask your child to repeat after you. For example, you can say: ‘This is a lamp. These are crochet hooks. This is wool. This is a remote control.”",
       "text_7_left": "Lebo dashes into the lounge. \"Gogo, Gogo, I know what we can do today! We can go to the mall. There are lots of shops with nice toys and ice cream!\" \"I’m afraid I can’t. The mall is too big, and I will get so tired.\"",
+      "guidance_7_a": "Say, “look at the thought bubble above the girl’s head, could she be thinking of going to the shopping mall” \n\nAsk, “Have you ever been to the shopping mall?” If yes, “how was it? What did you do? Who did you go with?”",
       "text_8_left": "\"Gogo, Gogo, I know what we can do today! We can go to the park!\" \"I’m afraid that won’t work. The dogs in the park will run around and could make me fall again.\"",
+      "guidance_8_a": "Point at the thought bubble above the girl's head and say, “Now, let's look into the girl’s thought bubble again, what do you think she is thinking?",
       "text_9_left": "A second later, Lebo’s eyes are wide with excitement. \"Gogo, Gogo, I know what else we can do today. Let’s go to the beach.\" \"I’m sorry, Lebo. I’m afraid my crutches will sink into the soft sand.\"",
+      "guidance_9_a": "Point at the thought bubble again and say, “Wow, the girl is now thinking of something else, i wonder what could be going on in her mind.”",
       "text_10_left": "Lebo is quiet while Gogo knits. Suddenly she has an idea!",
-      "text_11_left": "\"Gogo, Gogo, I know what we can do today! Let’s have a tea party. Gogo, you can sit here. I will bring everything to you because you are hurt.\""
+      "guidance_10_a": "Point to the girl and say: \"Look at her, she looks like she’s really thinking about something.\"Then ask the child: \"Can you show me what you look like when you're thinking really hard?\"",
+      "text_11_left": "\"Gogo, Gogo, I know what we can do today! Let’s have a tea party. Gogo, you can sit here. I will bring everything to you because you are hurt.\"",
+      "guidance_11_a": "Say, “Look! Maybe the girl is thinking about having a tea party. She brought many cups and a kettle, even though it's just her and grandma. Can you see her face? She looks very, very happy!”\nThen say, “This is how I look when I’m happy. Now, can you show me your happy face?”",
+      "guidance_12_a": "Say, \"Finally, everyone is having a tea party! Even Teddy is joining in with tea and biscuits. How fun is that?\"\nThen ask: \"How do you think everyone feels?\" \"What do you think about the story? Did you like it? Why or why not?\""
     },
     {
       "id": "lesedis_sandbox",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_lesedis_sandbox.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_lesedis_sandbox.png",
       "tag_list": [
         "play",
         "family",
@@ -2743,7 +2808,7 @@
     {
       "id": "little_shoots",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_little_shoots.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_little_shoots.png",
       "tag_list": [
         "nature",
         "animals",
@@ -2971,7 +3036,7 @@
     {
       "id": "look_out_luthando",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_look_luando.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_look_luando.png",
       "tag_list": [
         "family",
         "adventure"
@@ -3153,7 +3218,7 @@
     {
       "id": "my_inside_weather",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_inside_weather.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_inside_weather.png",
       "tag_list": [
         "emotions",
         "life_skills",
@@ -3354,7 +3419,7 @@
     {
       "id": "things_that_matter",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_things_really_matter.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_things_really_matter.png",
       "tag_list": [
         "family",
         "emotions",
@@ -3601,7 +3666,7 @@
     {
       "id": "to_the_top",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_to_the_top.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_to_the_top.png",
       "tag_list": [
         "nature",
         "animals",
@@ -3641,9 +3706,7 @@
         "guidance_1_a": {
           "tz_sw": true
         },
-        "guidance_2_a": {
-          "tz_sw": true
-        },
+        "guidance_2_a": {},
         "guidance_3_a": {
           "tz_sw": true
         },
@@ -3695,7 +3758,7 @@
           "eng": "Describe the pictures, or ask your child to tell you what they see. Where are they? Where are they going? Respond with interest and enthusiasm."
         },
         "guidance_2_a": {
-          "eng": "Describe and explain the pictures. “Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain."
+          "eng": "Describe and explain the pictures. Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain."
         },
         "guidance_3_a": {
           "eng": "Ask your child to point and name the animals. How many bees are flying? Where are the ants walking? Can we count them? Where is the frog hiding?"
@@ -3735,7 +3798,7 @@
       "description": "Climb the mountain with us! Look out for many tiny creatures… and BIG views. If we help each other, we can get to the top!",
       "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "guidance_1_a": "Describe the pictures, or ask your child to tell you what they see. Where are they? Where are they going? Respond with interest and enthusiasm.",
-      "guidance_2_a": "Describe and explain the pictures. “Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain.",
+      "guidance_2_a": "Describe and explain the pictures. Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain.",
       "guidance_3_a": "Ask your child to point and name the animals. How many bees are flying? Where are the ants walking? Can we count them? Where is the frog hiding?",
       "guidance_4_a": "Ask your child: What is the father pointing at? What animal does the rock look like?\nWhat is the girl doing?",
       "guidance_5_a": "Ask your child: What are they doing? Why are they stopping? What can you see around them?",
@@ -3751,7 +3814,7 @@
     {
       "id": "where_is_lulu",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_where_is_lulu.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_where_is_lulu.png",
       "tag_list": [
         "play",
         "learn",
@@ -5452,7 +5515,7 @@
     {
       "id": "emotions_come_go",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_emotions.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_emotions.png",
       "tag_list": [
         "emotions"
       ],
@@ -5616,7 +5679,7 @@
     {
       "id": "i_like_to_read",
       "status": "draft",
-      "image_cover_asset": "images/books/i_like_to_read/image_1.jpg",
+      "image_cover_asset": "images/books/i_like_to_read/image_1.png",
       "tag_list": [
         "family",
         "learn"
@@ -5717,7 +5780,7 @@
     {
       "id": "it_wasnt_me",
       "status": "draft",
-      "image_cover_asset": "images/books/it_wasnt_me/image_1.jpg",
+      "image_cover_asset": "images/books/it_wasnt_me/image_1.png",
       "tag_list": [
         "animals",
         "emotions"
@@ -5844,7 +5907,7 @@
     {
       "id": "jasu_loves_football",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_jasu_football.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_jasu_football.png",
       "tag_list": [
         "family",
         "friends",
@@ -6098,7 +6161,7 @@
     {
       "id": "little_monkey_s_lost_bananas",
       "status": "draft",
-      "image_cover_asset": "images/books/little_monkey_s_lost_bananas/image_1.jpg",
+      "image_cover_asset": "images/books/little_monkey_s_lost_bananas/image_1.png",
       "tag_list": [
         "animals",
         "nature",
@@ -6240,7 +6303,7 @@
     {
       "id": "mother_hen",
       "status": "draft",
-      "image_cover_asset": "images/books/mother_hen/image_1.jpg",
+      "image_cover_asset": "images/books/mother_hen/image_1.png",
       "tag_list": [
         "count",
         "animals",
@@ -6392,7 +6455,7 @@
     {
       "id": "my_first_day_at_school",
       "status": "draft",
-      "image_cover_asset": "images/books/my_first_day_at_school/image_1.jpg",
+      "image_cover_asset": "images/books/my_first_day_at_school/image_1.png",
       "tag_list": [
         "learn",
         "life_skills",
@@ -6567,7 +6630,7 @@
     {
       "id": "nichchumani_helps_out",
       "status": "draft",
-      "image_cover_asset": "images/books/nichchumani_helps_out/image_1.jpg",
+      "image_cover_asset": "images/books/nichchumani_helps_out/image_1.png",
       "tag_list": [
         "animals",
         "nature",
@@ -6678,7 +6741,7 @@
     {
       "id": "no_smiles_today",
       "status": "draft",
-      "image_cover_asset": "images/books/no_smiles_today/image_1.jpg",
+      "image_cover_asset": "images/books/no_smiles_today/image_1.png",
       "tag_list": [
         "emotions",
         "friends",
@@ -6764,7 +6827,7 @@
     {
       "id": "pishi_and_me",
       "status": "draft",
-      "image_cover_asset": "images/books/pishi_and_me/image_1.jpg",
+      "image_cover_asset": "images/books/pishi_and_me/image_1.png",
       "tag_list": [
         "adventure",
         "nature",
@@ -6906,7 +6969,7 @@
     {
       "id": "red_bean_plant",
       "status": "draft",
-      "image_cover_asset": "images/books/red_bean_plant/image_1.jpg",
+      "image_cover_asset": "images/books/red_bean_plant/image_1.png",
       "tag_list": [
         "nature",
         "learn",
@@ -7100,7 +7163,7 @@
     {
       "id": "shongololo_s_shoes",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_shongololo_shoes.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_shongololo_shoes.png",
       "tag_list": [
         "nature",
         "animals",
@@ -7327,7 +7390,7 @@
     {
       "id": "under_my_bed",
       "status": "draft",
-      "image_cover_asset": "images/books/under_my_bed/image_1.jpg",
+      "image_cover_asset": "images/books/under_my_bed/image_1.png",
       "tag_list": [
         "emotions",
         "family"
@@ -7452,7 +7515,7 @@
     {
       "id": "very_green_day",
       "status": "draft",
-      "image_cover_asset": "images/books/very_green_day/image_1.jpg",
+      "image_cover_asset": "images/books/very_green_day/image_1.png",
       "tag_list": [
         "nature",
         "adventure",
@@ -7693,7 +7756,7 @@
     {
       "id": "whats_next",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_what_next.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_what_next.png",
       "tag_list": [
         "play",
         "adventure",
@@ -7835,7 +7898,7 @@
     {
       "id": "shhhhh",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_shhhhh.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_shhhhh.png",
       "tag_list": [
         "family",
         "learn"
@@ -7969,7 +8032,7 @@
     {
       "id": "lost_toy",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_lost_toy.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_lost_toy.png",
       "tag_list": [
         "emotions",
         "adventure",
@@ -8088,7 +8151,7 @@
     {
       "id": "what_at_the_park",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_whats_park.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_whats_park.png",
       "tag_list": [
         "nature",
         "learn",
@@ -8427,7 +8490,7 @@
     {
       "id": "yes_you_can",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_yes_you_can.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_yes_you_can.png",
       "tag_list": [
         "life_skills",
         "friends",
@@ -8627,7 +8690,7 @@
     {
       "id": "yello_earth_brown_earth",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_yellow_brown_earth.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_yellow_brown_earth.png",
       "tag_list": [
         "nature",
         "learn",
@@ -8646,8 +8709,11 @@
       "image_8_asset": "images/books/yellow_brown_earth/image_9.jpg",
       "image_9_asset": "images/books/yellow_brown_earth/image_10.jpg",
       "image_10_asset": "images/books/yellow_brown_earth/image_11.jpg",
-      "title": "Yellow Earth, Brown Earth",
+      "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "_translations": {
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
@@ -8663,50 +8729,63 @@
         "text_1_right": {
           "tz_sw": true
         },
+        "guidance_1_a": {},
         "text_2": {
           "tz_sw": true
         },
         "text_2_right": {
           "tz_sw": true
         },
+        "guidance_2_a": {},
         "text_3": {
           "tz_sw": true
         },
+        "guidance_3_a": {},
         "text_4": {
           "tz_sw": true
         },
         "text_4_right": {
           "tz_sw": true
         },
+        "guidance_4_a": {},
         "text_5": {
           "tz_sw": true
         },
         "text_5_right": {
           "tz_sw": true
         },
+        "guidance_5_a": {},
         "text_6": {
           "tz_sw": true
         },
         "text_6_right": {
           "tz_sw": true
         },
+        "guidance_6_a": {},
         "text_7": {
           "tz_sw": true
         },
+        "guidance_7_a": {},
         "text_8": {
           "tz_sw": true
         },
+        "guidance_8_a": {},
         "text_9_left": {
           "tz_sw": true
         },
         "text_9_right": {
           "tz_sw": true
         },
+        "guidance_9_a": {},
         "text_10": {
           "tz_sw": true
-        }
+        },
+        "guidance_10_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?"
+        },
         "title": {
           "eng": "Yellow Earth, Brown Earth"
         },
@@ -8722,14 +8801,23 @@
         "text_1_right": {
           "eng": "Avi makes bunches."
         },
+        "guidance_1_a": {
+          "eng": "Point at the picture and ask, “tell me, what do you see in this picture?”"
+        },
         "text_2": {
           "eng": "Avi looks for the perfect stick to poke the earth with. Smooth stick bumpy stick. Smooth stick—"
         },
         "text_2_right": {
           "eng": "Avi keeps looking for treasures."
         },
+        "guidance_2_a": {
+          "eng": "Ask, “what do you think the boy is doing?"
+        },
         "text_3": {
           "eng": "Avi collects seeds. Brown seeds, black seeds, red seeds, green seeds. Brown seeds, black seeds— Yellow Earth is a happy place."
+        },
+        "guidance_3_a": {
+          "eng": "Say, “look, the boy collected seeds.”\nAsk, “how many groups of seeds do you see? What colours are they? Which group has more seeds?"
         },
         "text_4": {
           "eng": "Avi is visiting Grey Earth today."
@@ -8737,11 +8825,17 @@
         "text_4_right": {
           "eng": "Big puddle, small puddle, no puddle. Big puddle, small puddle—"
         },
+        "guidance_4_a": {
+          "eng": "Point at the picture and say, “there is a bird flying over the grey earth.” then mimic the action of flying and ask the child to do the same."
+        },
         "text_5": {
           "eng": "Drip! Drop! Plish! Drip—"
         },
         "text_5_right": {
           "eng": "Grey Earth is a wet place."
+        },
+        "guidance_5_a": {
+          "eng": "Say, \"Listen! It's so wet outside! It's been raining, and I can hear the raindrops going... drip, drop, drip, drop!\" (Mimic the \"drip, drop\" sounds. you can also tap your finger like raindrops).”\nAsk, \"Can you say drip, drop like this? Drip, drop!\""
         },
         "text_6": {
           "eng": "Avi is visiting Brown Earth today. CRUNCH crunch CRUNCH crunch—"
@@ -8749,11 +8843,20 @@
         "text_6_right": {
           "eng": "Avi stomps on the dry ground."
         },
+        "guidance_6_a": {
+          "eng": "Say, “Look, the child is playing.” Ask, “how do you think the child feels? How do you feel when you play?"
+        },
         "text_7": {
           "eng": "Avi smiles at the bright sun. Long cloud, round cloud, thin cloud. Long cloud— Brown Earth is a joyful place."
         },
+        "guidance_7_a": {
+          "eng": "Describe the picture by pointing at it and make a real life comparison by saying, \"Look up! See the clouds? Wow! Some clouds are long like a wiggly worm, some are round like a ball, and some are super thin, like a tiny little string!"
+        },
         "text_8": {
           "eng": "Avi watches the Earth change every year. Yellow Earth, Grey Earth, Brown Earth—"
+        },
+        "guidance_8_a": {
+          "eng": "Point at the trees in the picture and say, “\"Look! Wow! The trees are so pretty and yellow!” \n\nThen point at the grass and say, “And look at the grass! Some of it is yellow, and some of it is brown.\""
         },
         "text_9_left": {
           "eng": "Avi is looking for a stick."
@@ -8761,33 +8864,50 @@
         "text_9_right": {
           "eng": "Off to Yellow Earth again!"
         },
+        "guidance_9_a": {
+          "eng": "Ask, “what do you think the boy wants to do?”"
+        },
         "text_10": {
           "eng": "Patterns Are All Around Us The day, the week, the month and the year — all have patterns that repeat. The seasons change every year and come back the same way. Every year, winter is followed by summer, which is followed by the monsoon. Look around you and try to spot these patterns. Go back to the beginning of the book and look for patterns you might have missed."
+        },
+        "guidance_10_a": {
+          "eng": "Say, “Now tell me, what do you think of this story? What did you like or not like?”"
         }
       },
+      "title": "Yellow Earth, Brown Earth",
       "description": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns.",
       "licence": "© Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "Avi wakes up early. It is a good day. Avi is visiting Yellow Earth today. Yellow flowers, dried-up flowers, tiny flowers. Yellow flowers—",
       "text_1_right": "Avi makes bunches.",
+      "guidance_1_a": "Point at the picture and ask, “tell me, what do you see in this picture?”",
       "text_2": "Avi looks for the perfect stick to poke the earth with. Smooth stick bumpy stick. Smooth stick—",
       "text_2_right": "Avi keeps looking for treasures.",
+      "guidance_2_a": "Ask, “what do you think the boy is doing?",
       "text_3": "Avi collects seeds. Brown seeds, black seeds, red seeds, green seeds. Brown seeds, black seeds— Yellow Earth is a happy place.",
+      "guidance_3_a": "Say, “look, the boy collected seeds.”\nAsk, “how many groups of seeds do you see? What colours are they? Which group has more seeds?",
       "text_4": "Avi is visiting Grey Earth today.",
       "text_4_right": "Big puddle, small puddle, no puddle. Big puddle, small puddle—",
+      "guidance_4_a": "Point at the picture and say, “there is a bird flying over the grey earth.” then mimic the action of flying and ask the child to do the same.",
       "text_5": "Drip! Drop! Plish! Drip—",
       "text_5_right": "Grey Earth is a wet place.",
+      "guidance_5_a": "Say, \"Listen! It's so wet outside! It's been raining, and I can hear the raindrops going... drip, drop, drip, drop!\" (Mimic the \"drip, drop\" sounds. you can also tap your finger like raindrops).”\nAsk, \"Can you say drip, drop like this? Drip, drop!\"",
       "text_6": "Avi is visiting Brown Earth today. CRUNCH crunch CRUNCH crunch—",
       "text_6_right": "Avi stomps on the dry ground.",
+      "guidance_6_a": "Say, “Look, the child is playing.” Ask, “how do you think the child feels? How do you feel when you play?",
       "text_7": "Avi smiles at the bright sun. Long cloud, round cloud, thin cloud. Long cloud— Brown Earth is a joyful place.",
+      "guidance_7_a": "Describe the picture by pointing at it and make a real life comparison by saying, \"Look up! See the clouds? Wow! Some clouds are long like a wiggly worm, some are round like a ball, and some are super thin, like a tiny little string!",
       "text_8": "Avi watches the Earth change every year. Yellow Earth, Grey Earth, Brown Earth—",
+      "guidance_8_a": "Point at the trees in the picture and say, “\"Look! Wow! The trees are so pretty and yellow!” \n\nThen point at the grass and say, “And look at the grass! Some of it is yellow, and some of it is brown.\"",
       "text_9_left": "Avi is looking for a stick.",
       "text_9_right": "Off to Yellow Earth again!",
-      "text_10": "Patterns Are All Around Us The day, the week, the month and the year — all have patterns that repeat. The seasons change every year and come back the same way. Every year, winter is followed by summer, which is followed by the monsoon. Look around you and try to spot these patterns. Go back to the beginning of the book and look for patterns you might have missed."
+      "guidance_9_a": "Ask, “what do you think the boy wants to do?”",
+      "text_10": "Patterns Are All Around Us The day, the week, the month and the year — all have patterns that repeat. The seasons change every year and come back the same way. Every year, winter is followed by summer, which is followed by the monsoon. Look around you and try to spot these patterns. Go back to the beginning of the book and look for patterns you might have missed.",
+      "guidance_10_a": "Say, “Now tell me, what do you think of this story? What did you like or not like?”"
     },
     {
       "id": "nita_upside_down",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_nita_upside_down.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_nita_upside_down.png",
       "tag_list": [
         "life_skills",
         "friends",
@@ -8931,7 +9051,7 @@
     {
       "id": "when_grow_up",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_when_grow_up.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_when_grow_up.png",
       "tag_list": [
         "learn"
       ],
@@ -9197,7 +9317,7 @@
     {
       "id": "whats_in_the_pot",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_whats_in_pot.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_whats_in_pot.png",
       "tag_list": [
         "family",
         "learn",
@@ -9361,7 +9481,7 @@
     {
       "id": "tlotlegos_tea_party",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_tlotlegos_tea_party.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_tlotlegos_tea_party.png",
       "tag_list": [
         "count",
         "family",
@@ -9503,7 +9623,7 @@
     {
       "id": "the_one_in_the_middle",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_the_one_middle.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_the_one_middle.png",
       "tag_list": [
         "play",
         "family"
@@ -9630,7 +9750,7 @@
     {
       "id": "the_best_thing_ever",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_best_thing_ever.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_best_thing_ever.png",
       "tag_list": [
         "adventure",
         "learn"
@@ -9765,7 +9885,7 @@
     {
       "id": "tejus_shadow",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_tejus_shadow.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_tejus_shadow.png",
       "tag_list": [
         "emotions",
         "family",
@@ -9921,7 +10041,7 @@
     {
       "id": "paint_plant_day",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_paint_plant_day.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_paint_plant_day.png",
       "tag_list": [
         "family",
         "learn",
@@ -10048,7 +10168,7 @@
     {
       "id": "my_little_garden",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_little_garden.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_little_garden.png",
       "tag_list": [
         "nature",
         "play"
@@ -10099,7 +10219,7 @@
     {
       "id": "mama_whats_for_lunch",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_mama_wants_lunch.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_mama_wants_lunch.png",
       "tag_list": [
         "family",
         "learn",
@@ -10302,7 +10422,7 @@
     {
       "id": "lets_go_on_a_litter_hunt",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_let_go_hunt.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_let_go_hunt.png",
       "tag_list": [
         "adventure",
         "learn",
@@ -10438,7 +10558,7 @@
     {
       "id": "how_do_you_sleep",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_how_sleep.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_how_sleep.png",
       "tag_list": [
         "animals"
       ],
@@ -10565,7 +10685,7 @@
     {
       "id": "grandpa_farouks_garden",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_grandpa_farouk.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_grandpa_farouk.png",
       "tag_list": [
         "nature",
         "family",
@@ -10702,7 +10822,7 @@
     {
       "id": "colours",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_the_colours.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_the_colours.png",
       "tag_list": [
         "animals",
         "learn"
@@ -10874,7 +10994,7 @@
     {
       "id": "lefas_bath",
       "status": "released",
-      "image_cover_asset": "images/books/book_covers/cover_lefas_bath.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_lefas_bath.png",
       "tag_list": [
         "animals",
         "emotions"
@@ -11020,6 +11140,9 @@
       "guidance_13_a": "Reflect on the story with your child. Ask: What did you think about the story? How would you feel if you were in the story? What would you have done?"
     }
   ],
-  "_xlsxPath": "books/TZ books data.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "books/TZ books data.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1zMzxZ_GF4i9m0EpA3InD8kZSo8vxAQEmHnAKS8ou7Qk"
+  }
 }

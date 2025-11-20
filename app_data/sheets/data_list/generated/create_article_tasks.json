@@ -477,9 +477,9 @@
       "quiz_1_option_3_text": "Valued",
       "image_asset": "images/modules/create/create_11.svg",
       "text_2": "Think about the last time someone thanked you, or said you did something great.",
-      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
-      "quiz_2_option_2_image_asset": "images/modules/play/angry_emoji.svg",
-      "quiz_2_option_3_image_asset": "images/modules/play/tired_emoji.svg",
+      "quiz_2_option_1_image_asset": "images/icons/faces/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/icons/faces/angry_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/icons/faces/tired_emoji.svg",
       "quiz_2_question": "How does it make you feel when nobody says \"thank you\"?",
       "quiz_2_option_1_text": "Sad",
       "quiz_2_feedback_1": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right.",
@@ -497,8 +497,8 @@
         "text_1_facilitator": {
           "eng": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:"
         },
-        "image_text": {
-          "eng": "It’s so lovely to see you playing so nicely together, Neema and Robert. In five minutes it will be time to come inside and wash up."
+        "character_1_text": {
+          "eng": "It’s so lovely to see you playing so nicely together, @data.characters.f3_girl.name and @data.characters.f3_boy_wheelchair.name. In five minutes it will be time to come inside and wash up."
         },
         "media_title": {
           "eng": "Let’s reflect on the caregiver’s actions:"
@@ -520,13 +520,12 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "image_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "media_transcript": "What does the caregiver do before she informs her children that they will have to stop playing in five minutes’ time? She first brings attention to their positive behaviour of playing nicely together. This is a clever way to make it easier for the children to accept the next instruction.",
       "text_1_facilitator": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:",
-      "image_text": "It’s so lovely to see you playing so nicely together, Neema and Robert. In five minutes it will be time to come inside and wash up.",
+      "character_1_id": "f3_mother",
+      "character_1_text": "It’s so lovely to see you playing so nicely together, @data.characters.f3_girl.name and @data.characters.f3_boy_wheelchair.name. In five minutes it will be time to come inside and wash up.",
       "completed": false
     },
     {
@@ -534,7 +533,7 @@
       "media_asset": "audio/modules/create/power_create_3.mp3",
       "media_type": "audio",
       "_translatedFields": {
-        "image_text": {
+        "character_1_text": {
           "eng": "Catch!"
         },
         "media_title": {
@@ -554,21 +553,22 @@
         "media_transcript": {
           "tz_sw": true
         },
-        "image_text": {
+        "character_1_text": {
           "tz_sw": true
         }
       },
       "media_transcript": "The children are having fun playing in the garden. They might not want to stop playing in five minutes’ time. If their mother came out and told them to come inside immediately (instead of giving them some warning), they may have found it difficult to listen and do what she asked.",
-      "image_text": "Catch!",
+      "character_1_id": "f3_girl",
+      "character_1_text": "Catch!",
       "completed": false
     },
     {
       "id": "the_power_of_create_4",
-      "media_asset": "audio/modules/create/power_create_4.mp2",
+      "media_asset": "audio/modules/create/power_create_4.mp3",
       "media_type": "audio",
       "_translatedFields": {
-        "image_text": {
-          "eng": "Neema, Robert - it’s time to put the ball away and come inside now."
+        "character_1_text": {
+          "eng": "@data.characters.f3_girl.name, @data.characters.f3_boy_wheelchair.name - it’s time to put the ball away and come inside now."
         },
         "media_title": {
           "eng": "Let’s reflect on the caregiver’s actions:"
@@ -587,12 +587,11 @@
         "media_transcript": {
           "tz_sw": true
         },
-        "image_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "media_transcript": "The caregiver uses her children’s names so that she makes sure they will pay attention to what she is saying. She tells them exactly what she wants them to do. This makes it easier for her children to follow her instructions.",
-      "image_text": "Neema, Robert - it’s time to put the ball away and come inside now.",
+      "character_1_id": "f3_mother",
+      "character_1_text": "@data.characters.f3_girl.name, @data.characters.f3_boy_wheelchair.name - it’s time to put the ball away and come inside now.",
       "completed": false
     },
     {
@@ -600,7 +599,7 @@
       "media_asset": "audio/modules/create/power_create_5.mp3",
       "media_type": "audio",
       "_translatedFields": {
-        "image_text": {
+        "character_1_text": {
           "eng": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story."
         },
         "media_title": {
@@ -620,12 +619,13 @@
         "media_transcript": {
           "tz_sw": true
         },
-        "image_text": {
+        "character_1_text": {
           "tz_sw": true
         }
       },
       "media_transcript": "The caregiver praises her children for their positive behaviour before giving them another instruction. As parents I’m sure some of you are thinking: why should I praise my child for just doing the basic things that they should be doing?! That’s a normal thought to have. But praise actually helps you as a parent and can make your life easier. By praising her children before giving them a new instruction, the children are more likely to listen and do what the caregiver is asking.",
-      "image_text": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story.",
+      "character_1_id": "f3_mother",
+      "character_1_text": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story.",
       "completed": false
     },
     {
@@ -633,7 +633,7 @@
       "media_asset": "audio/modules/create/power_create_6.mp3",
       "media_type": "audio",
       "_translatedFields": {
-        "image_text": {
+        "character_1_text": {
           "eng": "Thank you for washing up so nicely. Let’s sit down and read a story together."
         },
         "media_title": {
@@ -653,12 +653,13 @@
         "media_transcript": {
           "tz_sw": true
         },
-        "image_text": {
+        "character_1_text": {
           "tz_sw": true
         }
       },
       "media_transcript": "By using clear, positive instructions and praise to encourage her children, this caregiver successfully managed to get her children to stop their game, come inside and wash their hands. This happened without threats, screaming, tears or tantrums. By reinforcing the praise with a simple reward - like reading a story together - she helps her children to follow instructions more easily in the future.",
-      "image_text": "Thank you for washing up so nicely. Let’s sit down and read a story together.",
+      "character_1_id": "f3_mother",
+      "character_1_text": "Thank you for washing up so nicely. Let’s sit down and read a story together.",
       "completed": false
     },
     {

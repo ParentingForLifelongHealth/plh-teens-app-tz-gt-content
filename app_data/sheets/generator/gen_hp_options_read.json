@@ -29,8 +29,11 @@
       ]
     }
   ],
-  "_xlsxPath": "modules/TZ home_practice templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ home_practice templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12iXL5a41eGwkpe-_tfGtMVV5AyEKsKJnV6Ulp9NjcfE"
+  },
   "_output_flows": [
     {
       "flow_name": "hp_join_books",

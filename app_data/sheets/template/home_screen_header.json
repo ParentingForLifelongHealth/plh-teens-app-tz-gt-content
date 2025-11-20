@@ -214,244 +214,232 @@
       }
     },
     {
-      "type": "display_group",
-      "name": "dg",
+      "type": "data_items",
+      "name": "loop_inner",
+      "value": "@local.articles_data_list_name",
       "parameter_list": {
-        "style": "column"
+        "limit": "1"
       },
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "data_items",
-          "name": "loop_inner",
-          "value": "@local.articles_data_list_name",
-          "parameter_list": {
-            "limit": "1"
+          "type": "button",
+          "name": "button_start",
+          "value": "**@local.start @local.module_row.title**",
+          "_translations": {
+            "value": {}
           },
-          "exclude_from_translation": true,
-          "rows": [
+          "action_list": [
             {
-              "type": "button",
-              "name": "button_start",
-              "value": "**@local.start @local.module_row.title**",
-              "_translations": {
-                "value": {}
-              },
-              "action_list": [
-                {
-                  "trigger": "click",
-                  "action_id": "pop_up",
-                  "args": [
-                    "@local.click_template"
-                  ],
-                  "_raw": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                  "_cleaned": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                  "params": {
-                    "fullscreen": true,
-                    "showCloseButton": false
-                  }
-                }
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
               ],
-              "parameter_list": {
-                "style": "navigation",
-                "text_align": "center"
-              },
-              "hidden": "@item.completed",
-              "exclude_from_translation": true,
-              "_nested_name": "dg.loop_inner.button_start",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "**@local.start @local.module_row.title**",
-                    "matchedExpression": "@local.start",
-                    "type": "local",
-                    "fieldName": "start"
-                  },
-                  {
-                    "fullExpression": "**@local.start @local.module_row.title**",
-                    "matchedExpression": "@local.module_row.title",
-                    "type": "local",
-                    "fieldName": "module_row"
-                  }
-                ],
-                "action_list": {
-                  "0": {
-                    "args": {
-                      "0": [
-                        {
-                          "fullExpression": "@local.click_template",
-                          "matchedExpression": "@local.click_template",
-                          "type": "local",
-                          "fieldName": "click_template"
-                        }
-                      ]
-                    },
-                    "_raw": [
-                      {
-                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                        "matchedExpression": "@local.click_template",
-                        "type": "local",
-                        "fieldName": "click_template"
-                      }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                        "matchedExpression": "@local.click_template",
-                        "type": "local",
-                        "fieldName": "click_template"
-                      }
-                    ]
-                  }
-                },
-                "hidden": [
-                  {
-                    "fullExpression": "@item.completed",
-                    "matchedExpression": "@item.completed",
-                    "type": "item",
-                    "fieldName": "completed"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.start": [
-                  "value"
-                ],
-                "@local.module_row.title": [
-                  "value"
-                ],
-                "@local.click_template": [
-                  "action_list.0.args.0",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
-                ],
-                "@item.completed": [
-                  "hidden"
-                ]
-              }
+              "_raw": "click | emit: completed"
             },
             {
-              "type": "button",
-              "name": "button_continue",
-              "value": "**@local.continue @local.module_row.title**",
-              "_translations": {
-                "value": {}
-              },
-              "action_list": [
-                {
-                  "trigger": "click",
-                  "action_id": "pop_up",
-                  "args": [
-                    "@local.click_template"
-                  ],
-                  "_raw": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                  "_cleaned": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                  "params": {
-                    "fullscreen": true,
-                    "showCloseButton": false
-                  }
-                }
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "@local.click_template"
               ],
-              "parameter_list": {
-                "style": "navigation",
-                "text_align": "center"
-              },
-              "hidden": "!@item.completed",
-              "exclude_from_translation": true,
-              "_nested_name": "dg.loop_inner.button_continue",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "**@local.continue @local.module_row.title**",
-                    "matchedExpression": "@local.continue",
-                    "type": "local",
-                    "fieldName": "continue"
-                  },
-                  {
-                    "fullExpression": "**@local.continue @local.module_row.title**",
-                    "matchedExpression": "@local.module_row.title",
-                    "type": "local",
-                    "fieldName": "module_row"
-                  }
-                ],
-                "action_list": {
-                  "0": {
-                    "args": {
-                      "0": [
-                        {
-                          "fullExpression": "@local.click_template",
-                          "matchedExpression": "@local.click_template",
-                          "type": "local",
-                          "fieldName": "click_template"
-                        }
-                      ]
-                    },
-                    "_raw": [
-                      {
-                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                        "matchedExpression": "@local.click_template",
-                        "type": "local",
-                        "fieldName": "click_template"
-                      }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
-                        "matchedExpression": "@local.click_template",
-                        "type": "local",
-                        "fieldName": "click_template"
-                      }
-                    ]
-                  }
-                },
-                "hidden": [
-                  {
-                    "fullExpression": "!@item.completed",
-                    "matchedExpression": "!@item.completed",
-                    "type": "item",
-                    "fieldName": "completed"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.continue": [
-                  "value"
-                ],
-                "@local.module_row.title": [
-                  "value"
-                ],
-                "@local.click_template": [
-                  "action_list.0.args.0",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
-                ],
-                "!@item.completed": [
-                  "hidden"
-                ]
+              "_raw": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+              "params": {
+                "fullscreen": true,
+                "showCloseButton": false
               }
             }
           ],
-          "_nested_name": "dg.loop_inner",
+          "parameter_list": {
+            "style": "information",
+            "text_align": "center"
+          },
+          "hidden": "@item.completed",
+          "exclude_from_translation": true,
+          "_nested_name": "loop_inner.button_start",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.articles_data_list_name",
-                "matchedExpression": "@local.articles_data_list_name",
+                "fullExpression": "**@local.start @local.module_row.title**",
+                "matchedExpression": "@local.start",
                 "type": "local",
-                "fieldName": "articles_data_list_name"
+                "fieldName": "start"
+              },
+              {
+                "fullExpression": "**@local.start @local.module_row.title**",
+                "matchedExpression": "@local.module_row.title",
+                "type": "local",
+                "fieldName": "module_row"
+              }
+            ],
+            "action_list": {
+              "1": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.click_template",
+                      "matchedExpression": "@local.click_template",
+                      "type": "local",
+                      "fieldName": "click_template"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+                    "matchedExpression": "@local.click_template",
+                    "type": "local",
+                    "fieldName": "click_template"
+                  }
+                ]
+              }
+            },
+            "hidden": [
+              {
+                "fullExpression": "@item.completed",
+                "matchedExpression": "@item.completed",
+                "type": "item",
+                "fieldName": "completed"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.articles_data_list_name": [
+            "@local.start": [
               "value"
+            ],
+            "@local.module_row.title": [
+              "value"
+            ],
+            "@local.click_template": [
+              "action_list.1.args.0",
+              "action_list.1._raw"
+            ],
+            "@item.completed": [
+              "hidden"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_continue",
+          "value": "**@local.continue @local.module_row.title**",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed"
+            },
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "@local.click_template"
+              ],
+              "_raw": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+              "params": {
+                "fullscreen": true,
+                "showCloseButton": false
+              }
+            }
+          ],
+          "parameter_list": {
+            "style": "information",
+            "text_align": "center"
+          },
+          "hidden": "!@item.completed",
+          "exclude_from_translation": true,
+          "_nested_name": "loop_inner.button_continue",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "**@local.continue @local.module_row.title**",
+                "matchedExpression": "@local.continue",
+                "type": "local",
+                "fieldName": "continue"
+              },
+              {
+                "fullExpression": "**@local.continue @local.module_row.title**",
+                "matchedExpression": "@local.module_row.title",
+                "type": "local",
+                "fieldName": "module_row"
+              }
+            ],
+            "action_list": {
+              "1": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.click_template",
+                      "matchedExpression": "@local.click_template",
+                      "type": "local",
+                      "fieldName": "click_template"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+                    "matchedExpression": "@local.click_template",
+                    "type": "local",
+                    "fieldName": "click_template"
+                  }
+                ]
+              }
+            },
+            "hidden": [
+              {
+                "fullExpression": "!@item.completed",
+                "matchedExpression": "!@item.completed",
+                "type": "item",
+                "fieldName": "completed"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.continue": [
+              "value"
+            ],
+            "@local.module_row.title": [
+              "value"
+            ],
+            "@local.click_template": [
+              "action_list.1.args.0",
+              "action_list.1._raw"
+            ],
+            "!@item.completed": [
+              "hidden"
             ]
           }
         }
       ],
-      "_nested_name": "dg"
+      "_nested_name": "loop_inner",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.articles_data_list_name",
+            "matchedExpression": "@local.articles_data_list_name",
+            "type": "local",
+            "fieldName": "articles_data_list_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.articles_data_list_name": [
+          "value"
+        ]
+      }
     }
   ],
-  "_xlsxPath": "TZ app_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "TZ app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Ws2I7e08zwIvh1BUMYG0VYTeizyVmrbozM29Mu9lr_g"
+  }
 }

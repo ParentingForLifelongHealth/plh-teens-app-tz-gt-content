@@ -18,8 +18,7 @@
           "args": [
             "complete"
           ],
-          "_raw": "app_update: complete",
-          "_cleaned": "click | app_update: complete"
+          "_raw": "app_update: complete"
         }
       ]
     },
@@ -38,7 +37,6 @@
             "language_select"
           ],
           "_raw": "pop_up: language_select | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: language_select | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -61,7 +59,6 @@
             "accept_terms"
           ],
           "_raw": "pop_up: accept_terms | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: accept_terms | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -84,7 +81,6 @@
             "login"
           ],
           "_raw": "pop_up: login | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: login | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -107,7 +103,6 @@
             "user_data"
           ],
           "_raw": "pop_up: user_data | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: user_data | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -117,8 +112,29 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_splash_screens_completed",
+      "id": "app_start_tour_video",
       "priority": 6,
+      "condition_list": [
+        "!@fields.splash_screens_completed  && @fields.user_mode"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "tour_video"
+          ],
+          "_raw": "pop_up: tour_video | fullscreen: true",
+          "params": {
+            "fullscreen": true
+          }
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_splash_screens_completed",
+      "priority": 7,
       "condition_list": [
         "!@fields.splash_screens_completed  && @fields.user_mode"
       ],
@@ -130,15 +146,14 @@
             "splash_screens_completed",
             true
           ],
-          "_raw": "set_field: splash_screens_completed: true",
-          "_cleaned": "click | set_field: splash_screens_completed: true"
+          "_raw": "set_field: splash_screens_completed: true"
         }
       ]
     },
     {
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
-      "priority": 7,
+      "priority": 8,
       "action_list": [
         {
           "trigger": "click",
@@ -146,14 +161,16 @@
           "args": [
             "prompt"
           ],
-          "_raw": "app_update: prompt",
-          "_cleaned": "click | app_update: prompt"
+          "_raw": "app_update: prompt"
         }
       ]
     }
   ],
-  "_xlsxPath": "templates/kids app_launch.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "kids_tz_app_launch.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1lQuOB6pfolX8QKKE0ZuokDwW99nZ1tZUHZasmSj-Wg0"
+  },
   "_metadata": {
     "priority": {
       "type": "number"

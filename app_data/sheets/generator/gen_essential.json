@@ -1,0 +1,119 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_essential",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "essential_tools",
+    "output_flow_name": "essential_tools_{@gen.id}",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "essential_activity",
+      "value": "essential_activity",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "essential_id",
+          "value": "@gen.id"
+        }
+      ]
+    }
+  ],
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ activities template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1FiEWcDDXwBAr9-NLo2E4Kk1JSoRH2yTWbR-F3WxAixc"
+  },
+  "_output_flows": [
+    {
+      "flow_name": "essential_tools_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_explore_solutions",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_build_skills",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_care_for_yourself",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_use_books_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_use_books_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_use_books_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_use_books_care",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_use_books_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_use_books_build",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_use_books_explore",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

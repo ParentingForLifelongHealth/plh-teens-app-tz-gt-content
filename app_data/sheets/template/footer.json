@@ -65,7 +65,6 @@
           "target_template": "settings"
         }
       ],
-      "condition": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "button_list",
@@ -148,17 +147,19 @@
           "target_template": "settings"
         }
       ],
+      "condition": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "button_list"
     },
     {
       "type": "navigation_bar",
+      "name": "nav_buttons",
       "parameter_list": {
-        "button_list": "@local.button_list"
+        "button_list": "@local.button_list",
+        "variant": "text_primary"
       },
-      "name": "navigation_bar_8",
-      "_nested_name": "navigation_bar_8",
+      "_nested_name": "nav_buttons",
       "_dynamicFields": {
         "parameter_list": {
           "button_list": [
@@ -178,6 +179,9 @@
       }
     }
   ],
-  "_xlsxPath": "TZ app_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "TZ app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Ws2I7e08zwIvh1BUMYG0VYTeizyVmrbozM29Mu9lr_g"
+  }
 }

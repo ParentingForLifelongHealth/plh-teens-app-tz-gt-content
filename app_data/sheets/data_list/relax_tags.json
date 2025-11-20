@@ -122,6 +122,9 @@
       "description": "Move your body to relieve some stress."
     }
   ],
-  "_xlsxPath": "Resource centre/TZ relax.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ relax.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1SO0CR3D18daVc2AoHwTkfk1P2B4j3yVORDZx-lg7KiU"
+  }
 }

@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "maua_mazuri",
-      "media_asset": "audio/songs/maua_mazuri.mp4",
+      "media_asset": "audio/songs/maua_mazuri.mp3",
       "tag_list": [
         "plant"
       ],
@@ -23,7 +23,7 @@
     },
     {
       "id": "bilinge_bayoyo",
-      "media_asset": "audio/songs/bilinge_bayoyo.mp4",
+      "media_asset": "audio/songs/bilinge_bayoyo.mp3",
       "tag_list": [
         "fun"
       ],
@@ -40,7 +40,7 @@
     },
     {
       "id": "napenda_namba",
-      "media_asset": "audio/songs/napenda_kuhesabu_namba.mp4",
+      "media_asset": "audio/songs/napenda_kuhesabu_namba.mp3",
       "tag_list": [
         "counting"
       ],
@@ -57,7 +57,7 @@
     },
     {
       "id": "mabata_madogo",
-      "media_asset": "audio/songs/mabata_madogo.mp4",
+      "media_asset": "audio/songs/mabata_madogo.mp3",
       "tag_list": [
         "animal"
       ],
@@ -173,8 +173,28 @@
           "eng": "Kipepeo"
         }
       }
+    },
+    {
+      "id": "kulea",
+      "media_asset": "audio/songs/kulea_pamoja.mp3",
+      "tag_list": [
+        "child_care"
+      ],
+      "image_cover_asset": "images/songs.svg",
+      "title": "Kulea Kwa Pamoja",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Kulea Kwa Pamoja"
+        }
+      }
     }
   ],
-  "_xlsxPath": "Resource centre/TZ songs.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ songs.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1gVr0Rh4q0NyYC08mx_d_uePUj_1haAD6KaAYGzLz5AI"
+  }
 }

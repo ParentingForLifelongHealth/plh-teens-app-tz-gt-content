@@ -161,8 +161,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "completed | emit: completed",
-              "_cleaned": "completed | emit: completed"
+              "_raw": "completed | emit: completed"
             },
             {
               "trigger": "completed",
@@ -171,7 +170,6 @@
                 "@local.congratulations_template"
               ],
               "_raw": "completed | pop_up: @local.congratulations_template | fullscreen: true",
-              "_cleaned": "completed | pop_up: @local.congratulations_template | fullscreen: true",
               "params": {
                 "fullscreen": true
               }
@@ -182,8 +180,7 @@
               "args": [
                 "uncompleted"
               ],
-              "_raw": "uncompleted | emit: uncompleted",
-              "_cleaned": "uncompleted | emit: uncompleted"
+              "_raw": "uncompleted | emit: uncompleted"
             }
           ],
           "exclude_from_translation": true,
@@ -245,14 +242,6 @@
                     "type": "local",
                     "fieldName": "congratulations_template"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "completed | pop_up: @local.congratulations_template | fullscreen: true",
-                    "matchedExpression": "@local.congratulations_template",
-                    "type": "local",
-                    "fieldName": "congratulations_template"
-                  }
                 ]
               }
             }
@@ -260,8 +249,7 @@
           "_dynamicDependencies": {
             "@local.congratulations_template": [
               "action_list.1.args.0",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ]
           }
         }

@@ -371,8 +371,8 @@
       "category_id": "books_connect",
       "image_asset": "images/modules/connect/connect_10.svg",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=j13hQKKL0ww",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=j13hQKKL0ww",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=--iDRGpz-As",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=9Map4POOyuE",
       "text_1": "Make book and story activities part of your daily routine.",
       "_translations": {
         "text_1": {
@@ -465,7 +465,7 @@
     {
       "id": "using_books_3",
       "category_id": "books_connect",
-      "image_asset": "images/modules/connect/connect_11.svg",
+      "image_asset": "images/modules/connect/connect_11.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/connect/connect_08.mp3",
       "text_1": "As you go through the book, give your child your full attention. Notice and respond to what your child is interested in.",
@@ -566,6 +566,9 @@
       "text_2": "For your home practice:\n\n🤝 Make some time to spend with your child one-on-one.\n\n📖 Make book activities part of your routine, and use it as a time to connect. \n\n😌 Spending quality time with our children is important, but make sure you take some time for yourself too."
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WJxiCe992r7W0P5a6ykzI0ytZ8-JHkOVoDcq_-vpwFo"
+  }
 }

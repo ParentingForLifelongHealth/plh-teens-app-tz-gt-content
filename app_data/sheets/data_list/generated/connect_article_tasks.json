@@ -17,19 +17,17 @@
         "title": {
           "tz_sw": true
         },
-        "transcript": {
-          "tz_sw": true
-        }
+        "transcript": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Feel the Ground"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing an ordinary activity like washing up. It can really help!"
         }
       },
-      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing an ordinary activity like washing up. It can really help!",
       "category_id": "relax",
       "completed": false
     },
@@ -566,8 +564,8 @@
       "image_asset": "images/modules/connect/connect_10.svg",
       "media_title": "Watch this video to learn more:",
       "media_transcript": "By reading together every day, your child will learn to love books and enjoy reading. The more time children spend looking at books, the more they learn. So, make reading part of your daily routine.\n\nEven in a busy day, find some time to look at books and read with your child. Even 10 minutes a day can make the world of difference.\n\nFind a time that works best for your family. This might be first thing in the morning or towards the end of the day when you want your child to come inside. Reading before bedtime can also help children fall asleep easier.",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=j13hQKKL0ww",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=j13hQKKL0ww",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=--iDRGpz-As",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=9Map4POOyuE",
       "quiz_1_option_4_text": "Weekends",
       "quiz_1_feedback_4": "It can be really hard to find time during the busy week for book activities. Weekends are a great time to catch up with children and connect.",
       "completed": false
@@ -600,7 +598,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "images/modules/connect/connect_11.svg",
+      "image_asset": "images/modules/connect/connect_11.jpg",
       "media_title": "Listen for an example:",
       "media_transcript": "As you go through the book, notice what your child is looking at, pointing at, or talking about and respond to it. \nFor example, if your child is looking at the picture of the sandwich, you could say: “Look, he is eating some bread. What do you think is on the bread? What do you like to eat on your bread?”\nGive your child time to respond, and let them set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead as much as possible.",
       "completed": false

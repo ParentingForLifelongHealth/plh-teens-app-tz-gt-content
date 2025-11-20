@@ -6,17 +6,14 @@
   "rows": [
     {
       "id": "finance",
-      "attached_single_doc": "https://docs.google.com/document/d/1cq22E3vZouGQzGSbQLFloQzPu5Pb8eI-csMti2rseto",
       "name": "finance",
+      "attached_single_doc": "https://docs.google.com/document/d/1cq22E3vZouGQzGSbQLFloQzPu5Pb8eI-csMti2rseto",
+      "title": "Budgeting and Income Generating Activities",
       "_translations": {
-        "name": {},
         "title": {},
         "text": {}
       },
       "_translatedFields": {
-        "name": {
-          "eng": "finance"
-        },
         "title": {
           "eng": "Budgeting and Income Generating Activities"
         },
@@ -24,21 +21,17 @@
           "eng": "Budgeting and Income Generating Activities"
         }
       },
-      "title": "Budgeting and Income Generating Activities",
       "text": "Budgeting and Income Generating Activities"
     },
     {
       "id": "nutrition",
       "name": "nutrition",
+      "title": "Nutrition",
       "_translations": {
-        "name": {},
         "title": {},
         "text": {}
       },
       "_translatedFields": {
-        "name": {
-          "eng": "nutrition"
-        },
         "title": {
           "eng": "Nutrition"
         },
@@ -46,10 +39,12 @@
           "eng": "Nutrition"
         }
       },
-      "title": "Nutrition",
       "text": "Nutrition"
     }
   ],
-  "_xlsxPath": "Resource centre/TZ additional_content.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ additional_content.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1cclLwQ3gQ477TxdLq3rJIItcJLXmySK3UNZ7O4TTiMo"
+  }
 }

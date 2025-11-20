@@ -116,7 +116,7 @@
     {
       "id": "welcome_2",
       "category_id": "welcome",
-      "image_asset": "images/modules/join/all_modules.svg",
+      "image_asset": "images/modules/join/all_join.svg",
       "text_1": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent.",
       "_translations": {
         "text_1": {
@@ -312,7 +312,9 @@
       "id": "caring_child_3",
       "category_id": "caring_child",
       "image_asset": "images/modules/join/join_9.svg",
-      "media_type": "video",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=uKDiTbdvPB8",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=uhJ5xv_oDd4",
       "text_1_facilitator": "Great question. In ParentApp for Kids, we use the image of a garden to think about what children need from their parents to grow and thrive.",
       "_translations": {
         "text_1_facilitator": {
@@ -390,8 +392,8 @@
       "category_id": "learn_books",
       "image_asset": "images/modules/join/join_12.svg",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=CSjowdxFw6Q",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=o39vAs4gu20",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_s8AJbMJn3c",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1": "**ParentApp supports you to use stories and books to help your child learn.**",
@@ -531,8 +533,8 @@
       "category_id": "learn_books",
       "image_asset": "images/modules/join/join_16.svg",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=cG2oixBlzQ0",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=cG2oixBlzQ0",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=w3cZsBw-T1E",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=QgeCzOjo1BA",
       "text_1_facilitator": "This is a concern for many parents and caregivers. The good news is that you don’t need to read the book’s text when doing book activities.",
       "_translations": {
         "text_1_facilitator": {
@@ -562,10 +564,10 @@
     {
       "id": "learn_books_6",
       "category_id": "learn_books",
-      "image_asset": "images/modules/join/join_17.svg",
+      "image_asset": "images/modules/join/join_17.jpg",
       "media_type": "youtube",
       "youtube_gb_en": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=GJx020kakvc",
       "text_1": "ParentApp provides many practical and fun activities that you can do without needing to read the book’s text.",
       "_translations": {
         "text_1": {
@@ -703,6 +705,9 @@
       "text_2": "🤝 **Play activities for you and your child.** \nThese activities provide opportunities to bond while also supporting your child’s learning.\n\n📖 **Digital books to share with your child.** \nFind a comfortable place to sit and share one of the many books available in the app. \n\n😌 **Short but powerful relaxing activities.** \nBeing a parent can be so stressful. Take a moment for yourself to relax, breathe or reflect."
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WJxiCe992r7W0P5a6ykzI0ytZ8-JHkOVoDcq_-vpwFo"
+  }
 }

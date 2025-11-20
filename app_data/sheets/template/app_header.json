@@ -13,8 +13,7 @@
           "args": [
             "back"
           ],
-          "_raw": "click | nav: back",
-          "_cleaned": "click | nav: back"
+          "_raw": "click | nav: back"
         }
       ],
       "parameter_list": {
@@ -24,6 +23,9 @@
       "_nested_name": "back"
     }
   ],
-  "_xlsxPath": "TZ app_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "TZ app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Ws2I7e08zwIvh1BUMYG0VYTeizyVmrbozM29Mu9lr_g"
+  }
 }

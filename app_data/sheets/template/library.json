@@ -63,8 +63,7 @@
                   "args": [
                     "@item.template"
                   ],
-                  "_raw": "click | go_to: @item.template",
-                  "_cleaned": "click | go_to: @item.template"
+                  "_raw": "click | go_to: @item.template"
                 }
               ],
               "exclude_from_translation": true,
@@ -108,14 +107,6 @@
                         "type": "item",
                         "fieldName": "template"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | go_to: @item.template",
-                        "matchedExpression": "@item.template",
-                        "type": "item",
-                        "fieldName": "template"
-                      }
                     ]
                   }
                 },
@@ -144,8 +135,7 @@
                 ],
                 "@item.template": [
                   "action_list.0.args.0",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ],
                 "@item.id.button_": [
                   "_nested_name"
@@ -210,6 +200,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/app_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+  "_source": {
+    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+    "path": "templates/app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1iPMIw0f_H4-w9lbNER1-OREJ8b9RlgzQvr6innaGC9s"
+  }
 }

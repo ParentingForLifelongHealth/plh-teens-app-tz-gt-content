@@ -127,7 +127,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(image of male facilitator)",
+      "image_asset": "images/modules/create/create_1.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "Life is challenging and ever changing. As parents, our job is not to remove all obstacles or problems from our children’s lives. Instead, we can create a kind and supportive environment where we show our children that it is okay to make mistakes, and where we help them to manage stress and frustration in healthy ways. This allows children to feel more confident in their ability to deal with difficult circumstances.",
       "completed": false
@@ -155,7 +155,7 @@
       },
       "category_id": "why_build",
       "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/build_garden.svg",
       "text_1_facilitator": "Let’s see how **building coping skills** forms part of the garden image.",
       "completed": false
     },
@@ -190,7 +190,7 @@
       },
       "category_id": "why_build",
       "text_1": "Young plants need protection and support to grow into strong plants that can survive droughts or storms. In the same way, parents can help their children build the skills they need to cope with challenges.",
-      "image_asset": "(insert GIF)",
+      "image_asset": "images/modules/build/build.gif",
       "media_title": "Listen to learn more:",
       "media_transcript": "Gardeners can’t control the weather, but there are things they can do to protect their plants and help them recover after a storm. In the same way, you can help your child to build the skills they need to cope with challenging circumstances. When parents use positive coping skills in their own lives, children learn to do the same. And when children feel safe and supported by their parents, they are able to face challenges and overcome setbacks with more confidence.",
       "completed": false
@@ -207,12 +207,12 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(male facilitator with lightbulb)",
+      "image_asset": "images/modules/create/create_10.svg",
       "completed": false
     },
     {
       "id": "how_to_build_2",
-      "media_asset": "audio/modules/build/why_build_2.mp3",
+      "media_asset": "audio/modules/build/how_build_2.mp3",
       "media_type": "audio",
       "_translatedFields": {
         "text_1": {
@@ -234,7 +234,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/how_build_2.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "Use words to describe your and your child’s emotions, so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions. \nDescribe how you see your child’s emotion in a calm way. For example:\n“I notice you’re stomping your feet and talking loudly. What are you feeling?”\nShare your own feelings with your child. For example: \n“I know I feel the same way when I can’t go out when I want to.”\nThis shows your child that it’s okay to share their feelings. They will learn to recognise emotions in themselves and others too.",
       "completed": false
@@ -261,7 +261,7 @@
         "media_title": {},
         "media_transcript": {}
       },
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/how_build_3.svg",
       "media_title": "Listen for examples:",
       "media_transcript": "You are a powerful role-model for your child. When you demonstrate healthy ways to handle stress, frustration or big emotions in your own life, your child will learn to do the same. For example:\n When you feel overwhelmed, say out loud: “I’m feeling frustrated right now, so I’m going to take a few deep breaths to calm down.” This helps children see that strong emotions are normal and manageable.\n Or, after a stressful phone call, you might say: “That call made me feel stressed, so I’m going to go outside and listen to music on my phone to help myself feel better”. \n Or, when you make a mistake, say, “That didn’t go as planned, but it’s okay. I can try again”",
       "completed": false
@@ -280,7 +280,7 @@
         }
       },
       "category_id": "power_build",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/power_build_1.svg",
       "text_1_facilitator": "Let’s see how @data.characters.f2_father.name supports @data.characters.f2_boy.name to overcome a challenging situation:",
       "_translations": {
         "text_1_facilitator": {},
@@ -301,7 +301,7 @@
         }
       },
       "category_id": "power_build",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/power_build_2.svg",
       "character_1_id": "f2_father",
       "character_1_text": "Whoops! There goes our ball!",
       "_translations": {
@@ -320,7 +320,7 @@
         }
       },
       "category_id": "power_build",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/power_build_3.svg",
       "character_1_id": "f2_boy",
       "character_2_id": "f2_father",
       "character_1_text": "Stupid ball! Now we can’t play anymore!",
@@ -339,7 +339,7 @@
         }
       },
       "category_id": "power_build",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/power_build_4.svg",
       "character_1_id": "f2_father",
       "character_1_text": "Let’s take a deep breath and go inside to drink some cold water. When the neighbours come home, we can go collect our ball from their garden.",
       "_translations": {
@@ -355,7 +355,7 @@
         }
       },
       "category_id": "power_build",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/power_build_5.svg",
       "character_1_id": "f2_father",
       "character_1_text": "It can be hard when things don’t go our way. We all feel angry sometimes. Well done for taking a deep breath and coming inside. We will have another chance to play tomorrow.",
       "_translations": {
@@ -478,12 +478,12 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/reading_build.svg",
       "completed": false
     },
     {
       "id": "using_books_2",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1": {
           "eng": "Use stories to discuss different feelings, experiences and actions."
@@ -502,10 +502,10 @@
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "image_asset": "(cover of “A Very Important Tree”)",
+      "image_asset": "images/books/a_very_important_tree/cover.png",
       "text_1_facilitator": "This helps children better understand their own experiences, and the behaviours of others too.",
-      "youtube_gb_en": "(need to add link)",
-      "youtube_tz_sw": "(need to add link)",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=ZH6Bhpz6u6E",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=FWR32HTJTQ0",
       "text_2": "Watch this video for an example of how you can use stories to build your child’s understanding of different emotions and behaviours.",
       "completed": false
     },
@@ -521,7 +521,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/books_build_3.svg",
       "completed": false
     },
     {
@@ -536,7 +536,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(image)",
+      "image_asset": "images/modules/create/create_21.svg",
       "completed": false
     }
   ],

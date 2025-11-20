@@ -271,8 +271,7 @@
           "args": [
             "@local.target_template"
           ],
-          "_raw": "click | pop_up: @local.target_template",
-          "_cleaned": "click | pop_up: @local.target_template"
+          "_raw": "click | pop_up: @local.target_template"
         }
       ],
       "rows": [
@@ -410,14 +409,6 @@
                 "type": "local",
                 "fieldName": "target_template"
               }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "click | pop_up: @local.target_template",
-                "matchedExpression": "@local.target_template",
-                "type": "local",
-                "fieldName": "target_template"
-              }
             ]
           }
         },
@@ -437,12 +428,14 @@
         ],
         "@local.target_template": [
           "action_list.0.args.0",
-          "action_list.0._raw",
-          "action_list.0._cleaned"
+          "action_list.0._raw"
         ]
       }
     }
   ],
-  "_xlsxPath": "modules/TZ home_practice templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ home_practice templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12iXL5a41eGwkpe-_tfGtMVV5AyEKsKJnV6Ulp9NjcfE"
+  }
 }

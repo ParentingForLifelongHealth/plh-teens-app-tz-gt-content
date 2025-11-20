@@ -31,6 +31,9 @@
       "_nested_name": "library_books"
     }
   ],
-  "_xlsxPath": "books/picture_books.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "books/picture_books.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/19TaG6nQwnzR0vMEqepRFSf4V2skZyu87gdMQgRo2COU"
+  }
 }

@@ -7,6 +7,7 @@
       "type": "template",
       "name": "activities",
       "value": "activities",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "fav_page",
@@ -14,6 +15,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.fav_page"
         },
@@ -34,6 +36,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.tags"
         },
@@ -43,6 +46,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.data_list"
         },
@@ -52,6 +56,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.data_list_in_loop"
         },
@@ -61,6 +66,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.go_to_template_prefix"
         }
@@ -68,6 +74,9 @@
       "_nested_name": "activities"
     }
   ],
-  "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ resource centre.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1BoC8Zide9G0WNwqkVA2VYAEsE47kSUrBeFUJ8TJI7f0"
+  }
 }

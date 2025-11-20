@@ -1,0 +1,139 @@
+{
+  "flow_type": "template",
+  "flow_name": "tour_video",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Welcome to @global.app_name",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Welcome to @global.app_name",
+            "matchedExpression": "@global.app_name",
+            "type": "global",
+            "fieldName": "app_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.app_name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "<p>You deserve to feel good, and have happy family relationships.</p>\n\n<p>@global.app_name is here to support you.</p>\n\n<p>Here is how to use the app:</p>",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "<p>You deserve to feel good, and have happy family relationships.</p>\n\n<p>@global.app_name is here to support you.</p>\n\n<p>Here is how to use the app:</p>",
+            "matchedExpression": "@global.app_name",
+            "type": "global",
+            "fieldName": "app_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.app_name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "youtube_hyperlink",
+      "value": "https://www.youtube.com/watch?v=1xTh_2DoRLc",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields._app_language != \"tz_sw\"",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "youtube_hyperlink",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language != \"tz_sw\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "youtube_hyperlink",
+      "value": "https://www.youtube.com/watch?v=0BjiymvXnFc",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields._app_language == \"tz_sw\"",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "youtube_hyperlink",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language == \"tz_sw\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "youtube",
+      "name": "youtube_player",
+      "value": "@local.youtube_hyperlink",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "youtube_player",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.youtube_hyperlink",
+            "matchedExpression": "@local.youtube_hyperlink",
+            "type": "local",
+            "fieldName": "youtube_hyperlink"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube_hyperlink": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "kids_tz_app_launch.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1lQuOB6pfolX8QKKE0ZuokDwW99nZ1tZUHZasmSj-Wg0"
+  }
+}

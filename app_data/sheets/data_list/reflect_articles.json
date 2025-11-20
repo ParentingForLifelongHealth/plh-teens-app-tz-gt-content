@@ -7,7 +7,7 @@
     {
       "id": "Congratulations_1",
       "category_id": "why_reflect",
-      "image_asset": "(sent to orli)",
+      "image_asset": "images/modules/reflect/reflect_1.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/reflect/congs_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1QgPVzzOo7xyvKZ6wXpSfBksp3NKgOwd_vfKn9GKf-3Y",
@@ -34,7 +34,6 @@
     {
       "id": "Congratulations_2",
       "category_id": "why_reflect",
-      "image_asset": "(CAN WE ADD A LOTTIE FILE HERE TO GO WITH THE REFLECTION ACTIVITY BELOW?)",
       "media_type": "audio",
       "media_asset": "audio/modules/reflect/congs_2.mp3",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_emoji.svg",
@@ -104,9 +103,9 @@
     {
       "id": "caring_you_1",
       "category_id": "caring_you",
-      "section_1_image_asset": "(insert image)",
-      "section_2_image_asset": "(insert image)",
-      "section_3_image_asset": "(insert image)",
+      "section_1_image_asset": "images/modules/care/take_a_pause.svg",
+      "section_2_image_asset": "images/modules/care/kind_yourself.svg",
+      "section_3_image_asset": "images/modules/care/how_care_connect.svg",
       "text_1_facilitator": "During this journey, we shared ideas for how to care for yourself. Here’s a reminder:",
       "_translations": {
         "text_1_facilitator": {},
@@ -150,7 +149,7 @@
     {
       "id": "caring_you_2",
       "category_id": "caring_you",
-      "image_asset": "Add GIF",
+      "image_asset": "images/modules/care/care.gif",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1_facilitator": "Remember that caring for others starts with caring for yourself.",
@@ -200,8 +199,8 @@
     {
       "id": "caring_child_1",
       "category_id": "caring_child",
-      "section_1_image_asset": "(add image)",
-      "section_2_image_asset": "(add image)",
+      "section_1_image_asset": "images/modules/reflect/reflect_book_sharing.svg",
+      "section_2_image_asset": "images/modules/create/create_9.svg",
       "section_3_image_asset": "images/modules/play/how_to_play_3.svg",
       "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
       "_translations": {
@@ -306,7 +305,8 @@
       "category_id": "caring_child",
       "image_asset": "images/modules/join/join_10.gif",
       "media_type": "youtube",
-      "youtube_gb_en": "https://youtu.be/uKDiTbdvPB8",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=uKDiTbdvPB8",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=uhJ5xv_oDd4",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -393,8 +393,8 @@
       "id": "learn_books_3",
       "category_id": "learn_books",
       "section_1_image_asset": "images/modules/talk/talk_12.svg",
-      "section_2_image_asset": "(need to add - from BUILD)",
-      "section_3_image_asset": "(need to add - from EXPLORE: building_books_1)",
+      "section_2_image_asset": "images/modules/build/reading_build.svg",
+      "section_3_image_asset": "images/modules/explore/reading_explore.svg",
       "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
       "_translations": {
         "text_1_facilitator": {},
@@ -438,9 +438,9 @@
     {
       "id": "keep_going_1",
       "category_id": "practice",
-      "section_1_image_asset": "(need to add)",
+      "section_1_image_asset": "images/modules/care/how_care_connect.svg",
       "section_2_image_asset": "images/modules/connect/connect_4.svg",
-      "section_3_image_asset": "(need to add)",
+      "section_3_image_asset": "images/modules/reflect/idea_box.svg",
       "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",
       "_translations": {
         "text_1": {},
@@ -487,6 +487,9 @@
       "section_3_text": "On pieces of paper, write down some of your favorite ParentApp relax, read or play activities. When you feel stuck, reach into the box and grab an idea!"
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WJxiCe992r7W0P5a6ykzI0ytZ8-JHkOVoDcq_-vpwFo"
+  }
 }

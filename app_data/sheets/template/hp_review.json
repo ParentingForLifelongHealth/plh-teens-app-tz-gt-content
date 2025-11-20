@@ -14,7 +14,7 @@
     },
     {
       "name": "row_id",
-      "value": "childdevelopment",
+      "value": "selfcare",
       "_translations": {
         "value": {}
       },
@@ -168,25 +168,53 @@
             },
             {
               "name": "yes",
-              "value": "Yes",
+              "value": "@global.yes",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "loop_data.dg_1.yes"
+              "_nested_name": "loop_data.dg_1.yes",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.yes",
+                    "matchedExpression": "@global.yes",
+                    "type": "global",
+                    "fieldName": "yes"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.yes": [
+                  "value"
+                ]
+              }
             },
             {
               "name": "no",
-              "value": "No",
+              "value": "@global.no",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "loop_data.dg_1.no"
+              "_nested_name": "loop_data.dg_1.no",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.no",
+                    "matchedExpression": "@global.no",
+                    "type": "global",
+                    "fieldName": "no"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.no": [
+                  "value"
+                ]
+              }
             },
             {
               "name": "radio_group_done_tracker",
@@ -386,7 +414,6 @@
                   "action_id": "set_item",
                   "args": [],
                   "_raw": "changed | set_item | done_response: this.value",
-                  "_cleaned": "changed | set_item | done_response: this.value",
                   "params": {
                     "done_response": "this.value"
                   }
@@ -398,8 +425,7 @@
                     "@local.radio_group_done_tracker",
                     "this.value"
                   ],
-                  "_raw": "changed | set_field: @local.radio_group_done_tracker: this.value",
-                  "_cleaned": "changed | set_field: @local.radio_group_done_tracker: this.value"
+                  "_raw": "changed | set_field: @local.radio_group_done_tracker: this.value"
                 }
               ],
               "parameter_list": {
@@ -438,14 +464,6 @@
                         "type": "local",
                         "fieldName": "radio_group_done_tracker"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "changed | set_field: @local.radio_group_done_tracker: this.value",
-                        "matchedExpression": "@local.radio_group_done_tracker",
-                        "type": "local",
-                        "fieldName": "radio_group_done_tracker"
-                      }
                     ]
                   }
                 },
@@ -466,8 +484,7 @@
                 ],
                 "@local.radio_group_done_tracker": [
                   "action_list.1.args.0",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ],
                 "@local.answer_list_done": [
                   "parameter_list.answer_list"
@@ -668,7 +685,6 @@
                       "action_id": "set_item",
                       "args": [],
                       "_raw": "changed | set_item | mood_response: this.value",
-                      "_cleaned": "changed | set_item | mood_response: this.value",
                       "params": {
                         "mood_response": "this.value"
                       }
@@ -680,8 +696,7 @@
                         "@local.radio_group_mood_tracker",
                         "this.value"
                       ],
-                      "_raw": "changed | set_field: @local.radio_group_mood_tracker: this.value",
-                      "_cleaned": "changed | set_field: @local.radio_group_mood_tracker: this.value"
+                      "_raw": "changed | set_field: @local.radio_group_mood_tracker: this.value"
                     }
                   ],
                   "exclude_from_translation": true,
@@ -721,14 +736,6 @@
                             "type": "local",
                             "fieldName": "radio_group_mood_tracker"
                           }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "changed | set_field: @local.radio_group_mood_tracker: this.value",
-                            "matchedExpression": "@local.radio_group_mood_tracker",
-                            "type": "local",
-                            "fieldName": "radio_group_mood_tracker"
-                          }
                         ]
                       }
                     },
@@ -749,8 +756,7 @@
                     ],
                     "@local.radio_group_mood_tracker": [
                       "action_list.1.args.0",
-                      "action_list.1._raw",
-                      "action_list.1._cleaned"
+                      "action_list.1._raw"
                     ],
                     "@local.answer_list_mood": [
                       "parameter_list.answer_list"
@@ -933,8 +939,7 @@
                   "args": [
                     "completed"
                   ],
-                  "_raw": "completed | emit:completed",
-                  "_cleaned": "completed | emit:completed"
+                  "_raw": "completed | emit:completed"
                 },
                 {
                   "trigger": "uncompleted",
@@ -942,8 +947,7 @@
                   "args": [
                     "uncompleted"
                   ],
-                  "_raw": "uncompleted | emit:uncompleted",
-                  "_cleaned": "uncompleted | emit:uncompleted"
+                  "_raw": "uncompleted | emit:uncompleted"
                 }
               ],
               "condition": "@item.done_response == \"yes\" && @item.mood_response == \"happy\"",
@@ -1020,8 +1024,7 @@
                     "show_first",
                     false
                   ],
-                  "_raw": "completed | set_local: show_first: false",
-                  "_cleaned": "completed | set_local: show_first: false"
+                  "_raw": "completed | set_local: show_first: false"
                 },
                 {
                   "trigger": "uncompleted",
@@ -1029,8 +1032,7 @@
                   "args": [
                     "uncompleted"
                   ],
-                  "_raw": "uncompleted | emit:uncompleted",
-                  "_cleaned": "uncompleted | emit:uncompleted"
+                  "_raw": "uncompleted | emit:uncompleted"
                 }
               ],
               "condition": "!(@item.done_response == \"yes\" && @item.mood_response == \"happy\" )",
@@ -1106,8 +1108,7 @@
                   "args": [
                     "completed"
                   ],
-                  "_raw": "completed | emit:completed",
-                  "_cleaned": "completed | emit:completed"
+                  "_raw": "completed | emit:completed"
                 },
                 {
                   "trigger": "uncompleted",
@@ -1116,8 +1117,7 @@
                     "show_first",
                     true
                   ],
-                  "_raw": "uncompleted | set_local: show_first: true",
-                  "_cleaned": "uncompleted | set_local: show_first: true"
+                  "_raw": "uncompleted | set_local: show_first: true"
                 }
               ],
               "rows": [
@@ -1238,6 +1238,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+  "_source": {
+    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+    "path": "templates/home_practice_review/hp_review.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1JhZT-dAVgOnGPCx_mFXQ6bRM9d1V8ZWm9784pIKFP94"
+  }
 }

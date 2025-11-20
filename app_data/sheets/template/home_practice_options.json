@@ -772,8 +772,7 @@
                 "@local.click_history_field_name",
                 "@local.click_history_value"
               ],
-              "_raw": "click | set_field: @local.click_history_field_name: @local.click_history_value",
-              "_cleaned": "click | set_field: @local.click_history_field_name: @local.click_history_value"
+              "_raw": "click | set_field: @local.click_history_field_name: @local.click_history_value"
             },
             {
               "trigger": "click",
@@ -783,8 +782,7 @@
                 "dismiss_pop_up",
                 true
               ],
-              "_raw": "click | go_to: @local.target_template: dismiss_pop_up: true",
-              "_cleaned": "click | go_to: @local.target_template: dismiss_pop_up: true"
+              "_raw": "click | go_to: @local.target_template: dismiss_pop_up: true"
             }
           ],
           "exclude_from_translation": true,
@@ -934,20 +932,6 @@
                     "type": "local",
                     "fieldName": "click_history_value"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
-                    "matchedExpression": "@local.click_history_field_name",
-                    "type": "local",
-                    "fieldName": "click_history_field_name"
-                  },
-                  {
-                    "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
-                    "matchedExpression": "@local.click_history_value",
-                    "type": "local",
-                    "fieldName": "click_history_value"
-                  }
                 ]
               },
               "1": {
@@ -962,14 +946,6 @@
                   ]
                 },
                 "_raw": [
-                  {
-                    "fullExpression": "click | go_to: @local.target_template: dismiss_pop_up: true",
-                    "matchedExpression": "@local.target_template",
-                    "type": "local",
-                    "fieldName": "target_template"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | go_to: @local.target_template: dismiss_pop_up: true",
                     "matchedExpression": "@local.target_template",
@@ -995,18 +971,15 @@
             ],
             "@local.click_history_field_name": [
               "action_list.0.args.0",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
+              "action_list.0._raw"
             ],
             "@local.click_history_value": [
               "action_list.0.args.1",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
+              "action_list.0._raw"
             ],
             "@local.target_template": [
               "action_list.1.args.0",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ]
           }
         }
@@ -1029,6 +1002,9 @@
       }
     }
   ],
-  "_xlsxPath": "modules/TZ home_practice templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ home_practice templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12iXL5a41eGwkpe-_tfGtMVV5AyEKsKJnV6Ulp9NjcfE"
+  }
 }

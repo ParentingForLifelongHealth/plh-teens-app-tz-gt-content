@@ -19,8 +19,11 @@
       "output_target": "{@gen.id}_category_tasks"
     }
   ],
-  "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules data pipes.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1LdV8eX-tuo9EkevIx4iILB8t4WIxUJQs_1V6c4-kaoY"
+  },
   "_output_flows": [
     {
       "flow_name": "prep_join_categories",

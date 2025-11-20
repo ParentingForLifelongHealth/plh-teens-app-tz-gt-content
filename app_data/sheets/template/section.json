@@ -915,6 +915,41 @@
       }
     },
     {
+      "name": "pop_up_text",
+      "value": "@local.section_extra_text",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.section_extra_text)",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "pop_up_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.section_extra_text",
+            "matchedExpression": "@local.section_extra_text",
+            "type": "local",
+            "fieldName": "section_extra_text"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.section_extra_text)",
+            "matchedExpression": "@local.section_extra_text",
+            "type": "local",
+            "fieldName": "section_extra_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.section_extra_text": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "dg",
       "parameter_list": {
@@ -1075,41 +1110,6 @@
           }
         },
         {
-          "name": "pop_up_text",
-          "value": "@local.section_extra_text",
-          "_translations": {
-            "value": {}
-          },
-          "condition": "!!(@local.section_extra_text)",
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "dg.pop_up_text",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.section_extra_text",
-                "matchedExpression": "@local.section_extra_text",
-                "type": "local",
-                "fieldName": "section_extra_text"
-              }
-            ],
-            "condition": [
-              {
-                "fullExpression": "!!(@local.section_extra_text)",
-                "matchedExpression": "@local.section_extra_text",
-                "type": "local",
-                "fieldName": "section_extra_text"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.section_extra_text": [
-              "value",
-              "condition"
-            ]
-          }
-        },
-        {
           "type": "accordion",
           "name": "accordion",
           "condition": "!!(@local.section_button_text)",
@@ -1203,6 +1203,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/modules/articles.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+  "_source": {
+    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+    "path": "templates/modules/articles.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+  }
 }

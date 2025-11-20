@@ -261,9 +261,9 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/loved.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/valued.svg",
-      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
-      "quiz_2_option_2_image_asset": "images/modules/play/angry_emoji.svg",
-      "quiz_2_option_3_image_asset": "images/modules/play/tired_emoji.svg",
+      "quiz_2_option_1_image_asset": "images/icons/faces/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/icons/faces/angry_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/icons/faces/tired_emoji.svg",
       "title": "**Question time:**",
       "_translations": {
         "title": {
@@ -385,6 +385,7 @@
       "id": "the_power_of_create_2",
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_12.svg",
+      "character_1_id": "f3_mother",
       "media_type": "audio",
       "media_asset": "audio/modules/create/power_create_2.mp3",
       "text_1_facilitator": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:",
@@ -392,9 +393,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "image_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "media_title": {
           "tz_sw": true
         },
@@ -406,8 +405,8 @@
         "text_1_facilitator": {
           "eng": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:"
         },
-        "image_text": {
-          "eng": "It’s so lovely to see you playing so nicely together, Neema and Robert. In five minutes it will be time to come inside and wash up."
+        "character_1_text": {
+          "eng": "It’s so lovely to see you playing so nicely together, @data.characters.f3_girl.name and @data.characters.f3_boy_wheelchair.name. In five minutes it will be time to come inside and wash up."
         },
         "media_title": {
           "eng": "Let’s reflect on the caregiver’s actions:"
@@ -416,7 +415,7 @@
           "eng": "What does the caregiver do before she informs her children that they will have to stop playing in five minutes’ time? She first brings attention to their positive behaviour of playing nicely together. This is a clever way to make it easier for the children to accept the next instruction."
         }
       },
-      "image_text": "It’s so lovely to see you playing so nicely together, Neema and Robert. In five minutes it will be time to come inside and wash up.",
+      "character_1_text": "It’s so lovely to see you playing so nicely together, @data.characters.f3_girl.name and @data.characters.f3_boy_wheelchair.name. In five minutes it will be time to come inside and wash up.",
       "media_title": "Let’s reflect on the caregiver’s actions:",
       "media_transcript": "What does the caregiver do before she informs her children that they will have to stop playing in five minutes’ time? She first brings attention to their positive behaviour of playing nicely together. This is a clever way to make it easier for the children to accept the next instruction."
     },
@@ -424,11 +423,12 @@
       "id": "the_power_of_create_3",
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_13.svg",
+      "character_1_id": "f3_girl",
       "media_type": "audio",
       "media_asset": "audio/modules/create/power_create_3.mp3",
-      "image_text": "Catch!",
+      "character_1_text": "Catch!",
       "_translations": {
-        "image_text": {
+        "character_1_text": {
           "tz_sw": true
         },
         "media_title": {
@@ -439,7 +439,7 @@
         }
       },
       "_translatedFields": {
-        "image_text": {
+        "character_1_text": {
           "eng": "Catch!"
         },
         "media_title": {
@@ -456,13 +456,12 @@
       "id": "the_power_of_create_4",
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_14.svg",
+      "character_1_id": "f3_mother",
       "media_type": "audio",
-      "media_asset": "audio/modules/create/power_create_4.mp2",
-      "image_text": "Neema, Robert - it’s time to put the ball away and come inside now.",
+      "media_asset": "audio/modules/create/power_create_4.mp3",
+      "character_1_text": "@data.characters.f3_girl.name, @data.characters.f3_boy_wheelchair.name - it’s time to put the ball away and come inside now.",
       "_translations": {
-        "image_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "media_title": {
           "tz_sw": true
         },
@@ -471,8 +470,8 @@
         }
       },
       "_translatedFields": {
-        "image_text": {
-          "eng": "Neema, Robert - it’s time to put the ball away and come inside now."
+        "character_1_text": {
+          "eng": "@data.characters.f3_girl.name, @data.characters.f3_boy_wheelchair.name - it’s time to put the ball away and come inside now."
         },
         "media_title": {
           "eng": "Let’s reflect on the caregiver’s actions:"
@@ -488,11 +487,12 @@
       "id": "the_power_of_create_5",
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_15.svg",
+      "character_1_id": "f3_mother",
       "media_type": "audio",
       "media_asset": "audio/modules/create/power_create_5.mp3",
-      "image_text": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story.",
+      "character_1_text": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story.",
       "_translations": {
-        "image_text": {
+        "character_1_text": {
           "tz_sw": true
         },
         "media_title": {
@@ -503,7 +503,7 @@
         }
       },
       "_translatedFields": {
-        "image_text": {
+        "character_1_text": {
           "eng": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story."
         },
         "media_title": {
@@ -520,11 +520,12 @@
       "id": "the_power_of_create_6",
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_16.svg",
+      "character_1_id": "f3_mother",
       "media_type": "audio",
       "media_asset": "audio/modules/create/power_create_6.mp3",
-      "image_text": "Thank you for washing up so nicely. Let’s sit down and read a story together.",
+      "character_1_text": "Thank you for washing up so nicely. Let’s sit down and read a story together.",
       "_translations": {
-        "image_text": {
+        "character_1_text": {
           "tz_sw": true
         },
         "media_title": {
@@ -535,7 +536,7 @@
         }
       },
       "_translatedFields": {
-        "image_text": {
+        "character_1_text": {
           "eng": "Thank you for washing up so nicely. Let’s sit down and read a story together."
         },
         "media_title": {
@@ -705,6 +706,9 @@
       }
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WJxiCe992r7W0P5a6ykzI0ytZ8-JHkOVoDcq_-vpwFo"
+  }
 }

@@ -910,8 +910,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -919,8 +918,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -934,6 +932,9 @@
       "_nested_name": "nav_buttons"
     }
   ],
-  "_xlsxPath": "Resource centre/TZ activities template generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ activities template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1FiEWcDDXwBAr9-NLo2E4Kk1JSoRH2yTWbR-F3WxAixc"
+  }
 }

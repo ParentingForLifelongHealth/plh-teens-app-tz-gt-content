@@ -20,8 +20,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -29,8 +28,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -41,8 +39,11 @@
       ]
     }
   ],
-  "_xlsxPath": "Resource centre/TZ support centre.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ support centre.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1d3q7BIcjUVbUjg6cO0YRW9G7jTBTzRmxiP-xI5a_PEU"
+  },
   "_output_flows": [
     {
       "flow_name": "support_children",

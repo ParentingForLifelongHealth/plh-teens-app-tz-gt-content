@@ -7,7 +7,7 @@
     {
       "id": "why_care_1",
       "category_id": "why_care",
-      "image_asset": "images/modules/connect/connect_1.svg",
+      "image_asset": "images/modules/care/why_care_1.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1vs7A4ExreZlUBVzXlCsY7q6vU8XVv4bC_sy50cxnGDQ",
       "text_1": "This module is about YOU. Looking after yourself is essential for a happy family.",
       "_translations": {
@@ -22,7 +22,7 @@
     {
       "id": "why_care_2",
       "category_id": "why_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/why_care_2.svg",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -48,7 +48,7 @@
     {
       "id": "why_care_3",
       "category_id": "why_care",
-      "image_asset": "Add GIF",
+      "image_asset": "images/modules/care/care.gif",
       "media_type": "audio",
       "media_asset": "audio/modules/care/why_care_3.mp3",
       "title": "The ParentApp Garden",
@@ -83,7 +83,7 @@
     {
       "id": "how_to_care_1",
       "category_id": "how_care",
-      "image_asset": "(facilitator with lightbulb)",
+      "image_asset": "images/modules/care/how_to_care.svg",
       "text_1": "Taking care of yourself is an important parenting skill. Let’s look at three powerful ideas.",
       "_translations": {
         "text_1": {}
@@ -97,7 +97,7 @@
     {
       "id": "how_to_care_2",
       "category_id": "how_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/take_a_pause.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/care/care_2.mp3",
       "text_1": "**Take a pause**\n\nTaking a pause helps us to feel calmer in stressful moments.",
@@ -125,7 +125,7 @@
     {
       "id": "how_to_care_3",
       "category_id": "how_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/kind_yourself.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/care/care_3.mp3",
       "text_1": "**Be kind to yourself**\n\nBeing a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of.",
@@ -153,7 +153,7 @@
     {
       "id": "how_to_care_4",
       "category_id": "how_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/how_care_connect.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/care/care_4.mp3",
       "text_1": "**Connect with others**\n\nConnect with your family and friends - you are not alone.",
@@ -181,10 +181,10 @@
     {
       "id": "the_power_of_care_1",
       "category_id": "power_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/power_care_1.svg",
       "character_1_id": "f3_girl",
       "character_2_id": "f3_grandma",
-      "text_1_facilitator": "Let’s see how f3_grandma manages to take care of herself when life gets a bit too much:",
+      "text_1_facilitator": "Let’s see how @data.characters.f3_grandma.name manages to take care of herself when life gets a bit too much:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -192,7 +192,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s see how f3_grandma manages to take care of herself when life gets a bit too much:"
+          "eng": "Let’s see how @data.characters.f3_grandma.name manages to take care of herself when life gets a bit too much:"
         },
         "character_1_text": {
           "eng": "@data.characters.f3_grandma.name come play with me and my dolls!"
@@ -207,7 +207,7 @@
     {
       "id": "the_power_of_care_2",
       "category_id": "power_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/power_care_2.svg",
       "character_1_id": "f3_grandma",
       "character_1_text": "Alright, @data.characters.f3_girl.name, let me finish preparing lunch quickly, and then I will come play with you.",
       "_translations": {
@@ -222,7 +222,7 @@
     {
       "id": "the_power_of_care_3",
       "category_id": "power_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/power_care_3.svg",
       "character_1_id": "f3_grandma",
       "character_1_text": "(🤔thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.",
       "_translations": {
@@ -237,7 +237,7 @@
     {
       "id": "the_power_of_care_4",
       "category_id": "power_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/power_care_4.svg",
       "character_1_id": "f3_grandma",
       "character_1_text": "(🤔thinking) What a day. I have a lot of things to do, but I am still standing and trying my best every day. Tomorrow, I should visit my friends so we can catch up and be reminded that we aren’t alone!",
       "_translations": {
@@ -254,7 +254,7 @@
       "category_id": "power_care",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_emoji.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/neutral.svg",
-      "quiz_1_option_3_image_asset": "emoji",
+      "quiz_1_option_3_image_asset": "images/icons/faces/stressed_emoji.svg",
       "text_1_facilitator": "Let’s reflect.",
       "_translations": {
         "text_1_facilitator": {},
@@ -352,7 +352,7 @@
     {
       "id": "using_books_1",
       "category_id": "books_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/using_books_1.svg",
       "text_1": "You can use book activities to take a pause when you feel stressed.",
       "_translations": {
         "text_1": {},
@@ -371,7 +371,7 @@
     {
       "id": "using_books_2",
       "category_id": "books_care",
-      "image_asset": "(insert picture)",
+      "image_asset": "images/modules/care/using_books_2.svg",
       "text_1": "Connecting with others helps us feel less alone. You can use book activities to connect with your child and your family.",
       "_translations": {
         "text_1": {}
@@ -385,7 +385,7 @@
     {
       "id": "using_books_3",
       "category_id": "books_care",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/care/using_books_3.svg",
       "text_1": "Having some fun is helpful for parents too. You can use stories to relax, laugh and have fun together.",
       "_translations": {
         "text_1": {}
@@ -399,7 +399,7 @@
     {
       "id": "practice_1",
       "category_id": "practice",
-      "image_asset": "(image)",
+      "image_asset": "images/modules/care/build_practice.svg",
       "text_1": "Taking care of yourself is an important parenting skill! \nFor your home practice:\n🤝 When you notice you are feeling stressed, give yourself a moment to pause, breathe and regain your calm.\n📖 Share a book with your child or family to relax and have fun together.\n😌 Reward yourself by doing something you enjoy.",
       "_translations": {
         "text_1": {}
@@ -411,6 +411,9 @@
       }
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WJxiCe992r7W0P5a6ykzI0ytZ8-JHkOVoDcq_-vpwFo"
+  }
 }

@@ -7,9 +7,9 @@
     {
       "id": "why_explore_1",
       "category_id": "why_explore",
-      "image_asset": "(facilitator image)",
+      "image_asset": "images/modules/connect/connect_1.svg",
       "media_type": "audio",
-      "youtube_tz_sw": "audio/modules/explore/why_1.mp3",
+      "media_asset": "audio/modules/explore/why_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1EgysZ_jHAdqfkDMN9gOk9XWuOOAMT-WUxPSjiTB5d8g/edit?tab=t.0",
       "text_1": "Children are born with a natural interest in the people and objects around them. \nThis week, we will look at how parents can encourage children to **EXPLORE** and learn from the world around them.",
       "_translations": {
@@ -36,7 +36,7 @@
     {
       "id": "why_explore_2",
       "category_id": "why_explore",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/explore/explore_title_image.svg",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -62,7 +62,7 @@
     {
       "id": "why_explore_3",
       "category_id": "why_explore",
-      "image_asset": "(insert GIF)",
+      "image_asset": "images/modules/explore/explore.gif",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -83,7 +83,7 @@
     {
       "id": "how_to_explore_1",
       "category_id": "how_explore",
-      "image_asset": "(facilitator with lightbulb)",
+      "image_asset": "images/modules/connect/connect_7.svg",
       "text_1": "Here’s how to help children explore and learn from the world around them:",
       "_translations": {
         "text_1": {}
@@ -97,7 +97,7 @@
     {
       "id": "how_to_explore_2",
       "category_id": "how_explore",
-      "image_asset": "(image)",
+      "image_asset": "images/modules/explore/how_explore_2.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/how_2.mp3",
       "text_1": "**Be curious together**\n Turn learning into a shared adventure. Try new things together and experiment with different ideas.",
@@ -125,7 +125,7 @@
     {
       "id": "how_to_explore_3",
       "category_id": "how_explore",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/explore/how_explore_3.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/how_3.mp3",
       "text_1": "**Solve problems together**\nInstead of solving your child’s problems for them, support them to come up with solutions that they can try themselves.",
@@ -201,7 +201,7 @@
     {
       "id": "the_power_of_explore_2",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_2.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/power_2.mp3",
       "title": "How to solve problems: Step 1",
@@ -224,17 +224,17 @@
           "eng": "Listen for an example:"
         },
         "media_transcript": {
-          "eng": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do?”"
+          "eng": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do about this?”"
         }
       },
       "text_1": "**Talk about the problem**\nTalk to your child about the problem in need of a solution.",
       "media_title": "Listen for an example:",
-      "media_transcript": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do?”"
+      "media_transcript": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do about this?”"
     },
     {
       "id": "the_power_of_explore_3",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_3.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/power_3.mp3",
       "title": "How to solve problems: Step 2",
@@ -267,7 +267,7 @@
     {
       "id": "the_power_of_explore_4",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_4.svg",
       "character_1_id": "f3_boy_wheelchair",
       "character_2_id": "f3_girl",
       "title": "How to solve problems: Step 3",
@@ -298,7 +298,7 @@
     {
       "id": "the_power_of_explore_5",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_5.svg",
       "character_1_id": "f3_grandpa",
       "character_2_id": "f3_boy_wheelchair",
       "title": "How to solve problems: Step 4",
@@ -329,7 +329,7 @@
     {
       "id": "using_books_1",
       "category_id": "books_explore",
-      "image_asset": "(insert)",
+      "image_asset": "images/modules/explore/reading_explore.svg",
       "text_1": "Books and stories encourage children to explore different ideas and learn about the world.",
       "_translations": {
         "text_1": {},
@@ -348,7 +348,7 @@
     {
       "id": "using_books__2",
       "category_id": "books_explore",
-      "image_asset": "INSERT PAGE 7 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_7.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/books_2.mp3",
       "text_1": "**Ask questions about the story**\nThis helps children think about what is happening, why this might be happening, and what might happen next.",
@@ -374,7 +374,7 @@
     {
       "id": "using_books_3",
       "category_id": "books_explore",
-      "image_asset": "INSERT PAGE 3 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_3.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/books_3.mp3",
       "text_1": "Make connections between what you see in the book and your child’s life.",
@@ -402,7 +402,7 @@
     {
       "id": "using_books_4",
       "category_id": "books_explore",
-      "image_asset": "INSERT PAGE 15 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_15.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/books_4.mp3",
       "text_1": "**Count and compare**  \n Use the pictures to count or make comparisons between different objects or characters.",
@@ -430,7 +430,7 @@
     {
       "id": "using_books_5",
       "category_id": "books_explore",
-      "image_asset": "Insert image",
+      "image_asset": "images/modules/explore/books_5.svg",
       "text_1": "Three easy ways to use book activities to explore:\n1. Ask questions about the story and what might happen.\n2. Make connections between the book and your child’s life.\n3. Use the pictures to practice counting and make comparisons.",
       "_translations": {
         "text_1": {}
@@ -444,7 +444,7 @@
     {
       "id": "practice_1",
       "category_id": "practice",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/connect/connect_14.svg",
       "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 When a problem arises, involve your child in finding a solution and trying it out. \n📖 Make connections between the book and your child’s life.\n😌 Think about something you are curious about or want to learn more about. Make some time to explore your interests!",
       "_translations": {
         "text_1": {}
@@ -456,6 +456,9 @@
       }
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1WJxiCe992r7W0P5a6ykzI0ytZ8-JHkOVoDcq_-vpwFo"
+  }
 }

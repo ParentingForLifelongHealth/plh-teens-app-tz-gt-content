@@ -30,8 +30,7 @@
               "args": [
                 "/template"
               ],
-              "_raw": "click | go_to:/template",
-              "_cleaned": "click | go_to:/template"
+              "_raw": "click | go_to:/template"
             }
           ],
           "_nested_name": "dg_dev.button_templates"
@@ -50,8 +49,7 @@
               "args": [
                 "/user"
               ],
-              "_raw": "click | go_to:/user",
-              "_cleaned": "click | go_to:/user"
+              "_raw": "click | go_to:/user"
             }
           ],
           "_nested_name": "dg_dev.button_dynamic_data"
@@ -68,8 +66,7 @@
               "trigger": "click",
               "action_id": "reset_app",
               "args": [],
-              "_raw": "click | reset_app",
-              "_cleaned": "click | reset_app"
+              "_raw": "click | reset_app"
             }
           ],
           "_nested_name": "dg_dev.button_reset"
@@ -88,8 +85,7 @@
               "args": [
                 "open"
               ],
-              "_raw": "click | feedback:open",
-              "_cleaned": "click | feedback:open"
+              "_raw": "click | feedback:open"
             },
             {
               "trigger": "click",
@@ -97,8 +93,7 @@
               "args": [
                 "force_reprocess"
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_raw": "click | emit: force_reprocess"
             }
           ],
           "condition": "!@fields._feedback_sidebar_open",
@@ -133,8 +128,7 @@
               "args": [
                 "close"
               ],
-              "_raw": "click | feedback:close",
-              "_cleaned": "click | feedback:close"
+              "_raw": "click | feedback:close"
             },
             {
               "trigger": "click",
@@ -142,8 +136,7 @@
               "args": [
                 "force_reprocess"
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_raw": "click | emit: force_reprocess"
             }
           ],
           "condition": "@fields._feedback_sidebar_open",
@@ -180,8 +173,7 @@
               "args": [
                 "import_user_data"
               ],
-              "_raw": "click | go_to: import_user_data",
-              "_cleaned": "click | go_to: import_user_data"
+              "_raw": "click | go_to: import_user_data"
             }
           ],
           "_nested_name": "dg_dev.button_import_user"
@@ -220,8 +212,7 @@
           "args": [
             "enter_dev_mode"
           ],
-          "_raw": "click | go_to: enter_dev_mode",
-          "_cleaned": "click | go_to: enter_dev_mode"
+          "_raw": "click | go_to: enter_dev_mode"
         }
       ],
       "condition": "@fields.user_mode",
@@ -258,8 +249,7 @@
           "args": [
             "exit_dev_mode"
           ],
-          "_raw": "click | go_to: exit_dev_mode",
-          "_cleaned": "click | go_to: exit_dev_mode"
+          "_raw": "click | go_to: exit_dev_mode"
         }
       ],
       "condition": "!@fields.user_mode",
@@ -281,6 +271,9 @@
       }
     }
   ],
-  "_xlsxPath": "TZ app_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "TZ app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Ws2I7e08zwIvh1BUMYG0VYTeizyVmrbozM29Mu9lr_g"
+  }
 }

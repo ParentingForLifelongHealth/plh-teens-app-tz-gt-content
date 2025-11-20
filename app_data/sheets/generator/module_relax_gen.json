@@ -13,6 +13,9 @@
       "type": "template",
       "name": "header",
       "value": "header",
+      "style_list": [
+        "margin-top: 24px"
+      ],
       "rows": [
         {
           "name": "title",
@@ -35,8 +38,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -44,8 +46,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -66,8 +67,11 @@
       ]
     }
   ],
-  "_xlsxPath": "modules/TZ articles template generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ articles template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/15d9DPA9zQQf0O11Sou65KP6B1qZjo9ElNiqAHHOU0rc"
+  },
   "_output_flows": [
     {
       "flow_name": "article_join_relax_4",
@@ -110,7 +114,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_reflect_@gen.relax_id",
+      "flow_name": "article_reflect_relax_9",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

@@ -104,6 +104,7 @@
     },
     {
       "id": "why_explore_1",
+      "media_asset": "audio/modules/explore/why_1.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1EgysZ_jHAdqfkDMN9gOk9XWuOOAMT-WUxPSjiTB5d8g/edit?tab=t.0",
       "_translatedFields": {
@@ -126,8 +127,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(facilitator image)",
-      "youtube_tz_sw": "audio/modules/explore/why_1.mp3",
+      "image_asset": "images/modules/connect/connect_1.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "“What is that? How does it work? Where is she going? Why is he doing that?” Children ask many questions every day as they try to make sense of the world around them.\nAs parents we sometimes get tired of answering our children’s questions. But encouraging curiosity supports children’s learning and development in important ways. When children are curious, they are more likely to try new things. They are more likely to explore and learn from their surroundings. This helps them to develop important skills like problem-solving.",
       "completed": false
@@ -155,7 +155,7 @@
       },
       "category_id": "why_explore",
       "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/explore/explore_title_image.svg",
       "text_1_facilitator": "Let’s see how **exploring together** forms part of the garden image.",
       "completed": false
     },
@@ -178,7 +178,7 @@
       },
       "category_id": "why_explore",
       "text_1": "Plants are part of a wider garden, or ecosystem. In the same way, your child is part of a larger environment with family, peers and a community that present important opportunities for learning and growing.",
-      "image_asset": "(insert GIF)",
+      "image_asset": "images/modules/explore/explore.gif",
       "completed": false
     },
     {
@@ -193,7 +193,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(facilitator with lightbulb)",
+      "image_asset": "images/modules/connect/connect_7.svg",
       "completed": false
     },
     {
@@ -220,7 +220,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(image)",
+      "image_asset": "images/modules/explore/how_explore_2.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "Demonstrate your own curiosity by asking questions like “I wonder what happens if…” or “What do you think would happen if…?” or “Why do you think it works that way?”\nWhen your child asks a question, explore the answer together instead of simply providing it.\nIf something doesn’t go according to plan, you could say: “I wonder why that didn’t work. What could we try next time?” Show your child that making mistakes is part of learning and that challenges are opportunities to grow.",
       "completed": false
@@ -249,7 +249,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/explore/how_explore_3.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "By involving our children in solving problems, they learn to find solutions more and more independently. \nFirst, talk to your child about what the problem is. “I can see you are trying to build a bridge for your cars but it keeps collapsing.”\nTogether, think of possible solutions. You could ask: “How do you think we can make it more sturdy?” or “What could you try instead?”\n You can also give your child options and let them choose a solution to try. \nAfter they have tried it, reflect together on whether it worked or not. \nRemember to talk with kindness and praise your child’s efforts.",
       "completed": false
@@ -327,14 +327,14 @@
           "eng": "Listen for an example:"
         },
         "media_transcript": {
-          "eng": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do?”"
+          "eng": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do about this?”"
         }
       },
       "category_id": "power_explore",
       "text_1": "**Talk about the problem**\nTalk to your child about the problem in need of a solution.",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_2.svg",
       "media_title": "Listen for an example:",
-      "media_transcript": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do?”",
+      "media_transcript": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do about this?”",
       "completed": false
     },
     {
@@ -366,7 +366,7 @@
       },
       "category_id": "power_explore",
       "text_1": "**Find solutions**\nTogether, think about possible solutions for this problem. What can your child do to overcome the problem?",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_3.svg",
       "media_title": "Listen for an example:",
       "media_transcript": "You could say: “One option is for us to look at the book together.” Could that work?” If one child responds that this won’t work because the other child wants to go through the book too fast, ask for other suggestions. They could suggest to flip a coin to decide who gets to read the book first. Or they could choose to do something else instead. Ask your children to agree on the solution that they want to try.",
       "completed": false
@@ -396,7 +396,7 @@
       },
       "category_id": "power_explore",
       "text_1": "**Choose a solution to try**\nLet your child choose which option they want to try.",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_4.svg",
       "character_1_id": "f3_boy_wheelchair",
       "character_2_id": "f3_girl",
       "character_1_text": "I’m glad we decided to spend time in the garden instead. Look how nicely our plants are growing.",
@@ -428,7 +428,7 @@
       },
       "category_id": "power_explore",
       "text_1": "**Reflect and learn**\nDiscuss with your child whether or not the solution worked, or what they might want to do differently next time.",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_5.svg",
       "character_1_id": "f3_grandpa",
       "character_2_id": "f3_boy_wheelchair",
       "character_1_text": "“Well that was great – I was so impressed by how well you worked together in the garden. How was that for you?",
@@ -451,7 +451,7 @@
         "text_1": {},
         "text_1_facilitator": {}
       },
-      "image_asset": "(insert)",
+      "image_asset": "images/modules/explore/reading_explore.svg",
       "text_1_facilitator": "Here’s how to use books to explore:",
       "completed": false
     },
@@ -477,7 +477,7 @@
         "media_title": {},
         "media_transcript": {}
       },
-      "image_asset": "INSERT PAGE 7 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_7.jpg",
       "media_title": "Listen to an example:",
       "media_transcript": "Using this picture from the book called Big Blue Bus, ask your child: “Why do you think they are standing next to the side of the road? Why is she looking at her watch? How do you think the boy is feeling? What do you think will happen next?”\nInvite children to imagine different endings to the story, or create your own follow up story. You could ask “what would happen if they went home for tea and the bus came while they were away?” or you could say: “let’s make up our own story of what happens when they get to the city. Where did they go first? What did they buy? Who did they meet?”\nAsking questions is a great way to engage your child in the story and explore different possibilities together.",
       "completed": false
@@ -506,7 +506,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "INSERT PAGE 3 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_3.jpg",
       "media_title": "Listen for an example:",
       "media_transcript": "Show your child how what happens in the story is similar to or different from their own life. For example, if there is a chicken in the story, you could remind your child that you also have chickens outside your house that you feed every morning. You could ask: “Do our chickens look like the one in this story? Who feeds our chickens at home?” Or you could say: “look, he is playing with a ball. When you play outside our house, what do you like to play with?”",
       "completed": false
@@ -535,7 +535,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "INSERT PAGE 15 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_15.jpg",
       "media_title": "Listen for an example:",
       "media_transcript": "Books can help children practice counting, and to assess and compare different things.\nUsing this picture, you could point to the people in the bus and say: “Let’s see how many people are on the bus: 1, 2, 3, 4, …. Or you can ask your child to count. \nYou could also ask your child to compare the number of people by asking “Are there more people on the bus or more people on the road?”\nAnd you could ask: “Who is closest to the bus? And who is the furthest away? Who is sitting at the back of the bus? Who is sitting at the front? Are the two houses the same size? Is the bus driving towards the houses or away from the houses?”",
       "completed": false
@@ -552,7 +552,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "Insert image",
+      "image_asset": "images/modules/explore/books_5.svg",
       "completed": false
     },
     {
@@ -567,7 +567,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/connect/connect_14.svg",
       "completed": false
     }
   ],

@@ -6,10 +6,12 @@
   "rows": [
     {
       "id": "budgeting",
-      "step_1_image_asset": "images/additional_info/think.svg",
-      "step_2_image_asset": "images/additional_info/choose.svg",
-      "step_3_image_asset": "images/additional_info/build.svg",
-      "step_4_image_asset": "images/additional_info/plan.svg",
+      "image_cover_asset": "images/additional_info/budget_circle.svg",
+      "image_asset": "images/additional_info/budget.svg",
+      "step_1_image_asset": "images/additional_info/budget_1.jpg",
+      "step_2_image_asset": "images/additional_info/budget_2.svg",
+      "step_3_image_asset": "images/additional_info/budget_3.jpg",
+      "step_4_image_asset": "images/additional_info/budget_4.jpg",
       "tag_list": [
         "finance"
       ],
@@ -61,9 +63,12 @@
     },
     {
       "id": "income_generating",
-      "step_1_image_asset": "(insert image)",
-      "step_2_image_asset": "(insert image)",
-      "step_3_image_asset": "(insert image)",
+      "image_cover_asset": "images/additional_info/financial_literacy_circle.svg",
+      "image_asset": "images/additional_info/financial_literacy_4.svg",
+      "step_1_image_asset": "images/additional_info/financial_literacy_1.svg",
+      "step_2_image_asset": "images/additional_info/financial_literacy_2.svg",
+      "step_3_image_asset": "images/additional_info/financial_literacy_3.png",
+      "step_4_image_asset": "images/additional_info/financial_literacy_4.svg",
       "tag_list": [
         "finance"
       ],
@@ -94,7 +99,7 @@
           "eng": "**Craft Making:** Engage in soap making, batik making, and crafting accessories such as bracelets, earrings, necklaces, and handbags using locally available materials like beads or leather."
         },
         "step_4_text": {
-          "eng": ""
+          "eng": "**Animal Husbandry and Poultry Keeping:**\nRaising animals and poultry is a simple and effective way to earn income. It provides products like milk, eggs, and meat for sale or home use. With low start-up costs and regular returns, it can help you improve your household's livelihoods and food security."
         },
         "tips_text": {
           "eng": "Take a moment to think about additional activities you can do in your community as a group or as an individual. Something that can help strengthen your household income.\n\nREPSSI is available to provide guidance on any of these activities if you wish to implement them."
@@ -104,16 +109,18 @@
       "step_1_text": "**Joining or Starting a VICOBA Group:** Join an existing Village Community Banking (VICOBA) group in your community or start your own with trusted individuals.",
       "step_2_text": "**Accessing Government Youth Funds:** For individuals up to 24 years old, utilize government youth funds as a start-up for group projects like poultry farming or catering, depending on what is feasible in your context.",
       "step_3_text": "**Craft Making:** Engage in soap making, batik making, and crafting accessories such as bracelets, earrings, necklaces, and handbags using locally available materials like beads or leather.",
-      "step_4_text": "",
+      "step_4_text": "**Animal Husbandry and Poultry Keeping:**\nRaising animals and poultry is a simple and effective way to earn income. It provides products like milk, eggs, and meat for sale or home use. With low start-up costs and regular returns, it can help you improve your household's livelihoods and food security.",
       "tips_text": "Take a moment to think about additional activities you can do in your community as a group or as an individual. Something that can help strengthen your household income.\n\nREPSSI is available to provide guidance on any of these activities if you wish to implement them."
     },
     {
       "id": "nutrition",
-      "step_1_image_asset": "(insert image)",
-      "step_2_image_asset": "(insert image)",
-      "step_3_image_asset": "(insert image)",
-      "step_4_image_asset": "(insert image)",
-      "step_5_image_asset": "(insert image)",
+      "image_cover_asset": "images/additional_info/nutrition_circle.svg",
+      "image_asset": "images/additional_info/nutrition.svg",
+      "step_1_image_asset": "images/additional_info/nutrition_1.svg",
+      "step_2_image_asset": "images/additional_info/nutrition_2.svg",
+      "step_3_image_asset": "images/additional_info/nutrition_3.svg",
+      "step_4_image_asset": "images/additional_info/nutrition_4.svg",
+      "step_5_image_asset": "images/additional_info/nutrition_5.svg",
       "tag_list": [
         "nutrition"
       ],
@@ -137,38 +144,45 @@
           "eng": "Good nutrition helps build a strong immune system, keeping young children healthy and better able to fight off colds and other infections. For kids aged 4–6, aim for a balanced diet with fruits, veggies, whole grains, lean meats or beans, and dairy or fortified soy products. Try to limit sugary snacks, salty foods, and fried treats. Also, remember to keep them well hydrated, about 5 cups (1.2 L) of fluids a day, and a bit more when it’s hot.\nHere are key nutrition considerations below:"
         },
         "step_1_text": {
-          "eng": "**Fruits and Vegetables:** Encourage a variety of colorful fruits and vegetables to provide essential vitamins and minerals for the child."
+          "eng": "Fruits and Vegetables: Encourage a variety of colorful fruits and vegetables to provide essential vitamins and minerals for the child."
         },
         "step_2_text": {
-          "eng": "**Whole Grains:** Choose whole grains over refined grains to provide fiber and other nutrients."
+          "eng": "Whole Grains: Choose whole grains over refined grains to provide fiber and other nutrients."
         },
         "step_3_text": {
-          "eng": "**Lean Protein:** Include lean protein sources like chicken, fish, beans, and lentils to support muscle development."
+          "eng": "Lean Protein: Include lean protein sources like chicken, fish, beans, and lentils to support muscle development."
         },
         "step_4_text": {
-          "eng": "**Dairy or Fortified Soy Alternatives:** Ensure adequate calcium intake for bone health through dairy or fortified soy alternatives."
+          "eng": "Dairy or Fortified Soy Alternatives: Ensure adequate calcium intake for bone health through dairy or fortified soy alternatives."
         },
         "step_5_text": {
-          "eng": "**Hydration:** Provide plenty of water throughout the day, especially during physical activity."
+          "eng": "Hydration: Provide plenty of water throughout the day, especially during physical activity."
         },
         "tips_text": {
-          "eng": "Additional Tips for Caregivers:\n**Be Patient and Persistent:** It may take several attempts for children to try new foods. Continue to offer a variety of healthy options and be patient.\n\n**Consult with a Healthcare Professional:** If you have any concerns about your child's nutrition or growth, consult with a pediatrician or registered dietitian. \n\nAll food meant for children should be prepared and stored with excellent hygiene and flavor, without too much heat or spice."
+          "eng": "Additional Tips for Caregivers:\n\nBe Patient and Persistent: It may take several attempts for children to try new foods. Continue to offer a variety of healthy options and be patient.\n\nConsult with a Healthcare Professional: If you have any concerns about your child's nutrition or growth, consult with a pediatrician or registered dietitian. \n\nAll food meant for children should be prepared and stored with excellent hygiene and flavor, without too much heat or spice."
         },
         "extension_text": {
           "eng": "All nutrients are essential, the deficiencies in vitamins and minerals can lead to various health problems. i.e impaired vision, malnutrition, infections, respiratory illnesses, impaired cognitive development. Many of these deficiencies are preventable through nutrition education and consumption of health diet."
         }
       },
       "intro_text": "Good nutrition helps build a strong immune system, keeping young children healthy and better able to fight off colds and other infections. For kids aged 4–6, aim for a balanced diet with fruits, veggies, whole grains, lean meats or beans, and dairy or fortified soy products. Try to limit sugary snacks, salty foods, and fried treats. Also, remember to keep them well hydrated, about 5 cups (1.2 L) of fluids a day, and a bit more when it’s hot.\nHere are key nutrition considerations below:",
-      "step_1_text": "**Fruits and Vegetables:** Encourage a variety of colorful fruits and vegetables to provide essential vitamins and minerals for the child.",
-      "step_2_text": "**Whole Grains:** Choose whole grains over refined grains to provide fiber and other nutrients.",
-      "step_3_text": "**Lean Protein:** Include lean protein sources like chicken, fish, beans, and lentils to support muscle development.",
-      "step_4_text": "**Dairy or Fortified Soy Alternatives:** Ensure adequate calcium intake for bone health through dairy or fortified soy alternatives.",
-      "step_5_text": "**Hydration:** Provide plenty of water throughout the day, especially during physical activity.",
-      "tips_text": "Additional Tips for Caregivers:\n**Be Patient and Persistent:** It may take several attempts for children to try new foods. Continue to offer a variety of healthy options and be patient.\n\n**Consult with a Healthcare Professional:** If you have any concerns about your child's nutrition or growth, consult with a pediatrician or registered dietitian. \n\nAll food meant for children should be prepared and stored with excellent hygiene and flavor, without too much heat or spice.",
+      "step_1_text": "Fruits and Vegetables: Encourage a variety of colorful fruits and vegetables to provide essential vitamins and minerals for the child.",
+      "step_2_text": "Whole Grains: Choose whole grains over refined grains to provide fiber and other nutrients.",
+      "step_3_text": "Lean Protein: Include lean protein sources like chicken, fish, beans, and lentils to support muscle development.",
+      "step_4_text": "Dairy or Fortified Soy Alternatives: Ensure adequate calcium intake for bone health through dairy or fortified soy alternatives.",
+      "step_5_text": "Hydration: Provide plenty of water throughout the day, especially during physical activity.",
+      "tips_text": "Additional Tips for Caregivers:\n\nBe Patient and Persistent: It may take several attempts for children to try new foods. Continue to offer a variety of healthy options and be patient.\n\nConsult with a Healthcare Professional: If you have any concerns about your child's nutrition or growth, consult with a pediatrician or registered dietitian. \n\nAll food meant for children should be prepared and stored with excellent hygiene and flavor, without too much heat or spice.",
       "extension_text": "All nutrients are essential, the deficiencies in vitamins and minerals can lead to various health problems. i.e impaired vision, malnutrition, infections, respiratory illnesses, impaired cognitive development. Many of these deficiencies are preventable through nutrition education and consumption of health diet."
     },
     {
       "id": "eating_habits",
+      "image_cover_asset": "images/additional_info/healthy_eating_circle.svg",
+      "image_asset": "images/additional_info/healthy_eating_1.svg",
+      "step_1_image_asset": "images/additional_info/healthy_eating_1.svg",
+      "step_2_image_asset": "images/additional_info/healthy_eating_2.svg",
+      "step_3_image_asset": "images/additional_info/healthy_eating_3.svg",
+      "step_4_image_asset": "images/additional_info/healthy_eating_4.svg",
+      "step_5_image_asset": "images/additional_info/healthy_eating_5.svg",
       "tag_list": [
         "nutrition"
       ],
@@ -191,33 +205,36 @@
           "eng": "How to Encourage Healthy Eating Habits:"
         },
         "step_1_text": {
-          "eng": "1. Eating together as a family, enjoy foods of all the groups to help children imitate the example of older siblings and parents"
+          "eng": "Eating together as a family, enjoy foods of all the groups to help children imitate the example of older siblings and parents"
         },
         "step_2_text": {
-          "eng": "2. Encouraging them to help select healthy colored fruits, vegetables, and healthy meats or other foods during grocery shopping"
+          "eng": "Encouraging them to help select healthy colored fruits, vegetables, and healthy meats or other foods during grocery shopping"
         },
         "step_3_text": {
-          "eng": "3. Letting them help with food preparation especially from the vegetable and pulses group"
+          "eng": "Letting them help with food preparation especially from the vegetable and pulses group"
         },
         "step_4_text": {
-          "eng": "4. Stocking fruits rather than fruit juice and chews, and cold water rather than soda or other sweetened drinks"
+          "eng": "Stocking fruits rather than fruit juice and chews, and cold water rather than soda or other sweetened drinks"
         },
         "step_5_text": {
-          "eng": "5. Sharing interesting information about how foods are grown and how they reach the local market"
+          "eng": "Sharing interesting information about how foods are grown and how they reach the local market"
         },
         "tips_text": {
-          "eng": "**Involve Children in Meal Preparation:** Allow children to participate in age-appropriate food preparation tasks, which can help them develop a positive relationship with food.\n\n**Make Mealtimes Fun and Social:** As caregiver/parent create a positive and relaxed environment for mealtimes to encourage healthy eating habits and responsive feeding."
+          "eng": "Involve Children in Meal Preparation: Allow children to participate in age-appropriate food preparation tasks, which can help them develop a positive relationship with food.\n\nMake Mealtimes Fun and Social: As caregiver/parent create a positive and relaxed environment for mealtimes to encourage healthy eating habits and responsive feeding."
         }
       },
       "intro_text": "How to Encourage Healthy Eating Habits:",
-      "step_1_text": "1. Eating together as a family, enjoy foods of all the groups to help children imitate the example of older siblings and parents",
-      "step_2_text": "2. Encouraging them to help select healthy colored fruits, vegetables, and healthy meats or other foods during grocery shopping",
-      "step_3_text": "3. Letting them help with food preparation especially from the vegetable and pulses group",
-      "step_4_text": "4. Stocking fruits rather than fruit juice and chews, and cold water rather than soda or other sweetened drinks",
-      "step_5_text": "5. Sharing interesting information about how foods are grown and how they reach the local market",
-      "tips_text": "**Involve Children in Meal Preparation:** Allow children to participate in age-appropriate food preparation tasks, which can help them develop a positive relationship with food.\n\n**Make Mealtimes Fun and Social:** As caregiver/parent create a positive and relaxed environment for mealtimes to encourage healthy eating habits and responsive feeding."
+      "step_1_text": "Eating together as a family, enjoy foods of all the groups to help children imitate the example of older siblings and parents",
+      "step_2_text": "Encouraging them to help select healthy colored fruits, vegetables, and healthy meats or other foods during grocery shopping",
+      "step_3_text": "Letting them help with food preparation especially from the vegetable and pulses group",
+      "step_4_text": "Stocking fruits rather than fruit juice and chews, and cold water rather than soda or other sweetened drinks",
+      "step_5_text": "Sharing interesting information about how foods are grown and how they reach the local market",
+      "tips_text": "Involve Children in Meal Preparation: Allow children to participate in age-appropriate food preparation tasks, which can help them develop a positive relationship with food.\n\nMake Mealtimes Fun and Social: As caregiver/parent create a positive and relaxed environment for mealtimes to encourage healthy eating habits and responsive feeding."
     }
   ],
-  "_xlsxPath": "Resource centre/TZ additional_content.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "Resource centre/TZ additional_content.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1cclLwQ3gQ477TxdLq3rJIItcJLXmySK3UNZ7O4TTiMo"
+  }
 }

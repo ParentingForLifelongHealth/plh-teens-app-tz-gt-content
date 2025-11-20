@@ -10,39 +10,73 @@
   },
   "rows": [
     {
-      "type": "image",
-      "name": "image",
-      "value": "@gen.image_asset"
+      "name": "show_odk_form",
+      "value": false
     },
     {
-      "type": "text",
-      "name": "text",
-      "value": "@gen.congratulation_text"
-    },
-    {
-      "type": "audio",
-      "name": "audio",
-      "value": "@gen.audio_asset"
-    },
-    {
-      "type": "button",
-      "name": "odk_button",
-      "value": "Feedback",
-      "action_list": [
+      "type": "display_group",
+      "name": "congrats",
+      "parameter_list": [
+        "style: column"
+      ],
+      "condition": "!@local.show_odk_form",
+      "rows": [
         {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "odk_form"
-          ],
-          "_raw": "click |  go_to: odk_form",
-          "_cleaned": "click |  go_to: odk_form"
+          "type": "image",
+          "name": "image",
+          "value": "@gen.image_asset"
+        },
+        {
+          "type": "text",
+          "name": "text",
+          "value": "@gen.congratulation_text"
+        },
+        {
+          "type": "audio",
+          "name": "audio",
+          "value": "@gen.audio_asset"
+        },
+        {
+          "type": "button",
+          "name": "odk_button",
+          "value": "Feedback",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "show_odk_form",
+                true
+              ],
+              "_raw": "click | set_local: show_odk_form: true"
+            }
+          ]
         }
       ]
+    },
+    {
+      "type": "template",
+      "name": "odk_form",
+      "value": "odk_form_@gen.id",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed"
+        }
+      ],
+      "condition": "@local.show_odk_form",
+      "rows": []
     }
   ],
-  "_xlsxPath": "modules/TZ module_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_source": {
+    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+    "path": "modules/TZ module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1hIT1V3xGZRFyD-k2heJibYr-UTqkkCc6eCvreiokNMk"
+  },
   "_output_flows": [
     {
       "flow_name": "module_join_congrats",

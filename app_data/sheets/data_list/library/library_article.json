@@ -1,0 +1,154 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "library_article",
+  "status": "released",
+  "flow_subtype": "library",
+  "rows": [
+    {
+      "id": "support_1",
+      "library_section_list": [
+        "support"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1UWzbim0nxAVSpWS4Pf_kod0awYxUiuITo0nxDAFKZ0k",
+      "title": "An emergency",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "An emergency"
+        },
+        "introduction": {
+          "eng": "**Are you in need of emergent assistance?**\n\n📞  Police: 112\n\n📞  General: 0222 117 362\n\n📞  Ambulance: 0754 760 790\n\n📞  National Child Helpline: 116"
+        }
+      },
+      "introduction": "**Are you in need of emergent assistance?**\n\n📞  Police: 112\n\n📞  General: 0222 117 362\n\n📞  Ambulance: 0754 760 790\n\n📞  National Child Helpline: 116"
+    },
+    {
+      "id": "support_2",
+      "library_section_list": [
+        "support"
+      ],
+      "title": "A challenge with alcohol or drugs",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A challenge with alcohol or drugs"
+        },
+        "introduction": {
+          "eng": "**Would you like to talk to someone about challenges you or a loved one are experiencing with alcohol or drugs?**\n\n**Alcoholics Anonymous (AA)**\nAA supports men and women to help them recover from alcoholism. This service is free and completely anonymous.\n📞 0689 297 702 \n📞 0782 638 607\n📞 0754 752 705"
+        }
+      },
+      "introduction": "**Would you like to talk to someone about challenges you or a loved one are experiencing with alcohol or drugs?**\n\n**Alcoholics Anonymous (AA)**\nAA supports men and women to help them recover from alcoholism. This service is free and completely anonymous.\n📞 0689 297 702 \n📞 0782 638 607\n📞 0754 752 705"
+    },
+    {
+      "id": "support_3",
+      "library_section_list": [
+        "support"
+      ],
+      "title": "A legal problem",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A legal problem"
+        },
+        "introduction": {
+          "eng": "**Do you need legal assistance?**\n\n**Tanzania Legal Aid (TANLAP)**\nTANLAP connects you to groups providing affordable legal aid in Tanzania.\n📞 0222 761 806\n📞 0746 237 265"
+        }
+      },
+      "introduction": "**Do you need legal assistance?**\n\n**Tanzania Legal Aid (TANLAP)**\nTANLAP connects you to groups providing affordable legal aid in Tanzania.\n📞 0222 761 806\n📞 0746 237 265"
+    },
+    {
+      "id": "support_4",
+      "library_section_list": [
+        "support"
+      ],
+      "title": "Feeling unsafe at home or in my relationship",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feeling unsafe at home or in my relationship"
+        },
+        "introduction": {
+          "eng": "**Would you like to talk to someone about feeling unsafe in your home or with your partner?**\n\n**Women's Legal Aid Centre**\nWLC is a non-profit organisation that helps to empower women to secure their rights across Tanzania.\n📞 Helpline 0800 780 100"
+        }
+      },
+      "introduction": "**Would you like to talk to someone about feeling unsafe in your home or with your partner?**\n\n**Women's Legal Aid Centre**\nWLC is a non-profit organisation that helps to empower women to secure their rights across Tanzania.\n📞 Helpline 0800 780 100"
+    },
+    {
+      "id": "support_5",
+      "library_section_list": [
+        "support"
+      ],
+      "title": "A challenge in my family",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A challenge in my family"
+        },
+        "introduction": {
+          "eng": "**Do you need more information or support in managing a challenge in your family?**\n\n**Counselling and Family Life Organisation (CAFLO)**\nCAFLO offers counseling, empowerment and advocacy for families in Tanzania.\n📞 0754 833 145\n📞 0717 977 370\n📞 0787 889 981"
+        }
+      },
+      "introduction": "**Do you need more information or support in managing a challenge in your family?**\n\n**Counselling and Family Life Organisation (CAFLO)**\nCAFLO offers counseling, empowerment and advocacy for families in Tanzania.\n📞 0754 833 145\n📞 0717 977 370\n📞 0787 889 981"
+    },
+    {
+      "id": "support_6",
+      "library_section_list": [
+        "support"
+      ],
+      "title": "Feelings of anxiety or sadness",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feelings of anxiety or sadness"
+        },
+        "introduction": {
+          "eng": "**Do you have questions about what to do if you or a loved one may be feeling sad or anxious?**\n\n**Mental Health Association of Tanzania**\nProfessional organisation with a long history of supporting mental health services in Tanzania.\n📞 0757 528 295\n\n**Tap Elderly Women's Wisdom for Youth (TEWWY)**\nTEWWY has local Wisdom & Wellness Counselors who provide free and accessible mental health services, support and resources in their communities.\n📞 0757 327 878\n📱 WhatsApp 0737 773 982"
+        }
+      },
+      "introduction": "**Do you have questions about what to do if you or a loved one may be feeling sad or anxious?**\n\n**Mental Health Association of Tanzania**\nProfessional organisation with a long history of supporting mental health services in Tanzania.\n📞 0757 528 295\n\n**Tap Elderly Women's Wisdom for Youth (TEWWY)**\nTEWWY has local Wisdom & Wellness Counselors who provide free and accessible mental health services, support and resources in their communities.\n📞 0757 327 878\n📱 WhatsApp 0737 773 982"
+    },
+    {
+      "id": "support_7",
+      "library_section_list": [
+        "support"
+      ],
+      "title": "A loved one feeling anxious or sad",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A loved one feeling anxious or sad"
+        },
+        "introduction": {
+          "eng": "**Do you have questions about what to do if you or a loved one may be feeling sad or anxious?**\n\n\n \n**TEWWY's Mental Health Q&A booklet**\nThis booklet answers some common questions about mental health and provides information that could be helpful for you or your loved one.\n📞 0800 117 785\n🌐 https://img1.wsimg.com/blobby/go/49901642-c520-4f6a-9891-50a3e3530772/Afya%20ya%20Akili%20Booklet.pdf"
+        }
+      },
+      "introduction": "**Do you have questions about what to do if you or a loved one may be feeling sad or anxious?**\n\n\n \n**TEWWY's Mental Health Q&A booklet**\nThis booklet answers some common questions about mental health and provides information that could be helpful for you or your loved one.\n📞 0800 117 785\n🌐 https://img1.wsimg.com/blobby/go/49901642-c520-4f6a-9891-50a3e3530772/Afya%20ya%20Akili%20Booklet.pdf"
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "data/TZ library articles.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1T1QYxf3VRQ0wlyOyZJDe99mOI_KFDeFEqGD4j4O5778"
+  }
+}

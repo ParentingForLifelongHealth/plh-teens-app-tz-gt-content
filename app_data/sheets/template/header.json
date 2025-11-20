@@ -4,45 +4,6 @@
   "status": "released",
   "rows": [
     {
-      "type": "display_group",
-      "name": "dg_header",
-      "condition": "@fields._deployment_name != \"plh_kids_kw\"",
-      "style_list": [
-        "align-items: center"
-      ],
-      "rows": [
-        {
-          "type": "image",
-          "name": "icon_asset",
-          "style_list": [
-            "width: 46px"
-          ],
-          "_nested_name": "dg_header.icon_asset"
-        },
-        {
-          "type": "title",
-          "name": "title",
-          "_nested_name": "dg_header.title"
-        }
-      ],
-      "_nested_name": "dg_header",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@fields._deployment_name != \"plh_kids_kw\"",
-            "matchedExpression": "@fields._deployment_name",
-            "type": "fields",
-            "fieldName": "_deployment_name"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@fields._deployment_name": [
-          "condition"
-        ]
-      }
-    },
-    {
       "name": "close_icon_asset",
       "value": "close",
       "_translations": {
@@ -59,7 +20,6 @@
         "sticky": "top",
         "style": "background_solid"
       },
-      "condition": "@fields._deployment_name == \"plh_kids_kw\"",
       "style_list": [
         "align-items: center",
         "padding-top: 12px",
@@ -121,27 +81,12 @@
           }
         }
       ],
-      "_nested_name": "dg_header",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@fields._deployment_name == \"plh_kids_kw\"",
-            "matchedExpression": "@fields._deployment_name",
-            "type": "fields",
-            "fieldName": "_deployment_name"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@fields._deployment_name": [
-          "condition"
-        ]
-      }
+      "_nested_name": "dg_header"
     }
   ],
   "_source": {
-    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
-    "path": "templates/app_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1iPMIw0f_H4-w9lbNER1-OREJ8b9RlgzQvr6innaGC9s"
+    "name": "kids_teens_global",
+    "path": "PLH app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jWVWtpRFixLG5K_m2vQIKnhqTMAIq6_F0pSdApBQ1jc"
   }
 }

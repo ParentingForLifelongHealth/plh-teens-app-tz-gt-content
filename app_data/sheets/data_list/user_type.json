@@ -5,8 +5,8 @@
   "data_list_name": "user_type",
   "rows": [
     {
-      "id": "caregiver",
-      "name": "caregiver",
+      "id": "parent",
+      "name": "parent",
       "text": "Parent or caregiver",
       "_translations": {
         "text": {
@@ -66,8 +66,8 @@
     }
   ],
   "_source": {
-    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
-    "path": "templates/kids app_launch.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1c9jlsy-uXdX9nxrhjXO4tXPvRfQPTjI89yZS6pf87Dc"
+    "name": "teens_tz",
+    "path": "data/deployment_data_tz.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1DjzYwjPkUV-meBwiePiDB00TN5zXa2l0gsSk6LU6ZNA"
   }
 }

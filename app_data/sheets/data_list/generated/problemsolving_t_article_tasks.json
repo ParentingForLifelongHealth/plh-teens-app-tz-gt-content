@@ -1,0 +1,636 @@
+{
+  "flow_name": "problemsolving_t_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_11",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_11.mp3",
+      "media_type": "audio",
+      "title": "Counting sounds",
+      "_translations": {
+        "title": {},
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Counting sounds"
+        },
+        "transcript": {
+          "eng": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now."
+        }
+      },
+      "transcript": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now.",
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Caring for yourself is so essential. When you know how you feel, you can see what you need."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well. Keep up the good work."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have better and worse days. The fact that you are here shows courage and commitment!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Caring for yourself is so essential. When you know how you feel, you can see what you need.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well. Keep up the good work.",
+      "quiz_1_feedback_2": "We all have better and worse days. The fact that you are here shows courage and commitment!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "media_asset": "/audio/teen/topic_intros/solve_intro_t.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today's topic is about problem solving. \n\nEvery family faces challenges, but when we work together we can deal with problems in an effective and peaceful way.\n\nWhat a great skill for your teen to learn too!"
+        },
+        "media_title": {
+          "eng": "How can problem solving help you and your family?"
+        },
+        "media_transcript": {
+          "eng": "Greetings, everyone.\n\nToday's topic is problem solving.\n\nWe all know that in life there are times where we face problems, and we all know in a way that when we find ourselves in these situations, it is difficult to think of immediate positive solutions.\n\nTherefore, it is important that when we are facing problems we take a pause, we breathe, keep calm and think of problem-solving skills that we may use.\n\nRemember to include our teenagers when we are solving problems. This will help them to become responsible and learn how to solve their own problems in the future."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today's topic is about problem solving. \n\nEvery family faces challenges, but when we work together we can deal with problems in an effective and peaceful way.\n\nWhat a great skill for your teen to learn too!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "How can problem solving help you and your family?",
+      "media_transcript": "Greetings, everyone.\n\nToday's topic is problem solving.\n\nWe all know that in life there are times where we face problems, and we all know in a way that when we find ourselves in these situations, it is difficult to think of immediate positive solutions.\n\nTherefore, it is important that when we are facing problems we take a pause, we breathe, keep calm and think of problem-solving skills that we may use.\n\nRemember to include our teenagers when we are solving problems. This will help them to become responsible and learn how to solve their own problems in the future.",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "As parents, we sometimes think we need to fix every problem by ourselves. And teens can think the same! \n\nBy involving your teen, you strengthen your relationship as well as their confidence. Together you can overcome anything."
+        },
+        "media_title": {
+          "eng": "Can problem solving keep your teens safe? It did for @data.characters.media_female_4.name - tap play to hear her story"
+        },
+        "media_transcript": {
+          "eng": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n\nWe agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "As parents, we sometimes think we need to fix every problem by ourselves. And teens can think the same! \n\nBy involving your teen, you strengthen your relationship as well as their confidence. Together you can overcome anything.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "Can problem solving keep your teens safe? It did for @data.characters.media_female_4.name - tap play to hear her story",
+      "media_transcript": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n\nWe agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Problem-solving together is an important skill for every family. Let’s see how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name handle a problem calmly and find a plan together."
+        },
+        "text_2": {
+          "eng": "@data.characters.f2_grandmother.name comes back from the market and finds @data.characters.f2_son_15.name at home in a dirty school uniform with a sleeve missing."
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!"
+        },
+        "character_2_text": {
+          "eng": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Problem-solving together is an important skill for every family. Let’s see how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name handle a problem calmly and find a plan together.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "/images/teen_modules/solve/solve2_t_1.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "text_2": "@data.characters.f2_grandmother.name comes back from the market and finds @data.characters.f2_son_15.name at home in a dirty school uniform with a sleeve missing.",
+      "character_1_text": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!",
+      "character_2_text": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he...",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Just give me a moment. I am tired and now worried about having to repair this uniform."
+        },
+        "character_2_text": {
+          "eng": "I am sorry, @data.characters.f2_grandmother.role_name."
+        },
+        "character_3_text": {
+          "eng": "(🤔_thinking_) Take a pause… just breathe…"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_2.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "Just give me a moment. I am tired and now worried about having to repair this uniform.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "I am sorry, @data.characters.f2_grandmother.role_name.",
+      "character_3_id": "f2_grandmother",
+      "character_3_text": "(🤔_thinking_) Take a pause… just breathe…",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Now tell me, what happened?"
+        },
+        "character_2_text": {
+          "eng": "This boy in class pulled me off my desk and tore my sleeve. He is kicking me every day, and takes my pens and exercise books."
+        },
+        "character_3_text": {
+          "eng": "I am sorry to hear that, but I am glad you told me, @data.characters.f2_son_15.name. We need to do something about your uniform though. After we speak, you can wash it and I will repair it. But first, what do you think we should do about the bully problem."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_3.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "Now tell me, what happened?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "This boy in class pulled me off my desk and tore my sleeve. He is kicking me every day, and takes my pens and exercise books.",
+      "character_3_id": "f2_grandmother",
+      "character_3_text": "I am sorry to hear that, but I am glad you told me, @data.characters.f2_son_15.name. We need to do something about your uniform though. After we speak, you can wash it and I will repair it. But first, what do you think we should do about the bully problem.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "He makes me so angry, I just want to hit him. Or maybe I should tell my teacher?"
+        },
+        "character_2_text": {
+          "eng": "Hmm… what do you think would happen if you hit him? And what might happen if you tell the teacher?"
+        },
+        "character_3_text": {
+          "eng": "If I hit him, we might fight and I could get into trouble. If I tell the teacher, maybe the other kids will laugh at me… Maybe you could talk to the teacher?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_4.svg",
+      "character_1_id": "f2_son_15",
+      "character_2_id": "f2_grandmother",
+      "character_1_text": "He makes me so angry, I just want to hit him. Or maybe I should tell my teacher?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Hmm… what do you think would happen if you hit him? And what might happen if you tell the teacher?",
+      "character_3_id": "f2_son_15",
+      "character_3_text": "If I hit him, we might fight and I could get into trouble. If I tell the teacher, maybe the other kids will laugh at me… Maybe you could talk to the teacher?",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "That sounds like a good idea. I can speak with your teacher or the school — they know how to handle this safely."
+        },
+        "character_2_text": {
+          "eng": "Maybe wait, @data.characters.f2_grandmother.role_name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_5.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "That sounds like a good idea. I can speak with your teacher or the school — they know how to handle this safely.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Maybe wait, @data.characters.f2_grandmother.role_name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?",
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "No, John, skipping school won’t help. You have a right to be safe. Let’s practise what you can say if he threatens you again — something simple and firm."
+        },
+        "character_2_text": {
+          "eng": "Maybe I can say, \"Stop. I don’t like that.\""
+        },
+        "character_3_text": {
+          "eng": "Good. And remember — walk away and stand near other children or the teacher. You are not alone."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_6.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "No, John, skipping school won’t help. You have a right to be safe. Let’s practise what you can say if he threatens you again — something simple and firm.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Maybe I can say, \"Stop. I don’t like that.\"",
+      "character_3_id": "f2_grandmother",
+      "character_3_text": "Good. And remember — walk away and stand near other children or the teacher. You are not alone.",
+      "completed": false
+    },
+    {
+      "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "*A week later…*"
+        },
+        "character_1_text": {
+          "eng": "How are things going at school now?"
+        },
+        "character_2_text": {
+          "eng": "It’s better. The boy stopped kicking me, but he still says mean things.”"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_7.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "text_2": "*A week later…*",
+      "_translations": {
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_1_text": "How are things going at school now?",
+      "character_2_text": "It’s better. The boy stopped kicking me, but he still says mean things.”",
+      "completed": false
+    },
+    {
+      "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works."
+        },
+        "character_2_text": {
+          "eng": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_8.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side.",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!"
+        },
+        "section_1_title": {
+          "eng": "KNOW IT"
+        },
+        "section_1_text": {
+          "eng": "Identify the problem."
+        },
+        "section_2_title": {
+          "eng": "SOLVE IT"
+        },
+        "section_2_text": {
+          "eng": "Think of possible solutions and what would happen if we used them."
+        },
+        "section_3_title": {
+          "eng": "TRY IT"
+        },
+        "section_3_text": {
+          "eng": "Choose a solution and try it out."
+        },
+        "section_4_title": {
+          "eng": "TEST IT"
+        },
+        "section_4_text": {
+          "eng": "Did it work? Great! If it did not work, then try another solution."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_icon_asset": "images/icons/brain_blue.png",
+      "section_1_image_asset": "/images/teen_modules/solve/solve_tool_t_1.svg",
+      "section_2_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_2_image_asset": "/images/teen_modules/solve/solve_tool_t_2.svg",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_image_asset": "/images/teen_modules/solve/solve_tool_t_3.svg",
+      "section_4_icon_asset": "images/icons/trophy_blue.png",
+      "section_4_image_asset": "/images/teen_modules/solve/solve_tool_t_4.svg",
+      "section_1_title": "KNOW IT",
+      "section_1_text": "Identify the problem.",
+      "section_2_title": "SOLVE IT",
+      "section_2_text": "Think of possible solutions and what would happen if we used them.",
+      "section_3_title": "TRY IT",
+      "section_3_text": "Choose a solution and try it out.",
+      "section_4_title": "TEST IT",
+      "section_4_text": "Did it work? Great! If it did not work, then try another solution.",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Now let’s try problem-solving together.\nImagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and her mother, @data.characters.f1_mother.name, feels worried about it."
+        },
+        "quiz_1_question": {
+          "eng": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Ground @data.characters.f1_daughter_13.name for a month"
+        },
+        "quiz_1_feedback_1_id": {
+          "eng": "practise_14_nested_1"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Return the phone and save up together to buy a new one"
+        },
+        "quiz_1_feedback_2_id": {
+          "eng": "practise_14_nested_2"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Talk to @data.characters.f1_daughter_13.name about safe sex"
+        },
+        "quiz_1_feedback_3_id": {
+          "eng": "practise_14_nested_3"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Listen to @data.characters.f1_daughter_13.name's side of the story"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "practise_14_nested_3"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Take a deep breath before reacting"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_question": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_feedback_1_id": {},
+        "quiz_1_feedback_2_id": {},
+        "quiz_1_feedback_3_id": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {}
+      },
+      "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_13.name for a month",
+      "quiz_1_option_2_text": "Return the phone and save up together to buy a new one",
+      "quiz_1_option_3_text": "Talk to @data.characters.f1_daughter_13.name about safe sex",
+      "text_1_facilitator": "Now let’s try problem-solving together.\nImagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and her mother, @data.characters.f1_mother.name, feels worried about it.",
+      "quiz_1_feedback_1_id": "practise_14_nested_1",
+      "quiz_1_feedback_2_id": "practise_14_nested_2",
+      "quiz_1_feedback_3_id": "practise_14_nested_3",
+      "quiz_1_option_4_text": "Listen to @data.characters.f1_daughter_13.name's side of the story",
+      "quiz_1_feedback_4": "practise_14_nested_3",
+      "quiz_1_option_5_text": "Take a deep breath before reacting",
+      "completed": false
+    },
+    {
+      "id": "practise_15",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When something bad happens, we often get upset and blame. But what our teens really need is someone to help find solutions together. \n\nListen to them, accept how they see and feel things, and thank them for trusting you.\n\nTeaching your teen how to deal with problems will help them for the rest of their lives. What a gift!"
+        },
+        "text_2": {
+          "eng": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "When something bad happens, we often get upset and blame. But what our teens really need is someone to help find solutions together. \n\nListen to them, accept how they see and feel things, and thank them for trusting you.\n\nTeaching your teen how to deal with problems will help them for the rest of their lives. What a gift!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Your home activity this week is to teach your teenagers the steps for problem-solving and use them together when a problem comes up."
+        },
+        "text_2": {
+          "eng": "**Remember to use the four steps of problem-solving:** \n💭 Step 1: KNOW IT (identify problem)\n📋 Step 2: SOLVE IT (identify solutions) \n⚒️ Step 3: TRY IT (try one) \n🎯 Step 4: TEST IT (try another solution if this one did not work)"
+        },
+        "quiz_1_question": {
+          "eng": "Can you solve one problem together with your teen this week - using the four steps?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's great! Working together with your teen will bring so many good outcomes for you both."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "I think so"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "You can do it! Try it out with a ‘small’ problem that may come up, so you can see how it works before tackling a bigger challenge."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That's okay. Just remember that when a situation feels overwhelming, it can really help to use the four steps of problem solving with your teen to break the problem down."
+        }
+      },
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That's great! Working together with your teen will bring so many good outcomes for you both.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "quiz_1_feedback_2": "You can do it! Try it out with a ‘small’ problem that may come up, so you can see how it works before tackling a bigger challenge.",
+      "quiz_1_feedback_3": "That's okay. Just remember that when a situation feels overwhelming, it can really help to use the four steps of problem solving with your teen to break the problem down.",
+      "quiz_1_question": "Can you solve one problem together with your teen this week - using the four steps?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
+      "text_1_facilitator": "Your home activity this week is to teach your teenagers the steps for problem-solving and use them together when a problem comes up.",
+      "text_2": "**Remember to use the four steps of problem-solving:** \n💭 Step 1: KNOW IT (identify problem)\n📋 Step 2: SOLVE IT (identify solutions) \n⚒️ Step 3: TRY IT (try one) \n🎯 Step 4: TEST IT (try another solution if this one did not work)",
+      "completed": false
+    },
+    {
+      "id": "teen_test_1",
+      "media_asset": "/audio/teen/testimonials/teen/teen_test_solve_t.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "We all have problems, but they don’t define us! You can choose to address challenges and try different solutions together with your teen. \nThis shows your teen that they are never alone and gives them a key skill to use at home, with friends, and for life!"
+        },
+        "media_title": {
+          "eng": "Can you make an impact on your community with these skills? Hear @data.characters.media_son_2.name's story"
+        },
+        "media_transcript": {
+          "eng": "When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends.\n\nI told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.”\n\nMy friends even took it to their own homes, and it is helping with their families as well!\n\nIt is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family."
+        }
+      },
+      "category_id": "teen_test",
+      "nested": false,
+      "text_1_facilitator": "We all have problems, but they don’t define us! You can choose to address challenges and try different solutions together with your teen. \nThis shows your teen that they are never alone and gives them a key skill to use at home, with friends, and for life!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "Can you make an impact on your community with these skills? Hear @data.characters.media_son_2.name's story",
+      "media_transcript": "When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends.\n\nI told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.”\n\nMy friends even took it to their own homes, and it is helping with their families as well!\n\nIt is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "library_section",
+  "status": "released",
+  "data_list_name": "library_section",
+  "flow_subtype": "library",
+  "rows": [
+    {
+      "id": "support",
+      "image": "images/icons/question_mark_blue.svg",
+      "title": "Support Contacts",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Support Contacts"
+        },
+        "introduction": {
+          "eng": "I need help with:"
+        }
+      },
+      "introduction": "I need help with:"
+    },
+    {
+      "id": "essential_tools",
+      "image": "images/icons/star_outline_blue.svg",
+      "title": "Essential Tools",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Essential Tools"
+        }
+      }
+    },
+    {
+      "id": "relax",
+      "image": "images/icons/smile_eyes_down.svg",
+      "title": "Take a Pause",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Take a Pause"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "data/TZ library articles.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1T1QYxf3VRQ0wlyOyZJDe99mOI_KFDeFEqGD4j4O5778"
+  }
+}

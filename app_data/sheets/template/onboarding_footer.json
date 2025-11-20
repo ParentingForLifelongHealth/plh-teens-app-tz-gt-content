@@ -1,0 +1,45 @@
+{
+  "flow_type": "template",
+  "flow_name": "onboarding_footer",
+  "status": "released",
+  "rows": [
+    {
+      "type": "display_group",
+      "name": "dg_bottom",
+      "parameter_list": {
+        "sticky": "bottom",
+        "background_image_asset": "@global.onboarding_footer_image_asset",
+        "background_image_position": "bottom left"
+      },
+      "style_list": [
+        "aspect-ratio: 1",
+        "width: 100%",
+        "pointer-events: none"
+      ],
+      "rows": [],
+      "_nested_name": "dg_bottom",
+      "_dynamicFields": {
+        "parameter_list": {
+          "background_image_asset": [
+            {
+              "fullExpression": "@global.onboarding_footer_image_asset",
+              "matchedExpression": "@global.onboarding_footer_image_asset",
+              "type": "global",
+              "fieldName": "onboarding_footer_image_asset"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@global.onboarding_footer_image_asset": [
+          "parameter_list.background_image_asset"
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "name": "library_PLH_onboarding",
+    "path": "PLH onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+  }
+}

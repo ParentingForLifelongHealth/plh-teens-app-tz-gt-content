@@ -3,8 +3,8 @@
   "flow_name": "gen_module_start_at_uncompleted",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "modules_released",
-    "output_flow_name": "module_{@gen.id}_start_at_uncompleted_with_congrats",
+    "input_data_list": "modules",
+    "output_flow_name": "module_{@gen.id}_start_at_uncompleted",
     "output_flow_type": "template",
     "output_flow_subtype": "generated"
   },
@@ -35,14 +35,6 @@
       "exclude_from_translation": true
     },
     {
-      "name": "congrats",
-      "value": "_congrats"
-    },
-    {
-      "name": "congratulations_template",
-      "value": "module_@gen.id@local.congrats"
-    },
-    {
       "type": "data_items",
       "name": "find_first_uncompleted_article",
       "value": "@local.articles_data",
@@ -64,17 +56,6 @@
                 "completed"
               ],
               "_raw": "completed | emit: completed"
-            },
-            {
-              "trigger": "completed",
-              "action_id": "pop_up",
-              "args": [
-                "@local.congratulations_template"
-              ],
-              "_raw": "completed | pop_up: @local.congratulations_template | fullscreen: true",
-              "params": {
-                "fullscreen": true
-              }
             },
             {
               "trigger": "uncompleted",
@@ -103,53 +84,88 @@
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "modules/TZ module_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1hIT1V3xGZRFyD-k2heJibYr-UTqkkCc6eCvreiokNMk"
+    "name": "kids_global",
+    "path": "templates/modules/module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MeuVFYp7ovMCABdgC5c1mExgDK8Xop13fzzBNR5EAPo"
   },
   "_output_flows": [
     {
-      "flow_name": "module_join_start_at_uncompleted_with_congrats",
+      "flow_name": "module_selfcare_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_connect_start_at_uncompleted_with_congrats",
+      "flow_name": "module_oneononetime_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_care_start_at_uncompleted_with_congrats",
+      "flow_name": "module_praise_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_create_start_at_uncompleted_with_congrats",
+      "flow_name": "module_instructions_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_play_start_at_uncompleted_with_congrats",
+      "flow_name": "module_stress_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_talk_start_at_uncompleted_with_congrats",
+      "flow_name": "module_problemsolving_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_build_start_at_uncompleted_with_congrats",
+      "flow_name": "module_money_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_explore_start_at_uncompleted_with_congrats",
+      "flow_name": "module_rules_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_reflect_start_at_uncompleted_with_congrats",
+      "flow_name": "module_consequences_t_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_safety_t_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_crisis_t_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_srh_t_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_stayingsafe_t_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_grief_t_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_learn_t_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_celebrate_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

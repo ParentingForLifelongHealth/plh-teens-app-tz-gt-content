@@ -20,12 +20,27 @@
       "rows": [
         {
           "name": "title",
-          "value": "Profile",
+          "value": "@global.profile",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "settings_header.title"
+          "_nested_name": "settings_header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.profile",
+                "matchedExpression": "@global.profile",
+                "type": "global",
+                "fieldName": "profile"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.profile": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "settings_header"
@@ -113,8 +128,8 @@
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "Tz settings.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1ItJ9TnB2nqWuPacFcLM-Bzy0ZF1U0LOtZlBPqq3l_SY"
+    "name": "kids_teens_global",
+    "path": "PLH settings.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1uBEmZtqR_EeWZCjDQ6i6fdL56Vh8IasbzpEGTVlmNvs"
   }
 }

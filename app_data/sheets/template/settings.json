@@ -6,28 +6,10 @@
     "app_config": {
       "LAYOUT": {
         "page_padding": "24px 0"
-      },
-      "APP_HEADER_DEFAULTS": {
-        "hidden": true
       }
     }
   },
   "rows": [
-    {
-      "type": "update_action_list",
-      "name": "update_login_button",
-      "action_list": [
-        {
-          "trigger": "nav_resume",
-          "action_id": "emit",
-          "args": [
-            "force_reload"
-          ],
-          "_raw": "nav_resume | emit: force_reload"
-        }
-      ],
-      "_nested_name": "update_login_button"
-    },
     {
       "name": "next_icon_asset",
       "value": "chevron-forward",
@@ -40,7 +22,7 @@
     },
     {
       "name": "profile_icon",
-      "value": "images/icons/profile.svg",
+      "value": "images/icons/profile_card.svg",
       "_translations": {
         "value": {}
       },
@@ -50,7 +32,7 @@
     },
     {
       "name": "language_icon",
-      "value": "images/icons/language.svg",
+      "value": "images/icons/world.svg",
       "_translations": {
         "value": {}
       },
@@ -60,7 +42,7 @@
     },
     {
       "name": "user_id_icon",
-      "value": "images/icons/user_id.svg",
+      "value": "images/icons/key.svg",
       "_translations": {
         "value": {}
       },
@@ -70,7 +52,7 @@
     },
     {
       "name": "about_icon",
-      "value": "images/icons/about_parentapp.svg",
+      "value": "images/icons/magnify_glass.svg",
       "_translations": {
         "value": {}
       },
@@ -80,7 +62,7 @@
     },
     {
       "name": "terms_icon",
-      "value": "images/icons/terms_conditions.svg",
+      "value": "images/icons/feather.svg",
       "_translations": {
         "value": {}
       },
@@ -90,7 +72,7 @@
     },
     {
       "name": "privacy_icon",
-      "value": "images/icons/privacy_policy.svg",
+      "value": "images/icons/document.svg",
       "_translations": {
         "value": {}
       },
@@ -101,7 +83,7 @@
     {
       "type": "title",
       "name": "settings",
-      "value": "Settings",
+      "value": "@global.settings",
       "_translations": {
         "value": {}
       },
@@ -111,19 +93,51 @@
       "style_list": [
         "padding-inline: 24px"
       ],
-      "_nested_name": "settings"
+      "exclude_from_translation": true,
+      "_nested_name": "settings",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.settings",
+            "matchedExpression": "@global.settings",
+            "type": "global",
+            "fieldName": "settings"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.settings": [
+          "value"
+        ]
+      }
     },
     {
       "type": "title",
       "name": "account",
-      "value": "Account",
+      "value": "@global.account",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
         "variant": "section_banner"
       },
-      "_nested_name": "account"
+      "exclude_from_translation": true,
+      "_nested_name": "account",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.account",
+            "matchedExpression": "@global.account",
+            "type": "global",
+            "fieldName": "account"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.account": [
+          "value"
+        ]
+      }
     },
     {
       "type": "display_group",
@@ -132,11 +146,82 @@
         "variant": "inline_padding",
         "style": "column"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "button",
+          "name": "button_login",
+          "value": "@global.account",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "variant": "card",
+            "icon": "@local.user_id_icon",
+            "icon_secondary_asset": "@local.next_icon_asset",
+            "style": "no-background",
+            "text_align": "left"
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "settings_login"
+              ],
+              "_raw": "click | pop_up: settings_login | fullscreen: true, showCloseButton: false",
+              "params": {
+                "fullscreen": true,
+                "showCloseButton": false
+              }
+            }
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "dg_account.button_login",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.account",
+                "matchedExpression": "@global.account",
+                "type": "global",
+                "fieldName": "account"
+              }
+            ],
+            "parameter_list": {
+              "icon": [
+                {
+                  "fullExpression": "@local.user_id_icon",
+                  "matchedExpression": "@local.user_id_icon",
+                  "type": "local",
+                  "fieldName": "user_id_icon"
+                }
+              ],
+              "icon_secondary_asset": [
+                {
+                  "fullExpression": "@local.next_icon_asset",
+                  "matchedExpression": "@local.next_icon_asset",
+                  "type": "local",
+                  "fieldName": "next_icon_asset"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@global.account": [
+              "value"
+            ],
+            "@local.user_id_icon": [
+              "parameter_list.icon"
+            ],
+            "@local.next_icon_asset": [
+              "parameter_list.icon_secondary_asset"
+            ]
+          }
+        },
+        {
+          "type": "button",
           "name": "button_profile",
-          "value": "Profile",
+          "value": "@global.profile",
           "_translations": {
             "value": {}
           },
@@ -161,8 +246,17 @@
               }
             }
           ],
+          "exclude_from_translation": true,
           "_nested_name": "dg_account.button_profile",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.profile",
+                "matchedExpression": "@global.profile",
+                "type": "global",
+                "fieldName": "profile"
+              }
+            ],
             "parameter_list": {
               "icon": [
                 {
@@ -183,6 +277,9 @@
             }
           },
           "_dynamicDependencies": {
+            "@global.profile": [
+              "value"
+            ],
             "@local.profile_icon": [
               "parameter_list.icon"
             ],
@@ -331,74 +428,6 @@
               "parameter_list.icon_secondary_asset"
             ]
           }
-        },
-        {
-          "type": "button",
-          "name": "button_how",
-          "value": "How to use @global.app_name",
-          "_translations": {
-            "value": {}
-          },
-          "parameter_list": {
-            "variant": "card",
-            "icon": "@local.about_icon",
-            "icon_secondary_asset": "@local.next_icon_asset",
-            "style": "no-background",
-            "text_align": "left"
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "pop_up",
-              "args": [
-                "tour_video"
-              ],
-              "_raw": "click | pop_up: tour_video | fullscreen: true",
-              "params": {
-                "fullscreen": true
-              }
-            }
-          ],
-          "_nested_name": "dg_account.button_how",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "How to use @global.app_name",
-                "matchedExpression": "@global.app_name",
-                "type": "global",
-                "fieldName": "app_name"
-              }
-            ],
-            "parameter_list": {
-              "icon": [
-                {
-                  "fullExpression": "@local.about_icon",
-                  "matchedExpression": "@local.about_icon",
-                  "type": "local",
-                  "fieldName": "about_icon"
-                }
-              ],
-              "icon_secondary_asset": [
-                {
-                  "fullExpression": "@local.next_icon_asset",
-                  "matchedExpression": "@local.next_icon_asset",
-                  "type": "local",
-                  "fieldName": "next_icon_asset"
-                }
-              ]
-            }
-          },
-          "_dynamicDependencies": {
-            "@global.app_name": [
-              "value"
-            ],
-            "@local.about_icon": [
-              "parameter_list.icon"
-            ],
-            "@local.next_icon_asset": [
-              "parameter_list.icon_secondary_asset"
-            ]
-          }
         }
       ],
       "_nested_name": "dg_account"
@@ -406,14 +435,30 @@
     {
       "type": "title",
       "name": "general",
-      "value": "General",
+      "value": "@global.general",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
         "variant": "section_banner"
       },
-      "_nested_name": "general"
+      "exclude_from_translation": true,
+      "_nested_name": "general",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.general",
+            "matchedExpression": "@global.general",
+            "type": "global",
+            "fieldName": "general"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.general": [
+          "value"
+        ]
+      }
     },
     {
       "type": "display_group",
@@ -452,6 +497,7 @@
               }
             }
           ],
+          "exclude_from_translation": true,
           "_nested_name": "dg_general.button_about",
           "_dynamicFields": {
             "value": [
@@ -638,15 +684,31 @@
     },
     {
       "type": "title",
-      "name": "feedback",
-      "value": "Feedback",
+      "name": "version",
+      "value": "@global.version",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
         "variant": "section_banner"
       },
-      "_nested_name": "feedback"
+      "exclude_from_translation": true,
+      "_nested_name": "version",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.version",
+            "matchedExpression": "@global.version",
+            "type": "global",
+            "fieldName": "version"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.version": [
+          "value"
+        ]
+      }
     },
     {
       "type": "text",
@@ -687,8 +749,8 @@
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "Tz settings.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1ItJ9TnB2nqWuPacFcLM-Bzy0ZF1U0LOtZlBPqq3l_SY"
+    "name": "kids_teens_global",
+    "path": "PLH settings.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1uBEmZtqR_EeWZCjDQ6i6fdL56Vh8IasbzpEGTVlmNvs"
   }
 }

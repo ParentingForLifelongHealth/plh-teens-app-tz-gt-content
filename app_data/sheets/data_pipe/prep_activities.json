@@ -1,0 +1,29 @@
+{
+  "flow_type": "data_pipe",
+  "flow_name": "prep_activities",
+  "status": "released",
+  "rows": [
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "accessed: FALSE",
+        "locked: TRUE",
+        "favourite: FALSE"
+      ],
+      "input_source": "activities",
+      "output_target": "activity_tasks"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_global",
+    "path": "PLH activity library.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1ejf7JQSM2-kvclr1oZW6jH_a0K_aEZuGQCYOD7RcO8U"
+  },
+  "_output_flows": [
+    {
+      "flow_name": "activity_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

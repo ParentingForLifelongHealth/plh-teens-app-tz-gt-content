@@ -1,0 +1,46 @@
+{
+  "flow_type": "data_list",
+  "flow_subtype": "lifecycle_actions",
+  "flow_name": "launch_actions_tz",
+  "status": "released",
+  "rows": [
+    {
+      "lifecycle_event": "app_start",
+      "id": "migrate_field_defaults",
+      "priority": 1.5,
+      "condition_list": [
+        "@fields.facilitator_id == \"facilitator\""
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "facilitator_id",
+            "facilitator_female"
+          ],
+          "_raw": "set_field: facilitator_id: facilitator_female"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "facilitator_name",
+            "@data.characters.facilitator_female.name"
+          ],
+          "_raw": "set_field: facilitator_name: @data.characters.facilitator_female.name"
+        }
+      ]
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "templates/TZ onboarding templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+  },
+  "_metadata": {
+    "priority": {
+      "type": "number"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "activity_groups",
+  "data_list_name": "activity_groups",
+  "status": "released",
+  "flow_subtype": "activities",
+  "rows": [
+    {
+      "id": "quick",
+      "attached_single_doc": "https://docs.google.com/document/d/1SYYrO7N77VTb4QOWYMuneHczCU_DbL0gvGlK7btRBsI",
+      "title": "Quick",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick"
+        }
+      }
+    },
+    {
+      "id": "group",
+      "title": "Group",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group"
+        }
+      }
+    },
+    {
+      "id": "active",
+      "title": "Active",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Active"
+        }
+      }
+    },
+    {
+      "id": "calm",
+      "title": "Calm",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Calm"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "teens_tz",
+    "path": "data/TZ activities.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/14v2ktYESLCpsXRjJOklM4QhcyKX5tDUrkFQvqp05_Ws"
+  }
+}

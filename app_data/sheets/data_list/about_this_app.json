@@ -6,21 +6,20 @@
   "rows": [
     {
       "id": "text_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1hw8McnrlhAaFhY5rDbJLsiiD7QopT7OX8z7nUwfqPJQ",
-      "text": "ParentApp for Kids Tanzania is a collaboration between the Institute for Life Course Health Research (ILCHR) at Stellenbosch University in South Africa, the Regional\nPsychosocial Support Network (REPSSI) Tanzania and the National Institute for Medical Research (NIMR) Tanzania. The app was developed in partnership with IDEMS International as part of the Global Parenting Initiative, funded by the LEGO Foundation. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+      "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "ParentApp for Kids Tanzania is a collaboration between the Institute for Life Course Health Research (ILCHR) at Stellenbosch University in South Africa, the Regional\nPsychosocial Support Network (REPSSI) Tanzania and the National Institute for Medical Research (NIMR) Tanzania. The app was developed in partnership with IDEMS International as part of the Global Parenting Initiative, funded by the LEGO Foundation. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
+          "eng": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
         }
       }
     }
   ],
   "_source": {
-    "name": "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
-    "path": "deployment_data_tz.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/16kJDfiHpqGnadsRw9emO6sCZuuACJKKOw2TdzLWjCvg"
+    "name": "teens_tz",
+    "path": "data/deployment_data_tz.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1DjzYwjPkUV-meBwiePiDB00TN5zXa2l0gsSk6LU6ZNA"
   }
 }

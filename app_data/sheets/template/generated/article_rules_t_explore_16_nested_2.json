@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_safety_t_explore_13",
+  "flow_name": "article_rules_t_explore_16_nested_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "explore_13",
+          "value": "explore_16_nested_2",
           "_translations": {
             "value": {}
           },
@@ -37,7 +37,7 @@
         },
         {
           "name": "module_id",
-          "value": "safety_t",
+          "value": "rules_t",
           "_translations": {
             "value": {}
           },

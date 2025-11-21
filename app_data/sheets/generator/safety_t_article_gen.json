@@ -52,6 +52,11 @@
   },
   "_output_flows": [
     {
+      "flow_name": "article_safety_t_sensitive_content_notice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_safety_t_intro_1",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -112,6 +117,16 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "article_safety_t_explore_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_safety_t_explore_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_safety_t_practise_1",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -132,11 +147,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_safety_t_practise_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_safety_t_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -148,46 +158,6 @@
     },
     {
       "flow_name": "article_safety_t_teen_test_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_explore_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_explore_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_explore_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_explore_14",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_explore_15",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_explore_16",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_explore_17",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_safety_t_tips_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

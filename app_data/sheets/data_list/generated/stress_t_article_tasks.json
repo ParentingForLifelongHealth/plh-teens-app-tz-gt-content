@@ -581,6 +581,66 @@
       "completed": false
     },
     {
+      "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are a few skills to help you manage stress that you can use with your teens!"
+        },
+        "section_1_title": {
+          "eng": "BREATHE"
+        },
+        "section_1_text": {
+          "eng": "Breathe slowly. Pause.\n\nBefore you say anything, slowly breathe in and out five times. It will calm you, and give you a chance to think."
+        },
+        "section_2_title": {
+          "eng": "SHARE"
+        },
+        "section_2_text": {
+          "eng": "Share how you feel.\n\nThis is hard. Many of us were told not to cry, or show our feelings to our children. But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress."
+        },
+        "section_3_title": {
+          "eng": "SHOW"
+        },
+        "section_3_text": {
+          "eng": "Show them you care.\n\nThis is also hard! Stress makes us focus on ourselves. But our teens need our support. Ask them how they feel. Listen to them and comfort them. Try a hug or say \"I understand\". It can change everything."
+        },
+        "section_4_title": {
+          "eng": "SEEK"
+        },
+        "section_4_text": {
+          "eng": "Seek the positive.\n\nCan you and your teen think about ideas that might help? Can you do something positive together to take your mind off the stress?"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Here are a few skills to help you manage stress that you can use with your teens!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/single_speech_blue.png",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_4_icon_asset": "images/icons/eye_blue.png",
+      "section_1_title": "BREATHE",
+      "section_1_text": "Breathe slowly. Pause.\n\nBefore you say anything, slowly breathe in and out five times. It will calm you, and give you a chance to think.",
+      "section_2_title": "SHARE",
+      "section_2_text": "Share how you feel.\n\nThis is hard. Many of us were told not to cry, or show our feelings to our children. But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress.",
+      "section_3_title": "SHOW",
+      "section_3_text": "Show them you care.\n\nThis is also hard! Stress makes us focus on ourselves. But our teens need our support. Ask them how they feel. Listen to them and comfort them. Try a hug or say \"I understand\". It can change everything.",
+      "section_4_title": "SEEK",
+      "section_4_text": "Seek the positive.\n\nCan you and your teen think about ideas that might help? Can you do something positive together to take your mind off the stress?",
+      "completed": false
+    },
+    {
       "id": "home_activity_1",
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {

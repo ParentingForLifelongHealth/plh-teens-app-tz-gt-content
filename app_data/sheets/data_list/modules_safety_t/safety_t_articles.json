@@ -7,6 +7,26 @@
   "module": "safety_t",
   "rows": [
     {
+      "id": "sensitive_content_notice",
+      "category_id": "notice",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
+      "section_1_text": "⚠️ Sensitive Content Notice",
+      "_translations": {
+        "section_1_text": {},
+        "section_1_extra_text": {}
+      },
+      "_translatedFields": {
+        "section_1_text": {
+          "eng": "⚠️ Sensitive Content Notice"
+        },
+        "section_1_extra_text": {
+          "eng": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
+        }
+      },
+      "section_1_extra_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
+    },
+    {
       "id": "intro_1",
       "category_id": "intro",
       "media_type": "audio",
@@ -40,7 +60,7 @@
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Sometimes our teens know things about their environment that we might not realise - and by talking, we can learn how to support them better.",
+      "text_1_facilitator": "Sometimes our teens notice things about their surroundings that we don’t. By talking and listening, we can better understand their world and guide them through challenges.\n\nWith our support, they can learn to stay safe and make good decisions.\n\nLet’s start by looking at situations where teens may be unsafe.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -48,7 +68,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Sometimes our teens know things about their environment that we might not realise - and by talking, we can learn how to support them better."
+          "eng": "Sometimes our teens notice things about their surroundings that we don’t. By talking and listening, we can better understand their world and guide them through challenges.\n\nWith our support, they can learn to stay safe and make good decisions.\n\nLet’s start by looking at situations where teens may be unsafe."
         },
         "media_title": {
           "eng": "A safety plan helped @data.characters.media_female_8.name protect her teen. Tap play to hear more"
@@ -63,146 +83,356 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_1.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "f1_mother",
+      "image_asset": "/images/teen_modules/svp/svp_pushy_friend_t.svg",
+      "character_1_id": "man_in_car",
+      "character_2_id": "f2_daughter_19",
+      "media_type": "friend_female_1",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything. \n\nYou can also come up with a Safety Word - a simple word your teen can use to let you know they have a problem, without fear of you getting angry. \n\nLet's see how this worked for @data.characters.f1_mother.name and her daughter @data.characters.f1_daughter_16.name:",
+      "text_1_facilitator": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything.\n\nWork with your teen to notice risks — like when someone pressures or makes them feel uncomfortable.\n\nBoys experience sexual abuse almost as often as girls, so talk openly with both about staying safe.\n\nLet’s look at examples of risky situations to help you spot warning signs.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
-        "character_2_text": {}
+        "character_2_text": {},
+        "media_title": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything. \n\nYou can also come up with a Safety Word - a simple word your teen can use to let you know they have a problem, without fear of you getting angry. \n\nLet's see how this worked for @data.characters.f1_mother.name and her daughter @data.characters.f1_daughter_16.name:"
+          "eng": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything.\n\nWork with your teen to notice risks — like when someone pressures or makes them feel uncomfortable.\n\nBoys experience sexual abuse almost as often as girls, so talk openly with both about staying safe.\n\nLet’s look at examples of risky situations to help you spot warning signs."
         },
         "character_1_text": {
-          "eng": "Something happened when I was out with my friends @data.characters.f2_daughter_19.name and @data.characters.friend_female_1.name!"
+          "eng": "Hi beautiful, can I give you a ride on my boda?"
         },
         "character_2_text": {
-          "eng": "Tell me, @data.characters.f1_daughter_16.name."
+          "eng": "Uhmmm... I don’t…"
+        },
+        "media_title": {
+          "eng": "Yes, she’ll go with you! Go @data.characters.f2_daughter_19.name, if you save this money, you  can buy chips later!"
+        },
+        "quiz_1_question": {
+          "eng": "What warning signs do you see here?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "The boda driver pressures @data.characters.f2_daughter_19.name even when she hesitates"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes. When someone keeps pushing you to do something you feel unsure about, that is a clear warning sign."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "He offers a ride that may come with expectations"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes. Rides, gifts, or money can be used to pressure girls. This can lead to unsafe situations or expectations."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Her friend makes the decision for @data.characters.f2_daughter_19.name"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes. Friends should not speak for you or push you. Everyone needs space to make their own decisions."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "He uses friendliness to influence @data.characters.f2_daughter_19.name"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes. Calling someone ‘beautiful’ or offering something for free can be used to create pressure and make it harder to say no."
         }
       },
-      "character_1_text": "Something happened when I was out with my friends @data.characters.f2_daughter_19.name and @data.characters.friend_female_1.name!",
-      "character_2_text": "Tell me, @data.characters.f1_daughter_16.name."
+      "character_1_text": "Hi beautiful, can I give you a ride on my boda?",
+      "character_2_text": "Uhmmm... I don’t…",
+      "media_title": "Yes, she’ll go with you! Go @data.characters.f2_daughter_19.name, if you save this money, you  can buy chips later!",
+      "quiz_1_question": "What warning signs do you see here?",
+      "quiz_1_option_1_text": "The boda driver pressures @data.characters.f2_daughter_19.name even when she hesitates",
+      "quiz_1_feedback_1": "Yes. When someone keeps pushing you to do something you feel unsure about, that is a clear warning sign.",
+      "quiz_1_option_2_text": "He offers a ride that may come with expectations",
+      "quiz_1_feedback_2": "Yes. Rides, gifts, or money can be used to pressure girls. This can lead to unsafe situations or expectations.",
+      "quiz_1_option_3_text": "Her friend makes the decision for @data.characters.f2_daughter_19.name",
+      "quiz_1_feedback_3": "Yes. Friends should not speak for you or push you. Everyone needs space to make their own decisions.",
+      "quiz_1_option_4_text": "He uses friendliness to influence @data.characters.f2_daughter_19.name",
+      "quiz_1_feedback_4": "Yes. Calling someone ‘beautiful’ or offering something for free can be used to create pressure and make it harder to say no."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_2.svg",
-      "character_1_id": "man_in_car",
-      "character_2_id": "f2_daughter_19",
+      "image_asset": "/images/teen_modules/svp/svp_pushy_friend_t.svg",
+      "character_1_id": "friend_male_1",
+      "character_2_id": "f1_son_18",
+      "media_type": "friend_male_1",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "Hey beautiful. I have been looking at you for a while. You are very beautiful, what is your name?",
+      "text_2": "@data.characters.f1_son_18.name is pressured into trying drugs",
       "_translations": {
+        "text_2": {},
         "character_1_text": {},
-        "character_2_text": {}
+        "character_2_text": {},
+        "media_title": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f1_son_18.name is pressured into trying drugs"
+        },
         "character_1_text": {
-          "eng": "Hey beautiful. I have been looking at you for a while. You are very beautiful, what is your name?"
+          "eng": "You should try this! It will boost your energy so you can study or work till the next morning."
         },
         "character_2_text": {
-          "eng": "Her name is @data.characters.f1_daughter_16.name."
+          "eng": "I am not sure… I heard some bad things about this."
+        },
+        "media_title": {
+          "eng": "Don’t worry, that won’t happen to you. Just try it once, you will see."
+        },
+        "quiz_1_question": {
+          "eng": "What warning signs do you see here?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "The friend pressures @data.characters.f1_son_18.name to do something unsafe"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "The friend ignores that @data.characters.f1_son_18.name feels unsure"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "The friend gives false advice to make it seem safe"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk."
         }
       },
-      "character_2_text": "Her name is @data.characters.f1_daughter_16.name."
+      "character_1_text": "You should try this! It will boost your energy so you can study or work till the next morning.",
+      "character_2_text": "I am not sure… I heard some bad things about this.",
+      "media_title": "Don’t worry, that won’t happen to you. Just try it once, you will see.",
+      "quiz_1_question": "What warning signs do you see here?",
+      "quiz_1_option_1_text": "The friend pressures @data.characters.f1_son_18.name to do something unsafe",
+      "quiz_1_feedback_1": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk.",
+      "quiz_1_option_2_text": "The friend ignores that @data.characters.f1_son_18.name feels unsure",
+      "quiz_1_feedback_2": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk.",
+      "quiz_1_option_3_text": "The friend gives false advice to make it seem safe",
+      "quiz_1_feedback_3": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_3.svg",
-      "character_1_id": "man_in_car",
-      "character_2_id": "f1_daughter_16",
+      "image_asset": "/images/teen_modules/svp/svp_pushy_boyfriend_t.svg",
+      "character_1_id": "f1_daughter_16",
+      "character_2_id": "boyfriend_1",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "@data.characters.f1_daughter_16.name, would you like to come with me to have something to drink and chips? Come on, get in, you will be back in time, I promise…",
+      "text_2": "Boyfriend pressures @data.characters.f1_daughter_16.name into kissing",
       "_translations": {
+        "text_2": {},
         "character_1_text": {},
-        "character_2_text": {}
+        "character_2_text": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
+        "text_2": {
+          "eng": "Boyfriend pressures @data.characters.f1_daughter_16.name into kissing"
+        },
         "character_1_text": {
-          "eng": "@data.characters.f1_daughter_16.name, would you like to come with me to have something to drink and chips? Come on, get in, you will be back in time, I promise…"
+          "eng": "I don't think I am ready.."
         },
         "character_2_text": {
-          "eng": "I am not sure if that is a good idea…"
+          "eng": "Oh come on... We are ready for the next step. We see each other all the time and we never do anything more… You know I love you, right!"
+        },
+        "quiz_1_question": {
+          "eng": "What warning signs do you see here?\n\nThe boyfriend:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Does not listen to @data.characters.f1_daughter_16.name or ask what she wants"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Does not respect @data.characters.f1_daughter_16.name's feelings/opinion"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Makes @data.characters.f1_daughter_16.name feel bad about how she acts"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
         }
       },
-      "character_2_text": "I am not sure if that is a good idea…"
+      "character_1_text": "I don't think I am ready..",
+      "character_2_text": "Oh come on... We are ready for the next step. We see each other all the time and we never do anything more… You know I love you, right!",
+      "quiz_1_question": "What warning signs do you see here?\n\nThe boyfriend:",
+      "quiz_1_option_1_text": "Does not listen to @data.characters.f1_daughter_16.name or ask what she wants",
+      "quiz_1_feedback_1": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
+      "quiz_1_option_2_text": "Does not respect @data.characters.f1_daughter_16.name's feelings/opinion",
+      "quiz_1_feedback_2": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
+      "quiz_1_option_3_text": "Makes @data.characters.f1_daughter_16.name feel bad about how she acts",
+      "quiz_1_feedback_3": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_4.svg",
-      "character_1_id": "f2_daughter_19",
+      "image_asset": "/images/teen_modules/svp/svp_nude_pic_t.svg",
+      "character_1_id": "friend_male_2",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "You are lucky, my friend. I wish a man would ask ME out and buy me gifts. I am telling you, if you do not do this I’m going to tell everyone you are stupid!",
+      "text_2": "@data.characters.friend_female_2.name's nude picture is shared",
       "_translations": {
-        "character_1_text": {}
+        "text_2": {},
+        "character_1_text": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.friend_female_2.name's nude picture is shared"
+        },
         "character_1_text": {
-          "eng": "You are lucky, my friend. I wish a man would ask ME out and buy me gifts. I am telling you, if you do not do this I’m going to tell everyone you are stupid!"
+          "eng": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me."
+        },
+        "quiz_1_question": {
+          "eng": "What warning signs do you see here?\n\nThe ex-boyfriend:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Breaks @data.characters.friend_female_2.name's trust"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Breaks the law"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Shows his friends nude content"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe."
         }
-      }
+      },
+      "character_1_text": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me.",
+      "quiz_1_question": "What warning signs do you see here?\n\nThe ex-boyfriend:",
+      "quiz_1_option_1_text": "Breaks @data.characters.friend_female_2.name's trust",
+      "quiz_1_feedback_1": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe.",
+      "quiz_1_option_2_text": "Breaks the law",
+      "quiz_1_feedback_2": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe.",
+      "quiz_1_option_3_text": "Shows his friends nude content",
+      "quiz_1_feedback_3": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe."
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_5.svg",
-      "character_1_id": "friend_female_1",
-      "character_2_id": "f1_daughter_16",
+      "image_asset": "/images/teen_modules/svp/svp_private_tutoring_t.svg",
+      "character_1_id": "teacher_1",
+      "character_2_id": "f2_son_15",
+      "media_type": "teacher_1",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "@data.characters.f1_daughter_16.name do not go! Be careful! Let’s go home. It is dangerous to go with people you do not know. Besides, he is too old for you and what he is doing is wrong.",
+      "text_2": "Teacher asks @data.characters.f1_f2_son_15.name to stay after school",
       "_translations": {
+        "text_2": {},
         "character_1_text": {},
-        "character_2_text": {}
+        "character_2_text": {},
+        "media_title": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
       },
       "_translatedFields": {
+        "text_2": {
+          "eng": "Teacher asks @data.characters.f1_f2_son_15.name to stay after school"
+        },
         "character_1_text": {
-          "eng": "@data.characters.f1_daughter_16.name do not go! Be careful! Let’s go home. It is dangerous to go with people you do not know. Besides, he is too old for you and what he is doing is wrong."
+          "eng": "@data.characters.f1_f2_son_15.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you."
         },
         "character_2_text": {
-          "eng": "I just do not know…"
+          "eng": "My friend also needs support. Can I invite him too?"
+        },
+        "media_title": {
+          "eng": "No, this will be our secret. You don't want people to think you are stupid, right?"
+        },
+        "quiz_1_question": {
+          "eng": "What warning signs do you see here?\n\nThe teacher:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Abuses his power"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Pressures and manipulates @data.characters.f1_f2_son_15.name"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Makes @data.characters.f1_f2_son_15.name feel unsafe"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Lies and acts disrespectfully"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult."
         }
       },
-      "character_2_text": "I just do not know…"
+      "character_1_text": "@data.characters.f1_f2_son_15.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you.",
+      "character_2_text": "My friend also needs support. Can I invite him too?",
+      "media_title": "No, this will be our secret. You don't want people to think you are stupid, right?",
+      "quiz_1_question": "What warning signs do you see here?\n\nThe teacher:",
+      "quiz_1_option_1_text": "Abuses his power",
+      "quiz_1_feedback_1": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
+      "quiz_1_option_2_text": "Pressures and manipulates @data.characters.f1_f2_son_15.name",
+      "quiz_1_feedback_2": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
+      "quiz_1_option_3_text": "Makes @data.characters.f1_f2_son_15.name feel unsafe",
+      "quiz_1_feedback_3": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
+      "quiz_1_option_4_text": "Lies and acts disrespectfully",
+      "quiz_1_feedback_4": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult."
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_6.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_16",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "Pfff, I am so proud of you for not getting into the car. That was a dangerous situation, thank you for telling me!\n\nYou can always call me or talk to me when something like this happens. We can even use a Safety Word, so I know something is wrong - and I promise I will not be angry.",
-      "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Pfff, I am so proud of you for not getting into the car. That was a dangerous situation, thank you for telling me!\n\nYou can always call me or talk to me when something like this happens. We can even use a Safety Word, so I know something is wrong - and I promise I will not be angry."
-        },
-        "character_2_text": {
-          "eng": "Thank you, @data.characters.f1_mother.role_name! Our Safety Word could be ‘blue house’. I could call and say something like ‘I forgot my book at the blue house’ and you would know to come help me."
-        }
-      },
-      "character_2_text": "Thank you, @data.characters.f1_mother.role_name! Our Safety Word could be ‘blue house’. I could call and say something like ‘I forgot my book at the blue house’ and you would know to come help me."
-    },
-    {
-      "id": "explore_7",
-      "category_id": "explore",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Let's think about what happened to @data.characters.f1_daughter_16.name.",
+      "text_1_facilitator": "There are also dangers online — let’s look at what teens face.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -219,116 +449,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let's think about what happened to @data.characters.f1_daughter_16.name."
-        },
-        "quiz_1_question": {
-          "eng": "What was risky about that situation?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "The man in the car was pressuring @data.characters.f1_daughter_16.name with gifts"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "@data.characters.f1_daughter_16.name's friend was encouraging her"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Going with an older man puts @data.characters.f1_daughter_16.name in a dangerous situation where she can get hurt or be forced to do things"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Many girls in our communities get pregnant or catch HIV from older men"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car."
-        },
-        "quiz_1_option_5_text": {
-          "eng": "There were no other trusted adults to advise @data.characters.f1_daughter_16.name"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car."
-        }
-      },
-      "quiz_1_question": "What was risky about that situation?",
-      "quiz_1_option_1_text": "The man in the car was pressuring @data.characters.f1_daughter_16.name with gifts",
-      "quiz_1_feedback_1": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car.",
-      "quiz_1_option_2_text": "@data.characters.f1_daughter_16.name's friend was encouraging her",
-      "quiz_1_feedback_2": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car.",
-      "quiz_1_option_3_text": "Going with an older man puts @data.characters.f1_daughter_16.name in a dangerous situation where she can get hurt or be forced to do things",
-      "quiz_1_feedback_3": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car.",
-      "quiz_1_option_4_text": "Many girls in our communities get pregnant or catch HIV from older men",
-      "quiz_1_feedback_4": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car.",
-      "quiz_1_option_5_text": "There were no other trusted adults to advise @data.characters.f1_daughter_16.name",
-      "quiz_1_feedback_5": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car."
-    },
-    {
-      "id": "explore_8",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe2_t_1.svg",
-      "character_1_id": "f1_daughter_16",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Let's look at another example of a dangerous situation together.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Let's look at another example of a dangerous situation together."
-        },
-        "character_1_text": {
-          "eng": "My friend has been talking with a guy our age online... She is going to send him photos of herself. Is that better because he is our age?"
-        }
-      },
-      "character_1_text": "My friend has been talking with a guy our age online... She is going to send him photos of herself. Is that better because he is our age?"
-    },
-    {
-      "id": "explore_9",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe2_t_2.svg",
-      "character_1_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "You are a good friend for being worried about her. Sending sexy photos is a real risk too.\n\nSometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.",
-      "_translations": {
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "You are a good friend for being worried about her. Sending sexy photos is a real risk too.\n\nSometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful."
-        }
-      }
-    },
-    {
-      "id": "explore_10",
-      "category_id": "explore",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Things like that can happen to any teen, so let's think about our teens' online safety.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Things like that can happen to any teen, so let's think about our teens' online safety."
+          "eng": "There are also dangers online — let’s look at what teens face."
         },
         "quiz_1_question": {
           "eng": "What do you think is the biggest online risk for teens these days?"
@@ -375,6 +496,136 @@
       "quiz_1_feedback_4": "Yes, this is a real danger. Once something is shared, it can be spread or used to hurt them. Teaching your teen to pause and think before sharing can make a big difference.",
       "quiz_1_option_5_text": "People can often be nasty to teenagers online - they feel like they can bully people safely",
       "quiz_1_feedback_5": "Yes, online bullying happens a lot because people feel braver behind a screen. Talking about kindness and bullying can help your teen feel supported and know what to do."
+    },
+    {
+      "id": "explore_7",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress3_t_1.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_daughter_16",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
+      "text_1_facilitator": "Now that we’ve thought about different risks, let’s look at a simple tool that can help teens reach out when they don’t feel safe.\n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Now that we’ve thought about different risks, let’s look at a simple tool that can help teens reach out when they don’t feel safe.\n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:"
+        },
+        "character_1_text": {
+          "eng": "Don’t tell the adults, but I am going to a bar with my friends tonight."
+        },
+        "character_2_text": {
+          "eng": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
+        }
+      },
+      "character_1_text": "Don’t tell the adults, but I am going to a bar with my friends tonight.",
+      "character_2_text": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
+    },
+    {
+      "id": "explore_8",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress3_t_2.svg",
+      "character_1_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
+      "character_1_text": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!"
+        }
+      }
+    },
+    {
+      "id": "explore_9",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress3_t_3.svg",
+      "character_1_id": "f1_daughter_16",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
+      "character_1_text": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party."
+        }
+      }
+    },
+    {
+      "id": "explore_10",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress3_t_4.svg",
+      "character_1_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
+      "text_1_facilitator": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:"
+        },
+        "character_1_text": {
+          "eng": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
+        }
+      },
+      "character_1_text": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
+    },
+    {
+      "id": "explore_11",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress3_t_5.svg",
+      "character_1_id": "f1_daughter_16",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
+      "character_1_text": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?"
+        },
+        "character_2_text": {
+          "eng": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
+        }
+      },
+      "character_2_text": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
+    },
+    {
+      "id": "explore_12",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/stress/stress3_t_6.svg",
+      "character_1_id": "f1_son_18",
+      "character_2_id": "f1_mother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
+      "character_1_text": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow."
+        },
+        "character_2_text": {
+          "eng": "*(on the other side of the phone)* I will send someone to pick you up now. Where are you?"
+        }
+      },
+      "character_2_text": "*(on the other side of the phone)* I will send someone to pick you up now. Where are you?"
     },
     {
       "id": "practise_1",
@@ -432,10 +683,10 @@
           "eng": "Step 1: Draw all the important places in your community."
         },
         "text_2": {
-          "eng": "Draw a map of your teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits."
+          "eng": "Draw a map of your teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits.\n\nYou can also do the same with apps and websites your teen uses — draw them and talk about which feel safe or unsafe and why."
         }
       },
-      "text_2": "Draw a map of your teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits."
+      "text_2": "Draw a map of your teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits.\n\nYou can also do the same with apps and websites your teen uses — draw them and talk about which feel safe or unsafe and why."
     },
     {
       "id": "practise_3",
@@ -453,10 +704,10 @@
           "eng": "Step 2: Choose which places are safe and unsafe."
         },
         "text_2": {
-          "eng": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer?"
+          "eng": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer? Is this different for boys and girls?\n- Looking at the places you mapped out, what rules could you come up with together to help your teen stay safe?"
         }
       },
-      "text_2": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer?"
+      "text_2": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer? Is this different for boys and girls?\n- Looking at the places you mapped out, what rules could you come up with together to help your teen stay safe?"
     },
     {
       "id": "practise_4",
@@ -474,31 +725,10 @@
           "eng": "Step 3: Identify where you can get support."
         },
         "text_2": {
-          "eng": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper."
+          "eng": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper.\n- Remember your phone and other internet devices. There is a lot of support available online!"
         }
       },
-      "text_2": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper."
-    },
-    {
-      "id": "practise_5",
-      "category_id": "practise",
-      "image_asset": "/images/teen_modules/safe/safe_learn_t_4.svg",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Step 4: Now recognise the risky places online and how you can make them safer.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Step 4: Now recognise the risky places online and how you can make them safer."
-        },
-        "text_2": {
-          "eng": "- Draw pictures of the apps and websites your teenagers use\n- Recognise how good they are at using the web!\n- Think about which ones might be unsafe. Why?\n- What could you and your teen do to make using the internet safer for your teen and their friends?"
-        }
-      },
-      "text_2": "- Draw pictures of the apps and websites your teenagers use\n- Recognise how good they are at using the web!\n- Think about which ones might be unsafe. Why?\n- What could you and your teen do to make using the internet safer for your teen and their friends?"
+      "text_2": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper.\n- Remember your phone and other internet devices. There is a lot of support available online!"
     },
     {
       "id": "tips_1",
@@ -542,7 +772,7 @@
           "eng": "More tips"
         },
         "section_2_extra_text": {
-          "eng": "Remember how @data.characters.f1_daughter_13.name and her mother, @data.characters.f1_mother.name, made a rule together to help @data.characters.f1_daughter_13.name have fun and stay safe online? It worked well because they made clear rules together in a calm and positive way!"
+          "eng": "Explore with your teen if you can create a rule around sharing with a trusted adult when something feels wrong. This can really help them stay safe in person and online."
         },
         "section_3_title": {
           "eng": "SAFETY WORD"
@@ -562,7 +792,7 @@
       "section_2_title": "RULES",
       "section_2_text": "Make rules with your teen about how they can stay safe in your community (especially in risky areas that cannot be avoided), and how they can safely use the apps and websites that they like.",
       "section_2_button_text": "More tips",
-      "section_2_extra_text": "Remember how @data.characters.f1_daughter_13.name and her mother, @data.characters.f1_mother.name, made a rule together to help @data.characters.f1_daughter_13.name have fun and stay safe online? It worked well because they made clear rules together in a calm and positive way!",
+      "section_2_extra_text": "Explore with your teen if you can create a rule around sharing with a trusted adult when something feels wrong. This can really help them stay safe in person and online.",
       "section_3_title": "SAFETY WORD",
       "section_3_text": "Agree on a Safety Word. If something happens that makes your teen upset, uncomfortable or scared, they can say the Safety Word and you will help them without getting angry or punishing them, even if they were doing something wrong.",
       "section_3_button_text": "More tips",
@@ -573,7 +803,7 @@
       "category_id": "home_activity",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "If you have not done it together yet, this week's home assignment is to make two maps with your teen of safe and unsafe places:\n\n1) 🗺️ Map of your community\n2) 🌐 Map of apps and websites your teen uses\n\nMake sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this – often teens know much more than we do about where it is safe and unsafe!",
+      "text_1_facilitator": "If you have not done it together yet, this week's home assignment is to make two maps with your teen of safe and unsafe places:\n\n1) 🗺️ Map of your community\n2) 🌐 Map of apps and websites your teen uses\n\nMake sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -590,7 +820,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "If you have not done it together yet, this week's home assignment is to make two maps with your teen of safe and unsafe places:\n\n1) 🗺️ Map of your community\n2) 🌐 Map of apps and websites your teen uses\n\nMake sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this – often teens know much more than we do about where it is safe and unsafe!"
+          "eng": "If you have not done it together yet, this week's home assignment is to make two maps with your teen of safe and unsafe places:\n\n1) 🗺️ Map of your community\n2) 🌐 Map of apps and websites your teen uses\n\nMake sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this."
         },
         "quiz_1_question": {
           "eng": "Can you make a safety map with your teen and talk about ways to stay safe online and in your community?"
@@ -648,221 +878,6 @@
       },
       "media_title": "Safety planning helped @data.characters.media_daughter_7.name open up. Hear her story",
       "media_transcript": "When my friends or I got into trouble, I would always try to hide it from my mother because she would get so angry and shout at me.\n\nWhen we made the map of safe and unsafe places, I learnt a lot – also why it is dangerous to share every picture online. My mother told me I can always ask her if there is a problem and she promised she would not get mad.\n\nShe kept her promise, so now if I have a problem or I do not feel safe I know we can always come up with a solution together. I can even talk to my mother about the things I do online now!"
-    },
-    {
-      "id": "explore_11",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_1.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_daughter_16",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Now let's look at an example where something simple, like a Safety Word, can help manage stress and keep your teen safe. \n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Now let's look at an example where something simple, like a Safety Word, can help manage stress and keep your teen safe. \n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:"
-        },
-        "character_1_text": {
-          "eng": "Don’t tell the adults, but I am going to a bar with my friends tonight."
-        },
-        "character_2_text": {
-          "eng": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
-        }
-      },
-      "character_1_text": "Don’t tell the adults, but I am going to a bar with my friends tonight.",
-      "character_2_text": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
-    },
-    {
-      "id": "explore_12",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_2.svg",
-      "character_1_id": "f1_son_18",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!",
-      "_translations": {
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!"
-        }
-      }
-    },
-    {
-      "id": "explore_13",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_3.svg",
-      "character_1_id": "f1_daughter_16",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.",
-      "_translations": {
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party."
-        }
-      }
-    },
-    {
-      "id": "explore_14",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_4.svg",
-      "character_1_id": "f1_father",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:"
-        },
-        "character_1_text": {
-          "eng": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
-        }
-      },
-      "character_1_text": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
-    },
-    {
-      "id": "explore_15",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_5.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?",
-      "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?"
-        },
-        "character_2_text": {
-          "eng": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
-        }
-      },
-      "character_2_text": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
-    },
-    {
-      "id": "explore_16",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_6.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_son_18",
-      "media_type": "f1_father",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "character_1_text": "(🤔_thinking_) I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Maybe @data.characters.f1_father.role_name knows what to do.",
-      "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "media_title": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "(🤔_thinking_) I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Maybe @data.characters.f1_father.role_name knows what to do."
-        },
-        "character_2_text": {
-          "eng": "@data.characters.f1_father.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow."
-        },
-        "media_title": {
-          "eng": "*(on the other side of the phone)* Okay, I need you at home to help get things ready. I will come pick you up now. Where are you?"
-        }
-      },
-      "character_2_text": "@data.characters.f1_father.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
-      "media_title": "*(on the other side of the phone)* Okay, I need you at home to help get things ready. I will come pick you up now. Where are you?"
-    },
-    {
-      "id": "explore_17",
-      "category_id": "explore",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Having a Safety Word can help your teen stay safe too. You can choose any word as a Safety Word. Only your family knows it means ‘help’.\n\nYour teen can say this word to let you know they are in trouble without you getting angry or punishing them, so you can help them.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Having a Safety Word can help your teen stay safe too. You can choose any word as a Safety Word. Only your family knows it means ‘help’.\n\nYour teen can say this word to let you know they are in trouble without you getting angry or punishing them, so you can help them."
-        },
-        "text_2": {
-          "eng": "**What Safety Word can you choose with your teen? Here are some ideas from other families:**\n\n🥑 A specific food\n👵🏽 A specific family member\n🐒 A specific animal\n🤔 Something else"
-        }
-      },
-      "text_2": "**What Safety Word can you choose with your teen? Here are some ideas from other families:**\n\n🥑 A specific food\n👵🏽 A specific family member\n🐒 A specific animal\n🤔 Something else"
-    },
-    {
-      "id": "tips_2",
-      "category_id": "practical_tips",
-      "quiz_4_option_1_image_asset": "BREATHE",
-      "quiz_4_option_3_image_asset": "images/icons/single_speech_blue.png",
-      "quiz_4_option_5_image_asset": "Show them you care.\n\nThis is also hard! Stress makes us focus on ourselves. But our teens need our support. Ask them how they feel. Listen to them and comfort them. Try a hug or say \"I understand\". It can change everything.",
-      "quiz_4_option_6_image_asset": "SEEK",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
-      "text_1_facilitator": "Here are a few skills to help you manage stress that you can use with your teens!",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_4_feedback_1": {},
-        "quiz_4_option_2_text": {},
-        "quiz_4_option_3_text": {},
-        "quiz_4_feedback_3": {},
-        "quiz_4_feedback_4": {},
-        "quiz_4_option_5_text": {},
-        "quiz_4_feedback_6": {},
-        "section_1_title": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Here are a few skills to help you manage stress that you can use with your teens!"
-        },
-        "quiz_4_feedback_1": {
-          "eng": "images/icons/heart_filled_blue.png"
-        },
-        "quiz_4_option_2_text": {
-          "eng": "Breathe slowly. Pause.\n\nBefore you say anything, slowly breathe in and out five times. It will calm you, and give you a chance to think."
-        },
-        "quiz_4_option_3_text": {
-          "eng": "SHARE"
-        },
-        "quiz_4_feedback_3": {
-          "eng": "Share how you feel.\n\nThis is hard. Many of us were told not to cry, or show our feelings to our children. But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress."
-        },
-        "quiz_4_feedback_4": {
-          "eng": "SHOW"
-        },
-        "quiz_4_option_5_text": {
-          "eng": "images/icons/star_filled_blue.png"
-        },
-        "quiz_4_feedback_6": {
-          "eng": "images/icons/eye_blue.png"
-        },
-        "section_1_title": {
-          "eng": "Seek the positive.\n\nCan you and your teen think about ideas that might help? Can you do something positive together to take your mind off the stress?"
-        }
-      },
-      "quiz_4_feedback_1": "images/icons/heart_filled_blue.png",
-      "quiz_4_option_2_text": "Breathe slowly. Pause.\n\nBefore you say anything, slowly breathe in and out five times. It will calm you, and give you a chance to think.",
-      "quiz_4_option_3_text": "SHARE",
-      "quiz_4_feedback_3": "Share how you feel.\n\nThis is hard. Many of us were told not to cry, or show our feelings to our children. But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress.",
-      "quiz_4_feedback_4": "SHOW",
-      "quiz_4_option_5_text": "images/icons/star_filled_blue.png",
-      "quiz_4_feedback_6": "images/icons/eye_blue.png",
-      "section_1_title": "Seek the positive.\n\nCan you and your teen think about ideas that might help? Can you do something positive together to take your mind off the stress?"
     }
   ],
   "_source": {

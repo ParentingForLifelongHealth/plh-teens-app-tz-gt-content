@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_selfcare_t_check_out",
+  "flow_name": "article_rules_t_explore_17_nested_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "check_out",
+          "value": "explore_17_nested_1",
           "_translations": {
             "value": {}
           },
@@ -37,7 +37,7 @@
         },
         {
           "name": "module_id",
-          "value": "selfcare_t",
+          "value": "rules_t",
           "_translations": {
             "value": {}
           },

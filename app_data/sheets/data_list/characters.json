@@ -259,6 +259,11 @@
       "Flag if column E has duplicate names": ""
     },
     {
+      "id": "boda_driver",
+      "caps_id": "BODA_DRIVER",
+      "name": "Boda Driver"
+    },
+    {
       "id": "girlfriend_1",
       "caps_id": "GIRLFRIEND_1",
       "name": "Debora",
@@ -345,6 +350,16 @@
       "id": "media_male_5",
       "caps_id": "MEDIA_MALE_5",
       "name": "Godfried"
+    },
+    {
+      "id": "media_male_6",
+      "caps_id": "MEDIA_MALE_6",
+      "name": "Imani"
+    },
+    {
+      "id": "media_male_7",
+      "caps_id": "MEDIA_MALE_7",
+      "name": "Jabari"
     },
     {
       "id": "media_female_1",

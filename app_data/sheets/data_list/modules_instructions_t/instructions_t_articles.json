@@ -13,7 +13,7 @@
       "media_asset": "/audio/teen/topic_intros/instruct_intro_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "text_1_facilitator": "Today's topic is about giving positive instructions!\n\nTelling our teens what we DO want them to do works better than telling them to STOP doing something.\n\nYou will see the difference.",
+      "text_1_facilitator": "Today's topic is about giving positive instructions!\n\nTelling our teens what we DO want them to do works better than telling them to STOP doing something.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -21,7 +21,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about giving positive instructions!\n\nTelling our teens what we DO want them to do works better than telling them to STOP doing something.\n\nYou will see the difference."
+          "eng": "Today's topic is about giving positive instructions!\n\nTelling our teens what we DO want them to do works better than telling them to STOP doing something."
         },
         "media_title": {
           "eng": "Giving positive instructions really works! Tap play to learn more"
@@ -40,7 +40,7 @@
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_instruct_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "text_1_facilitator": "When you give positive instructions, your teen is more likely to listen! \n\nAnd remember to praise your teen for any good behaviour - the big and small things.",
+      "text_1_facilitator": "When you give positive instructions, your teen is more likely to listen! \n\nAnd remember to praise your teen for any good behaviour — the big and small things.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -48,7 +48,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "When you give positive instructions, your teen is more likely to listen! \n\nAnd remember to praise your teen for any good behaviour - the big and small things."
+          "eng": "When you give positive instructions, your teen is more likely to listen! \n\nAnd remember to praise your teen for any good behaviour — the big and small things."
         },
         "media_title": {
           "eng": "Tap play to hear how positive instructions worked for @data.characters.media_female_3.name and her teens"
@@ -134,58 +134,41 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/instruct/instruct2_t_1.svg",
       "character_1_id": "f1_father",
+      "character_2_id": "f2_daughter_19",
+      "character_3_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
       "text_1_facilitator": "Let’s see what happens if @data.characters.f1_father.name tells @data.characters.f2_daughter_19.name \"DON'T\":",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {}
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see what happens if @data.characters.f1_father.name tells @data.characters.f2_daughter_19.name \"DON'T\":"
         },
-        "text_2": {
-          "eng": "@data.characters.f1_father.name and @data.characters.f1_mother.name were busy preparing food and looking after the baby, while @data.characters.f2_daughter_19.name practiced her soccer moves with a friend."
-        },
         "character_1_text": {
-          "eng": "Stop kicking that ball around, can you not see were are busy here? You’ll know over the pot!"
+          "eng": "Stop kicking that ball around. Can’t you see we are busy here? You’ll knock over the pot!"
+        },
+        "character_2_text": {
+          "eng": "But I need to practise for the match on Saturday. You never let me do anything."
+        },
+        "character_3_text": {
+          "eng": "Don't you talk back to me!"
         }
       },
-      "text_2": "@data.characters.f1_father.name and @data.characters.f1_mother.name were busy preparing food and looking after the baby, while @data.characters.f2_daughter_19.name practiced her soccer moves with a friend.",
-      "character_1_text": "Stop kicking that ball around, can you not see were are busy here? You’ll know over the pot!"
+      "character_1_text": "Stop kicking that ball around. Can’t you see we are busy here? You’ll knock over the pot!",
+      "character_2_text": "But I need to practise for the match on Saturday. You never let me do anything.",
+      "character_3_text": "Don't you talk back to me!"
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_2.svg",
-      "character_1_id": "f2_daughter_19",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "character_1_text": "But I need to practise for the match on Saturday. You never let me do anything.",
-      "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "But I need to practise for the match on Saturday. You never let me do anything."
-        },
-        "character_2_text": {
-          "eng": "Don't you talk back to me!"
-        }
-      },
-      "character_2_text": "Don't you talk back to me!"
-    },
-    {
-      "id": "explore_7",
-      "category_id": "explore",
       "image_asset": "/images/teen_modules/instruct/instruct2_t_3.svg",
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f1_father",
-      "quiz_3_option_3_image_asset": "",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
       "character_1_text": "Arrg!! Why am I being yelled at all the time????",
@@ -204,14 +187,14 @@
       "character_2_text": "(🤔_thinking_) That child is always making trouble."
     },
     {
-      "id": "explore_8",
+      "id": "explore_7",
       "category_id": "explore",
       "quiz_1_option_1_image_asset": "/images/faces/sad.svg",
       "quiz_1_option_2_image_asset": "/images/faces/confused.svg",
       "quiz_1_option_3_image_asset": "/images/faces/angry.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "text_1_facilitator": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f1_father.role_name.",
+      "text_1_facilitator": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f1_father_role.name.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -235,7 +218,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f1_father.role_name."
+          "eng": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f1_father_role.name."
         },
         "quiz_1_question": {
           "eng": "How do you think @data.characters.f2_daughter_19.name felt about the way @data.characters.f1_father.name responded?"
@@ -296,79 +279,51 @@
       "quiz_2_feedback_3": "That's right! This would help @data.characters.f2_daughter_19.name understand how to behave next time."
     },
     {
-      "id": "explore_9",
+      "id": "explore_8",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/instruct/instruct3_t_1.svg",
       "character_1_id": "f1_father",
+      "character_2_id": "f2_daughter_19",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
       "text_1_facilitator": "Let’s go back in time and see what happens if @data.characters.f1_father.name gives a positive instruction:",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {}
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s go back in time and see what happens if @data.characters.f1_father.name gives a positive instruction:"
         },
-        "text_2": {
-          "eng": "@data.characters.f1_father.name and @data.characters.f1_mother.name were busy preparing food and looking after the baby, while @data.characters.f2_daughter_19.name practiced her soccer moves with a friend."
-        },
         "character_1_text": {
           "eng": "@data.characters.f2_daughter_19.name, it is great to see you enjoying your soccer with your friend! Please go play behind the house so the ball does not knock over the pot."
+        },
+        "character_2_text": {
+          "eng": "Okay, @data.characters.f1_father_role.name!"
         }
       },
-      "text_2": "@data.characters.f1_father.name and @data.characters.f1_mother.name were busy preparing food and looking after the baby, while @data.characters.f2_daughter_19.name practiced her soccer moves with a friend.",
-      "character_1_text": "@data.characters.f2_daughter_19.name, it is great to see you enjoying your soccer with your friend! Please go play behind the house so the ball does not knock over the pot."
+      "character_1_text": "@data.characters.f2_daughter_19.name, it is great to see you enjoying your soccer with your friend! Please go play behind the house so the ball does not knock over the pot.",
+      "character_2_text": "Okay, @data.characters.f1_father_role.name!"
     },
     {
-      "id": "explore_10",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_2.svg",
-      "character_1_id": "f2_daughter_19",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "character_1_text": "Okay, @data.characters.f1_father.role_name!",
-      "_translations": {
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Okay, @data.characters.f1_father.role_name!"
-        }
-      }
-    },
-    {
-      "id": "explore_11",
+      "id": "explore_9",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/instruct/instruct3_t_3.svg",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "text_2": "@data.characters.f2_daughter_19.name and her friend enjoy practising their dance moves.",
-      "_translations": {
-        "text_2": {}
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f2_daughter_19.name and her friend enjoy practising their dance moves."
-        }
-      }
-    },
-    {
-      "id": "explore_12",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_4.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f2_daughter_19",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "character_1_text": "Thank you for playing behind the house while @data.characters.f1_mother_role.name was cooking, @data.characters.f2_daughter_19.name. Now we have time to watch you play.",
+      "text_2": "@data.characters.f2_daughter_19.name and her friend enjoy practising their soccer moves.",
       "_translations": {
+        "text_2": {},
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f2_daughter_19.name and her friend enjoy practising their soccer moves."
+        },
         "character_1_text": {
           "eng": "Thank you for playing behind the house while @data.characters.f1_mother_role.name was cooking, @data.characters.f2_daughter_19.name. Now we have time to watch you play."
         },
@@ -376,12 +331,13 @@
           "eng": "Yay! We learned lots of new moves, look!"
         }
       },
+      "character_1_text": "Thank you for playing behind the house while @data.characters.f1_mother_role.name was cooking, @data.characters.f2_daughter_19.name. Now we have time to watch you play.",
       "character_2_text": "Yay! We learned lots of new moves, look!"
     },
     {
-      "id": "explore_13",
+      "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_5.svg",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_4.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_father",
       "nested": false,
@@ -402,15 +358,16 @@
       "character_2_text": "Wow, @data.characters.f2_daughter_19.name! You are a great soccer player. All your practice is making you strong and helps you develop as a leader. Maybe later you will even be hired by one of the soccer clubs."
     },
     {
-      "id": "explore_14",
+      "id": "explore_11",
       "category_id": "explore",
       "quiz_1_option_1_image_asset": "/images/faces/happy.svg",
       "quiz_1_option_2_image_asset": "/images/faces/neutral.svg",
       "quiz_1_option_3_image_asset": "/images/faces/sad.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "quiz_1_question": "How does @data.characters.f1_father.name and his daughter, @data.characters.f2_daughter_19.name, feel now?",
+      "text_1_facilitator": "Positive instructions changed the moment. How do you think everyone feels now?",
       "_translations": {
+        "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
@@ -433,8 +390,11 @@
         "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Positive instructions changed the moment. How do you think everyone feels now?"
+        },
         "quiz_1_question": {
-          "eng": "How does @data.characters.f1_father.name and his daughter, @data.characters.f2_daughter_19.name, feel now?"
+          "eng": "How do @data.characters.f1_father.name and his daughter, @data.characters.f2_daughter_19.name, feel now?"
         },
         "quiz_1_option_1_text": {
           "eng": "Happy"
@@ -458,7 +418,7 @@
           "eng": "Why do you think the situation went better for @data.characters.f1_father.name this time?"
         },
         "quiz_2_option_1_text": {
-          "eng": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f1_father.role_name"
+          "eng": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f1_father_role.name"
         },
         "quiz_2_feedback_1": {
           "eng": "Exactly. Staying calm and positive helps our teens feel respected and loved!"
@@ -476,6 +436,7 @@
           "eng": "Exactly. Staying calm and positive helps our teens feel respected and loved!"
         }
       },
+      "quiz_1_question": "How do @data.characters.f1_father.name and his daughter, @data.characters.f2_daughter_19.name, feel now?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_feedback_1": "Yes! By giving positive instructions, @data.characters.f1_father.name was able to turn the situation into a positive one for everyone.",
       "quiz_1_option_2_text": "Okay",
@@ -483,12 +444,62 @@
       "quiz_1_option_3_text": "Sad",
       "quiz_1_feedback_3": "Try again! @data.characters.f2_daughter_19.name was able to practise and share her new moves. She probably feels happy!",
       "quiz_2_question": "Why do you think the situation went better for @data.characters.f1_father.name this time?",
-      "quiz_2_option_1_text": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f1_father.role_name",
+      "quiz_2_option_1_text": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f1_father_role.name",
       "quiz_2_feedback_1": "Exactly. Staying calm and positive helps our teens feel respected and loved!",
       "quiz_2_option_2_text": "@data.characters.f1_father.name was able to stay calm",
       "quiz_2_feedback_2": "Exactly. Staying calm and positive helps our teens feel respected and loved!",
       "quiz_2_option_3_text": "@data.characters.f1_father.name kept a positive attitude",
       "quiz_2_feedback_3": "Exactly. Staying calm and positive helps our teens feel respected and loved!"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
+      "text_1_facilitator": "Let’s practise together!\n\nHere are some common instructions parents give.\nTap each one to see a positive way of saying it.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s practise together!\n\nHere are some common instructions parents give.\nTap each one to see a positive way of saying it."
+        },
+        "quiz_1_question": {
+          "eng": "Turn each of these instructions into positive ones:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "👕 Stop leaving your dirty clothes all over the place!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "You could say: \"I know you’ve had a long day. Could you please put your clothes in the basket so it’s easier to keep things tidy? Thanks – it really helps.\""
+        },
+        "quiz_1_option_2_text": {
+          "eng": "🎵 Stop playing your music so loud in the house!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "You could say: \"That’s great music. Who is the singer? Please turn the music off when you come into the house. You can play it in your room quietly if you want. Thank you!\""
+        },
+        "quiz_1_option_3_text": {
+          "eng": "📱 Stop playing on your phone at the dinner table!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "You could say: \"I like that you enjoy your phone. Can you put it away during dinner so we can spend time together? Thanks – I really appreciate it.\""
+        }
+      },
+      "quiz_1_question": "Turn each of these instructions into positive ones:",
+      "quiz_1_option_1_text": "👕 Stop leaving your dirty clothes all over the place!",
+      "quiz_1_feedback_1": "You could say: \"I know you’ve had a long day. Could you please put your clothes in the basket so it’s easier to keep things tidy? Thanks – it really helps.\"",
+      "quiz_1_option_2_text": "🎵 Stop playing your music so loud in the house!",
+      "quiz_1_feedback_2": "You could say: \"That’s great music. Who is the singer? Please turn the music off when you come into the house. You can play it in your room quietly if you want. Thank you!\"",
+      "quiz_1_option_3_text": "📱 Stop playing on your phone at the dinner table!",
+      "quiz_1_feedback_3": "You could say: \"I like that you enjoy your phone. Can you put it away during dinner so we can spend time together? Thanks – I really appreciate it.\""
     },
     {
       "id": "tips_1",
@@ -557,14 +568,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -593,27 +597,6 @@
         },
         "quiz_1_feedback_3": {
           "eng": "That's okay. It can be hard to try something new. Could you think of one situation where you often tell your teen ‘don’t do this’? Try to find a positive way to give that instruction."
-        },
-        "quiz_2_question": {
-          "eng": "Let’s do a quick practice to help you prepare for your home activity! \nTurn each of these instructions into positive ones:"
-        },
-        "quiz_2_option_1_text": {
-          "eng": "👕 Stop leaving your dirty clothes all over the place!"
-        },
-        "quiz_2_feedback_1": {
-          "eng": "You could say: \"I know you’ve had a long day. Could you please put your clothes in the basket so it’s easier to keep things tidy? Thanks – it really helps.\""
-        },
-        "quiz_2_option_2_text": {
-          "eng": "🎵 Stop playing your music so loud in the house!"
-        },
-        "quiz_2_feedback_2": {
-          "eng": "You could say: \"That’s great music. Who is the singer? Please turn the music off when you come into the house. You can play it in your room quietly if you want. Thank you!\""
-        },
-        "quiz_2_option_3_text": {
-          "eng": "📱 Stop playing on your phone at the dinner table!"
-        },
-        "quiz_2_feedback_3": {
-          "eng": "You could say: \"I like that you enjoy your phone. Can you put it away during dinner so we can spend time together? Thanks – I really appreciate it.\""
         }
       },
       "text_2": "Remember, teenagers are much more likely to listen when we give positive, clear and realistic instructions.",
@@ -623,14 +606,7 @@
       "quiz_1_option_2_text": "I think so",
       "quiz_1_feedback_2": "You can do it! Notice when you normally say ‘don’t do this!’ and think of a positive way to phrase it. You can try it out and see what happens.",
       "quiz_1_option_3_text": "No",
-      "quiz_1_feedback_3": "That's okay. It can be hard to try something new. Could you think of one situation where you often tell your teen ‘don’t do this’? Try to find a positive way to give that instruction.",
-      "quiz_2_question": "Let’s do a quick practice to help you prepare for your home activity! \nTurn each of these instructions into positive ones:",
-      "quiz_2_option_1_text": "👕 Stop leaving your dirty clothes all over the place!",
-      "quiz_2_feedback_1": "You could say: \"I know you’ve had a long day. Could you please put your clothes in the basket so it’s easier to keep things tidy? Thanks – it really helps.\"",
-      "quiz_2_option_2_text": "🎵 Stop playing your music so loud in the house!",
-      "quiz_2_feedback_2": "You could say: \"That’s great music. Who is the singer? Please turn the music off when you come into the house. You can play it in your room quietly if you want. Thank you!\"",
-      "quiz_2_option_3_text": "📱 Stop playing on your phone at the dinner table!",
-      "quiz_2_feedback_3": "You could say: \"I like that you enjoy your phone. Can you put it away during dinner so we can spend time together? Thanks – I really appreciate it.\""
+      "quiz_1_feedback_3": "That's okay. It can be hard to try something new. Could you think of one situation where you often tell your teen ‘don’t do this’? Try to find a positive way to give that instruction."
     },
     {
       "id": "teen_test_1",

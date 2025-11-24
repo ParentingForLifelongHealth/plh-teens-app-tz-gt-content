@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 62942 KB | 62.9 MB |
-| unused | 79847 KB | 79.8 MB |
+| total | 62664 KB | 62.7 MB |
+| unused | 80142 KB | 80.1 MB |
 </details>
 
 <details open>
@@ -220,7 +220,11 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/crisis/crisis2_t_3.svg | 58 |
 | images/teen_modules/crisis/crisis2_t_4.svg | 55.5 |
 | images/teen_modules/crisis/crisis2_t_5.svg | 56 |
+| images/teen_modules/instruct/instruct2_t_2.svg | 37.4 |
+| images/teen_modules/instruct/instruct3_t_2.svg | 39.7 |
+| images/teen_modules/instruct/instruct3_t_5.svg | 53.4 |
 | images/teen_modules/money/money3_t_4.svg | 58.2 |
+| images/teen_modules/praise/praise1_t_1.svg | 164.8 |
 | images/teen_modules/rules/rules1_t_1.svg | 30.5 |
 | images/teen_modules/safe/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/safe1_t_2.svg | 68.7 |
@@ -256,7 +260,6 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | images/backgrounds/map_view_bg.jpg | 1 |
-| images/faces/tired.svg | 4 |
 | images/logos/donors/ERC-EU.png | 1 |
 </details>
 
@@ -374,6 +377,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/F1_DAUGHTER_16.svg | 13.5 | 1 |
 | images/character_icons/F1_FATHER.svg | 54.1 | 1 |
 | images/character_icons/F1_MOTHER.svg | 11.3 | 1 |
+| images/character_icons/F1_SON_14.svg | 14.3 | 1 |
 | images/character_icons/F1_SON_18.svg | 12.9 | 1 |
 | images/character_icons/F2_DAUGHTER_19.svg | 16.6 | 1 |
 | images/character_icons/F2_GRANDFATHER.svg | 20.5 | 1 |
@@ -396,9 +400,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faces/happier.svg | 0.6 | 2 |
 | images/faces/happiest.svg | 1.3 | 10 |
 | images/faces/happy.svg | 0.6 | 29 |
-| images/faces/neutral.svg | 0.5 | 27 |
+| images/faces/neutral.svg | 0.5 | 25 |
 | images/faces/sad.svg | 0.6 | 28 |
-| images/faces/scared.svg | 2.1 | 4 |
+| images/faces/scared.svg | 2.1 | 6 |
+| images/faces/tired.svg | 2.4 | 4 |
 | images/homescreen/celebrate_t.svg | 36.3 | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 23.9 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 28.8 | 1 |
@@ -561,13 +566,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/instruct/instruct1_t_2.svg | 9.1 | 2 |
 | images/teen_modules/instruct/instruct1_t_3.svg | 26.5 | 2 |
 | images/teen_modules/instruct/instruct2_t_1.svg | 47.3 | 2 |
-| images/teen_modules/instruct/instruct2_t_2.svg | 37.4 | 2 |
 | images/teen_modules/instruct/instruct2_t_3.svg | 42.6 | 2 |
 | images/teen_modules/instruct/instruct3_t_1.svg | 47 | 2 |
-| images/teen_modules/instruct/instruct3_t_2.svg | 39.7 | 2 |
 | images/teen_modules/instruct/instruct3_t_3.svg | 43.4 | 2 |
 | images/teen_modules/instruct/instruct3_t_4.svg | 42.5 | 2 |
-| images/teen_modules/instruct/instruct3_t_5.svg | 53.4 | 2 |
 | images/teen_modules/learn/learn_conflict_t_1.svg | 51.8 | 2 |
 | images/teen_modules/learn/learn_conflict_t_2.svg | 69.4 | 2 |
 | images/teen_modules/learn/learn_conflict_t_3.svg | 47.4 | 2 |
@@ -587,8 +589,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/money/money3_t_3.svg | 17.8 | 2 |
 | images/teen_modules/money/money3_t_5.svg | 51.9 | 2 |
 | images/teen_modules/money/money4_t_1.svg | 47.1 | 2 |
-| images/teen_modules/praise/praise1_t_1.svg | 164.8 | 2 |
-| images/teen_modules/praise/praise1_t_2.svg | 44.8 | 2 |
+| images/teen_modules/praise/praise1_t_2.svg | 44.8 | 6 |
 | images/teen_modules/rules/rules1_t_2.svg | 32.1 | 2 |
 | images/teen_modules/rules/rules1_t_3.svg | 29.6 | 2 |
 | images/teen_modules/rules/rules1_t_4.svg | 29.5 | 2 |

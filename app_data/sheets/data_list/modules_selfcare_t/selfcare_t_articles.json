@@ -119,14 +119,14 @@
       "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "character_1_text": "I had a very busy day. Maybe you and I should both find a way to relax and take a break sometime? Why don’t you go take a shower and have a cup of tea, while I finish up the chores with the children?",
+      "character_1_text": "I had a very busy day. \n\nMaybe you and I should both find a way to relax and take a break sometime? Why don’t you go take a shower and have a cup of tea, while I finish up the chores with the children?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I had a very busy day. Maybe you and I should both find a way to relax and take a break sometime? Why don’t you go take a shower and have a cup of tea, while I finish up the chores with the children?"
+          "eng": "I had a very busy day. \n\nMaybe you and I should both find a way to relax and take a break sometime? Why don’t you go take a shower and have a cup of tea, while I finish up the chores with the children?"
         },
         "character_2_text": {
           "eng": "I would really like that, thank you. Is there something you would like to do to relax as well?"
@@ -142,7 +142,7 @@
       "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "character_1_text": "Maybe I can watch the match at the vibanda vya mpira tomorrow so I can catch up with my friend?",
+      "character_1_text": "Maybe tomorrow I can watch the match at the vibanda vya mpira so I can catch up with my friend... this helps me relax.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -163,69 +163,69 @@
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Maybe I can watch the match at the vibanda vya mpira tomorrow so I can catch up with my friend?"
+          "eng": "Maybe tomorrow I can watch the match at the vibanda vya mpira so I can catch up with my friend... this helps me relax."
         },
         "character_2_text": {
           "eng": "That sounds like a great plan. You are always taking care of everybody, it is important that you also take care of yourself."
         },
         "quiz_1_question": {
-          "eng": "How can partners help each other relax?"
+          "eng": "Sometimes getting a small break means someone else helps you.\nWho can you ask to help you get a short break when you need it?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Remind them of easy ways to take care of themselves"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Exactly! By helping each other, we make sure that both fathers and mothers are better able to care for their families. When teens see you do self-care, they learn it’s important too."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Help them find time to relax by offering to assist with chores or childcare"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Exactly! By helping each other, we make sure that both fathers and mothers are better able to care for their families. When teens see you do self-care, they learn it’s important too."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Find moments of play and laughter together"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Exactly! By helping each other, we make sure that both fathers and mothers are better able to care for their families. When teens see you do self-care, they learn it’s important too."
-        },
-        "quiz_2_question": {
-          "eng": "Sometimes, taking a break to care for yourself requires asking for help. Who else can you ask for help?"
-        },
-        "quiz_2_option_1_text": {
           "eng": "Sibling or parent"
         },
-        "quiz_2_feedback_1": {
-          "eng": "That’s right. You can practice self-care on your own, but it also helps to have people around you who encourage you to do small, kind things for yourself."
+        "quiz_1_feedback_1": {
+          "eng": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself."
         },
-        "quiz_2_option_2_text": {
+        "quiz_1_option_2_text": {
           "eng": "Friend"
         },
-        "quiz_2_feedback_2": {
-          "eng": "That’s right. You can practice self-care on your own, but it also helps to have people around you who encourage you to do small, kind things for yourself."
+        "quiz_1_feedback_2": {
+          "eng": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself."
         },
-        "quiz_2_option_3_text": {
+        "quiz_1_option_3_text": {
           "eng": "Neighbor"
         },
+        "quiz_1_feedback_3": {
+          "eng": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself."
+        },
+        "quiz_2_question": {
+          "eng": "How can caregivers at home support each other to get a break?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Remind them of easy ways to take care of themselves"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Help them find time to relax by offering to assist with chores or childcare"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Find moments of play and laughter together"
+        },
         "quiz_2_feedback_3": {
-          "eng": "That’s right. You can practice self-care on your own, but it also helps to have people around you who encourage you to do small, kind things for yourself."
+          "eng": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
         }
       },
       "character_2_text": "That sounds like a great plan. You are always taking care of everybody, it is important that you also take care of yourself.",
-      "quiz_1_question": "How can partners help each other relax?",
-      "quiz_1_option_1_text": "Remind them of easy ways to take care of themselves",
-      "quiz_1_feedback_1": "Exactly! By helping each other, we make sure that both fathers and mothers are better able to care for their families. When teens see you do self-care, they learn it’s important too.",
-      "quiz_1_option_2_text": "Help them find time to relax by offering to assist with chores or childcare",
-      "quiz_1_feedback_2": "Exactly! By helping each other, we make sure that both fathers and mothers are better able to care for their families. When teens see you do self-care, they learn it’s important too.",
-      "quiz_1_option_3_text": "Find moments of play and laughter together",
-      "quiz_1_feedback_3": "Exactly! By helping each other, we make sure that both fathers and mothers are better able to care for their families. When teens see you do self-care, they learn it’s important too.",
-      "quiz_2_question": "Sometimes, taking a break to care for yourself requires asking for help. Who else can you ask for help?",
-      "quiz_2_option_1_text": "Sibling or parent",
-      "quiz_2_feedback_1": "That’s right. You can practice self-care on your own, but it also helps to have people around you who encourage you to do small, kind things for yourself.",
-      "quiz_2_option_2_text": "Friend",
-      "quiz_2_feedback_2": "That’s right. You can practice self-care on your own, but it also helps to have people around you who encourage you to do small, kind things for yourself.",
-      "quiz_2_option_3_text": "Neighbor",
-      "quiz_2_feedback_3": "That’s right. You can practice self-care on your own, but it also helps to have people around you who encourage you to do small, kind things for yourself."
+      "quiz_1_question": "Sometimes getting a small break means someone else helps you.\nWho can you ask to help you get a short break when you need it?",
+      "quiz_1_option_1_text": "Sibling or parent",
+      "quiz_1_feedback_1": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself.",
+      "quiz_1_option_2_text": "Friend",
+      "quiz_1_feedback_2": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself.",
+      "quiz_1_option_3_text": "Neighbor",
+      "quiz_1_feedback_3": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself.",
+      "quiz_2_question": "How can caregivers at home support each other to get a break?",
+      "quiz_2_option_1_text": "Remind them of easy ways to take care of themselves",
+      "quiz_2_feedback_1": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",
+      "quiz_2_option_2_text": "Help them find time to relax by offering to assist with chores or childcare",
+      "quiz_2_feedback_2": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",
+      "quiz_2_option_3_text": "Find moments of play and laughter together",
+      "quiz_2_feedback_3": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
     },
     {
       "id": "practise_1",
@@ -371,13 +371,13 @@
           "eng": "SUPPORT"
         },
         "section_4_text": {
-          "eng": "We all need a little help. You can take care of yourself better when you have help from the people around you — another caregiver, a friend, a neighbour, or a family member. Helping each other take small breaks makes self-care easier for everyone."
+          "eng": "You can take care of yourself better when people help you — a caregiver, friend, neighbour, or family member. When we help each other take small breaks, self-care becomes easier."
         },
         "section_4_button_text": {
           "eng": "More tips"
         },
         "section_4_extra_text": {
-          "eng": "Offer a moment of rest, help with a small task, or remind someone to slow down.\nWhen caregivers and their support networks support one another, teens see that caring for yourself and others is a normal part of family life."
+          "eng": "Offer a moment of rest, help with a small task, or remind someone to slow down.\nWhen caregivers support one another, teens see that caring for yourself and others is a normal part of family life."
         }
       },
       "section_1_title": "RELAX",
@@ -393,9 +393,9 @@
       "section_3_button_text": "More tips",
       "section_3_extra_text": "It could be something small, like enjoying a cup of tea, taking a short nap, chatting with a friend, or listening to your favourite music.\n\nSpending time with your teen can be fun for you too! It might even make you feel less stressed.",
       "section_4_title": "SUPPORT",
-      "section_4_text": "We all need a little help. You can take care of yourself better when you have help from the people around you — another caregiver, a friend, a neighbour, or a family member. Helping each other take small breaks makes self-care easier for everyone.",
+      "section_4_text": "You can take care of yourself better when people help you — a caregiver, friend, neighbour, or family member. When we help each other take small breaks, self-care becomes easier.",
       "section_4_button_text": "More tips",
-      "section_4_extra_text": "Offer a moment of rest, help with a small task, or remind someone to slow down.\nWhen caregivers and their support networks support one another, teens see that caring for yourself and others is a normal part of family life."
+      "section_4_extra_text": "Offer a moment of rest, help with a small task, or remind someone to slow down.\nWhen caregivers support one another, teens see that caring for yourself and others is a normal part of family life."
     },
     {
       "id": "home_activity_1",

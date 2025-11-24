@@ -87,6 +87,15 @@
       "Flag if column E has duplicate names": ""
     },
     {
+      "id": "f1_son_14",
+      "caps_id": "F1_SON_14",
+      "family_no": 1,
+      "age": 14,
+      "name": "Amani",
+      "role": "child",
+      "image_asset": "/images/character_icons/F1_SON_14.svg"
+    },
+    {
       "id": "f2_grandmother",
       "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,

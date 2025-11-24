@@ -267,7 +267,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name."
+          "eng": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
         },
         "character_2_text": {
           "eng": "Thank you very much, @data.characters.f1_son_18.name, for helping to come up with a good rule together."
@@ -278,7 +278,7 @@
       "image_asset": "/images/teen_modules/rules/rules1_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
-      "character_1_text": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name.",
+      "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -415,7 +415,7 @@
           "eng": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation."
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_mother.role_name, can I talk to you about something?"
+          "eng": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
         },
         "character_2_text": {
           "eng": "(_calmly_) Sure, my darling. What is the matter?"
@@ -432,7 +432,7 @@
       "image_asset": "/images/teen_modules/srh/srh2_t_1.svg",
       "character_1_id": "f1_daughter_16",
       "character_2_id": "f1_mother",
-      "character_1_text": "@data.characters.f1_mother.role_name, can I talk to you about something?",
+      "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
       "character_2_text": "(_calmly_) Sure, my darling. What is the matter?",
       "completed": false
     },
@@ -515,7 +515,7 @@
           "eng": "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
         },
         "character_2_text": {
-          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name."
+          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
         }
       },
       "category_id": "explore",
@@ -528,7 +528,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name.",
+      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name.",
       "completed": false
     },
     {
@@ -1127,7 +1127,7 @@
           "eng": "@data.characters.f1_daughter_13.name, have you done your homework?"
         },
         "character_2_text": {
-          "eng": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video."
+          "eng": "Just a minute @data.characters.f1_mother_role.name, I’m finishing this Tiktok video."
         }
       },
       "category_id": "explore",
@@ -1142,7 +1142,7 @@
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_13",
       "character_1_text": "@data.characters.f1_daughter_13.name, have you done your homework?",
-      "character_2_text": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video.",
+      "character_2_text": "Just a minute @data.characters.f1_mother_role.name, I’m finishing this Tiktok video.",
       "completed": false
     },
     {
@@ -1153,7 +1153,7 @@
           "eng": "You are a really great dancer! Tell me about why you like Tiktok."
         },
         "character_2_text": {
-          "eng": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers."
+          "eng": "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers."
         }
       },
       "category_id": "explore",
@@ -1166,7 +1166,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers.",
+      "character_2_text": "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers.",
       "completed": false
     },
     {

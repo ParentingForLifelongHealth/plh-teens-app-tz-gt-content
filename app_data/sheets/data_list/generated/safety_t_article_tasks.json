@@ -102,21 +102,21 @@
       "id": "sensitive_content_notice",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
-        "section_1_text": {
+        "section_1_title": {
           "eng": "⚠️ Sensitive Content Notice"
         },
-        "section_1_extra_text": {
+        "section_1_text": {
           "eng": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
         }
       },
       "category_id": "notice",
       "nested": false,
-      "section_1_text": "⚠️ Sensitive Content Notice",
+      "section_1_title": "⚠️ Sensitive Content Notice",
       "_translations": {
-        "section_1_text": {},
-        "section_1_extra_text": {}
+        "section_1_title": {},
+        "section_1_text": {}
       },
-      "section_1_extra_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help.",
+      "section_1_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help.",
       "completed": false
     },
     {
@@ -154,7 +154,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Sometimes our teens notice things about their surroundings that we don’t. By talking and listening, we can better understand their world and guide them through challenges.\n\nWith our support, they can learn to stay safe and make good decisions.\n\nLet’s start by looking at situations where teens may be unsafe."
+          "eng": "Sometimes our teens notice things about their surroundings that we don’t. By talking and listening, we can better understand their world and guide them through challenges.\n\nWith our support, they can learn to stay safe and make good decisions."
         },
         "media_title": {
           "eng": "A safety plan helped @data.characters.media_female_8.name protect her teen. Tap play to hear more"
@@ -165,7 +165,7 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Sometimes our teens notice things about their surroundings that we don’t. By talking and listening, we can better understand their world and guide them through challenges.\n\nWith our support, they can learn to stay safe and make good decisions.\n\nLet’s start by looking at situations where teens may be unsafe.",
+      "text_1_facilitator": "Sometimes our teens notice things about their surroundings that we don’t. By talking and listening, we can better understand their world and guide them through challenges.\n\nWith our support, they can learn to stay safe and make good decisions.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -177,11 +177,13 @@
     },
     {
       "id": "explore_1",
-      "media_type": "friend_female_1",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything.\n\nWork with your teen to notice risks — like when someone pressures or makes them feel uncomfortable.\n\nBoys experience sexual abuse almost as often as girls, so talk openly with both about staying safe.\n\nLet’s look at examples of risky situations to help you spot warning signs."
+          "eng": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything.\n\nWork with your teen to notice risks — like when someone pressures or makes them feel uncomfortable.\n\nBoys experience sexual abuse almost as often as girls, so talk openly with both about staying safe."
+        },
+        "text_2": {
+          "eng": "Let’s look at examples of risky situations to help you spot warning signs."
         },
         "character_1_text": {
           "eng": "Hi beautiful, can I give you a ride on my boda?"
@@ -189,7 +191,7 @@
         "character_2_text": {
           "eng": "Uhmmm... I don’t…"
         },
-        "media_title": {
+        "character_4_text": {
           "eng": "Yes, she’ll go with you! Go @data.characters.f2_daughter_19.name, if you save this money, you  can buy chips later!"
         },
         "quiz_1_question": {
@@ -232,9 +234,10 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
-        "media_title": {},
+        "text_2": {},
         "character_1_text": {},
         "character_2_text": {},
+        "character_4_text": {},
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {}
       },
@@ -244,20 +247,21 @@
       "quiz_1_option_1_text": "The boda driver pressures @data.characters.f2_daughter_19.name even when she hesitates",
       "quiz_1_option_2_text": "He offers a ride that may come with expectations",
       "quiz_1_option_3_text": "Her friend makes the decision for @data.characters.f2_daughter_19.name",
-      "text_1_facilitator": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything.\n\nWork with your teen to notice risks — like when someone pressures or makes them feel uncomfortable.\n\nBoys experience sexual abuse almost as often as girls, so talk openly with both about staying safe.\n\nLet’s look at examples of risky situations to help you spot warning signs.",
-      "media_title": "Yes, she’ll go with you! Go @data.characters.f2_daughter_19.name, if you save this money, you  can buy chips later!",
+      "text_1_facilitator": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything.\n\nWork with your teen to notice risks — like when someone pressures or makes them feel uncomfortable.\n\nBoys experience sexual abuse almost as often as girls, so talk openly with both about staying safe.",
       "image_asset": "/images/teen_modules/svp/svp_pushy_friend_t.svg",
       "character_1_id": "man_in_car",
       "character_2_id": "f2_daughter_19",
+      "character_3_id": "friend_female_1",
+      "text_2": "Let’s look at examples of risky situations to help you spot warning signs.",
       "character_1_text": "Hi beautiful, can I give you a ride on my boda?",
       "character_2_text": "Uhmmm... I don’t…",
+      "character_4_text": "Yes, she’ll go with you! Go @data.characters.f2_daughter_19.name, if you save this money, you  can buy chips later!",
       "quiz_1_option_4_text": "He uses friendliness to influence @data.characters.f2_daughter_19.name",
       "quiz_1_feedback_4": "Yes. Calling someone ‘beautiful’ or offering something for free can be used to create pressure and make it harder to say no.",
       "completed": false
     },
     {
       "id": "explore_2",
-      "media_type": "friend_male_1",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_2": {
@@ -269,7 +273,7 @@
         "character_2_text": {
           "eng": "I am not sure… I heard some bad things about this."
         },
-        "media_title": {
+        "character_4_text": {
           "eng": "Don’t worry, that won’t happen to you. Just try it once, you will see."
         },
         "quiz_1_question": {
@@ -279,24 +283,24 @@
           "eng": "The friend pressures @data.characters.f1_son_18.name to do something unsafe"
         },
         "quiz_1_feedback_1": {
-          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk."
+          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust."
         },
         "quiz_1_option_2_text": {
           "eng": "The friend ignores that @data.characters.f1_son_18.name feels unsure"
         },
         "quiz_1_feedback_2": {
-          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk."
+          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust."
         },
         "quiz_1_option_3_text": {
           "eng": "The friend gives false advice to make it seem safe"
         },
         "quiz_1_feedback_3": {
-          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk."
+          "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust."
         }
       },
       "category_id": "explore",
       "nested": false,
-      "quiz_1_feedback_1": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk.",
+      "quiz_1_feedback_1": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -305,24 +309,25 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "media_title": {},
+        "text_2": {},
         "character_1_text": {},
         "character_2_text": {},
-        "text_2": {}
+        "character_4_text": {}
       },
-      "quiz_1_feedback_2": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk.",
-      "quiz_1_feedback_3": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. Think about the consequences, and only take advice from people you know and trust. Alcohol or drugs can affect your thinking and put you at risk.",
+      "quiz_1_feedback_2": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
+      "quiz_1_feedback_3": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
       "quiz_1_question": "What warning signs do you see here?",
       "quiz_1_option_1_text": "The friend pressures @data.characters.f1_son_18.name to do something unsafe",
       "quiz_1_option_2_text": "The friend ignores that @data.characters.f1_son_18.name feels unsure",
       "quiz_1_option_3_text": "The friend gives false advice to make it seem safe",
-      "media_title": "Don’t worry, that won’t happen to you. Just try it once, you will see.",
       "image_asset": "/images/teen_modules/svp/svp_pushy_friend_t.svg",
       "character_1_id": "friend_male_1",
       "character_2_id": "f1_son_18",
+      "character_3_id": "friend_male_1",
+      "text_2": "@data.characters.f1_son_18.name is pressured into trying drugs",
       "character_1_text": "You should try this! It will boost your energy so you can study or work till the next morning.",
       "character_2_text": "I am not sure… I heard some bad things about this.",
-      "text_2": "@data.characters.f1_son_18.name is pressured into trying drugs",
+      "character_4_text": "Don’t worry, that won’t happen to you. Just try it once, you will see.",
       "completed": false
     },
     {
@@ -371,9 +376,9 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
+        "text_2": {},
         "character_1_text": {},
-        "character_2_text": {},
-        "text_2": {}
+        "character_2_text": {}
       },
       "quiz_1_feedback_2": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
       "quiz_1_feedback_3": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
@@ -384,9 +389,9 @@
       "image_asset": "/images/teen_modules/svp/svp_pushy_boyfriend_t.svg",
       "character_1_id": "f1_daughter_16",
       "character_2_id": "boyfriend_1",
+      "text_2": "Boyfriend pressures @data.characters.f1_daughter_16.name into kissing",
       "character_1_text": "I don't think I am ready..",
       "character_2_text": "Oh come on... We are ready for the next step. We see each other all the time and we never do anything more… You know I love you, right!",
-      "text_2": "Boyfriend pressures @data.characters.f1_daughter_16.name into kissing",
       "completed": false
     },
     {
@@ -406,24 +411,24 @@
           "eng": "Breaks @data.characters.friend_female_2.name's trust"
         },
         "quiz_1_feedback_1": {
-          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe."
+          "eng": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe."
         },
         "quiz_1_option_2_text": {
           "eng": "Breaks the law"
         },
         "quiz_1_feedback_2": {
-          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe."
+          "eng": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe."
         },
         "quiz_1_option_3_text": {
           "eng": "Shows his friends nude content"
         },
         "quiz_1_feedback_3": {
-          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe."
+          "eng": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe."
         }
       },
       "category_id": "explore",
       "nested": false,
-      "quiz_1_feedback_1": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe.",
+      "quiz_1_feedback_1": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -432,24 +437,23 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "character_1_text": {},
-        "text_2": {}
+        "text_2": {},
+        "character_1_text": {}
       },
-      "quiz_1_feedback_2": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe.",
-      "quiz_1_feedback_3": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and a crime — especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTeens have more access to phones than you may think. Talk as a family about phones and social media to help everyone stay safe.",
+      "quiz_1_feedback_2": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe.",
+      "quiz_1_feedback_3": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe.",
       "quiz_1_question": "What warning signs do you see here?\n\nThe ex-boyfriend:",
       "quiz_1_option_1_text": "Breaks @data.characters.friend_female_2.name's trust",
       "quiz_1_option_2_text": "Breaks the law",
       "quiz_1_option_3_text": "Shows his friends nude content",
       "image_asset": "/images/teen_modules/svp/svp_nude_pic_t.svg",
       "character_1_id": "friend_male_2",
-      "character_1_text": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me.",
       "text_2": "@data.characters.friend_female_2.name's nude picture is shared",
+      "character_1_text": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me.",
       "completed": false
     },
     {
       "id": "explore_5",
-      "media_type": "teacher_1",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_2": {
@@ -461,7 +465,7 @@
         "character_2_text": {
           "eng": "My friend also needs support. Can I invite him too?"
         },
-        "media_title": {
+        "character_4_text": {
           "eng": "No, this will be our secret. You don't want people to think you are stupid, right?"
         },
         "quiz_1_question": {
@@ -503,12 +507,12 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "media_title": {},
+        "text_2": {},
         "character_1_text": {},
         "character_2_text": {},
+        "character_4_text": {},
         "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "text_2": {}
+        "quiz_1_feedback_4": {}
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
@@ -516,15 +520,16 @@
       "quiz_1_option_1_text": "Abuses his power",
       "quiz_1_option_2_text": "Pressures and manipulates @data.characters.f1_f2_son_15.name",
       "quiz_1_option_3_text": "Makes @data.characters.f1_f2_son_15.name feel unsafe",
-      "media_title": "No, this will be our secret. You don't want people to think you are stupid, right?",
       "image_asset": "/images/teen_modules/svp/svp_private_tutoring_t.svg",
       "character_1_id": "teacher_1",
       "character_2_id": "f2_son_15",
+      "character_3_id": "teacher_1",
+      "text_2": "Teacher asks @data.characters.f1_f2_son_15.name to stay after school",
       "character_1_text": "@data.characters.f1_f2_son_15.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you.",
       "character_2_text": "My friend also needs support. Can I invite him too?",
+      "character_4_text": "No, this will be our secret. You don't want people to think you are stupid, right?",
       "quiz_1_option_4_text": "Lies and acts disrespectfully",
       "quiz_1_feedback_4": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
-      "text_2": "Teacher asks @data.characters.f1_f2_son_15.name to stay after school",
       "completed": false
     },
     {
@@ -691,7 +696,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?"
+          "eng": "Hey @data.characters.f1_father_role.name, how is Aunty Cecilia doing now?"
         },
         "character_2_text": {
           "eng": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
@@ -702,7 +707,7 @@
       "image_asset": "/images/teen_modules/stress/stress3_t_5.svg",
       "character_1_id": "f1_daughter_16",
       "character_2_id": "f1_father",
-      "character_1_text": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?",
+      "character_1_text": "Hey @data.characters.f1_father_role.name, how is Aunty Cecilia doing now?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -715,7 +720,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow."
+          "eng": "@data.characters.f1_mother_role.name, I just remembered, Aunty Cecilia said she will come visit tomorrow."
         },
         "character_2_text": {
           "eng": "*(on the other side of the phone)* I will send someone to pick you up now. Where are you?"
@@ -726,7 +731,7 @@
       "image_asset": "/images/teen_modules/stress/stress3_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
-      "character_1_text": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
+      "character_1_text": "@data.characters.f1_mother_role.name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -881,11 +886,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_text": "Make maps with your teen of safe and unsafe areas in your community and online. Talk about how to keep their information, photos and videos private online. Talk about how once something goes online, it stays there forever. They might know an example from their friends.",
+      "section_1_title": "MAPS",
       "_translations": {
+        "section_1_title": {},
         "section_1_text": {},
         "text_1_facilitator": {},
-        "section_1_title": {},
         "section_2_title": {},
         "section_2_text": {},
         "section_2_button_text": {},
@@ -895,11 +900,11 @@
         "section_3_button_text": {},
         "section_3_extra_text": {}
       },
+      "section_1_text": "Make maps with your teen of safe and unsafe areas in your community and online. Talk about how to keep their information, photos and videos private online. Talk about how once something goes online, it stays there forever. They might know an example from their friends.",
       "text_1_facilitator": "Here are some skills to help you keep your teen safe!",
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/single_speech_blue.png",
-      "section_1_title": "MAPS",
       "section_2_title": "RULES",
       "section_2_text": "Make rules with your teen about how they can stay safe in your community (especially in risky areas that cannot be avoided), and how they can safely use the apps and websites that they like.",
       "section_2_button_text": "More tips",

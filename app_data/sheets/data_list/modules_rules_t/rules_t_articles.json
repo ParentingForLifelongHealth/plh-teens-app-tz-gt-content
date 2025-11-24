@@ -171,14 +171,14 @@
       "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name.",
+      "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name."
+          "eng": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
         },
         "character_2_text": {
           "eng": "Thank you very much, @data.characters.f1_son_18.name, for helping to come up with a good rule together."
@@ -324,13 +324,13 @@
           "eng": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation."
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_mother.role_name, can I talk to you about something?"
+          "eng": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
         },
         "character_2_text": {
           "eng": "(_calmly_) Sure, my darling. What is the matter?"
         }
       },
-      "character_1_text": "@data.characters.f1_mother.role_name, can I talk to you about something?",
+      "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
       "character_2_text": "(_calmly_) Sure, my darling. What is the matter?"
     },
     {
@@ -419,10 +419,10 @@
           "eng": "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
         },
         "character_2_text": {
-          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name."
+          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
         }
       },
-      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name."
+      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
     },
     {
       "id": "explore_13",
@@ -1278,11 +1278,11 @@
           "eng": "@data.characters.f1_daughter_13.name, have you done your homework?"
         },
         "character_2_text": {
-          "eng": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video."
+          "eng": "Just a minute @data.characters.f1_mother_role.name, I’m finishing this Tiktok video."
         }
       },
       "character_1_text": "@data.characters.f1_daughter_13.name, have you done your homework?",
-      "character_2_text": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video."
+      "character_2_text": "Just a minute @data.characters.f1_mother_role.name, I’m finishing this Tiktok video."
     },
     {
       "id": "explore_19",
@@ -1302,10 +1302,10 @@
           "eng": "You are a really great dancer! Tell me about why you like Tiktok."
         },
         "character_2_text": {
-          "eng": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers."
+          "eng": "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers."
         }
       },
-      "character_2_text": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers."
+      "character_2_text": "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers."
     },
     {
       "id": "explore_20",

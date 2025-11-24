@@ -419,10 +419,10 @@
           "eng": "Crisis 1: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?"
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do."
+          "eng": "@data.characters.f1_father_role.name, I am so ashamed. I do not know what to do."
         }
       },
-      "character_1_text": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do."
+      "character_1_text": "@data.characters.f1_father_role.name, I am so ashamed. I do not know what to do."
     },
     {
       "id": "practise_3",
@@ -507,10 +507,10 @@
           "eng": "Crisis 5: @data.characters.f2_daughter_19.name is pressured into sex by her boyfriend.\n\nHow could you respond to @data.characters.f2_daughter_19.name?"
         },
         "character_1_text": {
-          "eng": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
+          "eng": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother_role.name, I am so scared..."
         }
       },
-      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
+      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother_role.name, I am so scared..."
     },
     {
       "id": "home_activity_1",

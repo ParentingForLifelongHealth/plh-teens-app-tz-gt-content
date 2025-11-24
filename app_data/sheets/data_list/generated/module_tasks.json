@@ -249,99 +249,11 @@
       "task_child": "crisis_t_article_tasks"
     },
     {
-      "id": "srh_t",
-      "tag_list": [
-        "teen"
-      ],
-      "number": 3.4,
-      "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
-      "image_asset": "images/homescreen/srh_t.svg",
-      "relax_id": "relax_15",
-      "check_in_id": "check_in_12",
-      "title": "Body Changes and Intimate Relationships",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Body Changes and Intimate Relationships"
-        }
-      },
-      "completed": false,
-      "task_child": "srh_t_article_tasks"
-    },
-    {
-      "id": "stayingsafe_t",
-      "tag_list": [
-        "teen"
-      ],
-      "number": 3.5,
-      "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
-      "image_asset": "images/homescreen/svp_t.svg",
-      "relax_id": "relax_17",
-      "check_in_id": "check_in_13",
-      "title": "Staying Safe",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Staying Safe"
-        }
-      },
-      "completed": false,
-      "task_child": "stayingsafe_t_article_tasks"
-    },
-    {
-      "id": "grief_t",
-      "tag_list": [
-        "teen"
-      ],
-      "number": 3.6,
-      "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
-      "image_asset": "images/homescreen/grief_t.svg",
-      "relax_id": "relax_22",
-      "check_in_id": "check_in_14",
-      "title": "Coping with Grief",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Coping with Grief"
-        }
-      },
-      "completed": false,
-      "task_child": "grief_t_article_tasks"
-    },
-    {
-      "id": "learn_t",
-      "tag_list": [
-        "teen"
-      ],
-      "number": 3.7,
-      "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
-      "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_20",
-      "check_in_id": "check_in_15",
-      "title": "Helping Your Teen Learn",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Helping Your Teen Learn"
-        }
-      },
-      "completed": false,
-      "task_child": "learn_t_article_tasks"
-    },
-    {
       "id": "celebrate_t",
       "tag_list": [
         "teen"
       ],
-      "number": 4,
+      "number": 3.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
       "image_asset": "images/homescreen/celebrate_t.svg",
       "relax_id": "relax_14",
@@ -357,6 +269,114 @@
       },
       "completed": false,
       "task_child": "celebrate_t_article_tasks"
+    },
+    {
+      "id": "srh_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.4,
+      "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
+      "image_asset": "images/homescreen/srh_t.svg",
+      "relax_id": "relax_15",
+      "check_in_id": "check_in_12",
+      "title": "Body Changes and Intimate Relationships",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body Changes and Intimate Relationships"
+        },
+        "description": {
+          "eng": "x"
+        }
+      },
+      "description": "x",
+      "completed": false,
+      "task_child": "srh_t_article_tasks"
+    },
+    {
+      "id": "stayingsafe_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.5,
+      "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
+      "image_asset": "images/homescreen/svp_t.svg",
+      "relax_id": "relax_17",
+      "check_in_id": "check_in_13",
+      "title": "Staying Safe",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Staying Safe"
+        },
+        "description": {
+          "eng": "x"
+        }
+      },
+      "description": "x",
+      "completed": false,
+      "task_child": "stayingsafe_t_article_tasks"
+    },
+    {
+      "id": "grief_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.6,
+      "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
+      "image_asset": "images/homescreen/grief_t.svg",
+      "relax_id": "relax_22",
+      "check_in_id": "check_in_14",
+      "title": "Coping with Grief",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Coping with Grief"
+        },
+        "description": {
+          "eng": "x"
+        }
+      },
+      "description": "x",
+      "completed": false,
+      "task_child": "grief_t_article_tasks"
+    },
+    {
+      "id": "learn_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.7,
+      "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
+      "image_asset": "images/homescreen/learn_t.svg",
+      "relax_id": "relax_20",
+      "check_in_id": "check_in_15",
+      "title": "Helping Your Teen Learn",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Helping Your Teen Learn"
+        },
+        "description": {
+          "eng": "x"
+        }
+      },
+      "description": "x",
+      "completed": false,
+      "task_child": "learn_t_article_tasks"
     }
   ],
   "_metadata": {

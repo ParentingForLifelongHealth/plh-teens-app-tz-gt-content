@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "62942 KB",
-        "MB": "62.9 MB"
+        "KB": "62664 KB",
+        "MB": "62.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "79847 KB",
-        "MB": "79.8 MB"
+        "KB": "80142 KB",
+        "MB": "80.1 MB"
       }
     ]
   },
@@ -792,8 +792,24 @@
         "size_kb": 56
       },
       {
+        "path": "images/teen_modules/instruct/instruct2_t_2.svg",
+        "size_kb": 37.4
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct3_t_2.svg",
+        "size_kb": 39.7
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct3_t_5.svg",
+        "size_kb": 53.4
+      },
+      {
         "path": "images/teen_modules/money/money3_t_4.svg",
         "size_kb": 58.2
+      },
+      {
+        "path": "images/teen_modules/praise/praise1_t_1.svg",
+        "size_kb": 164.8
       },
       {
         "path": "images/teen_modules/rules/rules1_t_1.svg",
@@ -902,11 +918,6 @@
       {
         "path": "images/backgrounds/map_view_bg.jpg",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/faces/tired.svg",
-        "count": 4,
         "missing": true
       },
       {
@@ -1454,6 +1465,11 @@
         "size_kb": 11.3
       },
       {
+        "path": "images/character_icons/F1_SON_14.svg",
+        "count": 1,
+        "size_kb": 14.3
+      },
+      {
         "path": "images/character_icons/F1_SON_18.svg",
         "count": 1,
         "size_kb": 12.9
@@ -1565,7 +1581,7 @@
       },
       {
         "path": "images/faces/neutral.svg",
-        "count": 27,
+        "count": 25,
         "size_kb": 0.5
       },
       {
@@ -1575,8 +1591,13 @@
       },
       {
         "path": "images/faces/scared.svg",
-        "count": 4,
+        "count": 6,
         "size_kb": 2.1
+      },
+      {
+        "path": "images/faces/tired.svg",
+        "count": 4,
+        "size_kb": 2.4
       },
       {
         "path": "images/homescreen/celebrate_t.svg",
@@ -2389,11 +2410,6 @@
         "size_kb": 47.3
       },
       {
-        "path": "images/teen_modules/instruct/instruct2_t_2.svg",
-        "count": 2,
-        "size_kb": 37.4
-      },
-      {
         "path": "images/teen_modules/instruct/instruct2_t_3.svg",
         "count": 2,
         "size_kb": 42.6
@@ -2404,11 +2420,6 @@
         "size_kb": 47
       },
       {
-        "path": "images/teen_modules/instruct/instruct3_t_2.svg",
-        "count": 2,
-        "size_kb": 39.7
-      },
-      {
         "path": "images/teen_modules/instruct/instruct3_t_3.svg",
         "count": 2,
         "size_kb": 43.4
@@ -2417,11 +2428,6 @@
         "path": "images/teen_modules/instruct/instruct3_t_4.svg",
         "count": 2,
         "size_kb": 42.5
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct3_t_5.svg",
-        "count": 2,
-        "size_kb": 53.4
       },
       {
         "path": "images/teen_modules/learn/learn_conflict_t_1.svg",
@@ -2519,13 +2525,8 @@
         "size_kb": 47.1
       },
       {
-        "path": "images/teen_modules/praise/praise1_t_1.svg",
-        "count": 2,
-        "size_kb": 164.8
-      },
-      {
         "path": "images/teen_modules/praise/praise1_t_2.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 44.8
       },
       {

@@ -185,7 +185,7 @@
           "eng": "Difficult emotions can lead to difficult behaviour – especially with children. Losing a caregiver or a loved one can make your teen feel worried, insecure, or angry, and can often make them act out.\n\nLet’s see what happened with @data.characters.f4_daughter_13.name who lost her mother 6 months ago:"
         },
         "character_1_text": {
-          "eng": "I miss @data.characters.f1_mother.role_name so much..."
+          "eng": "I miss @data.characters.f1_mother_role.name so much..."
         }
       },
       "category_id": "explore",
@@ -197,7 +197,7 @@
       },
       "image_asset": "/images/teen_modules/grief/grief1_t_1.svg",
       "character_1_id": "f4_daughter_13",
-      "character_1_text": "I miss @data.characters.f1_mother.role_name so much...",
+      "character_1_text": "I miss @data.characters.f1_mother_role.name so much...",
       "completed": false
     },
     {
@@ -205,7 +205,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!"
+          "eng": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother_role.name back and you are doing worse and worse in school!"
         },
         "character_2_text": {
           "eng": "You just don't understand how I feel! You never listen!"
@@ -215,7 +215,7 @@
       "nested": false,
       "image_asset": "/images/teen_modules/grief/grief1_t_2.svg",
       "character_1_id": "f4_father",
-      "character_1_text": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!",
+      "character_1_text": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother_role.name back and you are doing worse and worse in school!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -353,10 +353,10 @@
           "eng": "Thank you for thinking along!\n\nLet’s see what happens if @data.characters.f4_father.name tries to support @data.characters.f4_daughter_13.name:"
         },
         "character_1_text": {
-          "eng": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother.role_name. What do you think we can do to help you feel better?"
+          "eng": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother_role.name. What do you think we can do to help you feel better?"
         },
         "character_2_text": {
-          "eng": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother.role_name?"
+          "eng": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother_role.name?"
         }
       },
       "category_id": "explore",
@@ -369,9 +369,9 @@
       },
       "image_asset": "/images/teen_modules/grief/grief2_t_1.svg",
       "character_1_id": "f4_father",
-      "character_1_text": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother.role_name. What do you think we can do to help you feel better?",
+      "character_1_text": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother_role.name. What do you think we can do to help you feel better?",
       "character_2_id": "f4_daughter_13",
-      "character_2_text": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother.role_name?",
+      "character_2_text": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother_role.name?",
       "completed": false
     },
     {

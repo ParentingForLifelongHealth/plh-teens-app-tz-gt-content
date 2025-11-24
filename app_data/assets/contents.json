@@ -1162,6 +1162,10 @@
     "md5Checksum": "db3f5ffb0c4318bf56bebb1e8c2df55c",
     "size_kb": 11.3
   },
+  "images/character_icons/F1_SON_14.svg": {
+    "md5Checksum": "87d5e0180ec27c53b13433d008238d7c",
+    "size_kb": 14.3
+  },
   "images/character_icons/F1_SON_18.svg": {
     "md5Checksum": "0ccf5afe2dcc2c9dbde4b58570c8c01b",
     "size_kb": 12.9
@@ -1493,6 +1497,10 @@
   "images/faces/scared.svg": {
     "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
     "size_kb": 2.1
+  },
+  "images/faces/tired.svg": {
+    "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
+    "size_kb": 2.4
   },
   "images/facilitators_face.svg": {
     "md5Checksum": "a1d15018aa8bf2d97cf1714fdeb948d2",

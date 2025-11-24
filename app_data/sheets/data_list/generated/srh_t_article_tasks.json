@@ -251,7 +251,7 @@
           "eng": "What is this talk of sex in my house! You are too young…"
         },
         "character_2_text": {
-          "eng": "But @data.characters.f2_grandmother.role_name, it’s not like that…!"
+          "eng": "But @data.characters.f2_grandmother_role.name, it’s not like that…!"
         }
       },
       "category_id": "explore",
@@ -264,7 +264,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "But @data.characters.f2_grandmother.role_name, it’s not like that…!",
+      "character_2_text": "But @data.characters.f2_grandmother_role.name, it’s not like that…!",
       "completed": false
     },
     {
@@ -275,7 +275,7 @@
           "eng": "No, no, no, @data.characters.f2_daughter_19.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Come here now! I am going to hit you. Stupid girl!"
         },
         "character_2_text": {
-          "eng": "No @data.characters.f2_grandmother.role_name, please don’t hit me, it is not what you think!"
+          "eng": "No @data.characters.f2_grandmother_role.name, please don’t hit me, it is not what you think!"
         }
       },
       "category_id": "explore",
@@ -288,7 +288,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "No @data.characters.f2_grandmother.role_name, please don’t hit me, it is not what you think!",
+      "character_2_text": "No @data.characters.f2_grandmother_role.name, please don’t hit me, it is not what you think!",
       "completed": false
     },
     {
@@ -390,7 +390,7 @@
           "eng": "We saw how challenging that moment was for @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly."
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_mother.role_name, can I talk to you about something?"
+          "eng": "@data.characters.f1_mother_role.name, can I talk to you about something?"
         },
         "character_2_text": {
           "eng": "(_calmly_) Sure, my darling. What is the matter?"
@@ -407,7 +407,7 @@
       "image_asset": "/images/teen_modules/srh/srh2_t_1.svg",
       "character_1_id": "f1_daughter_16",
       "character_2_id": "f1_mother",
-      "character_1_text": "@data.characters.f1_mother.role_name, can I talk to you about something?",
+      "character_1_text": "@data.characters.f1_mother_role.name, can I talk to you about something?",
       "character_2_text": "(_calmly_) Sure, my darling. What is the matter?",
       "completed": false
     },
@@ -490,7 +490,7 @@
           "eng": "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
         },
         "character_2_text": {
-          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name."
+          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
         }
       },
       "category_id": "explore",
@@ -503,7 +503,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name.",
+      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name.",
       "completed": false
     },
     {

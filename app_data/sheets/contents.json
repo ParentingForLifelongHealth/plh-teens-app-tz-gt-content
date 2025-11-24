@@ -1474,6 +1474,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_celebrate_t_check_in_16",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_srh_t_check_in_12",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -1490,11 +1495,6 @@
         },
         {
           "flow_name": "article_learn_t_check_in_15",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_celebrate_t_check_in_16",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -1612,7 +1612,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_consequences_t_explore_19",
+          "flow_name": "article_consequences_t_practise_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -2051,6 +2051,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "library_article_celebrate_t_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "library_article_srh_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2067,11 +2072,6 @@
         },
         {
           "flow_name": "library_article_learn_t_tips_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_celebrate_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2195,6 +2195,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "module_celebrate_t",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "module_srh_t",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2211,11 +2216,6 @@
         },
         {
           "flow_name": "module_learn_t",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_celebrate_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2292,6 +2292,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "module_overview_celebrate_t",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "module_overview_srh_t",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2308,11 +2313,6 @@
         },
         {
           "flow_name": "module_overview_learn_t",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_overview_celebrate_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2389,6 +2389,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "module_celebrate_t_start_at_uncompleted",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "module_srh_t_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2405,11 +2410,6 @@
         },
         {
           "flow_name": "module_learn_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_celebrate_t_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2486,6 +2486,11 @@
           "flow_type": "data_pipe"
         },
         {
+          "flow_name": "prep_celebrate_t_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
           "flow_name": "prep_srh_t_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -2502,11 +2507,6 @@
         },
         {
           "flow_name": "prep_learn_t_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_celebrate_t_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         }
@@ -2583,6 +2583,11 @@
           "flow_type": "data_pipe"
         },
         {
+          "flow_name": "prep_celebrate_t_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
           "flow_name": "prep_srh_t_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -2599,11 +2604,6 @@
         },
         {
           "flow_name": "prep_learn_t_categories",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_celebrate_t_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         }
@@ -2817,6 +2817,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "stack_module_celebrate_t",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "stack_module_srh_t",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2833,11 +2838,6 @@
         },
         {
           "flow_name": "stack_module_learn_t",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "stack_module_celebrate_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2914,6 +2914,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "stack_module_celebrate_t_start_at_id",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "stack_module_srh_t_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2930,11 +2935,6 @@
         },
         {
           "flow_name": "stack_module_learn_t_start_at_id",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "stack_module_celebrate_t_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3120,17 +3120,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_instructions_t_explore_12",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_instructions_t_explore_13",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_instructions_t_explore_14",
+          "flow_name": "article_instructions_t_practise_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -3320,6 +3310,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_celebrate_t_relax_14",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_srh_t_relax_15",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3336,11 +3331,6 @@
         },
         {
           "flow_name": "article_learn_t_relax_20",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_celebrate_t_relax_14",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3492,6 +3482,11 @@
         },
         {
           "flow_name": "article_oneononetime_t_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_t_explore_4",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -3652,11 +3647,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_problemsolving_t_tips_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_problemsolving_t_practise_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3688,6 +3678,11 @@
         },
         {
           "flow_name": "article_problemsolving_t_practise_15",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4612,6 +4607,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_stress_t_practise_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_stress_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -5176,11 +5176,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_consequences_t_explore_19": {
-      "flow_name": "article_consequences_t_explore_19",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_consequences_t_explore_2": {
       "flow_name": "article_consequences_t_explore_2",
       "flow_subtype": "generated",
@@ -5223,6 +5218,11 @@
     },
     "article_consequences_t_intro_2": {
       "flow_name": "article_consequences_t_intro_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_consequences_t_practise_1": {
+      "flow_name": "article_consequences_t_practise_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -5461,21 +5461,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_instructions_t_explore_12": {
-      "flow_name": "article_instructions_t_explore_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_instructions_t_explore_13": {
-      "flow_name": "article_instructions_t_explore_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_instructions_t_explore_14": {
-      "flow_name": "article_instructions_t_explore_14",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_instructions_t_explore_2": {
       "flow_name": "article_instructions_t_explore_2",
       "flow_subtype": "generated",
@@ -5528,6 +5513,11 @@
     },
     "article_instructions_t_intro_2": {
       "flow_name": "article_instructions_t_intro_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_instructions_t_practise_1": {
+      "flow_name": "article_instructions_t_practise_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -5753,6 +5743,11 @@
     },
     "article_oneononetime_t_explore_3": {
       "flow_name": "article_oneononetime_t_explore_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_oneononetime_t_explore_4": {
+      "flow_name": "article_oneononetime_t_explore_4",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6848,6 +6843,11 @@
     },
     "article_stress_t_intro_2": {
       "flow_name": "article_stress_t_intro_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_stress_t_practise_1": {
+      "flow_name": "article_stress_t_practise_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

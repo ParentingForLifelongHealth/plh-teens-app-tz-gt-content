@@ -13,7 +13,7 @@
       "media_asset": "/audio/teen/topic_intros/stress_intro_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "text_1_facilitator": "Today's topic is about managing stress.\n\nWe know it can be very stressful to raise teenagers. When you manage your stress, it helps you and your family.",
+      "text_1_facilitator": "Today’s topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -21,7 +21,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about managing stress.\n\nWe know it can be very stressful to raise teenagers. When you manage your stress, it helps you and your family."
+          "eng": "Today’s topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family."
         },
         "media_title": {
           "eng": "Can managing stress help you and your family? Tap play to find out"
@@ -350,7 +350,7 @@
       "character_3_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "text_1_facilitator": "Thank you for thinking along! Let’s go back in time and see what would happen if things went a little differently for @data.characters.f1_father.name, @data.characters.f1_daughter_13.name, and @data.characters.f1_son_18.name",
+      "text_1_facilitator": "Thank you for thinking about this with me. \n\nNow let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -360,24 +360,24 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Thank you for thinking along! Let’s go back in time and see what would happen if things went a little differently for @data.characters.f1_father.name, @data.characters.f1_daughter_13.name, and @data.characters.f1_son_18.name"
+          "eng": "Thank you for thinking about this with me. \n\nNow let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different."
         },
         "text_2": {
           "eng": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better."
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. But I know this is also hard for you. How are you feeling?"
+          "eng": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. \n\nI know this is also hard for you. How are you feeling?"
         },
         "character_2_text": {
-          "eng": "I feel worried when I need to ask for anything. The answer is always no."
+          "eng": "I feel worried when I need to ask for anything. The answer is always no..."
         },
         "character_3_text": {
           "eng": "I also feel worried. I want to help, but I don’t know how."
         }
       },
       "text_2": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better.",
-      "character_1_text": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. But I know this is also hard for you. How are you feeling?",
-      "character_2_text": "I feel worried when I need to ask for anything. The answer is always no.",
+      "character_1_text": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. \n\nI know this is also hard for you. How are you feeling?",
+      "character_2_text": "I feel worried when I need to ask for anything. The answer is always no...",
       "character_3_text": "I also feel worried. I want to help, but I don’t know how."
     },
     {
@@ -388,20 +388,20 @@
       "character_2_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "character_1_text": "Thank you for telling me, @data.characters.f1_daughter_13.name. We need to find small ways to spend less. We still want to give you what you need, but things like airtime and tutoring cost a lot.",
+      "character_1_text": "Thank you for sharing this with me, @data.characters.f1_daughter_13.name. We want to give you what you need, but things like airtime and tutoring cost a lot. We need to find small ways to spend less.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Thank you for telling me, @data.characters.f1_daughter_13.name. We need to find small ways to spend less. We still want to give you what you need, but things like airtime and tutoring cost a lot."
+          "eng": "Thank you for sharing this with me, @data.characters.f1_daughter_13.name. We want to give you what you need, but things like airtime and tutoring cost a lot. We need to find small ways to spend less."
         },
         "character_2_text": {
-          "eng": "And, @data.characters.f1_son_18.name, thank you for wanting to help, I am sure you have great ideas."
+          "eng": "And, @data.characters.f1_son_18.name, I appreciate you wanting to help, I am sure you have great ideas."
         }
       },
-      "character_2_text": "And, @data.characters.f1_son_18.name, thank you for wanting to help, I am sure you have great ideas."
+      "character_2_text": "And, @data.characters.f1_son_18.name, I appreciate you wanting to help, I am sure you have great ideas."
     },
     {
       "id": "explore_9",
@@ -410,13 +410,76 @@
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_daughter_13",
       "character_3_id": "f1_father",
+      "quiz_1_option_1_image_asset": "images/faces/happiest.svg",
+      "quiz_1_option_2_image_asset": "images/faces/happy.svg",
+      "quiz_1_option_3_image_asset": "images/faces/scared.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "character_1_text": "Maybe I have an idea. @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",
+      "character_1_text": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
         "character_3_text": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?"
+        },
+        "character_2_text": {
+          "eng": "Yes! I like learning with her!"
+        },
+        "character_3_text": {
+          "eng": "That’s a wonderful idea. Thank you both for thinking of a solution together. I am really proud of you."
+        },
+        "quiz_1_question": {
+          "eng": "Positive actions can change the whole mood at home. How do you think everyone feels now?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "They solved a problem together and understood each other better."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Calm"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes. Speaking kindly helps everyone feel calmer."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Worried"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "It’s possible they still have worries, but now they can talk about them more openly."
+        }
+      },
+      "character_2_text": "Yes! I like learning with her!",
+      "character_3_text": "That’s a wonderful idea. Thank you both for thinking of a solution together. I am really proud of you.",
+      "quiz_1_question": "Positive actions can change the whole mood at home. How do you think everyone feels now?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_feedback_1": "They solved a problem together and understood each other better.",
+      "quiz_1_option_2_text": "Calm",
+      "quiz_1_feedback_2": "Yes. Speaking kindly helps everyone feel calmer.",
+      "quiz_1_option_3_text": "Worried",
+      "quiz_1_feedback_3": "It’s possible they still have worries, but now they can talk about them more openly."
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, let’s think about your own life. What helps you feel calm in a stressful moment?",
+      "_translations": {
+        "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
@@ -428,17 +491,11 @@
         "quiz_1_feedback_4": {}
       },
       "_translatedFields": {
-        "character_1_text": {
-          "eng": "Maybe I have an idea. @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?"
-        },
-        "character_2_text": {
-          "eng": "Yes! I like learning with her!"
-        },
-        "character_3_text": {
-          "eng": "That is a wonderful idea. I always thought @data.characters.f1_daughter_16.name could be a great teacher one day."
+        "text_1_facilitator": {
+          "eng": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, let’s think about your own life. What helps you feel calm in a stressful moment?"
         },
         "quiz_1_question": {
-          "eng": "Think of your own life: What has helped you to feel calm in a stressful moment?"
+          "eng": "What can help you feel calm in a stressful moment?"
         },
         "quiz_1_option_1_text": {
           "eng": "Take 5 breaths"
@@ -465,9 +522,7 @@
           "eng": "Yes! Talking to someone can make things lighter."
         }
       },
-      "character_2_text": "Yes! I like learning with her!",
-      "character_3_text": "That is a wonderful idea. I always thought @data.characters.f1_daughter_16.name could be a great teacher one day.",
-      "quiz_1_question": "Think of your own life: What has helped you to feel calm in a stressful moment?",
+      "quiz_1_question": "What can help you feel calm in a stressful moment?",
       "quiz_1_option_1_text": "Take 5 breaths",
       "quiz_1_feedback_1": "Great! Breathing helps you feel calmer.",
       "quiz_1_option_2_text": "Walk away for a moment",
@@ -541,7 +596,7 @@
       "category_id": "home_activity",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "text_1_facilitator": "There are two home activities for this week:\n\n1) Whenever you are feeling stressed or upset with your teen, take five breaths in and out before you react.\nAnd when you're both calm, share with each other how you feel. \n\n2) Choose a \"Safety Word\" with your teen, and think of a situation together when you could use this.",
+      "text_1_facilitator": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -559,19 +614,19 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "There are two home activities for this week:\n\n1) Whenever you are feeling stressed or upset with your teen, take five breaths in and out before you react.\nAnd when you're both calm, share with each other how you feel. \n\n2) Choose a \"Safety Word\" with your teen, and think of a situation together when you could use this."
+          "eng": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other."
         },
         "text_2": {
           "eng": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together"
         },
         "quiz_1_question": {
-          "eng": "Can you respond calmly and choose a “Safety Word” with your teen this week?"
+          "eng": "Can you try taking five slow breaths before responding this week?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! Staying calm and having a “Safety Word” will help you and your family."
+          "eng": "Great! Pausing to breathe before reacting will help your whole family feel calmer."
         },
         "quiz_1_option_2_text": {
           "eng": "I think so"
@@ -583,17 +638,17 @@
           "eng": "No"
         },
         "quiz_1_feedback_3": {
-          "eng": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
+          "eng": "That’s okay. It can be hard to try new things. Keep spending time with your teen — when you feel ready, you can practise taking a few slow breaths before you respond."
         }
       },
       "text_2": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together",
-      "quiz_1_question": "Can you respond calmly and choose a “Safety Word” with your teen this week?",
+      "quiz_1_question": "Can you try taking five slow breaths before responding this week?",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great! Staying calm and having a “Safety Word” will help you and your family.",
+      "quiz_1_feedback_1": "Great! Pausing to breathe before reacting will help your whole family feel calmer.",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_feedback_2": "That’s a good start. When you are stressed, remember to take a few deep breaths, it will make it easier to respond calmly.",
       "quiz_1_option_3_text": "No",
-      "quiz_1_feedback_3": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
+      "quiz_1_feedback_3": "That’s okay. It can be hard to try new things. Keep spending time with your teen — when you feel ready, you can practise taking a few slow breaths before you respond."
     },
     {
       "id": "teen_test_1",

@@ -240,15 +240,13 @@
       "image_asset": "/images/teen_modules/money/money3_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
-      "character_3_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "text_1_facilitator": "Now, let's see how @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name made a plan with their money, just like you are doing:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -259,14 +257,10 @@
         },
         "character_2_text": {
           "eng": "Me neither. Loan sharks are dangerous, and paying them back is very expensive."
-        },
-        "character_3_text": {
-          "eng": "Exactly, we should save, but that feels impossible!"
         }
       },
       "character_1_text": "We want the best future for our grandchildren, but I do not know where to get the money.",
-      "character_2_text": "Me neither. Loan sharks are dangerous, and paying them back is very expensive.",
-      "character_3_text": "Exactly, we should save, but that feels impossible!"
+      "character_2_text": "Me neither. Loan sharks are dangerous, and paying them back is very expensive."
     },
     {
       "id": "explore_9",
@@ -349,7 +343,7 @@
       "character_1_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
-      "text_1_facilitator": "Emergencies can happen at any time, like when @data.characters.f2_grandmother.name’s roof was damaged in a storm, so saving even a little can help your family be ready — whether you keep money at home, save through small business, use a bank, or join a savings group.",
+      "text_1_facilitator": "Saving is important for one more reason - emergencies! @data.characters.f2_grandmother.name also learnt this along the way:\n\nEmergencies can happen at any time, so saving even a little can help your family be ready — whether you keep money at home, save through small business, use a bank, or join a savings group.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -365,7 +359,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Emergencies can happen at any time, like when @data.characters.f2_grandmother.name’s roof was damaged in a storm, so saving even a little can help your family be ready — whether you keep money at home, save through small business, use a bank, or join a savings group."
+          "eng": "Saving is important for one more reason - emergencies! @data.characters.f2_grandmother.name also learnt this along the way:\n\nEmergencies can happen at any time, so saving even a little can help your family be ready — whether you keep money at home, save through small business, use a bank, or join a savings group."
         },
         "character_1_text": {
           "eng": "One night there was a horrible storm that broke my roof. Everything was flooded. I suddenly had to find money to fix the roof. I just felt defeated."

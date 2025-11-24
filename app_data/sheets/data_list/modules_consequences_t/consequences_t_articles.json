@@ -90,14 +90,14 @@
       "character_2_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "character_1_text": "Sorry @data.characters.f1_father.role_name – you can go back to sleep.",
+      "character_1_text": "Sorry @data.characters.f1_father_role.name – you can go back to sleep.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Sorry @data.characters.f1_father.role_name – you can go back to sleep."
+          "eng": "Sorry @data.characters.f1_father_role.name – you can go back to sleep."
         },
         "character_2_text": {
           "eng": "It is WAY past the time you were supposed to be home!"
@@ -113,14 +113,14 @@
       "character_2_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "character_1_text": "I can explain, @data.characters.f1_father.role_name, I can.",
+      "character_1_text": "I can explain, @data.characters.f1_father_role.name, I can.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I can explain, @data.characters.f1_father.role_name, I can."
+          "eng": "I can explain, @data.characters.f1_father_role.name, I can."
         },
         "character_2_text": {
           "eng": "@data.characters.f1_son_18.name, you broke our rule! You will get punished for this!"
@@ -453,10 +453,10 @@
           "eng": "You have to do your homework anyway. If you forget the rule, is it fair that you will not be able to see your friends the next day?"
         },
         "character_2_text": {
-          "eng": "Okay, @data.characters.f1_father.role_name."
+          "eng": "Okay, @data.characters.f1_father_role.name."
         }
       },
-      "character_2_text": "Okay, @data.characters.f1_father.role_name."
+      "character_2_text": "Okay, @data.characters.f1_father_role.name."
     },
     {
       "id": "explore_13",
@@ -480,11 +480,11 @@
           "eng": "@data.characters.f1_son_18.name! What time is it! It is late!"
         },
         "character_2_text": {
-          "eng": "Sorry, @data.characters.f1_father.role_name. I can explain!"
+          "eng": "Sorry, @data.characters.f1_father_role.name. I can explain!"
         }
       },
       "character_1_text": "@data.characters.f1_son_18.name! What time is it! It is late!",
-      "character_2_text": "Sorry, @data.characters.f1_father.role_name. I can explain!"
+      "character_2_text": "Sorry, @data.characters.f1_father_role.name. I can explain!"
     },
     {
       "id": "explore_14",
@@ -504,10 +504,10 @@
           "eng": "It is WAY past the time you were supposed to be home!\n\nWe talked about this, it is dangerous to stay out late."
         },
         "character_2_text": {
-          "eng": "You promised you would listen to me, @data.characters.f1_father.role_name."
+          "eng": "You promised you would listen to me, @data.characters.f1_father_role.name."
         }
       },
-      "character_2_text": "You promised you would listen to me, @data.characters.f1_father.role_name."
+      "character_2_text": "You promised you would listen to me, @data.characters.f1_father_role.name."
     },
     {
       "id": "explore_15",
@@ -557,14 +557,14 @@
       "character_2_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "character_1_text": "I am sorry I worried you and @data.characters.f1_mother.role_name.",
+      "character_1_text": "I am sorry I worried you and @data.characters.f1_mother_role.name.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I am sorry I worried you and @data.characters.f1_mother.role_name."
+          "eng": "I am sorry I worried you and @data.characters.f1_mother_role.name."
         },
         "character_2_text": {
           "eng": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night."
@@ -643,11 +643,11 @@
       "quiz_1_feedback_5": "Yes. When consequences are agreed on together and used calmly, teens learn better and trust you more."
     },
     {
-      "id": "explore_19",
-      "category_id": "explore",
+      "id": "practise_1",
+      "category_id": "practise",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "text_1_facilitator": "It is time to learn and practise!\n\nNow let’s practise choosing calm consequences for common situations.",
+      "text_1_facilitator": "Now, let’s practise choosing calm consequences for common situations.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -669,7 +669,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "It is time to learn and practise!\n\nNow let’s practise choosing calm consequences for common situations."
+          "eng": "Now, let’s practise choosing calm consequences for common situations."
         },
         "quiz_1_question": {
           "eng": "Here are some ideas from other parents. Tap each behaviour to see an example of a fair consequence!"

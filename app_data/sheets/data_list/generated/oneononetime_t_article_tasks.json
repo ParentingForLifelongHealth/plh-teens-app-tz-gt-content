@@ -104,7 +104,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today’s topic is about spending one-on-one time with our teens.\n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut spending just a few minutes of focused time each day helps build trust, love — and can even help your teen learn!"
+          "eng": "Today's topic is about spending one-on-one time with our teens. \n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love."
         },
         "media_title": {
           "eng": "Why is spending one-on-one time with your teens important? Tap play to learn"
@@ -115,7 +115,7 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Today’s topic is about spending one-on-one time with our teens.\n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut spending just a few minutes of focused time each day helps build trust, love — and can even help your teen learn!",
+      "text_1_facilitator": "Today's topic is about spending one-on-one time with our teens. \n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -192,7 +192,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Thank you for helping me, @data.characters.f3_mother_role.name. It’s nice to do this together. I was feeling very nervous about my test today."
+          "eng": "Thank you for helping me, @data.characters.f3_mother_role.name. It’s nice to do this together. I was feeling very nervous about my test tomorrow."
         },
         "character_2_text": {
           "eng": "You have studied so hard, @data.characters.f3_daughter_12.name. You always try your best, and we are proud of you."
@@ -202,7 +202,7 @@
       "nested": false,
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
-      "character_1_text": "Thank you for helping me, @data.characters.f3_mother_role.name. It’s nice to do this together. I was feeling very nervous about my test today.",
+      "character_1_text": "Thank you for helping me, @data.characters.f3_mother_role.name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -301,30 +301,30 @@
           "eng": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too."
         },
         "quiz_1_question": {
-          "eng": "True or False? Women AND men need to spend one-on-one time with their teens."
+          "eng": "True or False? Both male and female caregivers need to spend one-on-one time with their teens."
         },
         "quiz_1_option_1_text": {
           "eng": "True"
         },
         "quiz_1_feedback_1": {
-          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
         },
         "quiz_1_option_2_text": {
           "eng": "False"
         },
         "quiz_1_feedback_2": {
-          "eng": "Actually, teens feel more loved and supported when male and female caregivers each spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
         },
         "quiz_1_option_3_text": {
           "eng": "Not sure"
         },
         "quiz_1_feedback_3": {
-          "eng": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
         }
       },
       "category_id": "explore",
       "nested": false,
-      "quiz_1_feedback_1": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_1_feedback_1": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -335,9 +335,9 @@
         "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Actually, teens feel more loved and supported when male and female caregivers each spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
-      "quiz_1_feedback_3": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
-      "quiz_1_question": "True or False? Women AND men need to spend one-on-one time with their teens.",
+      "quiz_1_feedback_2": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_1_feedback_3": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_1_question": "True or False? Both male and female caregivers need to spend one-on-one time with their teens.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "quiz_1_option_3_text": "Not sure",
@@ -380,12 +380,6 @@
         },
         "section_3_text": {
           "eng": "Give your full attention. Put aside distractions, listen closely, and show interest. Accept what your teen shares without judging them."
-        },
-        "section_4_title": {
-          "eng": "LEARN"
-        },
-        "section_4_text": {
-          "eng": "One-on-one time also helps your teen learn. Teens learn best when they feel connected and supported. Spend time with them, encourage them to try, and be patient with mistakes. \n\nPraise their effort so they feel safe and confident to keep trying. Mistakes are part of learning — stay patient so your teen feels ready to try again."
         }
       },
       "category_id": "practical_tips",
@@ -404,14 +398,11 @@
         "section_2_button_text": {},
         "section_2_extra_text": {},
         "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_3_text": {}
       },
       "section_1_icon_asset": "images/icons/clock_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
-      "section_4_icon_asset": "images/icons/brain_blue.png",
       "section_1_title": "DAY",
       "section_1_text": "Try to do it every day. \n\nFind 5 minutes (or more!) each day when your teen is free.",
       "section_1_button_text": "More tips",
@@ -422,8 +413,6 @@
       "section_2_extra_text": "One-on-one time also helps you understand your teen’s world. Ask simple questions like “What was the best part of your day?” or “Can you show me something you enjoy?”\n\nThis helps them feel seen and supported.",
       "section_3_title": "STAY",
       "section_3_text": "Give your full attention. Put aside distractions, listen closely, and show interest. Accept what your teen shares without judging them.",
-      "section_4_title": "LEARN",
-      "section_4_text": "One-on-one time also helps your teen learn. Teens learn best when they feel connected and supported. Spend time with them, encourage them to try, and be patient with mistakes. \n\nPraise their effort so they feel safe and confident to keep trying. Mistakes are part of learning — stay patient so your teen feels ready to try again.",
       "completed": false
     },
     {
@@ -431,7 +420,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Spending one-on-one time with your teen can be hard to plan.\n\n*Remember to use your new skills*:\n📅 DAY: try to do it every day\n⚽ PLAY: let your teen choose how to spend one-on-one time\n🎯 STAY: be focused on your teen\n📓 LEARN: connect with your teen — this helps them learn!"
+          "eng": "Spending one-on-one time with your teen can be hard to plan. Here are some easy ideas that worked for other parents."
+        },
+        "text_2": {
+          "eng": "**Ideas for one-on-one time with your teen:**\n- Walk to the shops\n- Play a game/sport\n- Do a chore together\n- Prepare dinner\n- Eat breakfast/lunch/dinner\n- Have tea after school\n- Watch a TV show\n- Review homework\n- Chat before bedtime\n\n\n**Remember to use your new skills:**\n📅 **DAY**: try to do it every day,\n⚽ **PLAY**: let your teen choose how to spend one-on-one time, and \n🎯 **STAY**: be focused on your teen!"
         },
         "quiz_1_question": {
           "eng": "What could you do to spend one-on-one time with your teen?"
@@ -461,7 +453,7 @@
           "eng": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting."
         },
         "quiz_1_option_5_text": {
-          "eng": "Review homework"
+          "eng": "Eat breakfast/lunch/dinner"
         },
         "quiz_1_feedback_5": {
           "eng": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting."
@@ -482,7 +474,8 @@
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_5": {},
+        "text_2": {}
       },
       "quiz_1_feedback_2": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
       "quiz_1_feedback_3": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
@@ -490,11 +483,12 @@
       "quiz_1_option_1_text": "Walk to the shops",
       "quiz_1_option_2_text": "Play a game/sport",
       "quiz_1_option_3_text": "Have tea after school",
-      "text_1_facilitator": "Spending one-on-one time with your teen can be hard to plan.\n\n*Remember to use your new skills*:\n📅 DAY: try to do it every day\n⚽ PLAY: let your teen choose how to spend one-on-one time\n🎯 STAY: be focused on your teen\n📓 LEARN: connect with your teen — this helps them learn!",
+      "text_1_facilitator": "Spending one-on-one time with your teen can be hard to plan. Here are some easy ideas that worked for other parents.",
       "quiz_1_option_4_text": "Prepare dinner",
       "quiz_1_feedback_4": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
-      "quiz_1_option_5_text": "Review homework",
+      "quiz_1_option_5_text": "Eat breakfast/lunch/dinner",
       "quiz_1_feedback_5": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
+      "text_2": "**Ideas for one-on-one time with your teen:**\n- Walk to the shops\n- Play a game/sport\n- Do a chore together\n- Prepare dinner\n- Eat breakfast/lunch/dinner\n- Have tea after school\n- Watch a TV show\n- Review homework\n- Chat before bedtime\n\n\n**Remember to use your new skills:**\n📅 **DAY**: try to do it every day,\n⚽ **PLAY**: let your teen choose how to spend one-on-one time, and \n🎯 **STAY**: be focused on your teen!",
       "completed": false
     },
     {

@@ -240,7 +240,7 @@
           "eng": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?"
         },
         "character_2_text": {
-          "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays. But you always walk home with a friend. Okay?"
+          "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays."
         },
         "character_3_text": {
           "eng": "But you will always make sure you walk home with a friend, okay?"
@@ -257,7 +257,7 @@
         "character_2_text": {},
         "character_3_text": {}
       },
-      "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays. But you always walk home with a friend. Okay?",
+      "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays.",
       "character_3_id": "f1_father",
       "character_3_text": "But you will always make sure you walk home with a friend, okay?",
       "completed": false
@@ -713,7 +713,7 @@
           "eng": "Another trusted adult"
         },
         "quiz_1_feedback_4_id": {
-          "eng": "explore_14_nested_3"
+          "eng": "explore_14_nested_4"
         }
       },
       "category_id": "explore",
@@ -741,7 +741,7 @@
       "quiz_1_feedback_1_id": "explore_14_nested_1",
       "quiz_1_feedback_2_id": "explore_14_nested_2",
       "quiz_1_feedback_3_id": "explore_14_nested_3",
-      "quiz_1_feedback_4_id": "explore_14_nested_3",
+      "quiz_1_feedback_4_id": "explore_14_nested_4",
       "completed": false
     },
     {

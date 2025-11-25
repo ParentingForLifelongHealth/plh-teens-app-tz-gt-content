@@ -132,7 +132,7 @@
           "eng": "Yes. When someone keeps pushing you to do something you feel unsure about, that is a clear warning sign."
         },
         "quiz_1_option_2_text": {
-          "eng": "He offers a ride that may come with expectations"
+          "eng": "The boda driver offers a ride that may come with expectations"
         },
         "quiz_1_feedback_2": {
           "eng": "Yes. Rides, gifts, or money can be used to pressure girls. This can lead to unsafe situations or expectations."
@@ -144,7 +144,7 @@
           "eng": "Yes. Friends should not speak for you or push you. Everyone needs space to make their own decisions."
         },
         "quiz_1_option_4_text": {
-          "eng": "He uses friendliness to influence @data.characters.f2_daughter_19.name"
+          "eng": "The boda driver uses friendliness to influence @data.characters.f2_daughter_19.name"
         },
         "quiz_1_feedback_4": {
           "eng": "Yes. Calling someone ‘beautiful’ or offering something for free can be used to create pressure and make it harder to say no."
@@ -157,11 +157,11 @@
       "quiz_1_question": "What warning signs do you see here?",
       "quiz_1_option_1_text": "The boda driver pressures @data.characters.f2_daughter_19.name even when she hesitates",
       "quiz_1_feedback_1": "Yes. When someone keeps pushing you to do something you feel unsure about, that is a clear warning sign.",
-      "quiz_1_option_2_text": "He offers a ride that may come with expectations",
+      "quiz_1_option_2_text": "The boda driver offers a ride that may come with expectations",
       "quiz_1_feedback_2": "Yes. Rides, gifts, or money can be used to pressure girls. This can lead to unsafe situations or expectations.",
       "quiz_1_option_3_text": "Her friend makes the decision for @data.characters.f2_daughter_19.name",
       "quiz_1_feedback_3": "Yes. Friends should not speak for you or push you. Everyone needs space to make their own decisions.",
-      "quiz_1_option_4_text": "He uses friendliness to influence @data.characters.f2_daughter_19.name",
+      "quiz_1_option_4_text": "The boda driver uses friendliness to influence @data.characters.f2_daughter_19.name",
       "quiz_1_feedback_4": "Yes. Calling someone ‘beautiful’ or offering something for free can be used to create pressure and make it harder to say no."
     },
     {
@@ -201,22 +201,22 @@
           "eng": "Don’t worry, that won’t happen to you. Just try it once, you will see."
         },
         "quiz_1_question": {
-          "eng": "What warning signs do you see here?"
+          "eng": "What warning signs do you see here?\n\nThe friend:"
         },
         "quiz_1_option_1_text": {
-          "eng": "The friend pressures @data.characters.f1_son_18.name to do something unsafe"
+          "eng": "Pressures @data.characters.f1_son_18.name to do something unsafe"
         },
         "quiz_1_feedback_1": {
           "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust."
         },
         "quiz_1_option_2_text": {
-          "eng": "The friend ignores that @data.characters.f1_son_18.name feels unsure"
+          "eng": "Ignores that @data.characters.f1_son_18.name feels unsure"
         },
         "quiz_1_feedback_2": {
           "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust."
         },
         "quiz_1_option_3_text": {
-          "eng": "The friend gives false advice to make it seem safe"
+          "eng": "Gives false advice to make it seem safe"
         },
         "quiz_1_feedback_3": {
           "eng": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust."
@@ -225,12 +225,12 @@
       "character_1_text": "You should try this! It will boost your energy so you can study or work till the next morning.",
       "character_2_text": "I am not sure… I heard some bad things about this.",
       "character_4_text": "Don’t worry, that won’t happen to you. Just try it once, you will see.",
-      "quiz_1_question": "What warning signs do you see here?",
-      "quiz_1_option_1_text": "The friend pressures @data.characters.f1_son_18.name to do something unsafe",
+      "quiz_1_question": "What warning signs do you see here?\n\nThe friend:",
+      "quiz_1_option_1_text": "Pressures @data.characters.f1_son_18.name to do something unsafe",
       "quiz_1_feedback_1": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
-      "quiz_1_option_2_text": "The friend ignores that @data.characters.f1_son_18.name feels unsure",
+      "quiz_1_option_2_text": "Ignores that @data.characters.f1_son_18.name feels unsure",
       "quiz_1_feedback_2": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
-      "quiz_1_option_3_text": "The friend gives false advice to make it seem safe",
+      "quiz_1_option_3_text": "Gives false advice to make it seem safe",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust."
     },
     {

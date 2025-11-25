@@ -3120,12 +3120,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_instructions_t_practise_1",
+          "flow_name": "article_instructions_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_instructions_t_tips_1",
+          "flow_name": "article_instructions_t_practise_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4101,16 +4101,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_selfcare_t_explore_3",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_selfcare_t_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_selfcare_t_practise_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4132,6 +4122,11 @@
         },
         {
           "flow_name": "article_selfcare_t_check_out_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_t_check_out_2",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -6436,6 +6431,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_selfcare_t_check_out_2": {
+      "flow_name": "article_selfcare_t_check_out_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_selfcare_t_explore_1": {
       "flow_name": "article_selfcare_t_explore_1",
       "flow_subtype": "generated",
@@ -6443,16 +6443,6 @@
     },
     "article_selfcare_t_explore_2": {
       "flow_name": "article_selfcare_t_explore_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_selfcare_t_explore_3": {
-      "flow_name": "article_selfcare_t_explore_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_selfcare_t_explore_4": {
-      "flow_name": "article_selfcare_t_explore_4",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

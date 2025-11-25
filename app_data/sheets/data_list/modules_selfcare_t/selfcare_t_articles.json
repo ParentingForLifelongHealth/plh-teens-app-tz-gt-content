@@ -63,89 +63,11 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
-      "character_1_id": "f1_father",
-      "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_2": "@data.characters.f1_mother.name comes home from work and @data.characters.f1_father.name is standing by the door.",
+      "text_1_facilitator": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other caregivers can make it easier.\n\nLet’s think about who can help you get a moment to rest.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f1_mother.name comes home from work and @data.characters.f1_father.name is standing by the door."
-        },
-        "character_1_text": {
-          "eng": "Welcome home, @data.characters.f1_mother.name. How was your day?"
-        },
-        "character_2_text": {
-          "eng": "I feel very tired and worried, I had almost no customers in the shop."
-        }
-      },
-      "character_1_text": "Welcome home, @data.characters.f1_mother.name. How was your day?",
-      "character_2_text": "I feel very tired and worried, I had almost no customers in the shop."
-    },
-    {
-      "id": "explore_2",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
-      "character_1_id": "f1_father",
-      "character_2_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "character_1_text": "I understand, that’s hard. Can I give you some water or juice?",
-      "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I understand, that’s hard. Can I give you some water or juice?"
-        },
-        "character_2_text": {
-          "eng": "Thank you so much. How was your day?"
-        }
-      },
-      "character_2_text": "Thank you so much. How was your day?"
-    },
-    {
-      "id": "explore_3",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
-      "character_1_id": "f1_father",
-      "character_2_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "character_1_text": "I had a very busy day. \n\nMaybe you and I should both find a way to relax and take a break sometime? Why don’t you go take a shower and have a cup of tea, while I finish up the chores with the children?",
-      "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I had a very busy day. \n\nMaybe you and I should both find a way to relax and take a break sometime? Why don’t you go take a shower and have a cup of tea, while I finish up the chores with the children?"
-        },
-        "character_2_text": {
-          "eng": "I would really like that, thank you. Is there something you would like to do to relax as well?"
-        }
-      },
-      "character_2_text": "I would really like that, thank you. Is there something you would like to do to relax as well?"
-    },
-    {
-      "id": "explore_4",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
-      "character_1_id": "f1_father",
-      "character_2_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "character_1_text": "Maybe tomorrow I can watch the match at the vibanda vya mpira so I can catch up with my friend... this helps me relax.",
-      "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
+        "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
@@ -162,11 +84,8 @@
         "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
-        "character_1_text": {
-          "eng": "Maybe tomorrow I can watch the match at the vibanda vya mpira so I can catch up with my friend... this helps me relax."
-        },
-        "character_2_text": {
-          "eng": "That sounds like a great plan. You are always taking care of everybody, it is important that you also take care of yourself."
+        "text_1_facilitator": {
+          "eng": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other caregivers can make it easier.\n\nLet’s think about who can help you get a moment to rest."
         },
         "quiz_1_question": {
           "eng": "Sometimes getting a small break means someone else helps you.\nWho can you ask to help you get a short break when you need it?"
@@ -196,22 +115,21 @@
           "eng": "Remind them of easy ways to take care of themselves"
         },
         "quiz_2_feedback_1": {
-          "eng": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
+          "eng": "Exactly! When male and female caregivers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
         },
         "quiz_2_option_2_text": {
           "eng": "Help them find time to relax by offering to assist with chores or childcare"
         },
         "quiz_2_feedback_2": {
-          "eng": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
+          "eng": "Exactly! When male and female caregivers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
         },
         "quiz_2_option_3_text": {
           "eng": "Find moments of play and laughter together"
         },
         "quiz_2_feedback_3": {
-          "eng": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
+          "eng": "Exactly! When male and female caregivers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
         }
       },
-      "character_2_text": "That sounds like a great plan. You are always taking care of everybody, it is important that you also take care of yourself.",
       "quiz_1_question": "Sometimes getting a small break means someone else helps you.\nWho can you ask to help you get a short break when you need it?",
       "quiz_1_option_1_text": "Sibling or parent",
       "quiz_1_feedback_1": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself.",
@@ -221,11 +139,92 @@
       "quiz_1_feedback_3": "That’s right. You can take care of yourself on your own, but it also helps when people around you encourage you to do small, kind things for yourself.",
       "quiz_2_question": "How can caregivers at home support each other to get a break?",
       "quiz_2_option_1_text": "Remind them of easy ways to take care of themselves",
-      "quiz_2_feedback_1": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",
+      "quiz_2_feedback_1": "Exactly! When male and female caregivers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",
       "quiz_2_option_2_text": "Help them find time to relax by offering to assist with chores or childcare",
-      "quiz_2_feedback_2": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",
+      "quiz_2_feedback_2": "Exactly! When male and female caregivers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",
       "quiz_2_option_3_text": "Find moments of play and laughter together",
-      "quiz_2_feedback_3": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
+      "quiz_2_feedback_3": "Exactly! When male and female caregivers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "practise",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_1_facilitator": "Appreciating ourselves is one way to care for ourselves. \n\nLet’s give it a try.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {},
+        "quiz_1_option_6_text": {},
+        "quiz_1_feedback_6": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Appreciating ourselves is one way to care for ourselves. \n\nLet’s give it a try."
+        },
+        "quiz_1_question": {
+          "eng": "Think of one thing YOU have done well recently.\n\n\"Well done to me for...\""
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Showing love to my children"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Getting up even though I felt tired"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Smiling at someone"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Making food to stay strong"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Spending time with my children"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
+        },
+        "quiz_1_option_6_text": {
+          "eng": "Helping my children with schoolwork"
+        },
+        "quiz_1_feedback_6": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
+        }
+      },
+      "quiz_1_question": "Think of one thing YOU have done well recently.\n\n\"Well done to me for...\"",
+      "quiz_1_option_1_text": "Showing love to my children",
+      "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
+      "quiz_1_option_2_text": "Getting up even though I felt tired",
+      "quiz_1_feedback_2": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
+      "quiz_1_option_3_text": "Smiling at someone",
+      "quiz_1_feedback_3": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
+      "quiz_1_option_4_text": "Making food to stay strong",
+      "quiz_1_feedback_4": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
+      "quiz_1_option_5_text": "Spending time with my children",
+      "quiz_1_feedback_5": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
+      "quiz_1_option_6_text": "Helping my children with schoolwork",
+      "quiz_1_feedback_6": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
     },
     {
       "id": "practise_1",
@@ -486,7 +485,7 @@
       "quiz_1_option_3_image_asset": "images/faces/sad.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_2": "Well done! You completed the module!",
+      "text_2": "You’re almost done! Let’s check in.",
       "_translations": {
         "text_2": {},
         "quiz_1_question": {},
@@ -505,7 +504,7 @@
       },
       "_translatedFields": {
         "text_2": {
-          "eng": "Well done! You completed the module!"
+          "eng": "You’re almost done! Let’s check in."
         },
         "quiz_1_question": {
           "eng": "How do you feel now?"
@@ -536,6 +535,22 @@
       "quiz_1_feedback_2": "Thanks for checking in. “Okay” is a good start. Maybe try one small thing today just for you, like a short break or deep breath.",
       "quiz_1_option_3_text": "Sad",
       "quiz_1_feedback_3": "I’m glad you shared that. Remember, self-care keeps you strong for yourself and your family. Try one calming thing from this module or talk to someone you trust."
+    },
+    {
+      "id": "check_out_2",
+      "category_id": "check_out",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "text_2": "Well done for taking time for yourself today. \n\nHere is a short video to help you slow down before you go.",
+      "_translations": {
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. \n\nHere is a short video to help you slow down before you go."
+        }
+      }
     }
   ],
   "_source": {

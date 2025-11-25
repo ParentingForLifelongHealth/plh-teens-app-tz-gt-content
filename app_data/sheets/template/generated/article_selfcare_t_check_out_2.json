@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_selfcare_t_explore_4",
+  "flow_name": "article_selfcare_t_check_out_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "explore_4",
+          "value": "check_out_2",
           "_translations": {
             "value": {}
           },

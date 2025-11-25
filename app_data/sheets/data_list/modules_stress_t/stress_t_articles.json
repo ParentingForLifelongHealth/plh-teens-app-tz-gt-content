@@ -350,7 +350,7 @@
       "character_3_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "text_1_facilitator": "Thank you for thinking about this with me. \n\nNow let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different.",
+      "text_1_facilitator": "Let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -360,7 +360,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Thank you for thinking about this with me. \n\nNow let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different."
+          "eng": "Let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different."
         },
         "text_2": {
           "eng": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better."

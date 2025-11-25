@@ -32,11 +32,11 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2009 |
+| set_variable | 2007 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
-| template | 668 |
+| template | 667 |
 | text | 145 |
 | text_area | 2 |
 | text_box | 12 |
@@ -56,13 +56,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 489 |
+| emit: completed | 488 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 495 |
+| emit: uncompleted | 494 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
@@ -438,7 +438,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/srh_t.svg | 46.2 | 2 |
 | images/homescreen/stress_t.svg | 16.9 | 2 |
 | images/homescreen/svp_t.svg | 25.4 | 2 |
-| images/icons/brain_blue.png | 5.2 | 10 |
+| images/icons/brain_blue.png | 5.2 | 8 |
 | images/icons/clock_blue.png | 4.5 | 4 |
 | images/icons/diamond.png | 1.8 | 2 |
 | images/icons/diamond_active.png | 1.7 | 2 |
@@ -604,7 +604,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/safe/safe_learn_t_1.svg | 1365.4 | 2 |
 | images/teen_modules/safe/safe_learn_t_2.svg | 1560.3 | 2 |
 | images/teen_modules/safe/safe_learn_t_3.svg | 1991.8 | 2 |
-| images/teen_modules/self_care/self_care1_t_1.svg | 34.7 | 8 |
+| images/teen_modules/self_care/self_care1_t_1.svg | 34.7 | 2 |
 | images/teen_modules/self_care/self_care1_t_2.svg | 27.9 | 2 |
 | images/teen_modules/solve/solve2_t_1.svg | 49.2 | 2 |
 | images/teen_modules/solve/solve2_t_2.svg | 46.3 | 2 |
@@ -678,7 +678,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/relax/looping_rings.json | 10.4 | 9 |
 | lottie/relax/soothing_waves.json | 7.6 | 6 |
 | lottie/relax/square_flow.json | 5.9 | 16 |
-| video/plh_video/lets_slow_down.mp4 | 13482.2 | 2 |
+| video/plh_video/lets_slow_down.mp4 | 13482.2 | 4 |
 </details>
 
 <details >
@@ -721,6 +721,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
 | template |  | 102 |
-| template | generated | 512 |
+| template | generated | 511 |
 | template | legal_terms | 4 |
 </details>

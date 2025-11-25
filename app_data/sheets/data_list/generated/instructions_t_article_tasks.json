@@ -444,7 +444,7 @@
           "eng": "That was a great shot, @data.characters.f2_daughter_19.name, you keep getting better!"
         },
         "character_2_text": {
-          "eng": "Wow, @data.characters.f2_daughter_19.name! You are a great soccer player. All your practice is making you strong and helps you develop as a leader. Maybe later you will even be hired by one of the soccer clubs."
+          "eng": "Wow, @data.characters.f2_daughter_19.name! You are a great soccer player. All your practice is making you strong and helps you develop as a leader. I'm so proud of you!"
         }
       },
       "category_id": "explore",
@@ -457,7 +457,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "Wow, @data.characters.f2_daughter_19.name! You are a great soccer player. All your practice is making you strong and helps you develop as a leader. Maybe later you will even be hired by one of the soccer clubs.",
+      "character_2_text": "Wow, @data.characters.f2_daughter_19.name! You are a great soccer player. All your practice is making you strong and helps you develop as a leader. I'm so proud of you!",
       "completed": false
     },
     {
@@ -556,6 +556,55 @@
       "completed": false
     },
     {
+      "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are some tips to help you give your teen clear and positive instructions!"
+        },
+        "section_1_title": {
+          "eng": "GET REAL"
+        },
+        "section_1_text": {
+          "eng": "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic."
+        },
+        "section_2_title": {
+          "eng": "GET POSITIVE"
+        },
+        "section_2_text": {
+          "eng": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!"
+        },
+        "section_3_title": {
+          "eng": "GET CLEAR"
+        },
+        "section_3_text": {
+          "eng": "Often we know what we want in our head, but we don’t say it clearly enough. Say exactly what you want your teen to do. Try ‘please come home by 7pm’ instead of ‘come home on time’."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Here are some tips to help you give your teen clear and positive instructions!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "section_1_icon_asset": "images/icons/clock_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_title": "GET REAL",
+      "section_1_text": "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic.",
+      "section_2_title": "GET POSITIVE",
+      "section_2_text": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!",
+      "section_3_title": "GET CLEAR",
+      "section_3_text": "Often we know what we want in our head, but we don’t say it clearly enough. Say exactly what you want your teen to do. Try ‘please come home by 7pm’ instead of ‘come home on time’.",
+      "completed": false
+    },
+    {
       "id": "practise_1",
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
       "_translatedFields": {
@@ -604,55 +653,6 @@
       "quiz_1_option_2_text": "🎵 Stop playing your music so loud in the house!",
       "quiz_1_option_3_text": "📱 Stop playing on your phone at the dinner table!",
       "text_1_facilitator": "Let’s practise together!\n\nHere are some common instructions parents give.\nTap each one to see a positive way of saying it.",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Here are some tips to help you give your teen clear and positive instructions!"
-        },
-        "section_1_title": {
-          "eng": "GET REAL"
-        },
-        "section_1_text": {
-          "eng": "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic."
-        },
-        "section_2_title": {
-          "eng": "GET POSITIVE"
-        },
-        "section_2_text": {
-          "eng": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!"
-        },
-        "section_3_title": {
-          "eng": "GET CLEAR"
-        },
-        "section_3_text": {
-          "eng": "Often we know what we want in our head, but we don’t say it clearly enough. Say exactly what you want your teen to do. Try ‘please come home by 7pm’ instead of ‘come home on time’."
-        }
-      },
-      "category_id": "practical_tips",
-      "nested": false,
-      "text_1_facilitator": "Here are some tips to help you give your teen clear and positive instructions!",
-      "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
-      },
-      "section_1_icon_asset": "images/icons/clock_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_1_title": "GET REAL",
-      "section_1_text": "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic.",
-      "section_2_title": "GET POSITIVE",
-      "section_2_text": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!",
-      "section_3_title": "GET CLEAR",
-      "section_3_text": "Often we know what we want in our head, but we don’t say it clearly enough. Say exactly what you want your teen to do. Try ‘please come home by 7pm’ instead of ‘come home on time’.",
       "completed": false
     },
     {

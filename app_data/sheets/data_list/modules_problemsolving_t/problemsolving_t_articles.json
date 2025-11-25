@@ -288,9 +288,10 @@
       "category_id": "practise",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "text_1_facilitator": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together. These simple steps help families stay calm and find a way forward.\n\nNow let’s try problem-solving together. Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
+      "text_1_facilitator": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward.",
       "_translations": {
         "text_1_facilitator": {},
+        "text_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1_id": {},
@@ -305,7 +306,10 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together. These simple steps help families stay calm and find a way forward.\n\nNow let’s try problem-solving together. Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
+          "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward."
+        },
+        "text_2": {
+          "eng": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
         },
         "quiz_1_question": {
           "eng": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!"
@@ -341,6 +345,7 @@
           "eng": "practise_1_nested_5"
         }
       },
+      "text_2": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
       "quiz_1_question": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!",
       "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",
       "quiz_1_feedback_1_id": "practise_1_nested_1",
@@ -390,7 +395,7 @@
       "character_2_id": "f1_father",
       "character_3_id": "f1_daughter_16",
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "text_1_facilitator": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!",
+      "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -399,7 +404,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!"
+          "eng": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts"
         },
         "character_1_text": {
           "eng": "I am not trying to accuse your friend or be jealous. I am worried that when someone gives a gift it is hard to say 'no' when they ask something in return – like sex."
@@ -424,7 +429,7 @@
       "character_2_id": "f1_father",
       "character_3_id": "f1_daughter_16",
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "text_1_facilitator": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!",
+      "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -433,7 +438,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!"
+          "eng": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts"
         },
         "character_1_text": {
           "eng": "This makes me realise we should talk about boyfriends and protecting yourself. Many teens your age get pregnant or become HIV positive."
@@ -458,7 +463,7 @@
       "character_2_id": "f1_father",
       "character_3_id": "f1_daughter_16",
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "text_1_facilitator": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!",
+      "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -467,7 +472,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!"
+          "eng": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts"
         },
         "character_1_text": {
           "eng": "Please tell us your side. We are here to listen."
@@ -491,7 +496,7 @@
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_16",
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "text_1_facilitator": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!",
+      "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -499,7 +504,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!"
+          "eng": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts"
         },
         "character_1_text": {
           "eng": "Now that I have had a moment to calm down, let’s talk. How did you get this phone?"

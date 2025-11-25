@@ -274,7 +274,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "**Step 2: CHOOSE**\nThink about your needs and wants.\n- NEED = you must have it to live (like food, rent, medicine).\n- WANT = nice to have, but you can live without it (like sweets, new shoes, airtime)."
+          "eng": "**Step 2: CHOOSE**\nThink about your needs and wants.\n- WANT is something you can live without. \n- NEED is something you cannot live without."
         },
         "text_2": {
           "eng": "Look at your list of things you spend money on and choose:\n\n- Which are NEEDS that you cannot live without? Why?\n- Which are WANTS which are nice to have but not essential? Why?\n- Which things could you try to spend less money on?"
@@ -282,7 +282,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "**Step 2: CHOOSE**\nThink about your needs and wants.\n- NEED = you must have it to live (like food, rent, medicine).\n- WANT = nice to have, but you can live without it (like sweets, new shoes, airtime).",
+      "text_1_facilitator": "**Step 2: CHOOSE**\nThink about your needs and wants.\n- WANT is something you can live without. \n- NEED is something you cannot live without.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}

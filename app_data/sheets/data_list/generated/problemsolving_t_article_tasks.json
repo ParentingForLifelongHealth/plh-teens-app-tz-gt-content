@@ -390,7 +390,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together. These simple steps help families stay calm and find a way forward.\n\nNow let’s try problem-solving together. Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
+          "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward."
+        },
+        "text_2": {
+          "eng": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
         },
         "quiz_1_question": {
           "eng": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!"
@@ -435,6 +438,7 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
+        "text_2": {},
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {},
@@ -446,7 +450,8 @@
       "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",
       "quiz_1_option_2_text": "Return the phone and save up together to buy a new one",
       "quiz_1_option_3_text": "Talk to @data.characters.f1_daughter_16.name about safe sex",
-      "text_1_facilitator": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together. These simple steps help families stay calm and find a way forward.\n\nNow let’s try problem-solving together. Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
+      "text_1_facilitator": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward.",
+      "text_2": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
       "quiz_1_feedback_1_id": "practise_1_nested_1",
       "quiz_1_feedback_2_id": "practise_1_nested_2",
       "quiz_1_feedback_3_id": "practise_1_nested_3",

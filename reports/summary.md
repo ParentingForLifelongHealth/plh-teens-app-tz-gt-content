@@ -32,11 +32,11 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2007 |
+| set_variable | 2011 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
-| template | 667 |
+| template | 669 |
 | text | 145 |
 | text_area | 2 |
 | text_box | 12 |
@@ -56,13 +56,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 488 |
+| emit: completed | 490 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 494 |
+| emit: uncompleted | 496 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 62664 KB | 62.7 MB |
-| unused | 80142 KB | 80.1 MB |
+| total | 62828 KB | 62.8 MB |
+| unused | 79978 KB | 80 MB |
 </details>
 
 <details open>
@@ -213,8 +213,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/rulesroutines.jpg | 102.2 |
 | images/selfcare.jpg | 96.6 |
 | images/talk_feelings_challenges.svg | 19.3 |
-| images/teen_modules/consequence/consequence2_t_2.svg | 46.7 |
-| images/teen_modules/consequence/consequence2_t_3.svg | 117.4 |
 | images/teen_modules/crisis/crisis2_t_1.svg | 77.2 |
 | images/teen_modules/crisis/crisis2_t_2.svg | 54.6 |
 | images/teen_modules/crisis/crisis2_t_3.svg | 58 |
@@ -398,11 +396,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 8 |
 | images/faces/happier.svg | 0.6 | 2 |
-| images/faces/happiest.svg | 1.3 | 10 |
-| images/faces/happy.svg | 0.6 | 29 |
+| images/faces/happiest.svg | 1.3 | 8 |
+| images/faces/happy.svg | 0.6 | 27 |
 | images/faces/neutral.svg | 0.5 | 25 |
 | images/faces/sad.svg | 0.6 | 28 |
-| images/faces/scared.svg | 2.1 | 6 |
+| images/faces/scared.svg | 2.1 | 4 |
 | images/faces/tired.svg | 2.4 | 4 |
 | images/homescreen/celebrate_t.svg | 36.3 | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 23.9 | 1 |
@@ -535,6 +533,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/consequence/consequence1_t_3.svg | 51.3 | 2 |
 | images/teen_modules/consequence/consequence1_t_4.svg | 46.4 | 2 |
 | images/teen_modules/consequence/consequence2_t_1.svg | 73 | 2 |
+| images/teen_modules/consequence/consequence2_t_2.svg | 46.7 | 2 |
+| images/teen_modules/consequence/consequence2_t_3.svg | 117.4 | 2 |
 | images/teen_modules/consequence/consequence3_t_1.svg | 56 | 2 |
 | images/teen_modules/consequence/consequence3_t_2.svg | 61.2 | 2 |
 | images/teen_modules/consequence/consequence3_t_3.svg | 56.1 | 2 |
@@ -721,6 +721,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
 | template |  | 102 |
-| template | generated | 511 |
+| template | generated | 513 |
 | template | legal_terms | 4 |
 </details>

@@ -159,28 +159,8 @@
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name – let's have a look:"
+          "eng": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name, who have been taking care of their grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young."
         },
-        "character_1_text": {
-          "eng": "I have been taking care of my grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young. We often struggle with money, as I only receive a small grant."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name – let's have a look:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
-      "image_asset": "/images/teen_modules/money/money1_t_1.svg",
-      "character_1_id": "f2_grandmother",
-      "character_1_text": "I have been taking care of my grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young. We often struggle with money, as I only receive a small grant.",
-      "completed": false
-    },
-    {
-      "id": "explore_2",
-      "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
-      "_translatedFields": {
         "character_1_text": {
           "eng": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again."
         },
@@ -190,19 +170,21 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/money/money1_t_2.svg",
-      "character_1_id": "f2_grandmother",
-      "character_1_text": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again.",
+      "text_1_facilitator": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name, who have been taking care of their grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young.",
       "_translations": {
+        "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
+      "image_asset": "/images/teen_modules/money/money1_t_2.svg",
+      "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
+      "character_1_text": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again.",
       "character_2_text": "I am also worried. I don’t think we will be able to pay off our last debt this month like we wanted to.",
       "completed": false
     },
     {
-      "id": "explore_3",
+      "id": "explore_2",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -248,7 +230,7 @@
       "completed": false
     },
     {
-      "id": "explore_4",
+      "id": "explore_3",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -270,7 +252,7 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "explore_4",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -292,7 +274,7 @@
       "completed": false
     },
     {
-      "id": "explore_6",
+      "id": "explore_5",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -314,7 +296,7 @@
       "completed": false
     },
     {
-      "id": "explore_7",
+      "id": "explore_6",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -336,7 +318,7 @@
       "completed": false
     },
     {
-      "id": "explore_8",
+      "id": "explore_7",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -359,13 +341,13 @@
       },
       "image_asset": "/images/teen_modules/money/money3_t_1.svg",
       "character_1_id": "f2_grandmother",
-      "character_1_text": "We want the best future for our grandchildren, but I do not know where to get the money.",
       "character_2_id": "f2_grandfather",
+      "character_1_text": "We want the best future for our grandchildren, but I do not know where to get the money.",
       "character_2_text": "Me neither. Loan sharks are dangerous, and paying them back is very expensive.",
       "completed": false
     },
     {
-      "id": "explore_9",
+      "id": "explore_8",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "character_1_text": {
@@ -379,17 +361,17 @@
       "nested": false,
       "image_asset": "/images/teen_modules/money/money3_t_2.svg",
       "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_grandfather",
       "character_1_text": "I’d love for @data.characters.f2_son_15.name to go to high school.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_id": "f2_grandfather",
       "character_2_text": "Yes! And @data.characters.f2_daughter_19.name to university! But how can we save that much money with the little money we get?",
       "completed": false
     },
     {
-      "id": "explore_10",
+      "id": "explore_9",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "character_1_text": {
@@ -406,43 +388,49 @@
       "nested": false,
       "image_asset": "/images/teen_modules/money/money3_t_3.svg",
       "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_grandmother",
       "character_1_text": "I know — let’s start with a plan! Maybe we can make a budget and see how we can save our money.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
         "character_3_text": {}
       },
-      "character_2_id": "f2_grandmother",
       "character_2_text": "That’s a great idea. We can save a little bit at a time — I will even join a savings group.",
       "character_3_id": "f2_grandfather",
       "character_3_text": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want.",
       "completed": false
     },
     {
-      "id": "explore_11",
+      "id": "explore_10",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_2": {
           "eng": "*(A few years later)*"
         },
         "character_1_text": {
-          "eng": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks. By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this."
+          "eng": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks."
+        },
+        "character_2_text": {
+          "eng": "By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this."
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "/images/teen_modules/money/money3_t_5.svg",
-      "character_1_id": "f2_grandmother",
-      "character_1_text": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks. By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this.",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_grandmother",
+      "character_1_text": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks.",
       "_translations": {
         "character_1_text": {},
+        "character_2_text": {},
         "text_2": {}
       },
+      "character_2_text": "By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this.",
       "text_2": "*(A few years later)*",
       "completed": false
     },
     {
-      "id": "explore_12",
+      "id": "explore_11",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {

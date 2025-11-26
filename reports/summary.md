@@ -32,11 +32,11 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2011 |
+| set_variable | 2009 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
-| template | 669 |
+| template | 668 |
 | text | 145 |
 | text_area | 2 |
 | text_box | 12 |
@@ -56,13 +56,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 490 |
+| emit: completed | 489 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 496 |
+| emit: uncompleted | 495 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 62828 KB | 62.8 MB |
-| unused | 79978 KB | 80 MB |
+| total | 62789 KB | 62.8 MB |
+| unused | 80017 KB | 80 MB |
 </details>
 
 <details open>
@@ -221,6 +221,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/instruct/instruct2_t_2.svg | 37.4 |
 | images/teen_modules/instruct/instruct3_t_2.svg | 39.7 |
 | images/teen_modules/instruct/instruct3_t_5.svg | 53.4 |
+| images/teen_modules/money/money1_t_1.svg | 38.9 |
 | images/teen_modules/money/money3_t_4.svg | 58.2 |
 | images/teen_modules/praise/praise1_t_1.svg | 164.8 |
 | images/teen_modules/rules/rules1_t_1.svg | 30.5 |
@@ -578,7 +579,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/learn/learn_support_t_2.svg | 69.4 | 2 |
 | images/teen_modules/learn/learn_support_t_3.svg | 46 | 2 |
 | images/teen_modules/learn/learn_support_t_4.svg | 40.2 | 2 |
-| images/teen_modules/money/money1_t_1.svg | 38.9 | 2 |
 | images/teen_modules/money/money1_t_2.svg | 44.9 | 2 |
 | images/teen_modules/money/money2_t_1.svg | 702.9 | 2 |
 | images/teen_modules/money/money2_t_2.svg | 61.8 | 2 |
@@ -721,6 +721,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
 | template |  | 102 |
-| template | generated | 513 |
+| template | generated | 512 |
 | template | legal_terms | 4 |
 </details>

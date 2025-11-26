@@ -293,7 +293,7 @@
           "eng": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too."
         },
         "character_2_text": {
-          "eng": "Whatever *you* say."
+          "eng": "Okay, fine."
         }
       },
       "category_id": "explore",
@@ -306,7 +306,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_text": "Whatever *you* say.",
+      "character_2_text": "Okay, fine.",
       "completed": false
     },
     {
@@ -326,24 +326,24 @@
           "eng": "It made @data.characters.f1_son_14.name feel seen and appreciated"
         },
         "quiz_1_feedback_1": {
-          "eng": "Exactly! Praise helps teens feel valued, and they are more likely to help again."
+          "eng": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family."
         },
         "quiz_1_option_2_text": {
           "eng": "It helped @data.characters.f1_son_14.name feel respected and more willing to help again"
         },
         "quiz_1_feedback_2": {
-          "eng": "Exactly! Praise helps teens feel valued, and they are more likely to help again."
+          "eng": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family."
         },
         "quiz_1_option_3_text": {
           "eng": "It made @data.characters.f1_son_14.name feel more connected to his father"
         },
         "quiz_1_feedback_3": {
-          "eng": "Exactly! Praise helps teens feel valued, and they are more likely to help again."
+          "eng": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family."
         }
       },
       "category_id": "explore",
       "nested": false,
-      "quiz_1_feedback_1": "Exactly! Praise helps teens feel valued, and they are more likely to help again.",
+      "quiz_1_feedback_1": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -355,8 +355,8 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "quiz_1_feedback_2": "Exactly! Praise helps teens feel valued, and they are more likely to help again.",
-      "quiz_1_feedback_3": "Exactly! Praise helps teens feel valued, and they are more likely to help again.",
+      "quiz_1_feedback_2": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
+      "quiz_1_feedback_3": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
       "quiz_1_question": "Why did @data.characters.f1_father.name’s praise help @data.characters.f1_son_14.name?",
       "quiz_1_option_1_text": "It made @data.characters.f1_son_14.name feel seen and appreciated",
       "quiz_1_option_2_text": "It helped @data.characters.f1_son_14.name feel respected and more willing to help again",
@@ -391,13 +391,13 @@
           "eng": "REPEAT IT"
         },
         "section_3_text": {
-          "eng": "Try to find something to thank your boys and girls for every day. Even something really small."
+          "eng": "Try to find something to thank your teens for every day. Even something really small."
         },
         "section_3_button_text": {
           "eng": "More tips"
         },
         "section_3_extra_text": {
-          "eng": "Remember, teens respond best to positive attention. When they feel noticed and appreciated at home, they are less likely to take risks to earn approval from others."
+          "eng": "Remember, both boys and girls respond best to positive attention. When they feel noticed and appreciated at home, they are less likely to take risks to earn approval from others."
         }
       },
       "category_id": "practical_tips",
@@ -422,9 +422,9 @@
       "section_2_title": "SAY IT",
       "section_2_text": "Be enthusiastic – really mean it when you say it!",
       "section_3_title": "REPEAT IT",
-      "section_3_text": "Try to find something to thank your boys and girls for every day. Even something really small.",
+      "section_3_text": "Try to find something to thank your teens for every day. Even something really small.",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "Remember, teens respond best to positive attention. When they feel noticed and appreciated at home, they are less likely to take risks to earn approval from others.",
+      "section_3_extra_text": "Remember, both boys and girls respond best to positive attention. When they feel noticed and appreciated at home, they are less likely to take risks to earn approval from others.",
       "completed": false
     },
     {

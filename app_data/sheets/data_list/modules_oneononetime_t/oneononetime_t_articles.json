@@ -126,6 +126,30 @@
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
+        "quiz_3_feedback_1": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Thank you, @data.characters.f3_mother_role.name! Oh look, the wire is loose. The baby chicks can get out."
+        },
+        "character_2_text": {
+          "eng": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school."
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        }
+      },
+      "character_2_text": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school.",
+      "quiz_3_feedback_1": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "text_1_facilitator": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too.",
+      "_translations": {
+        "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
@@ -137,14 +161,17 @@
         "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {},
-        "quiz_3_feedback_1": {}
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
-        "character_1_text": {
-          "eng": "Thank you, @data.characters.f3_mother_role.name! Oh look, the wire is loose. The baby chicks can get out."
-        },
-        "character_2_text": {
-          "eng": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school."
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too."
         },
         "quiz_1_question": {
           "eng": "Let’s think about what @data.characters.f3_mother.name did to make one-on-one time work well:"
@@ -168,7 +195,7 @@
           "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
         },
         "quiz_1_option_4_text": {
-          "eng": "Set a clear time limit"
+          "eng": "Let @data.characters.f3_daughter_12.name know they had 5 minutes together"
         },
         "quiz_1_feedback_4": {
           "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
@@ -179,11 +206,28 @@
         "quiz_1_feedback_5": {
           "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
         },
-        "quiz_3_feedback_1": {
-          "eng": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        "quiz_2_question": {
+          "eng": "True or False? mothers AND fatheres need to spend one-on-one time with their teens."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Try again… Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Not sure"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
         }
       },
-      "character_2_text": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school.",
       "quiz_1_question": "Let’s think about what @data.characters.f3_mother.name did to make one-on-one time work well:",
       "quiz_1_option_1_text": "@data.characters.f3_mother.name listened and followed @data.characters.f3_daughter_12.name’s lead",
       "quiz_1_feedback_1": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
@@ -191,61 +235,17 @@
       "quiz_1_feedback_2": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
       "quiz_1_option_3_text": "Focused fully on @data.characters.f3_daughter_12.name (no distractions)",
       "quiz_1_feedback_3": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
-      "quiz_1_option_4_text": "Set a clear time limit",
+      "quiz_1_option_4_text": "Let @data.characters.f3_daughter_12.name know they had 5 minutes together",
       "quiz_1_feedback_4": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
       "quiz_1_option_5_text": "Made it fun",
       "quiz_1_feedback_5": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
-      "quiz_3_feedback_1": "Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. Caring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
-    },
-    {
-      "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
-      "text_1_facilitator": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too."
-        },
-        "quiz_1_question": {
-          "eng": "True or False? mothers AND fatheres need to spend one-on-one time with their teens."
-        },
-        "quiz_1_option_1_text": {
-          "eng": "True"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "False"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Not sure"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
-        }
-      },
-      "quiz_1_question": "True or False? mothers AND fatheres need to spend one-on-one time with their teens.",
-      "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
-      "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
-      "quiz_1_option_3_text": "Not sure",
-      "quiz_1_feedback_3": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+      "quiz_2_question": "True or False? mothers AND fatheres need to spend one-on-one time with their teens.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "Try again… Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_2_option_3_text": "Not sure",
+      "quiz_2_feedback_3": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
     },
     {
       "id": "tips_1",

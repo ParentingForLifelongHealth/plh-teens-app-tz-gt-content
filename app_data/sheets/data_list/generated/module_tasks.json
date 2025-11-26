@@ -80,7 +80,7 @@
       "number": 2.4,
       "bottom_aligned_image_asset": "images/homescreen/listview/instruct_t.svg",
       "image_asset": "images/homescreen/instruct_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_4",
       "title": "Positive Instructions",
       "_translations": {
@@ -234,7 +234,7 @@
       "number": 3.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/crisis_t.svg",
       "image_asset": "images/homescreen/crisis_t.svg",
-      "relax_id": "relax_13",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_11",
       "title": "Crisis",
       "_translations": {
@@ -282,18 +282,13 @@
       "check_in_id": "check_in_12",
       "title": "Body Changes and Intimate Relationships",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Body Changes and Intimate Relationships"
-        },
-        "description": {
-          "eng": "x"
         }
       },
-      "description": "x",
       "completed": false,
       "task_child": "srh_t_article_tasks"
     },
@@ -309,18 +304,13 @@
       "check_in_id": "check_in_13",
       "title": "Staying Safe",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Staying Safe"
-        },
-        "description": {
-          "eng": "x"
         }
       },
-      "description": "x",
       "completed": false,
       "task_child": "stayingsafe_t_article_tasks"
     },
@@ -336,18 +326,13 @@
       "check_in_id": "check_in_14",
       "title": "Coping with Grief",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Coping with Grief"
-        },
-        "description": {
-          "eng": "x"
         }
       },
-      "description": "x",
       "completed": false,
       "task_child": "grief_t_article_tasks"
     },
@@ -363,18 +348,13 @@
       "check_in_id": "check_in_15",
       "title": "Helping Your Teen Learn",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Helping Your Teen Learn"
-        },
-        "description": {
-          "eng": "x"
         }
       },
-      "description": "x",
       "completed": false,
       "task_child": "learn_t_article_tasks"
     }

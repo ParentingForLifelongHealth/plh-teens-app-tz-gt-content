@@ -251,7 +251,7 @@
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
-      "text_1_facilitator": "This was such a difficult situation for @data.characters.f2_daughter_19.name and grandparents.\n\nLet's think about how @data.characters.f2_grandmother.name supported @data.characters.f2_daughter_19.name through this crisis.",
+      "text_1_facilitator": "This was such a difficult situation for @data.characters.f2_daughter_19.name and her grandparents.\n\nLet's think about how @data.characters.f2_grandmother.name supported @data.characters.f2_daughter_19.name through this crisis.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -268,7 +268,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This was such a difficult situation for @data.characters.f2_daughter_19.name and grandparents.\n\nLet's think about how @data.characters.f2_grandmother.name supported @data.characters.f2_daughter_19.name through this crisis."
+          "eng": "This was such a difficult situation for @data.characters.f2_daughter_19.name and her grandparents.\n\nLet's think about how @data.characters.f2_grandmother.name supported @data.characters.f2_daughter_19.name through this crisis."
         },
         "quiz_1_question": {
           "eng": "What skills did @data.characters.f2_grandmother.name use?"
@@ -453,14 +453,14 @@
       "character_1_id": "f2_son_15",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
-      "text_1_facilitator": "Crisis 3: @data.characters.f2_son_15.name shares his friend's nude picture at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
+      "text_1_facilitator": "Crisis 3: @data.characters.f2_son_15.name shares a nude picture of his friend at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Crisis 3: @data.characters.f2_son_15.name shares his friend's nude picture at school.\n\nHow could you respond to @data.characters.f2_son_15.name?"
+          "eng": "Crisis 3: @data.characters.f2_son_15.name shares a nude picture of his friend at school.\n\nHow could you respond to @data.characters.f2_son_15.name?"
         },
         "character_1_text": {
           "eng": "I have never done this before. And now they will expel me."

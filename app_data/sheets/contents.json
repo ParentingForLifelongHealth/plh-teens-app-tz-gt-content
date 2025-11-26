@@ -1557,6 +1557,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_consequences_t_explore_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_t_explore_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_consequences_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3270,7 +3280,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_instructions_t_relax_4",
+          "flow_name": "article_instructions_t_relax_13",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -3305,7 +3315,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_crisis_t_relax_13",
+          "flow_name": "article_crisis_t_relax_4",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -3423,12 +3433,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_money_t_practise",
+          "flow_name": "article_money_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_money_t_tips_1",
+          "flow_name": "article_money_t_practise",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4101,12 +4111,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_selfcare_t_practise_1",
+          "flow_name": "article_selfcare_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_selfcare_t_tips_1",
+          "flow_name": "article_selfcare_t_practise_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -5196,6 +5206,16 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_consequences_t_explore_7": {
+      "flow_name": "article_consequences_t_explore_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_consequences_t_explore_8": {
+      "flow_name": "article_consequences_t_explore_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_consequences_t_explore_9": {
       "flow_name": "article_consequences_t_explore_9",
       "flow_subtype": "generated",
@@ -5326,8 +5346,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_crisis_t_relax_13": {
-      "flow_name": "article_crisis_t_relax_13",
+    "article_crisis_t_relax_4": {
+      "flow_name": "article_crisis_t_relax_4",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -5516,8 +5536,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_instructions_t_relax_4": {
-      "flow_name": "article_instructions_t_relax_4",
+    "article_instructions_t_relax_13": {
+      "flow_name": "article_instructions_t_relax_13",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

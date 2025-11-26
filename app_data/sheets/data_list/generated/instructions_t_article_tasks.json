@@ -4,25 +4,26 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_4",
-      "in_library": "yes",
+      "id": "relax_13",
       "lottie_asset": "lottie/relax/heart.json",
-      "media_asset": "audio/relax/relax_4.mp3",
+      "media_asset": "audio/relax/relax_13.mp3",
       "media_type": "audio",
-      "title": "Breathe to three",
+      "title": "Your song",
       "_translations": {
         "title": {},
-        "transcript": {}
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Breathe to three"
+          "eng": "Your song"
         },
         "transcript": {
-          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!"
+          "eng": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!"
         }
       },
-      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!",
       "category_id": "relax",
       "nested": false,
       "completed": false

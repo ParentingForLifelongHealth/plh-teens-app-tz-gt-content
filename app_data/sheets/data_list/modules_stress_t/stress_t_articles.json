@@ -410,25 +410,13 @@
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_daughter_13",
       "character_3_id": "f1_father",
-      "quiz_1_option_1_image_asset": "images/faces/happiest.svg",
-      "quiz_1_option_2_image_asset": "images/faces/happy.svg",
-      "quiz_1_option_3_image_asset": "images/faces/scared.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
-        "character_3_text": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "character_3_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -439,38 +427,10 @@
         },
         "character_3_text": {
           "eng": "That’s a wonderful idea. Thank you both for thinking of a solution together. I am really proud of you."
-        },
-        "quiz_1_question": {
-          "eng": "Positive actions can change the whole mood at home. How do you think everyone feels now?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Happy"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "They solved a problem together and understood each other better."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Calm"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes. Speaking kindly helps everyone feel calmer."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Worried"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "It’s possible they still have worries, but now they can talk about them more openly."
         }
       },
       "character_2_text": "Yes! I like learning with her!",
-      "character_3_text": "That’s a wonderful idea. Thank you both for thinking of a solution together. I am really proud of you.",
-      "quiz_1_question": "Positive actions can change the whole mood at home. How do you think everyone feels now?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_feedback_1": "They solved a problem together and understood each other better.",
-      "quiz_1_option_2_text": "Calm",
-      "quiz_1_feedback_2": "Yes. Speaking kindly helps everyone feel calmer.",
-      "quiz_1_option_3_text": "Worried",
-      "quiz_1_feedback_3": "It’s possible they still have worries, but now they can talk about them more openly."
+      "character_3_text": "That’s a wonderful idea. Thank you both for thinking of a solution together. I am really proud of you."
     },
     {
       "id": "practise_1",
@@ -638,7 +598,7 @@
           "eng": "No"
         },
         "quiz_1_feedback_3": {
-          "eng": "That’s okay. It can be hard to try new things. Keep spending time with your teen — when you feel ready, you can practise taking a few slow breaths before you respond."
+          "eng": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
         }
       },
       "text_2": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together",
@@ -648,7 +608,7 @@
       "quiz_1_option_2_text": "I think so",
       "quiz_1_feedback_2": "That’s a good start. When you are stressed, remember to take a few deep breaths, it will make it easier to respond calmly.",
       "quiz_1_option_3_text": "No",
-      "quiz_1_feedback_3": "That’s okay. It can be hard to try new things. Keep spending time with your teen — when you feel ready, you can practise taking a few slow breaths before you respond."
+      "quiz_1_feedback_3": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
     },
     {
       "id": "teen_test_1",

@@ -249,7 +249,7 @@
           "eng": "My teen got very angry with me after I gave the consequences"
         },
         "reply_challenge_2": {
-          "eng": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly as you agreed if they used the “Safety Word” or broke a rule in order to stay safe."
+          "eng": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly if they broke a rule in order to stay safe."
         },
         "text_challenge_3": {
           "eng": "I introduced the consequence without first discussing it with my teen"
@@ -284,7 +284,7 @@
       },
       "reply_challenge_1": "When we take a pause before responding, it helps us to calm down and respond better.\n\nNext time your teen makes you angry, try to take a pause first. Even a few deep breaths can make a big difference!",
       "text_challenge_2": "My teen got very angry with me after I gave the consequences",
-      "reply_challenge_2": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly as you agreed if they used the “Safety Word” or broke a rule in order to stay safe.",
+      "reply_challenge_2": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly if they broke a rule in order to stay safe.",
       "text_challenge_3": "I introduced the consequence without first discussing it with my teen",
       "reply_challenge_3": "Can you make a consequence if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic and our teens will be more willing and able to follow the rule.",
       "text_challenge_4": "Even with the consequence, my teen still does not follow the rule",

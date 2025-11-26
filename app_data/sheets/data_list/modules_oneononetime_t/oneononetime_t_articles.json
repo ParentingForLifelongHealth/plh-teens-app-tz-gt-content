@@ -68,7 +68,7 @@
       "character_3_id": "f3_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
-      "text_1_facilitator": "Doing a chore with your child is one simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together.",
+      "text_1_facilitator": "Doing a chore with your child is a simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -77,7 +77,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Doing a chore with your child is one simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together."
+          "eng": "Doing a chore with your child is a simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together."
         },
         "character_1_text": {
           "eng": "Hi @data.characters.f3_daughter_12.name! I have 5 minutes of one-on-one time before work. What would you like to do together?"
@@ -218,34 +218,34 @@
           "eng": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too."
         },
         "quiz_1_question": {
-          "eng": "True or False? Both male and female caregivers need to spend one-on-one time with their teens."
+          "eng": "True or False? mothers AND fatheres need to spend one-on-one time with their teens."
         },
         "quiz_1_option_1_text": {
           "eng": "True"
         },
         "quiz_1_feedback_1": {
-          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+          "eng": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
         },
         "quiz_1_option_2_text": {
           "eng": "False"
         },
         "quiz_1_feedback_2": {
-          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+          "eng": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
         },
         "quiz_1_option_3_text": {
           "eng": "Not sure"
         },
         "quiz_1_feedback_3": {
-          "eng": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+          "eng": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
         }
       },
-      "quiz_1_question": "True or False? Both male and female caregivers need to spend one-on-one time with their teens.",
+      "quiz_1_question": "True or False? mothers AND fatheres need to spend one-on-one time with their teens.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_1_feedback_1": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_1_feedback_2": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "quiz_1_option_3_text": "Not sure",
-      "quiz_1_feedback_3": "That's right! Teens feel more loved and supported when both female and male caregivers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+      "quiz_1_feedback_3": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
     },
     {
       "id": "tips_1",
@@ -266,8 +266,6 @@
           "tz_sw": true
         },
         "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
         "section_3_title": {},
         "section_3_text": {}
       },
@@ -291,19 +289,13 @@
           "eng": "PLAY"
         },
         "section_2_text": {
-          "eng": "Let your teen choose what you do or talk about.\n\nWhen teens choose, they feel more confident — and they often learn new things while you spend time together.\n\nTell your teen, “Let’s spend a few minutes together” and let them pick the activity or topic. It might feel strange at first, but with time they will enjoy it."
-        },
-        "section_2_button_text": {
-          "eng": "More tips"
-        },
-        "section_2_extra_text": {
-          "eng": "One-on-one time also helps you understand your teen’s world. Ask simple questions like “What was the best part of your day?” or “Can you show me something you enjoy?”\n\nThis helps them feel seen and supported."
+          "eng": "Let your teen choose.\n\nTell your teen that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first, but they will come to enjoy this time with you!"
         },
         "section_3_title": {
           "eng": "STAY"
         },
         "section_3_text": {
-          "eng": "Give your full attention. Put aside distractions, listen closely, and show interest. Accept what your teen shares without judging them."
+          "eng": "Focus on your teen.\n\nSwitch off the TV and put phones aside. Look at your teen. Nod or say “I see” to show that you are really paying attention. Accept what they say without judging them."
         }
       },
       "section_1_title": "DAY",
@@ -311,11 +303,9 @@
       "section_1_button_text": "More tips",
       "section_1_extra_text": "Many short moments of connection each day or week help build trust and give you more chances to guide your teen than long, serious conversations.",
       "section_2_title": "PLAY",
-      "section_2_text": "Let your teen choose what you do or talk about.\n\nWhen teens choose, they feel more confident — and they often learn new things while you spend time together.\n\nTell your teen, “Let’s spend a few minutes together” and let them pick the activity or topic. It might feel strange at first, but with time they will enjoy it.",
-      "section_2_button_text": "More tips",
-      "section_2_extra_text": "One-on-one time also helps you understand your teen’s world. Ask simple questions like “What was the best part of your day?” or “Can you show me something you enjoy?”\n\nThis helps them feel seen and supported.",
+      "section_2_text": "Let your teen choose.\n\nTell your teen that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first, but they will come to enjoy this time with you!",
       "section_3_title": "STAY",
-      "section_3_text": "Give your full attention. Put aside distractions, listen closely, and show interest. Accept what your teen shares without judging them."
+      "section_3_text": "Focus on your teen.\n\nSwitch off the TV and put phones aside. Look at your teen. Nod or say “I see” to show that you are really paying attention. Accept what they say without judging them."
     },
     {
       "id": "practise",

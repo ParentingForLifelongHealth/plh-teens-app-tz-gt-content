@@ -641,6 +641,7 @@
     {
       "id": "check_out_2",
       "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "media_type": "video",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_2": {

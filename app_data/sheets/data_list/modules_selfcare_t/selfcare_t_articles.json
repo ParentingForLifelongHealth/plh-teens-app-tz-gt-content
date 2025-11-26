@@ -65,7 +65,7 @@
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "text_1_facilitator": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other adults can make it easier. Let’s think about who can help you get a moment to rest.",
+      "text_1_facilitator": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other adults can make it easier.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -85,7 +85,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other adults can make it easier. Let’s think about who can help you get a moment to rest."
+          "eng": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other adults can make it easier."
         },
         "quiz_1_question": {
           "eng": "Sometimes getting a small break means someone else helps you.\nWho can you ask to help you get a short break when you need it?"

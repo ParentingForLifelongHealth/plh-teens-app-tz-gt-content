@@ -3428,11 +3428,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_money_t_explore_12",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_money_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -5658,11 +5653,6 @@
     },
     "article_money_t_explore_11": {
       "flow_name": "article_money_t_explore_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_money_t_explore_12": {
-      "flow_name": "article_money_t_explore_12",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

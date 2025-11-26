@@ -385,23 +385,17 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress2_t_2.svg",
       "character_1_id": "f1_father",
-      "character_2_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "character_1_text": "Thank you for sharing this with me, @data.characters.f1_daughter_13.name. We want to give you what you need, but things like airtime and tutoring cost a lot. We need to find small ways to spend less.",
+      "character_1_text": "You two are amazing. You've been carrying so much burden. We want to provide everything you need, but things like airtime and private tutoring cost a lot of money.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Thank you for sharing this with me, @data.characters.f1_daughter_13.name. We want to give you what you need, but things like airtime and tutoring cost a lot. We need to find small ways to spend less."
-        },
-        "character_2_text": {
-          "eng": "And, @data.characters.f1_son_18.name, I appreciate you wanting to help, I am sure you have great ideas."
+          "eng": "You two are amazing. You've been carrying so much burden. We want to provide everything you need, but things like airtime and private tutoring cost a lot of money."
         }
-      },
-      "character_2_text": "And, @data.characters.f1_son_18.name, I appreciate you wanting to help, I am sure you have great ideas."
+      }
     },
     {
       "id": "explore_9",
@@ -461,13 +455,13 @@
           "eng": "Take 5 breaths"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! Breathing helps you feel calmer."
+          "eng": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
         },
         "quiz_1_option_2_text": {
           "eng": "Walk away for a moment"
         },
         "quiz_1_feedback_2": {
-          "eng": "Good! A short break can help you calm down."
+          "eng": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
         },
         "quiz_1_option_3_text": {
           "eng": "Share how you feel"
@@ -479,18 +473,18 @@
           "eng": "Talk to a friend"
         },
         "quiz_1_feedback_4": {
-          "eng": "Yes! Talking to someone can make things lighter."
+          "eng": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
         }
       },
       "quiz_1_question": "What can help you feel calm in a stressful moment?",
       "quiz_1_option_1_text": "Take 5 breaths",
-      "quiz_1_feedback_1": "Great! Breathing helps you feel calmer.",
+      "quiz_1_feedback_1": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control.",
       "quiz_1_option_2_text": "Walk away for a moment",
-      "quiz_1_feedback_2": "Good! A short break can help you calm down.",
+      "quiz_1_feedback_2": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control.",
       "quiz_1_option_3_text": "Share how you feel",
       "quiz_1_feedback_3": "Nice! Sharing feelings can reduce stress.",
       "quiz_1_option_4_text": "Talk to a friend",
-      "quiz_1_feedback_4": "Yes! Talking to someone can make things lighter."
+      "quiz_1_feedback_4": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
     },
     {
       "id": "tips_1",

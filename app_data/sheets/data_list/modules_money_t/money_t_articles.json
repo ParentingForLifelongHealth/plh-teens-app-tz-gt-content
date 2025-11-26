@@ -63,39 +63,21 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money1_t_1.svg",
-      "character_1_id": "f2_grandmother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
-      "text_1_facilitator": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name – let's have a look:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name – let's have a look:"
-        },
-        "character_1_text": {
-          "eng": "I have been taking care of my grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young. We often struggle with money, as I only receive a small grant."
-        }
-      },
-      "character_1_text": "I have been taking care of my grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young. We often struggle with money, as I only receive a small grant."
-    },
-    {
-      "id": "explore_2",
-      "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money1_t_2.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
-      "character_1_text": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again.",
+      "text_1_facilitator": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name, who have been taking care of their grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young.",
       "_translations": {
+        "text_1_facilitator": {},
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name, who have been taking care of their grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young."
+        },
         "character_1_text": {
           "eng": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again."
         },
@@ -103,10 +85,11 @@
           "eng": "I am also worried. I don’t think we will be able to pay off our last debt this month like we wanted to."
         }
       },
+      "character_1_text": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again.",
       "character_2_text": "I am also worried. I don’t think we will be able to pay off our last debt this month like we wanted to."
     },
     {
-      "id": "explore_3",
+      "id": "explore_2",
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
@@ -151,7 +134,7 @@
       "quiz_1_feedback_2": "You need:\n\n- 📓Papers (or old newspaper or a cardboard box) and pens\n- 🫘 Stones or beans or anything with lots of bits to represent money\n\nTake a minute to get these things before we start with the first step."
     },
     {
-      "id": "explore_4",
+      "id": "explore_3",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money2_t_1.svg",
       "nested": false,
@@ -172,7 +155,7 @@
       "text_2": "- Draw pictures of all the things that you and your family spend money on each month.\n- Write next to each picture how much each thing costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month."
     },
     {
-      "id": "explore_5",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money2_t_2.svg",
       "nested": false,
@@ -193,7 +176,7 @@
       "text_2": "Look at your list of things you spend money on and choose:\n\n- Which are NEEDS that you cannot live without? Why?\n- Which are WANTS which are nice to have but not essential? Why?\n- Which things could you try to spend less money on?"
     },
     {
-      "id": "explore_6",
+      "id": "explore_5",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money2_t_3.svg",
       "nested": false,
@@ -214,7 +197,7 @@
       "text_2": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what you will spend on, and put the stones/objects on that image.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
     },
     {
-      "id": "explore_7",
+      "id": "explore_6",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money2_t_4.svg",
       "nested": false,
@@ -235,7 +218,7 @@
       "text_2": "If you can save even a tiny amount for the future or emergencies, it can make a big difference over time.\n\n- Add a circle called “emergencies”.\n- Add a circle called “family goals”.\n- Now try to move your money around so you can save a bit every month for goals and emergencies."
     },
     {
-      "id": "explore_8",
+      "id": "explore_7",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money3_t_1.svg",
       "character_1_id": "f2_grandmother",
@@ -263,7 +246,7 @@
       "character_2_text": "Me neither. Loan sharks are dangerous, and paying them back is very expensive."
     },
     {
-      "id": "explore_9",
+      "id": "explore_8",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money3_t_2.svg",
       "character_1_id": "f2_grandmother",
@@ -286,7 +269,7 @@
       "character_2_text": "Yes! And @data.characters.f2_daughter_19.name to university! But how can we save that much money with the little money we get?"
     },
     {
-      "id": "explore_10",
+      "id": "explore_9",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money3_t_3.svg",
       "character_1_id": "f2_grandfather",
@@ -315,29 +298,35 @@
       "character_3_text": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want."
     },
     {
-      "id": "explore_11",
+      "id": "explore_10",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money3_t_5.svg",
-      "character_1_id": "f2_grandmother",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "text_2": "*(A few years later)*",
       "_translations": {
         "text_2": {},
-        "character_1_text": {}
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_2": {
           "eng": "*(A few years later)*"
         },
         "character_1_text": {
-          "eng": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks. By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this."
+          "eng": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks."
+        },
+        "character_2_text": {
+          "eng": "By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this."
         }
       },
-      "character_1_text": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks. By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this."
+      "character_1_text": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks.",
+      "character_2_text": "By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this."
     },
     {
-      "id": "explore_12",
+      "id": "explore_11",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money4_t_1.svg",
       "character_1_id": "f2_grandmother",

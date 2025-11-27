@@ -10,7 +10,9 @@
       "media_type": "audio",
       "title": "Praise yourself",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -118,9 +120,15 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about praise.\n\nPraise is a powerful parenting skill.\n\nIf we praise our teens when they do something well, we will see them do more and more positive things!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "How will praise help you and your family? Tap play to find out!",
       "media_transcript": "Greetings everyone.\n\nOur topic today is about praise.\n\nIt is good to praise our children when they've done good because when we do that, they will do more of that good behavior we want to see.\n\nAnd let's not forget to praise ourselves when we do good!",
@@ -146,9 +154,15 @@
       "nested": false,
       "text_1_facilitator": "Praise is an easy way to build your teen’s confidence and strengthen your connection. It really works!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Praise works, but it’s not always easy. Hear how @data.characters.media_female_2.name started using it at home",
       "media_transcript": "When we learnt about this praising thing I thought, “We were never praised for things as teenagers, so why should we start now?” But I got interested when I learnt what the benefits of praising could be.\n\nRight after the weekly workshop, I noticed my teen doing what they do every day: washing the dishes. And I said “Thank you for washing the dishes, my girl, it really makes me happy that you are helping out.” My teen was smiling and she even came to give me a hug, which she never does.\n\nThis praising business is hard. I still forget sometimes or give praise at the same time as criticism. But praising really makes a difference. I never thought that a simple praise could make such a change in a person!",
@@ -211,31 +225,51 @@
       "quiz_1_option_3_image_asset": "images/faces/happiest.svg",
       "quiz_1_feedback_1": "We sometimes have to get used to being praised and praising others. That’s okay.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {},
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_2_option_3_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_3": {}
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That's great! Being praised often makes us feel happy.",
       "quiz_1_feedback_3": "That’s great! Being praised often makes us feel proud.",
@@ -274,9 +308,15 @@
       "nested": false,
       "text_1_facilitator": "Just like we feel better when praised, teens do too. Let’s look at a simple example with @data.characters.f1_father.name and his son, @data.characters.f1_son_14.name.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
       "character_1_id": "f1_father",
@@ -404,14 +444,28 @@
       "nested": false,
       "text_1_facilitator": "Here are some skills to help you praise your teens.\nYou can also praise other adults in your household, too. Notice how they respond!",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
         "section_3_text": {},
-        "section_3_button_text": {},
+        "section_3_button_text": {
+          "tz_sw": true
+        },
         "section_3_extra_text": {}
       },
       "section_1_icon_asset": "images/icons/eye_blue.png",
@@ -442,8 +496,12 @@
       "nested": false,
       "text_1_facilitator": "It can be hard to think of reasons to praise your teen! Here are some ideas from other parents:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "text_2": "**Thank you for...**\n- Being kind to someone\n- Cleaning your room\n- Joining a family meal\n- Greeting other family members\n- Looking after your siblings\n- Coming home on time\n- Showing thoughtfulness\n- Saying 'please' or 'thank you'\n- Going to school on time\n- Doing chores or schoolwork",
       "completed": false
@@ -481,14 +539,24 @@
       "nested": false,
       "quiz_1_feedback_1": "That's great! Parents who practise praise at home get better results!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
@@ -523,8 +591,12 @@
       "nested": false,
       "text_1_facilitator": "Remember, praise is a powerful tool. The more attention you give to positive behaviour, the more positive behaviour you will see.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {}
       },
       "media_title": "Hear from @data.characters.media_daughter_2.name on how it feels to get praise from her mother",

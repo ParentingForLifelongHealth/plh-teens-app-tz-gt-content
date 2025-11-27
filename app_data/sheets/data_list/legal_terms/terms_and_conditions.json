@@ -13,7 +13,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,7 +34,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -51,7 +55,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,7 +76,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -110,7 +118,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -129,7 +139,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -148,7 +160,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -167,7 +181,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -183,8 +199,12 @@
       "id": "section_9",
       "title": "Applicable Law and Jurisdiction",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -203,7 +223,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

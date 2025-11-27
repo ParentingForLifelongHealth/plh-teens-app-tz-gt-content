@@ -32,9 +32,7 @@
       "name": "text_instruction",
       "value": "Paste the @local.user_id_name to import their account data.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "_nested_name": "text_instruction",
@@ -65,9 +63,7 @@
       "name": "button_import",
       "value": "Import data",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {

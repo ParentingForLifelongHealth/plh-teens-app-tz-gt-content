@@ -92,7 +92,9 @@
       "name": "question_user_name",
       "value": "What is your name?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -100,7 +102,9 @@
       "name": "placeholder_user_name",
       "value": "Enter name",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -108,7 +112,9 @@
       "name": "question_user_gender",
       "value": "What is your gender?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -116,7 +122,9 @@
       "name": "placeholder_user_gender",
       "value": "Select gender",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -124,7 +132,9 @@
       "name": "question_user_type",
       "value": "What is your role?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -132,7 +142,9 @@
       "name": "placeholder_user_type",
       "value": "Select role",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -140,7 +152,9 @@
       "name": "facilitator_message_2",
       "value": "**Let’s get started!**\n \nCan you tell me a little about yourself?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -148,7 +162,9 @@
       "name": "question_child_age",
       "value": "How old is your child?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -156,7 +172,9 @@
       "name": "placeholder_child_age",
       "value": "Enter age",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -164,7 +182,9 @@
       "name": "child_age_input_restriction",
       "value": "@global.app_name only supports parents of children between 10 and 17.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -172,7 +192,9 @@
       "name": "facilitator_message_3",
       "value": "**Thanks @fields.user_name.**\n\nCan you tell me more about your child?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -180,7 +202,9 @@
       "name": "question_household_children",
       "value": "How many children do you care for in your home?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -188,7 +212,9 @@
       "name": "placeholder_household_children",
       "value": "Enter number of children",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -196,7 +222,9 @@
       "name": "household_children_input_restriction",
       "value": "Please enter a number between 1 and 20.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -204,7 +232,9 @@
       "name": "facilitator_message_3_multipe_child",
       "value": "**Thanks @fields.user_name.**\n\nTo get started, let’s focus on the child you have the most challenges with so I can give you the right guidance for their age.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -212,7 +242,9 @@
       "name": "question_child_age_multipe_child",
       "value": "How old is the child you will focus on in @global.app_name?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -244,7 +276,9 @@
       "name": "facilitator_selection_question",
       "value": "Who would you like to learn with?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],

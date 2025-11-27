@@ -10,7 +10,9 @@
       "media_type": "audio",
       "title": "Feel your feelings",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -113,8 +115,12 @@
       "nested": false,
       "section_1_title": "⚠️ Sensitive Content Notice",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {}
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        }
       },
       "section_1_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help.",
       "completed": false
@@ -139,9 +145,15 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about teen safety.\n\nTeens can spend a lot of time outside the house or online, where it is harder for us to keep them safe.\n\nTalking together about safe and unsafe places, and how to prevent problems, really helps!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Why is teen safety important for you and your family?",
       "media_transcript": "Greetings, everyone.\n\nToday our topic is teen safety.\n\nIt is our responsibility as parents to keep our teens safe at all times. We need to ensure that our teenagers are safe in the communities that we live in. It is our responsibility that we make them aware of the safe and unsafe areas in the communities.\n\nIt is also our responsibility to ensure that they understand the dangers that they might be exposed to when they are online. That way our teenagers will be responsible and be able to make right decisions to keep themselves safe too.",
@@ -168,8 +180,12 @@
       "text_1_facilitator": "Sometimes our teens notice things about their surroundings that we don’t. By talking and listening, we can better understand their world and guide them through challenges.\n\nWith our support, they can learn to stay safe and make good decisions.",
       "_translations": {
         "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "A safety plan helped @data.characters.media_female_8.name protect her teen. Tap play to hear more",
       "media_transcript": "I was so grateful to make the safety plan with my teen. I thought I knew which areas are safe for my teen and which are not. But when we made the safety plan together, I realised that my girl knew more areas that I was not aware of.\n\nI also thought she was safe at school, but through this activity I realised she was being bullied and the teachers did not do anything about it.\n\nThe more we talked, the more I understood and got information from my teen. That really helped me to protect my teen and keep her safe.",
@@ -229,14 +245,18 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {},
         "character_1_text": {},
-        "character_2_text": {},
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_4_text": {},
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {}
@@ -305,7 +325,9 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
@@ -369,16 +391,34 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
       "quiz_1_feedback_3": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
@@ -433,12 +473,22 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {},
-        "text_2": {},
-        "character_1_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe.",
       "quiz_1_feedback_3": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe.",
@@ -500,19 +550,41 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_2": {},
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {},
-        "character_4_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "character_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
@@ -577,18 +649,40 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, this is a serious risk. Some adults may act friendly online but try to trick or pressure teens. Talking openly can help keep your teen safe.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, this is a real concern. Some people spread hate or make violence seem normal. Helping your teen think about what they see online can protect them.",
       "quiz_1_feedback_3": "Yes, sadly this does happen. Some online spaces can make teens feel hopeless or alone. Checking in often can help keep your teen safe.",
@@ -622,8 +716,12 @@
       "text_1_facilitator": "Now that we’ve thought about different risks, let’s look at a simple tool that can help teens reach out when they don’t feel safe.\n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:",
       "_translations": {
         "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/stress/stress3_t_1.svg",
       "character_1_id": "f1_son_18",
@@ -646,7 +744,9 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -664,7 +764,9 @@
       "character_1_id": "f1_daughter_16",
       "character_1_text": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -683,8 +785,12 @@
       "nested": false,
       "text_1_facilitator": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/stress/stress3_t_4.svg",
       "character_1_id": "f1_father",
@@ -709,8 +815,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "Hey @data.characters.f1_father_role.name, how is Aunty Cecilia doing now?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?",
       "completed": false
@@ -766,12 +876,24 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! You will need a:\n\n- 📄 Piece of paper (or old newspaper or a cardboard box) \n- 🖊️ Pen",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Great! You will need a:\n\n- 📄 Piece of paper (or old newspaper or a cardboard box) \n- 🖊️ Pen",
       "quiz_1_question": "Can you make these maps together with your family now?",
@@ -795,7 +917,9 @@
       "nested": false,
       "text_1_facilitator": "Step 1: Draw all the important places in your community.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {}
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_1.svg",
@@ -817,7 +941,9 @@
       "nested": false,
       "text_1_facilitator": "Step 2: Choose which places are safe and unsafe.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {}
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_2.svg",
@@ -839,7 +965,9 @@
       "nested": false,
       "text_1_facilitator": "Step 3: Identify where you can get support.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {}
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_3.svg",
@@ -888,17 +1016,37 @@
       "nested": false,
       "section_1_title": "MAPS",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "text_1_facilitator": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_2_button_text": {
+          "tz_sw": true
+        },
         "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_3_button_text": {
+          "tz_sw": true
+        },
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "section_1_text": "Make maps with your teen of safe and unsafe areas in your community and online. Talk about how to keep their information, photos and videos private online. Talk about how once something goes online, it stays there forever. They might know an example from their friends.",
       "text_1_facilitator": "Here are some skills to help you keep your teen safe!",
@@ -948,14 +1096,24 @@
       "nested": false,
       "quiz_1_feedback_1": "That's great! Taking the time to map out safe and unsafe places together helps your teen feel more confident and supported.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
@@ -990,9 +1148,15 @@
       "nested": false,
       "text_1_facilitator": "When teens know they can turn to us without fear, they are more likely to ask for help when something feels unsafe - both offline and online. Talking calmly and making safety plans together builds trust that lasts.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Safety planning helped @data.characters.media_daughter_7.name open up. Hear her story",
       "media_transcript": "When my friends or I got into trouble, I would always try to hide it from my mother because she would get so angry and shout at me.\n\nWhen we made the map of safe and unsafe places, I learnt a lot – also why it is dangerous to share every picture online. My mother told me I can always ask her if there is a problem and she promised she would not get mad.\n\nShe kept her promise, so now if I have a problem or I do not feel safe I know we can always come up with a solution together. I can even talk to my mother about the things I do online now!",

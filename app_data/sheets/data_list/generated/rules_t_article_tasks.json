@@ -11,7 +11,9 @@
       "media_type": "audio",
       "title": "Body scan",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -119,9 +121,15 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about rules.\n\nRules help teens understand what is expected of them.\n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Should rules be important for you and your family? Tap play to find out",
       "media_transcript": "Greetings, everyone.\n\nToday's topic is rules.\n\nRules promote peace within the household and promote understanding amongst family members.\n\nRules promote responsibilities for each family member; therefore, it is important to have family rules.\n\nA household with family rules lives in peace.",
@@ -226,8 +234,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "I could come home at 10pm?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "That is a bit late, what about 6pm?",
       "completed": false
@@ -253,7 +265,9 @@
       "character_2_id": "f1_mother",
       "character_1_text": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {},
         "character_3_text": {}
       },
@@ -307,9 +321,13 @@
       "character_2_id": "f1_father",
       "character_1_text": "Thank you, @data.characters.f1_son_18.name, for coming home on time. After you finish your schoolwork, we can have your favourite meal for dinner.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {},
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "We are proud to see how responsible you are becoming.",
       "text_2": "*The next day...*",
@@ -372,22 +390,42 @@
       "nested": false,
       "quiz_1_feedback_1": "That is right, making clear rules together in a calm and positive way works so well!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
         "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {},
         "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That is right, making clear rules together in a calm and positive way works so well!",
       "quiz_1_feedback_3": "That is right, making clear rules together in a calm and positive way works so well!",
@@ -427,7 +465,9 @@
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/srh/srh2_t_1.svg",
       "character_1_id": "f1_daughter_16",
@@ -457,9 +497,15 @@
       "character_2_id": "f1_mother",
       "character_1_text": "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "text_2": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "(🤔_thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…",
       "text_2": "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name.",
@@ -479,7 +525,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "(_calmly_) Thank you for sharing this with me, @data.characters.f1_daughter_16.name. I know that you like @data.characters.boyfriend_1.name a lot, he is a charming boy and he does great at school, but you are only 16 and he is 18.\n\nI feel worried that it is not safe for you to be alone with him. He might pressure you into doing something that you are not prepared to do.\n\nI don’t want to tell you who you can see but we need to have some rules about how you spend time together.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -501,8 +549,12 @@
       "character_2_id": "f1_daughter_16",
       "character_1_text": "What do you think would be a fair rule about how you spend time together?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "How about, we can spend time together if there is an adult with us?",
       "completed": false
@@ -525,8 +577,12 @@
       "character_2_id": "f1_daughter_16",
       "character_1_text": "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name.",
       "completed": false
@@ -606,21 +662,51 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/happy.svg",
       "quiz_1_feedback_1": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_option_5_text": {},
-        "quiz_2_option_6_text": {},
-        "quiz_3_option_1_text": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_6_text": {
+          "tz_sw": true
+        },
+        "quiz_3_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_1": {},
         "quiz_3_option_2_text": {},
         "quiz_3_feedback_2": {},
@@ -700,12 +786,24 @@
       "nested": false,
       "quiz_1_question": "Who should start the conversation about body changes and intimate relationships? \nTry selecting each option for more tips!",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "text_2": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
@@ -763,12 +861,24 @@
       "nested": false,
       "quiz_1_question": "When is the right time to start talking about body changes and intimate relationships?\nTry selecting each option for more tips!",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_2": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {},
@@ -827,17 +937,31 @@
       "nested": false,
       "quiz_1_question": "How can I best keep my teen safe?\nTry selecting each option for more tips!",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_2": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {},
         "quiz_1_feedback_5_id": {},
-        "quiz_1_option_6_text": {}
+        "quiz_1_option_6_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_option_1_text": "I determine what my teen can and cannot do",
       "quiz_1_option_2_text": "I keep information or bad influences away from them",
@@ -885,11 +1009,21 @@
       "nested": false,
       "quiz_1_question": "How can I help prevent my teen from having sex too young?\nTry selecting each option for more tips!",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_2": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {}
@@ -919,7 +1053,9 @@
       "text_1_facilitator": "Now let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week.",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "text_2": "**Here are some examples of rules other families made:**\n- ⚽ Teen can play outside after finishing homework\n- 👪🏽 All family members eat dinner together\n- 🍽️ Teen 1 does dishes on Sunday and Monday, Teen 2 on Tuesday and Wednesday\n- 💜 We speak to each other politely and nicely\n- 🎶 When listening to music you need to use earphones",
       "completed": false
@@ -975,19 +1111,35 @@
       "nested": false,
       "text_1_facilitator": "Here are this week’s takeaway skills to help learn how to set rules with your teen!",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
         "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
         "section_3_text": {},
         "section_3_extra_text": {},
         "section_4_title": {},
         "section_4_text": {},
-        "section_4_button_text": {},
+        "section_4_button_text": {
+          "tz_sw": true
+        },
         "section_4_extra_text": {}
       },
       "section_1_icon_asset": "images/icons/trophy_blue.png",
@@ -1044,18 +1196,30 @@
       "nested": false,
       "quiz_1_feedback_1": "Fantastic! Setting a rule together helps your teen feel involved and respected. It is a big step toward building trust and cooperation.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {}
       },
       "quiz_1_feedback_2": "You can do it! Even beginning the conversation shows your teen that their voice matters. Take it one step at a time.",
@@ -1088,8 +1252,12 @@
       "nested": false,
       "text_1_facilitator": "Clear, simple rules made together with your teen are not about control - they are about keeping them safe and building responsibility. When teens understand the reasons behind the rules, they are more likely to follow them.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {}
       },
       "media_title": "Can teens value rules too? Hear @data.characters.media_male_7.name's story",
@@ -1114,8 +1282,12 @@
       "nested": false,
       "text_1_facilitator": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/rules/rules2_t_1.svg",
@@ -1143,7 +1315,9 @@
       "character_2_id": "f1_daughter_13",
       "character_1_text": "You are a really great dancer! Tell me about why you like Tiktok.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {}
       },
       "character_2_text": "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers.",
@@ -1163,7 +1337,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -1181,7 +1357,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -1199,7 +1377,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "I’m proud of you, @data.characters.f1_daughter_13.name!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     }

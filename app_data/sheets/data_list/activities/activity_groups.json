@@ -10,7 +10,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1SYYrO7N77VTb4QOWYMuneHczCU_DbL0gvGlK7btRBsI",
       "title": "Quick",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -22,7 +24,9 @@
       "id": "group",
       "title": "Group",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -34,7 +38,9 @@
       "id": "active",
       "title": "Active",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -46,7 +52,9 @@
       "id": "calm",
       "title": "Calm",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

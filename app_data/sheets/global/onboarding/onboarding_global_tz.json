@@ -72,6 +72,15 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "facilitator_intro_image_asset",
+      "value": "images/onboarding/facilitator_onboarding_icon.svg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "facilitator_message_1",
       "value": "**Nice to meet you. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
       "_translations": {

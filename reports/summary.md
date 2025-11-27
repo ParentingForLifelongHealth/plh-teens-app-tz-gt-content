@@ -260,6 +260,7 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/logos/donors/ERC-EU.png | 1 |
+| images/onboarding/facilitator_onboarding_icon.svg | 1 |
 </details>
 
 <details >
@@ -397,9 +398,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 8 |
 | images/faces/happier.svg | 0.6 | 2 |
-| images/faces/happiest.svg | 1.3 | 8 |
-| images/faces/happy.svg | 0.6 | 27 |
-| images/faces/neutral.svg | 0.5 | 25 |
+| images/faces/happiest.svg | 1.3 | 10 |
+| images/faces/happy.svg | 0.6 | 29 |
+| images/faces/neutral.svg | 0.5 | 27 |
 | images/faces/sad.svg | 0.6 | 28 |
 | images/faces/scared.svg | 2.1 | 4 |
 | images/faces/tired.svg | 2.4 | 4 |
@@ -447,7 +448,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/expand_circle_right_blue.svg | 2.1 | 1 |
 | images/icons/eye_blue.png | 4.2 | 10 |
 | images/icons/faces/angry.svg | 1.1 | 2 |
-| images/icons/faces/confused.svg | 1.8 | 8 |
+| images/icons/faces/confused.svg | 1.8 | 6 |
 | images/icons/faces/happy.svg | 0.6 | 4 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 32 |
 | images/icons/faces/ok_face_new.svg | 0.5 | 32 |

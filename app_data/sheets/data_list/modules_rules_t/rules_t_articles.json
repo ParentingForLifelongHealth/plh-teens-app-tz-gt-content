@@ -428,12 +428,16 @@
       "id": "explore_13",
       "category_id": "explore",
       "quiz_1_option_1_image_asset": "images/icons/faces/scared.svg",
-      "quiz_1_option_2_image_asset": "Nervous",
-      "quiz_1_option_4_image_asset": "images/icons/faces/happy.svg",
-      "quiz_3_option_1_image_asset": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_3_option_3_image_asset": "images/faces/neutral.svg",
-      "quiz_3_option_4_image_asset": "images/faces/happy.svg",
-      "quiz_3_option_5_image_asset": "images/faces/happiest.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/confused.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/happy.svg",
+      "quiz_2_option_1_image_asset": "She breathes to stay calm",
+      "quiz_2_option_2_image_asset": "She praises @data.characters.f1_daughter_16.name for sharing",
+      "quiz_2_option_3_image_asset": "She shares why she is worried",
+      "quiz_2_option_4_image_asset": "She creates rules with @data.characters.f1_daughter_16.name",
+      "quiz_2_option_5_image_asset": "She involves other adults for support",
+      "quiz_3_option_1_image_asset": "Okay",
+      "quiz_3_option_2_image_asset": "Happy",
+      "quiz_3_option_3_image_asset": "Proud",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "text_1_facilitator": "Let's think about what happened in this story.",
@@ -442,31 +446,23 @@
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_2_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_option_2_text": {},
         "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
         "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
         "quiz_2_option_5_text": {},
-        "quiz_2_feedback_5": {},
         "quiz_2_option_6_text": {},
-        "quiz_2_feedback_6": {},
-        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
         "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_3_option_3_text": {},
         "quiz_3_feedback_3": {},
-        "quiz_3_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_4": {},
-        "quiz_3_option_5_text": {},
-        "quiz_3_feedback_5": {}
+        "quiz_3_option_4_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -481,94 +477,78 @@
         "quiz_1_feedback_1": {
           "eng": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation."
         },
-        "quiz_1_feedback_2": {
-          "eng": "images/icons/faces/confused.svg"
+        "quiz_1_option_2_text": {
+          "eng": "Nervous"
         },
-        "quiz_1_option_3_text": {
+        "quiz_1_feedback_2": {
           "eng": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation."
         },
-        "quiz_1_option_4_text": {
+        "quiz_1_option_3_text": {
           "eng": "Hopeful"
         },
-        "quiz_1_feedback_4": {
+        "quiz_1_feedback_3": {
           "eng": "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together."
         },
-        "quiz_2_feedback_2": {
+        "quiz_2_option_1_text": {
           "eng": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?"
         },
-        "quiz_2_option_3_text": {
-          "eng": "She breathes to stay calm"
+        "quiz_2_option_2_text": {
+          "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
-        "quiz_2_feedback_3": {
+        "quiz_2_option_3_text": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
         "quiz_2_option_4_text": {
-          "eng": "She praises @data.characters.f1_daughter_16.name for sharing"
-        },
-        "quiz_2_feedback_4": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
         "quiz_2_option_5_text": {
-          "eng": "She shares why she is worried"
-        },
-        "quiz_2_feedback_5": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
         "quiz_2_option_6_text": {
-          "eng": "She creates rules with @data.characters.f1_daughter_16.name"
-        },
-        "quiz_2_feedback_6": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
-        "quiz_3_question": {
-          "eng": "She involves other adults for support"
-        },
-        "quiz_3_feedback_2": {
+        "quiz_3_option_1_text": {
           "eng": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?"
         },
+        "quiz_3_feedback_1": {
+          "eng": "images/faces/neutral.svg"
+        },
+        "quiz_3_option_2_text": {
+          "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
+        },
+        "quiz_3_feedback_2": {
+          "eng": "images/faces/happy.svg"
+        },
         "quiz_3_option_3_text": {
-          "eng": "Okay"
+          "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
         },
         "quiz_3_feedback_3": {
-          "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
+          "eng": "images/faces/happiest.svg"
         },
         "quiz_3_option_4_text": {
-          "eng": "Happy"
-        },
-        "quiz_3_feedback_4": {
-          "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
-        },
-        "quiz_3_option_5_text": {
-          "eng": "Proud"
-        },
-        "quiz_3_feedback_5": {
           "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
         }
       },
       "quiz_1_question": "How did @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_16.name, feel at the start of their conversation?",
       "quiz_1_option_1_text": "Worried",
       "quiz_1_feedback_1": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
-      "quiz_1_feedback_2": "images/icons/faces/confused.svg",
-      "quiz_1_option_3_text": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
-      "quiz_1_option_4_text": "Hopeful",
-      "quiz_1_feedback_4": "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together.",
-      "quiz_2_feedback_2": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?",
-      "quiz_2_option_3_text": "She breathes to stay calm",
-      "quiz_2_feedback_3": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_4_text": "She praises @data.characters.f1_daughter_16.name for sharing",
-      "quiz_2_feedback_4": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_5_text": "She shares why she is worried",
-      "quiz_2_feedback_5": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_6_text": "She creates rules with @data.characters.f1_daughter_16.name",
-      "quiz_2_feedback_6": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_3_question": "She involves other adults for support",
-      "quiz_3_feedback_2": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
-      "quiz_3_option_3_text": "Okay",
-      "quiz_3_feedback_3": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer.",
-      "quiz_3_option_4_text": "Happy",
-      "quiz_3_feedback_4": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer.",
-      "quiz_3_option_5_text": "Proud",
-      "quiz_3_feedback_5": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
+      "quiz_1_option_2_text": "Nervous",
+      "quiz_1_feedback_2": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
+      "quiz_1_option_3_text": "Hopeful",
+      "quiz_1_feedback_3": "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together.",
+      "quiz_2_option_1_text": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?",
+      "quiz_2_option_2_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
+      "quiz_2_option_3_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
+      "quiz_2_option_4_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
+      "quiz_2_option_5_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
+      "quiz_2_option_6_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
+      "quiz_3_option_1_text": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
+      "quiz_3_feedback_1": "images/faces/neutral.svg",
+      "quiz_3_option_2_text": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer.",
+      "quiz_3_feedback_2": "images/faces/happy.svg",
+      "quiz_3_option_3_text": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer.",
+      "quiz_3_feedback_3": "images/faces/happiest.svg",
+      "quiz_3_option_4_text": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
     },
     {
       "id": "explore_14",

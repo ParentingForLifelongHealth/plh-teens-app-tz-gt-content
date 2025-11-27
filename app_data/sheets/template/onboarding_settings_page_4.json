@@ -139,9 +139,7 @@
       "name": "variant",
       "value": "gray",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",

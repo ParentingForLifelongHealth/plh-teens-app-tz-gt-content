@@ -12,8 +12,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1UWzbim0nxAVSpWS4Pf_kod0awYxUiuITo0nxDAFKZ0k",
       "title": "An emergency",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "tz_sw": true
+        },
+        "introduction": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,8 +36,12 @@
       ],
       "title": "A challenge with alcohol or drugs",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "tz_sw": true
+        },
+        "introduction": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -52,8 +60,12 @@
       ],
       "title": "A legal problem",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "tz_sw": true
+        },
+        "introduction": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -72,8 +84,12 @@
       ],
       "title": "Feeling unsafe at home or in my relationship",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "tz_sw": true
+        },
+        "introduction": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -92,8 +108,12 @@
       ],
       "title": "A challenge in my family",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "tz_sw": true
+        },
+        "introduction": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -112,8 +132,12 @@
       ],
       "title": "Feelings of anxiety or sadness",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "tz_sw": true
+        },
+        "introduction": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -132,8 +156,12 @@
       ],
       "title": "A loved one feeling anxious or sad",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "tz_sw": true
+        },
+        "introduction": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -16,9 +16,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "🎉 CONGRATULATIONS! \n\nYou have done it! You have built lots of important parenting skills.\n\nThis is a huge achievement. It shows such care for your family.\n\nLet’s celebrate you and plan your future @global.app_name support.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -43,9 +49,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "You and your family have learnt so much. Let's think back and see what has changed since learning all these parenting skills",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -76,16 +88,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "Here are a few tips to help you continue learning and supporting your community!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_4_title": {
+          "tz_sw": true
+        },
+        "section_4_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -138,9 +170,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "Well done!\n\nWe are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

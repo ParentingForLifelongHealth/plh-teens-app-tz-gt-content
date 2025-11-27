@@ -15,9 +15,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Today’s topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -43,8 +49,12 @@
       "text_1_facilitator": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer.",
       "_translations": {
         "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -68,8 +78,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Let’s look at an example of how stress can sometimes just get too much, for all of us:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -91,8 +105,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "Can I have money to buy some airtime?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -114,8 +132,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "What did I do? You never listen!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -136,7 +158,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "Look! I have made a house!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -153,7 +177,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "Who cares about your stupid house!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -176,7 +202,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
@@ -186,13 +214,17 @@
           "tz_sw": true
         },
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_3": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
         "quiz_1_feedback_4": {},
-        "quiz_2_question": {},
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -201,22 +233,36 @@
           "tz_sw": true
         },
         "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_2_feedback_3": {},
         "quiz_2_option_4_text": {
           "tz_sw": true
         },
         "quiz_2_feedback_4": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
+        "quiz_3_question": {
+          "tz_sw": true
+        },
+        "quiz_3_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
+        "quiz_3_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
+        "quiz_3_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_3": {},
-        "quiz_3_option_4_text": {},
+        "quiz_3_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_4": {},
-        "quiz_3_option_5_text": {},
+        "quiz_3_option_5_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_5": {}
       },
       "_translatedFields": {
@@ -497,15 +543,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Here are a few skills to help you manage stress that you can use with your teens!",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_4_title": {
+          "tz_sw": true
+        },
+        "section_4_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -553,18 +617,26 @@
       "text_1_facilitator": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other.",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true
+        },
         "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -613,9 +685,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Remember, when we practice responding calmly and sharing how we feel, our teens learn to do the same. This skill will help them their whole life!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

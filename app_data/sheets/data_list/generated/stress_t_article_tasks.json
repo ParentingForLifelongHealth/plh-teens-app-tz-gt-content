@@ -10,7 +10,9 @@
       "media_type": "audio",
       "title": "Pause to respond",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -118,9 +120,15 @@
       "nested": false,
       "text_1_facilitator": "Today’s topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Can managing stress help you and your family? Tap play to find out",
       "media_transcript": "Greetings everyone.\n\nToday's topic is managing stress.\n\nIt is important to know how to manage our stress. At times our children can behave in ways that make us feel stressed and us as parents can make our children feel stressed too.\n\nSo, it is important to notice when we feel stressed and take a pause and breathe. That will help you manage your stress.",
@@ -147,8 +155,12 @@
       "text_1_facilitator": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer.",
       "_translations": {
         "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Pause, take a breath. Now hear how taking a simple pause helped @data.characters.media_female_4.name and her teens",
       "media_transcript": "Life is tough sometimes. Before I joined @global.app_name, I used to be grumpy at all times. I would take out my anger on everyone at home, not only my teens but even my husband as well. They would run away when I came home because they knew I would start yelling at them.\n\nLearning to take a pause and breathe was difficult at first. But every time I tried it, it helped me to calm down. Now my teens are no longer running away when I come home and they actually listen better than when I used to shout at them!",
@@ -169,8 +181,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s look at an example of how stress can sometimes just get too much, for all of us:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/stress/stress1_t_1.svg",
       "text_2": "@data.characters.f1_father.name lost his job. He was sitting at home feeling frustrated and stressed when @data.characters.f1_son_18.name entered the room.",
@@ -194,8 +210,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "Can I have money to buy some airtime?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Leave me alone and mind your own business!",
       "completed": false
@@ -218,8 +238,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "What did I do? You never listen!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "I said leave me alone or you will get a beating!",
       "completed": false
@@ -238,7 +262,9 @@
       "character_1_id": "f1_daughter_13",
       "character_1_text": "Look! I have made a house!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -256,7 +282,9 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "Who cares about your stupid house!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -372,13 +400,19 @@
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
         "quiz_1_feedback_4": {},
-        "quiz_2_question": {},
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -387,22 +421,36 @@
           "tz_sw": true
         },
         "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_2_feedback_3": {},
         "quiz_2_option_4_text": {
           "tz_sw": true
         },
         "quiz_2_feedback_4": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
+        "quiz_3_question": {
+          "tz_sw": true
+        },
+        "quiz_3_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
+        "quiz_3_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
+        "quiz_3_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_3": {},
-        "quiz_3_option_4_text": {},
+        "quiz_3_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_4": {},
-        "quiz_3_option_5_text": {},
+        "quiz_3_option_5_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_5": {}
       },
       "quiz_1_feedback_2": "Yes, he did not understand why his father, @data.characters.f1_father.name, got angry, and probably felt all these emotions.",
@@ -626,15 +674,33 @@
       "nested": false,
       "text_1_facilitator": "Here are a few skills to help you manage stress that you can use with your teens!",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_4_title": {
+          "tz_sw": true
+        },
+        "section_4_text": {
+          "tz_sw": true
+        }
       },
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
@@ -687,18 +753,26 @@
       "quiz_1_feedback_1": "Great! Pausing to breathe before reacting will help your whole family feel calmer.",
       "_translations": {
         "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
         "text_1_facilitator": {},
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That’s a good start. When you are stressed, remember to take a few deep breaths, it will make it easier to respond calmly.",
       "quiz_1_feedback_3": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together.",
@@ -730,9 +804,15 @@
       "nested": false,
       "text_1_facilitator": "Remember, when we practice responding calmly and sharing how we feel, our teens learn to do the same. This skill will help them their whole life!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Hear how @data.characters.media_son_1.name learned to stay calm from his father",
       "media_transcript": "Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me and I would get so angry as well at him and everyone else.\n\nNow, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n\nIt really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person.",

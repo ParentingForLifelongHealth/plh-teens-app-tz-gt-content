@@ -14,8 +14,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
       "title": "Quick pause",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,8 +39,12 @@
       "media_type": "audio",
       "title": "Power of three",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -56,8 +64,12 @@
       "media_type": "audio",
       "title": "One thing today",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -77,8 +89,12 @@
       "media_type": "audio",
       "title": "Breathe to three",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -98,7 +114,9 @@
       "media_type": "audio",
       "title": "In and out",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -120,7 +138,9 @@
       "media_type": "audio",
       "title": "Think about today",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -142,7 +162,9 @@
       "media_type": "audio",
       "title": "Pause to respond",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -164,7 +186,9 @@
       "media_type": "audio",
       "title": "Small things",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -187,7 +211,9 @@
       "media_type": "audio",
       "title": "Body scan",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -209,7 +235,9 @@
       "media_type": "audio",
       "title": "Feel the ground",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -231,7 +259,9 @@
       "media_type": "audio",
       "title": "Counting sounds",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -253,7 +283,9 @@
       "media_type": "audio",
       "title": "Feel your feelings",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -275,7 +307,9 @@
       "media_type": "audio",
       "title": "Your song",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -297,7 +331,9 @@
       "media_type": "audio",
       "title": "Ground & gratitude",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -319,7 +355,9 @@
       "media_type": "audio",
       "title": "Notice how you feel",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -341,8 +379,12 @@
       "media_type": "audio",
       "title": "Pause power",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -361,7 +403,9 @@
       "media_type": "audio",
       "title": "Praise yourself",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -383,7 +427,9 @@
       "media_type": "audio",
       "title": "Taking care of yourself",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -405,7 +451,9 @@
       "media_type": "audio",
       "title": "Take a pause",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -427,7 +475,9 @@
       "media_type": "audio",
       "title": "Physical activity",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -449,7 +499,9 @@
       "media_type": "audio",
       "title": "List of things",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -495,7 +547,9 @@
       "media_type": "audio",
       "title": "Prevent anger",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -517,7 +571,9 @@
       "media_type": "audio",
       "title": "Angry? Take a break",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }

@@ -21,7 +21,9 @@
           "name": "button_delay_days",
           "value": "Change countdown days",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -40,7 +42,9 @@
           "name": "button_templates",
           "value": "Templates",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -59,7 +63,9 @@
           "name": "button_dynamic_data",
           "value": "Dynamic data",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -78,7 +84,9 @@
           "name": "button_reset",
           "value": "Reset app",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -95,7 +103,9 @@
           "name": "button_open_feedback",
           "value": "Open feedback",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -138,7 +148,9 @@
           "name": "button_close_feedback",
           "value": "Close feedback",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {

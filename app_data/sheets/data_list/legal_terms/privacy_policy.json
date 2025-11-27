@@ -11,7 +11,9 @@
       "title": "@global.privacy_policy",
       "_translations": {
         "title": {},
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -27,8 +29,12 @@
       "id": "section_1",
       "title": "Data Controller",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -44,7 +50,9 @@
       "id": "section_2",
       "title": "What personal data does the app collect about you and how do we use it?",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "text": {}
       },
       "_translatedFields": {
@@ -61,8 +69,12 @@
       "id": "section_3",
       "title": "Information Sharing and Third Party Service Providers and Websites",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -81,7 +93,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -100,7 +114,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -119,7 +135,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -138,7 +156,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -154,7 +174,9 @@
       "id": "section_8",
       "title": "Removing the App",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "text": {
           "tz_sw": true
         }
@@ -176,7 +198,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

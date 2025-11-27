@@ -10,7 +10,9 @@
       "media_type": "audio",
       "title": "Ground & gratitude",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -119,9 +121,15 @@
       "image_asset": "/images/teen_modules/celebrate/celebrate_cup.svg",
       "text_1_facilitator": "🎉 CONGRATULATIONS! \n\nYou have done it! You have built lots of important parenting skills.\n\nThis is a huge achievement. It shows such care for your family.\n\nLet’s celebrate you and plan your future @global.app_name support.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Let's celebrate our journey together and all your achievements!",
       "media_transcript": "Greetings everyone.\n\nToday’s topic is celebration and next steps.\n\nIt has been amazing, it has been wonderful having you on this journey. Today we are celebrating our journey together.\n\nToday we are celebrating all the learnings that we have learnt throughout this time together.\n\nNow, let's think of the next steps. What could be the next steps after this? Maybe we are planning to continue all the learnings that we have learnt here. We don't know, we are hoping that for the next steps, the skills, the learnings will continue. We wish you a pleasant, happy, family time. \n\nThank you.",
@@ -147,9 +155,15 @@
       "nested": false,
       "text_1_facilitator": "You and your family have learnt so much. Let's think back and see what has changed since learning all these parenting skills",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "You've done an amazing job. Tap play to reflect on how far you've come",
       "media_transcript": "Close your eyes and relax.\n\nThink of your family life before you started your journey with this app.\n\nThink back on skills you learned:\n\nSelf-care\nOne-on-one time\nPraise\nPositive instructions\nManaging stress\nFamily budgeting\nRules\nCalm consequences\nProblem solving\nTeen safety\nDealing with crisis\nReflect on the journey – how was it for you to:\n\nShare ideas and experiences\nReflect on and learn from the stories\nPractice skills with your teen\nDid anything change for you and your family?\n\nWhat do you need to continue to use skills?",
@@ -194,16 +208,36 @@
       "nested": false,
       "text_1_facilitator": "Here are a few tips to help you continue learning and supporting your community!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_4_title": {
+          "tz_sw": true
+        },
+        "section_4_text": {
+          "tz_sw": true
+        }
       },
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_image_asset": "/images/teen_modules/celebrate/celebrate_t_1.svg",
@@ -244,9 +278,15 @@
       "nested": false,
       "text_1_facilitator": "Well done!\n\nWe are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "This song is for parents everywhere. Listen, dance and celebrate yourself!",
       "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",

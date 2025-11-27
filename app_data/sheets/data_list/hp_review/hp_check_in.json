@@ -13,16 +13,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did one-on-one time go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -74,16 +94,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did praising your teen go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_no": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "question_how": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -135,16 +175,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did solving a problem together go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -196,16 +256,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did taking care of yourself go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -257,16 +337,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did giving clear instructions go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -318,16 +418,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did keeping calm under stress go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -379,16 +499,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did setting a rule go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -440,16 +580,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did introducing a positive consequence go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -501,16 +661,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did making safety maps go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -562,16 +742,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did talking about a crisis plan go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -623,16 +823,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did making a family budget go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -684,16 +904,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did reading the stories and talking about body changes go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -745,16 +985,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did talking about staying safe with your teen go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -806,16 +1066,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did sharing feelings of grief with your teen go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {
@@ -867,16 +1147,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did trying a fun activity with your teen go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "notification_text": {
+          "tz_sw": true
+        },
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "notification_text": {

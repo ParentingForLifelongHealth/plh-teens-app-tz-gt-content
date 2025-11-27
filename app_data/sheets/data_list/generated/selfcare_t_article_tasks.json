@@ -324,6 +324,78 @@
       "completed": false
     },
     {
+      "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!"
+        },
+        "quiz_1_question": {
+          "eng": "What small thing makes you happy?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sleeping"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Nice! Taking care of yourself is an important parenting skill!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Talking with a friend"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Nice! Taking care of yourself is an important parenting skill!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Reading something I enjoy"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Nice! Taking care of yourself is an important parenting skill!"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Going for a walk"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Nice! Taking care of yourself is an important parenting skill!"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Having a nice cup of coffee, tea or hot chocolate"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Nice! Taking care of yourself is an important parenting skill!"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "Nice! Taking care of yourself is an important parenting skill!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {}
+      },
+      "quiz_1_feedback_2": "Nice! Taking care of yourself is an important parenting skill!",
+      "quiz_1_feedback_3": "Nice! Taking care of yourself is an important parenting skill!",
+      "quiz_1_question": "What small thing makes you happy?",
+      "quiz_1_option_1_text": "Sleeping",
+      "quiz_1_option_2_text": "Talking with a friend",
+      "quiz_1_option_3_text": "Reading something I enjoy",
+      "text_1_facilitator": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_2.svg",
+      "quiz_1_option_4_text": "Going for a walk",
+      "quiz_1_feedback_4": "Nice! Taking care of yourself is an important parenting skill!",
+      "quiz_1_option_5_text": "Having a nice cup of coffee, tea or hot chocolate",
+      "quiz_1_feedback_5": "Nice! Taking care of yourself is an important parenting skill!",
+      "completed": false
+    },
+    {
       "id": "tips_1",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
@@ -424,83 +496,11 @@
       "completed": false
     },
     {
-      "id": "practise_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!"
-        },
-        "quiz_1_question": {
-          "eng": "What small thing makes you happy?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Sleeping"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Nice! Taking care of yourself is an important parenting skill!"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Talking with a friend"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Nice! Taking care of yourself is an important parenting skill!"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Reading something I enjoy"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Nice! Taking care of yourself is an important parenting skill!"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Going for a walk"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "Nice! Taking care of yourself is an important parenting skill!"
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Having a nice cup of coffee, tea or hot chocolate"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "Nice! Taking care of yourself is an important parenting skill!"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "quiz_1_feedback_1": "Nice! Taking care of yourself is an important parenting skill!",
-      "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
-      },
-      "quiz_1_feedback_2": "Nice! Taking care of yourself is an important parenting skill!",
-      "quiz_1_feedback_3": "Nice! Taking care of yourself is an important parenting skill!",
-      "quiz_1_question": "What small thing makes you happy?",
-      "quiz_1_option_1_text": "Sleeping",
-      "quiz_1_option_2_text": "Talking with a friend",
-      "quiz_1_option_3_text": "Reading something I enjoy",
-      "text_1_facilitator": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_2.svg",
-      "quiz_1_option_4_text": "Going for a walk",
-      "quiz_1_feedback_4": "Nice! Taking care of yourself is an important parenting skill!",
-      "quiz_1_option_5_text": "Having a nice cup of coffee, tea or hot chocolate",
-      "quiz_1_feedback_5": "Nice! Taking care of yourself is an important parenting skill!",
-      "completed": false
-    },
-    {
       "id": "home_activity_1",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Remember: Small moments of self-care matter. This week, find time to relax, recognize your efforts, and reward yourself whenever you can.\n \nCare for yourself every day. You deserve it!"
+          "eng": "Small moments of self-care matter. This week, find time to relax, recognize your efforts, and reward yourself whenever you can.\n \nCare for yourself every day. You deserve it!"
         },
         "quiz_1_question": {
           "eng": "Can you find moments this week to relax, recognise your efforts, and reward yourself?"
@@ -547,7 +547,7 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "Remember: Small moments of self-care matter. This week, find time to relax, recognize your efforts, and reward yourself whenever you can.\n \nCare for yourself every day. You deserve it!",
+      "text_1_facilitator": "Small moments of self-care matter. This week, find time to relax, recognize your efforts, and reward yourself whenever you can.\n \nCare for yourself every day. You deserve it!",
       "completed": false
     },
     {

@@ -386,103 +386,6 @@
       "completed": false
     },
     {
-      "id": "practise_1",
-      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward."
-        },
-        "text_2": {
-          "eng": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
-        },
-        "quiz_1_question": {
-          "eng": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Ground @data.characters.f1_daughter_16.name for a month"
-        },
-        "quiz_1_feedback_1_id": {
-          "eng": "practise_1_nested_1"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Return the phone and save up together to buy a new one"
-        },
-        "quiz_1_feedback_2_id": {
-          "eng": "practise_1_nested_2"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Talk to @data.characters.f1_daughter_16.name about safe sex"
-        },
-        "quiz_1_feedback_3_id": {
-          "eng": "practise_1_nested_3"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Listen to @data.characters.f1_daughter_16.name's side of the story"
-        },
-        "quiz_1_feedback_4_id": {
-          "eng": "practise_1_nested_4"
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Take a deep breath before reacting"
-        },
-        "quiz_1_feedback_5_id": {
-          "eng": "practise_1_nested_5"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "quiz_1_question": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!",
-      "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "text_2": {},
-        "quiz_1_feedback_1_id": {},
-        "quiz_1_feedback_2_id": {},
-        "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4_id": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5_id": {}
-      },
-      "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",
-      "quiz_1_option_2_text": "Return the phone and save up together to buy a new one",
-      "quiz_1_option_3_text": "Talk to @data.characters.f1_daughter_16.name about safe sex",
-      "text_1_facilitator": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward.",
-      "text_2": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
-      "quiz_1_feedback_1_id": "practise_1_nested_1",
-      "quiz_1_feedback_2_id": "practise_1_nested_2",
-      "quiz_1_feedback_3_id": "practise_1_nested_3",
-      "quiz_1_option_4_text": "Listen to @data.characters.f1_daughter_16.name's side of the story",
-      "quiz_1_feedback_4_id": "practise_1_nested_4",
-      "quiz_1_option_5_text": "Take a deep breath before reacting",
-      "quiz_1_feedback_5_id": "practise_1_nested_5",
-      "completed": false
-    },
-    {
-      "id": "practise_15",
-      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "When something bad happens, we often get upset and blame. But what our teens really need is someone to help find solutions together. \n\nListen to them, accept how they see and feel things, and thank them for trusting you.\n\nTeaching your teen how to deal with problems will help them for the rest of their lives. What a gift!"
-        },
-        "text_2": {
-          "eng": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "text_1_facilitator": "When something bad happens, we often get upset and blame. But what our teens really need is someone to help find solutions together. \n\nListen to them, accept how they see and feel things, and thank them for trusting you.\n\nTeaching your teen how to deal with problems will help them for the rest of their lives. What a gift!",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
-      },
-      "text_2": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs",
-      "completed": false
-    },
-    {
       "id": "tips_1",
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
@@ -544,6 +447,103 @@
       "section_3_text": "Choose a solution and try it out.",
       "section_4_title": "TEST IT",
       "section_4_text": "Did it work? Great! If it did not work, then try another solution.",
+      "completed": false
+    },
+    {
+      "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward."
+        },
+        "text_2": {
+          "eng": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
+        },
+        "quiz_1_question": {
+          "eng": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Ground @data.characters.f1_daughter_16.name for a month"
+        },
+        "quiz_1_feedback_1_id": {
+          "eng": "practise_1_nested_1"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Return the phone and save up together to buy a new one"
+        },
+        "quiz_1_feedback_2_id": {
+          "eng": "practise_1_nested_2"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Talk to @data.characters.f1_daughter_16.name about safe sex"
+        },
+        "quiz_1_feedback_3_id": {
+          "eng": "practise_1_nested_3"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Listen to @data.characters.f1_daughter_16.name's side of the story"
+        },
+        "quiz_1_feedback_4_id": {
+          "eng": "practise_1_nested_4"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Take a deep breath before reacting"
+        },
+        "quiz_1_feedback_5_id": {
+          "eng": "practise_1_nested_5"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_question": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_feedback_1_id": {},
+        "quiz_1_feedback_2_id": {},
+        "quiz_1_feedback_3_id": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4_id": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5_id": {}
+      },
+      "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",
+      "quiz_1_option_2_text": "Return the phone and save up together to buy a new one",
+      "quiz_1_option_3_text": "Talk to @data.characters.f1_daughter_16.name about safe sex",
+      "text_1_facilitator": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward.",
+      "text_2": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
+      "quiz_1_feedback_1_id": "practise_1_nested_1",
+      "quiz_1_feedback_2_id": "practise_1_nested_2",
+      "quiz_1_feedback_3_id": "practise_1_nested_3",
+      "quiz_1_option_4_text": "Listen to @data.characters.f1_daughter_16.name's side of the story",
+      "quiz_1_feedback_4_id": "practise_1_nested_4",
+      "quiz_1_option_5_text": "Take a deep breath before reacting",
+      "quiz_1_feedback_5_id": "practise_1_nested_5",
+      "completed": false
+    },
+    {
+      "id": "practise_15",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When something bad happens, we often get upset and blame. But what our teens really need is someone to help find solutions together. \n\nListen to them, accept how they see and feel things, and thank them for trusting you.\n\nTeaching your teen how to deal with problems will help them for the rest of their lives. What a gift!"
+        },
+        "text_2": {
+          "eng": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "When something bad happens, we often get upset and blame. But what our teens really need is someone to help find solutions together. \n\nListen to them, accept how they see and feel things, and thank them for trusting you.\n\nTeaching your teen how to deal with problems will help them for the rest of their lives. What a gift!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs",
       "completed": false
     },
     {

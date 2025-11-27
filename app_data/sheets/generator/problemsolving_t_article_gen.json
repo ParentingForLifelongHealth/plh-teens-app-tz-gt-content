@@ -102,6 +102,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "article_problemsolving_t_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_problemsolving_t_practise_1",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -133,11 +138,6 @@
     },
     {
       "flow_name": "article_problemsolving_t_practise_15",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_problemsolving_t_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

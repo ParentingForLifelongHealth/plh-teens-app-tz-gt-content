@@ -284,6 +284,69 @@
       "character_2_text": "Yes, thank you, @data.characters.f2_grandmother_role.name. At least I know you are on my side."
     },
     {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/brain_blue.png",
+      "section_1_image_asset": "/images/teen_modules/solve/solve_tool_t_1.svg",
+      "section_2_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_2_image_asset": "/images/teen_modules/solve/solve_tool_t_2.svg",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_image_asset": "/images/teen_modules/solve/solve_tool_t_3.svg",
+      "section_4_icon_asset": "images/icons/trophy_blue.png",
+      "section_4_image_asset": "/images/teen_modules/solve/solve_tool_t_4.svg",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "text_1_facilitator": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!"
+        },
+        "section_1_title": {
+          "eng": "KNOW IT"
+        },
+        "section_1_text": {
+          "eng": "Identify the problem."
+        },
+        "section_2_title": {
+          "eng": "SOLVE IT"
+        },
+        "section_2_text": {
+          "eng": "Think of possible solutions and what would happen if we used them."
+        },
+        "section_3_title": {
+          "eng": "TRY IT"
+        },
+        "section_3_text": {
+          "eng": "Choose a solution and try it out."
+        },
+        "section_4_title": {
+          "eng": "TEST IT"
+        },
+        "section_4_text": {
+          "eng": "Did it work? Great! If it did not work, then try another solution."
+        }
+      },
+      "section_1_title": "KNOW IT",
+      "section_1_text": "Identify the problem.",
+      "section_2_title": "SOLVE IT",
+      "section_2_text": "Think of possible solutions and what would happen if we used them.",
+      "section_3_title": "TRY IT",
+      "section_3_text": "Choose a solution and try it out.",
+      "section_4_title": "TEST IT",
+      "section_4_text": "Did it work? Great! If it did not work, then try another solution."
+    },
+    {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
@@ -309,7 +372,7 @@
           "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward."
         },
         "text_2": {
-          "eng": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
+          "eng": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
         },
         "quiz_1_question": {
           "eng": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!"
@@ -345,7 +408,7 @@
           "eng": "practise_1_nested_5"
         }
       },
-      "text_2": "Now let’s try problem-solving together: @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
+      "text_2": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
       "quiz_1_question": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!",
       "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",
       "quiz_1_feedback_1_id": "practise_1_nested_1",
@@ -535,69 +598,6 @@
         }
       },
       "text_2": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/brain_blue.png",
-      "section_1_image_asset": "/images/teen_modules/solve/solve_tool_t_1.svg",
-      "section_2_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_2_image_asset": "/images/teen_modules/solve/solve_tool_t_2.svg",
-      "section_3_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_image_asset": "/images/teen_modules/solve/solve_tool_t_3.svg",
-      "section_4_icon_asset": "images/icons/trophy_blue.png",
-      "section_4_image_asset": "/images/teen_modules/solve/solve_tool_t_4.svg",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
-      "text_1_facilitator": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!",
-      "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!"
-        },
-        "section_1_title": {
-          "eng": "KNOW IT"
-        },
-        "section_1_text": {
-          "eng": "Identify the problem."
-        },
-        "section_2_title": {
-          "eng": "SOLVE IT"
-        },
-        "section_2_text": {
-          "eng": "Think of possible solutions and what would happen if we used them."
-        },
-        "section_3_title": {
-          "eng": "TRY IT"
-        },
-        "section_3_text": {
-          "eng": "Choose a solution and try it out."
-        },
-        "section_4_title": {
-          "eng": "TEST IT"
-        },
-        "section_4_text": {
-          "eng": "Did it work? Great! If it did not work, then try another solution."
-        }
-      },
-      "section_1_title": "KNOW IT",
-      "section_1_text": "Identify the problem.",
-      "section_2_title": "SOLVE IT",
-      "section_2_text": "Think of possible solutions and what would happen if we used them.",
-      "section_3_title": "TRY IT",
-      "section_3_text": "Choose a solution and try it out.",
-      "section_4_title": "TEST IT",
-      "section_4_text": "Did it work? Great! If it did not work, then try another solution."
     },
     {
       "id": "home_activity_1",

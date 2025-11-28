@@ -211,7 +211,7 @@
           "eng": "@data.characters.f2_son_15.name is on his way to leave the house to meet friends."
         },
         "character_1_text": {
-          "eng": "Where are you going looking like that?"
+          "eng": "Where are you going?"
         },
         "character_2_text": {
           "eng": "I am going out with some of my friends."
@@ -223,9 +223,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -234,7 +232,7 @@
       "image_asset": "/images/teen_modules/srh/srh1_t_1.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
-      "character_1_text": "Where are you going looking like that?",
+      "character_1_text": "Where are you going?",
       "character_2_text": "I am going out with some of my friends.",
       "completed": false
     },
@@ -249,7 +247,7 @@
           "eng": "What is that @data.characters.f2_son_15.name? Condoms? Why are you carrying those in your bag? Where did you get them?!"
         },
         "character_2_text": {
-          "eng": "I got it from one of the girls at school today. We were talking about safe sex and she said she uses birth control so that she does not get pregnant."
+          "eng": "I got it from one of the boys at school today. We were talking about safe sex and he said he uses condoms so he doesn’t make his girlfriend pregnant."
         }
       },
       "category_id": "explore",
@@ -258,15 +256,13 @@
       "_translations": {
         "text_2": {},
         "character_1_text": {},
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/srh/srh1_t_2.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "character_1_text": "What is that @data.characters.f2_son_15.name? Condoms? Why are you carrying those in your bag? Where did you get them?!",
-      "character_2_text": "I got it from one of the girls at school today. We were talking about safe sex and she said she uses birth control so that she does not get pregnant.",
+      "character_2_text": "I got it from one of the boys at school today. We were talking about safe sex and he said he uses condoms so he doesn’t make his girlfriend pregnant.",
       "completed": false
     },
     {
@@ -327,28 +323,28 @@
           "eng": "Let's think about what happened in this story."
         },
         "quiz_1_question": {
-          "eng": "Why do you think @data.characters.f2_grandmother.name reacted the way she did?"
+          "eng": "Why do you think @data.characters.f2_grandfather.name reacted the way he did?"
         },
         "quiz_1_option_1_text": {
-          "eng": "She was shocked that @data.characters.f2_daughter_19.name had condoms"
+          "eng": "He was shocked that @data.characters.f2_son_15.name had condoms"
         },
         "quiz_1_feedback_1": {
-          "eng": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
+          "eng": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
         },
         "quiz_1_option_2_text": {
-          "eng": "She felt disrespected and angry at @data.characters.f2_daughter_19.name"
+          "eng": "He felt disrespected and angry at @data.characters.f2_son_15.name"
         },
         "quiz_1_feedback_2": {
-          "eng": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
+          "eng": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
         },
         "quiz_1_option_3_text": {
-          "eng": "She was scared that @data.characters.f2_daughter_19.name was already having sex"
+          "eng": "He was scared that @data.characters.f2_son_15.name was already having sex"
         },
         "quiz_1_feedback_3": {
-          "eng": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
+          "eng": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
         },
         "quiz_1_option_4_text": {
-          "eng": "She felt ashamed to talk about sex"
+          "eng": "He felt ashamed to talk about sex"
         },
         "quiz_1_feedback_4": {
           "eng": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
@@ -374,35 +370,19 @@
       },
       "category_id": "explore",
       "nested": false,
-      "quiz_1_feedback_1": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
+      "quiz_1_feedback_1": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
@@ -425,14 +405,14 @@
           "tz_sw": true
         }
       },
-      "quiz_1_feedback_2": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
-      "quiz_1_feedback_3": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
-      "quiz_1_question": "Why do you think @data.characters.f2_grandmother.name reacted the way she did?",
-      "quiz_1_option_1_text": "She was shocked that @data.characters.f2_daughter_19.name had condoms",
-      "quiz_1_option_2_text": "She felt disrespected and angry at @data.characters.f2_daughter_19.name",
-      "quiz_1_option_3_text": "She was scared that @data.characters.f2_daughter_19.name was already having sex",
+      "quiz_1_feedback_2": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
+      "quiz_1_feedback_3": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
+      "quiz_1_question": "Why do you think @data.characters.f2_grandfather.name reacted the way he did?",
+      "quiz_1_option_1_text": "He was shocked that @data.characters.f2_son_15.name had condoms",
+      "quiz_1_option_2_text": "He felt disrespected and angry at @data.characters.f2_son_15.name",
+      "quiz_1_option_3_text": "He was scared that @data.characters.f2_son_15.name was already having sex",
       "text_1_facilitator": "Let's think about what happened in this story.",
-      "quiz_1_option_4_text": "She felt ashamed to talk about sex",
+      "quiz_1_option_4_text": "He felt ashamed to talk about sex",
       "quiz_1_feedback_4": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_2_option_1_text": "@data.characters.f2_daughter_19.name may not trust @data.characters.f2_grandmother.name in the future",
       "quiz_2_feedback_1": "Yes, all of these are true. After this fight, @data.characters.f2_daughter_19.name may look for answers somewhere else.\nShe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandmother.name about it even if she has questions or needs help. She may feel worried that @data.characters.f2_grandmother.name will judge her choices or feel ashamed of her.",

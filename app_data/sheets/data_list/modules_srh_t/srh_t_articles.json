@@ -235,24 +235,12 @@
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -286,22 +274,22 @@
           "eng": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
         },
         "quiz_2_option_1_text": {
-          "eng": "@data.characters.f2_daughter_19.name may not trust @data.characters.f2_grandmother.name in the future"
+          "eng": "@data.characters.f2_son_15.name may not trust @data.characters.f2_grandfather.name in the future"
         },
         "quiz_2_feedback_1": {
-          "eng": "Yes, all of these are true. After this fight, @data.characters.f2_daughter_19.name may look for answers somewhere else.\nShe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandmother.name about it even if she has questions or needs help. She may feel worried that @data.characters.f2_grandmother.name will judge her choices or feel ashamed of her."
+          "eng": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him."
         },
         "quiz_2_option_2_text": {
-          "eng": "@data.characters.f2_daughter_19.name may not ask @data.characters.f2_grandmother.name questions or advice if she has a problem"
+          "eng": "@data.characters.f2_son_15.name may not ask @data.characters.f2_grandfather.name questions or advice if she has a problem"
         },
         "quiz_2_feedback_2": {
-          "eng": "Yes, all of these are true. After this fight, @data.characters.f2_daughter_19.name may look for answers somewhere else.\nShe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandmother.name about it even if she has questions or needs help. She may feel worried that @data.characters.f2_grandmother.name will judge her choices or feel ashamed of her."
+          "eng": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him."
         },
         "quiz_2_option_3_text": {
-          "eng": "@data.characters.f2_daughter_19.name may make bad decisions out of anger"
+          "eng": "@data.characters.f2_son_15.name may make bad decisions out of anger"
         },
         "quiz_2_feedback_3": {
-          "eng": "Yes, all of these are true. After this fight, @data.characters.f2_daughter_19.name may look for answers somewhere else.\nShe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandmother.name about it even if she has questions or needs help. She may feel worried that @data.characters.f2_grandmother.name will judge her choices or feel ashamed of her."
+          "eng": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him."
         }
       },
       "quiz_1_question": "Why do you think @data.characters.f2_grandfather.name reacted the way he did?",
@@ -313,12 +301,12 @@
       "quiz_1_feedback_3": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_1_option_4_text": "He felt ashamed to talk about sex",
       "quiz_1_feedback_4": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
-      "quiz_2_option_1_text": "@data.characters.f2_daughter_19.name may not trust @data.characters.f2_grandmother.name in the future",
-      "quiz_2_feedback_1": "Yes, all of these are true. After this fight, @data.characters.f2_daughter_19.name may look for answers somewhere else.\nShe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandmother.name about it even if she has questions or needs help. She may feel worried that @data.characters.f2_grandmother.name will judge her choices or feel ashamed of her.",
-      "quiz_2_option_2_text": "@data.characters.f2_daughter_19.name may not ask @data.characters.f2_grandmother.name questions or advice if she has a problem",
-      "quiz_2_feedback_2": "Yes, all of these are true. After this fight, @data.characters.f2_daughter_19.name may look for answers somewhere else.\nShe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandmother.name about it even if she has questions or needs help. She may feel worried that @data.characters.f2_grandmother.name will judge her choices or feel ashamed of her.",
-      "quiz_2_option_3_text": "@data.characters.f2_daughter_19.name may make bad decisions out of anger",
-      "quiz_2_feedback_3": "Yes, all of these are true. After this fight, @data.characters.f2_daughter_19.name may look for answers somewhere else.\nShe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandmother.name about it even if she has questions or needs help. She may feel worried that @data.characters.f2_grandmother.name will judge her choices or feel ashamed of her."
+      "quiz_2_option_1_text": "@data.characters.f2_son_15.name may not trust @data.characters.f2_grandfather.name in the future",
+      "quiz_2_feedback_1": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
+      "quiz_2_option_2_text": "@data.characters.f2_son_15.name may not ask @data.characters.f2_grandfather.name questions or advice if she has a problem",
+      "quiz_2_feedback_2": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
+      "quiz_2_option_3_text": "@data.characters.f2_son_15.name may make bad decisions out of anger",
+      "quiz_2_feedback_3": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him."
     },
     {
       "id": "explore_6",
@@ -1357,11 +1345,9 @@
       "category_id": "home_activity",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
-      "text_1_facilitator": "This week’s home activity is to read and talk about this module’s stories with your teen. Use them to start a conversation about body changes and relationships.\n\nYou can talk about what happened with @data.characters.f2_daughter_19.name or @data.characters.f1_daughter_16.name and their parents.\n\nThese stories can make it easier to talk about tricky topics and share ideas about healthy, respectful relationships.",
+      "text_1_facilitator": "This week’s home activity is to read and talk about this module’s stories with your teen. Use them to start a conversation about body changes and relationships.\n\nYou can talk about what happened with @data.characters.f2_son_15.name or @data.characters.f1_daughter_16.name and their parents.\n\nThese stories can make it easier to talk about tricky topics and share ideas about healthy, respectful relationships.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -1386,7 +1372,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This week’s home activity is to read and talk about this module’s stories with your teen. Use them to start a conversation about body changes and relationships.\n\nYou can talk about what happened with @data.characters.f2_daughter_19.name or @data.characters.f1_daughter_16.name and their parents.\n\nThese stories can make it easier to talk about tricky topics and share ideas about healthy, respectful relationships."
+          "eng": "This week’s home activity is to read and talk about this module’s stories with your teen. Use them to start a conversation about body changes and relationships.\n\nYou can talk about what happened with @data.characters.f2_son_15.name or @data.characters.f1_daughter_16.name and their parents.\n\nThese stories can make it easier to talk about tricky topics and share ideas about healthy, respectful relationships."
         },
         "quiz_1_question": {
           "eng": "Can you read the stories with your teen and use them to start an open talk about body changes and relationships?"

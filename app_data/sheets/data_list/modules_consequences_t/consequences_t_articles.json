@@ -159,15 +159,13 @@
       "character_1_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "character_1_text": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!”",
+      "character_1_text": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!”"
+          "eng": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!"
         }
       }
     },
@@ -870,7 +868,16 @@
         },
         "character_2_text": {
           "tz_sw": true
-        }
+        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -878,9 +885,37 @@
         },
         "character_2_text": {
           "eng": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night."
+        },
+        "quiz_1_question": {
+          "eng": "How do you think @data.characters.f1_father.name feels now?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Calm"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "In control"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Connected"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children."
         }
       },
-      "character_2_text": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night."
+      "character_2_text": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night.",
+      "quiz_1_question": "How do you think @data.characters.f1_father.name feels now?",
+      "quiz_1_option_1_text": "Calm",
+      "quiz_1_feedback_1": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children.",
+      "quiz_1_option_2_text": "In control",
+      "quiz_1_feedback_2": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children.",
+      "quiz_1_option_3_text": "Connected",
+      "quiz_1_feedback_3": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children."
     },
     {
       "id": "explore_18",
@@ -979,14 +1014,13 @@
     {
       "id": "practise_1",
       "category_id": "practise",
+      "image_asset": "/images/teen_modules/consequence/consequence2_t_2.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_1_facilitator": "Now, let’s practise choosing calm consequences for common situations.",
       "_translations": {
         "text_1_facilitator": {},
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -1011,25 +1045,10 @@
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_question": {
+        "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
+        "quiz_1_feedback_5": {
           "tz_sw": true
         }
       },
@@ -1038,70 +1057,138 @@
           "eng": "Now, let’s practise choosing calm consequences for common situations."
         },
         "quiz_1_question": {
-          "eng": "Here are some ideas from other parents. Tap each behaviour to see an example of a fair consequence!"
+          "eng": "Imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Negative Behaviour: Coming home after the agreed time"
+          "eng": "No gadget use the next day"
         },
         "quiz_1_feedback_1": {
-          "eng": "Negative Consequence: Cannot see friends the next day."
+          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
         },
         "quiz_1_option_2_text": {
-          "eng": "Negative Behaviour: Talking rudely"
+          "eng": "Write a letter of apology"
         },
         "quiz_1_feedback_2": {
-          "eng": "Negative Consequence: Write a letter of apology."
+          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
         },
         "quiz_1_option_3_text": {
-          "eng": "Positive Behaviour: Helping out with shopping"
+          "eng": "Cannot see friends the next day"
         },
         "quiz_1_feedback_3": {
-          "eng": "Positive Consequence: 30 minutes extra doing an activity of their choice."
+          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
         },
         "quiz_1_option_4_text": {
-          "eng": "Positive Behaviour: Helping look after younger siblings"
+          "eng": "Cannot play with phone after dinner (or next hour)"
         },
         "quiz_1_feedback_4": {
-          "eng": "Positive Consequence: One hour of extra time with friends on the weekend."
+          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
         },
-        "quiz_2_question": {
-          "eng": "Now let's think more about negative consequences. Which of these consequences do you feel is appropriate?"
+        "quiz_1_option_5_text": {
+          "eng": "Take 5 minutes' pause in a separate part of the room"
         },
-        "quiz_2_option_1_text": {
-          "eng": "Not seeing any friends for a month"
-        },
-        "quiz_2_feedback_1": {
-          "eng": "This may be hard to do for you and also too harsh! \n\nRemember, consequences should be fair, immediate and consistent."
-        },
-        "quiz_2_option_2_text": {
-          "eng": "Cancelling their birthday plans in a month's time"
-        },
-        "quiz_2_feedback_2": {
-          "eng": "This is too far in the future and too harsh as well! \n\nRemember, consequences should be fair, immediate and consistent."
-        },
-        "quiz_2_option_3_text": {
-          "eng": "No TV this evening"
-        },
-        "quiz_2_feedback_3": {
-          "eng": "Perfect, this sounds fair and can be done straight away."
+        "quiz_1_feedback_5": {
+          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
         }
       },
-      "quiz_1_question": "Here are some ideas from other parents. Tap each behaviour to see an example of a fair consequence!",
-      "quiz_1_option_1_text": "Negative Behaviour: Coming home after the agreed time",
-      "quiz_1_feedback_1": "Negative Consequence: Cannot see friends the next day.",
-      "quiz_1_option_2_text": "Negative Behaviour: Talking rudely",
-      "quiz_1_feedback_2": "Negative Consequence: Write a letter of apology.",
-      "quiz_1_option_3_text": "Positive Behaviour: Helping out with shopping",
-      "quiz_1_feedback_3": "Positive Consequence: 30 minutes extra doing an activity of their choice.",
-      "quiz_1_option_4_text": "Positive Behaviour: Helping look after younger siblings",
-      "quiz_1_feedback_4": "Positive Consequence: One hour of extra time with friends on the weekend.",
-      "quiz_2_question": "Now let's think more about negative consequences. Which of these consequences do you feel is appropriate?",
-      "quiz_2_option_1_text": "Not seeing any friends for a month",
-      "quiz_2_feedback_1": "This may be hard to do for you and also too harsh! \n\nRemember, consequences should be fair, immediate and consistent.",
-      "quiz_2_option_2_text": "Cancelling their birthday plans in a month's time",
-      "quiz_2_feedback_2": "This is too far in the future and too harsh as well! \n\nRemember, consequences should be fair, immediate and consistent.",
-      "quiz_2_option_3_text": "No TV this evening",
-      "quiz_2_feedback_3": "Perfect, this sounds fair and can be done straight away."
+      "quiz_1_question": "Imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?",
+      "quiz_1_option_1_text": "No gadget use the next day",
+      "quiz_1_feedback_1": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
+      "quiz_1_option_2_text": "Write a letter of apology",
+      "quiz_1_feedback_2": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
+      "quiz_1_option_3_text": "Cannot see friends the next day",
+      "quiz_1_feedback_3": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
+      "quiz_1_option_4_text": "Cannot play with phone after dinner (or next hour)",
+      "quiz_1_feedback_4": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
+      "quiz_1_option_5_text": "Take 5 minutes' pause in a separate part of the room",
+      "quiz_1_feedback_5": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
+    },
+    {
+      "id": "practise_2",
+      "category_id": "practise",
+      "image_asset": "/images/teen_modules/consequence/consequence2_t_3.svg",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "quiz_1_question": "Now imagine @data.characters.f2_son_15.name is helping with a special chore. \nWhat consequence would help here?",
+      "_translations": {
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Now imagine @data.characters.f2_son_15.name is helping with a special chore. \nWhat consequence would help here?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Extra time with friends on weekend (1 hr)"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Cooking teen's favourite meal"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Extra time with phone after dinner (30 min)"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Watching teen's TV show together"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Extra one-on-one time on Sunday (30 min)"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
+        }
+      },
+      "quiz_1_option_1_text": "Extra time with friends on weekend (1 hr)",
+      "quiz_1_feedback_1": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
+      "quiz_1_option_2_text": "Cooking teen's favourite meal",
+      "quiz_1_feedback_2": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
+      "quiz_1_option_3_text": "Extra time with phone after dinner (30 min)",
+      "quiz_1_feedback_3": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
+      "quiz_1_option_4_text": "Watching teen's TV show together",
+      "quiz_1_feedback_4": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
+      "quiz_1_option_5_text": "Extra one-on-one time on Sunday (30 min)",
+      "quiz_1_feedback_5": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
     },
     {
       "id": "home_activity_1",

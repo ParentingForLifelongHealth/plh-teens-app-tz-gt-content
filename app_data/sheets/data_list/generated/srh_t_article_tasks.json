@@ -205,10 +205,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, handled this."
+          "eng": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name, handled this."
         },
         "text_2": {
-          "eng": "@data.characters.f2_daughter_19.name is on her way to leave the house looking very pretty."
+          "eng": "@data.characters.f2_son_15.name is on his way to leave the house to meet friends."
         },
         "character_1_text": {
           "eng": "Where are you going looking like that?"
@@ -219,14 +219,10 @@
       },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, handled this.",
+      "text_1_facilitator": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name, handled this.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "text_2": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -234,10 +230,10 @@
           "tz_sw": true
         }
       },
-      "text_2": "@data.characters.f2_daughter_19.name is on her way to leave the house looking very pretty.",
+      "text_2": "@data.characters.f2_son_15.name is on his way to leave the house to meet friends.",
       "image_asset": "/images/teen_modules/srh/srh1_t_1.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_daughter_19",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_son_15",
       "character_1_text": "Where are you going looking like that?",
       "character_2_text": "I am going out with some of my friends.",
       "completed": false
@@ -247,10 +243,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f2_daughter_19.name accidentally drops her bag, and a packet of condoms falls out."
+          "eng": "@data.characters.f2_son_15.name accidentally drops his bag, and a packet of condoms falls out."
         },
         "character_1_text": {
-          "eng": "What is that @data.characters.f2_daughter_19.name? Condoms? Why are you carrying those in your bag? Where did you get them?!"
+          "eng": "What is that @data.characters.f2_son_15.name? Condoms? Why are you carrying those in your bag? Where did you get them?!"
         },
         "character_2_text": {
           "eng": "I got it from one of the girls at school today. We were talking about safe sex and she said she uses birth control so that she does not get pregnant."
@@ -258,22 +254,18 @@
       },
       "category_id": "explore",
       "nested": false,
-      "text_2": "@data.characters.f2_daughter_19.name accidentally drops her bag, and a packet of condoms falls out.",
+      "text_2": "@data.characters.f2_son_15.name accidentally drops his bag, and a packet of condoms falls out.",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "text_2": {},
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "image_asset": "/images/teen_modules/srh/srh1_t_2.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_daughter_19",
-      "character_1_text": "What is that @data.characters.f2_daughter_19.name? Condoms? Why are you carrying those in your bag? Where did you get them?!",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "What is that @data.characters.f2_son_15.name? Condoms? Why are you carrying those in your bag? Where did you get them?!",
       "character_2_text": "I got it from one of the girls at school today. We were talking about safe sex and she said she uses birth control so that she does not get pregnant.",
       "completed": false
     },
@@ -285,14 +277,14 @@
           "eng": "What is this talk of sex in my house! You are too young…"
         },
         "character_2_text": {
-          "eng": "But @data.characters.f2_grandmother_role.name, it’s not like that…!"
+          "eng": "But @data.characters.f2_grandfather_role.name, it’s not like that…!"
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "/images/teen_modules/srh/srh1_t_3.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_daughter_19",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_son_15",
       "character_1_text": "What is this talk of sex in my house! You are too young…",
       "_translations": {
         "character_1_text": {
@@ -300,7 +292,7 @@
         },
         "character_2_text": {}
       },
-      "character_2_text": "But @data.characters.f2_grandmother_role.name, it’s not like that…!",
+      "character_2_text": "But @data.characters.f2_grandfather_role.name, it’s not like that…!",
       "completed": false
     },
     {
@@ -308,27 +300,23 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "No, no, no, @data.characters.f2_daughter_19.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Come here now! I am going to hit you. Stupid girl!"
+          "eng": "No, no, no, @data.characters.f2_son_15.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Stupid boy!"
         },
         "character_2_text": {
-          "eng": "No @data.characters.f2_grandmother_role.name, please don’t hit me, it is not what you think!"
+          "eng": "No @data.characters.f2_grandfather_role.name, please don’t hit me, it is not what you think!"
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "/images/teen_modules/srh/srh1_t_4.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_daughter_19",
-      "character_1_text": "No, no, no, @data.characters.f2_daughter_19.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Come here now! I am going to hit you. Stupid girl!",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "No, no, no, @data.characters.f2_son_15.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Stupid boy!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
-      "character_2_text": "No @data.characters.f2_grandmother_role.name, please don’t hit me, it is not what you think!",
+      "character_2_text": "No @data.characters.f2_grandfather_role.name, please don’t hit me, it is not what you think!",
       "completed": false
     },
     {
@@ -459,7 +447,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "We saw how challenging that moment was for @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly."
+          "eng": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation."
         },
         "character_1_text": {
           "eng": "@data.characters.f1_mother_role.name, can I talk to you about something?"
@@ -470,11 +458,9 @@
       },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
+      "text_1_facilitator": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -829,6 +815,12 @@
         },
         "quiz_1_feedback_3_id": {
           "eng": "explore_12_nested_3"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Another trusted adult"
+        },
+        "quiz_1_feedback_4_id": {
+          "eng": "explore_12_nested_4"
         }
       },
       "category_id": "explore",
@@ -853,18 +845,22 @@
         "text_2": {
           "tz_sw": true
         },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
-        "quiz_1_feedback_3_id": {}
+        "quiz_1_feedback_3_id": {},
+        "quiz_1_feedback_4_id": {}
       },
       "quiz_1_option_1_text": "The teen's friend",
       "quiz_1_option_2_text": "The teen",
       "quiz_1_option_3_text": "The parent",
       "text_1_facilitator": "@data.characters.f1_mother.name did well by finding solutions together with @data.characters.f1_daughter_16.name. But this can be hard to do.\n\nMany parents want to help their teens but find it difficult to talk about sensitive topics, like body changes and relationships.",
       "text_2": "Here are some questions from other parents to help you begin.",
+      "quiz_1_option_4_text": "Another trusted adult",
       "quiz_1_feedback_1_id": "explore_12_nested_1",
       "quiz_1_feedback_2_id": "explore_12_nested_2",
       "quiz_1_feedback_3_id": "explore_12_nested_3",
+      "quiz_1_feedback_4_id": "explore_12_nested_4",
       "completed": false
     },
     {
@@ -1084,6 +1080,67 @@
       "quiz_1_feedback_1_id": "explore_15_nested_1",
       "quiz_1_feedback_2_id": "explore_15_nested_2",
       "quiz_1_feedback_3_id": "explore_15_nested_3",
+      "completed": false
+    },
+    {
+      "id": "explore_16",
+      "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Many parents also wonder what they should know to guide their teens well. Here are a few things that can help you feel more prepared. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too."
+        },
+        "quiz_1_question": {
+          "eng": "How can I support my teen with body changes, relationships, and staying safe?\n\nTry selecting each option to learn more!"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Body changes and puberty"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Risks and protection (or How to stay safe)"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get them the help they need."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Respectful relationships (or How to say ‘no’)"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Where to go for help"
+        },
+        "quiz_1_feedback_4_id": {
+          "eng": "Both you and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "quiz_1_feedback_1": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4_id": {}
+      },
+      "quiz_1_feedback_2": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get them the help they need.",
+      "quiz_1_feedback_3": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time.",
+      "quiz_1_question": "How can I support my teen with body changes, relationships, and staying safe?\n\nTry selecting each option to learn more!",
+      "quiz_1_option_1_text": "Body changes and puberty",
+      "quiz_1_option_2_text": "Risks and protection (or How to stay safe)",
+      "quiz_1_option_3_text": "Respectful relationships (or How to say ‘no’)",
+      "text_1_facilitator": "Many parents also wonder what they should know to guide their teens well. Here are a few things that can help you feel more prepared. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too.",
+      "quiz_1_option_4_text": "Where to go for help",
+      "quiz_1_feedback_4_id": "Both you and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe.",
       "completed": false
     },
     {

@@ -46,7 +46,7 @@
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "When we make rules together, teens see that rules are not there to control them but to make sure everyone is safe and respected.",
+      "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -54,7 +54,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "When we make rules together, teens see that rules are not there to control them but to make sure everyone is safe and respected."
+          "eng": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents."
         },
         "media_title": {
           "eng": "Rules worked for @data.characters.media_male_6.name and his teens. Tap play to hear more"
@@ -69,12 +69,12 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_2.svg",
-      "character_1_id": "f1_father",
+      "image_asset": "/images/teen_modules/rules/rules1_t_1.svg",
+      "character_1_id": "f1_mother",
       "character_2_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name created a new rule together.",
+      "text_1_facilitator": "Let's read what happened with @data.characters.f1_son_18.name and his parents:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -82,7 +82,35 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name created a new rule together."
+          "eng": "Let's read what happened with @data.characters.f1_son_18.name and his parents:"
+        },
+        "character_1_text": {
+          "eng": "You always come home late!"
+        },
+        "character_2_text": {
+          "eng": "No I don’t, I don’t even know what late means! Stop nagging me."
+        }
+      },
+      "character_1_text": "You always come home late!",
+      "character_2_text": "No I don’t, I don’t even know what late means! Stop nagging me."
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/rules/rules1_t_2.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name, did this the next day.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Making rules as a team builds trust. Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name, did this the next day."
         },
         "character_1_text": {
           "eng": "We want you to have fun, @data.characters.f1_son_18.name, but we are also worried about you staying out late. Do you know why?"
@@ -95,7 +123,7 @@
       "character_2_text": "Because you want me to have enough time for my schoolwork and chores?"
     },
     {
-      "id": "explore_2",
+      "id": "explore_3",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/rules/rules1_t_3.svg",
       "character_1_id": "f1_father",
@@ -118,7 +146,7 @@
       "character_2_text": "What do you think would be a good time for you to be home?"
     },
     {
-      "id": "explore_3",
+      "id": "explore_4",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/rules/rules1_t_4.svg",
       "character_1_id": "f1_son_18",
@@ -145,7 +173,7 @@
       "character_2_text": "That is a bit late, what about 6pm?"
     },
     {
-      "id": "explore_4",
+      "id": "explore_5",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/rules/rules1_t_5.svg",
       "character_1_id": "f1_son_18",
@@ -176,7 +204,7 @@
       "character_3_text": "But you will always make sure you walk home with a friend, okay?"
     },
     {
-      "id": "explore_5",
+      "id": "explore_6",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/rules/rules1_t_6.svg",
       "character_1_id": "f1_son_18",
@@ -199,7 +227,7 @@
       "character_2_text": "Thank you very much, @data.characters.f1_son_18.name, for helping to come up with a good rule together."
     },
     {
-      "id": "explore_6",
+      "id": "explore_7",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/rules/rules1_t_7.svg",
       "character_1_id": "f1_mother",
@@ -231,9 +259,10 @@
       "character_2_text": "We are proud to see how responsible you are becoming."
     },
     {
-      "id": "explore_7",
+      "id": "explore_8",
       "category_id": "explore",
-      "quiz_1_feedback_6_image_asset": "How do you think @data.characters.f1_son_18.name knew his parents appreciated him?",
+      "quiz_2_option_3_image_asset": "They praised him",
+      "quiz_2_option_4_image_asset": "@data.characters.f1_mother.name and @data.characters.f1_father.name rewarded him when he followed the rule",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "text_1_facilitator": "Let's think about what happened in this story.",
@@ -266,12 +295,11 @@
         },
         "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {
+        "quiz_2_option_3_text": {},
+        "quiz_2_option_4_text": {
           "tz_sw": true
         },
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {
+        "quiz_2_option_5_text": {
           "tz_sw": true
         }
       },
@@ -312,16 +340,13 @@
         "quiz_1_feedback_5": {
           "eng": "That’s right. When teens, fathers and mothers are involved in a calm and positive way, creating clear rules and following them becomes a shared responsibility for everyone"
         },
-        "quiz_2_option_1_text": {
-          "eng": "They praised him"
+        "quiz_2_option_3_text": {
+          "eng": "How do you think @data.characters.f1_son_18.name knew his parents appreciated him?"
         },
-        "quiz_2_feedback_1": {
+        "quiz_2_option_4_text": {
           "eng": "Exactly - a positive response makes all the difference!"
         },
-        "quiz_2_option_2_text": {
-          "eng": "@data.characters.f1_mother.name and @data.characters.f1_father.name rewarded him when he followed the rule"
-        },
-        "quiz_2_feedback_2": {
+        "quiz_2_option_5_text": {
           "eng": "Exactly - a positive response makes all the difference!"
         }
       },
@@ -336,898 +361,9 @@
       "quiz_1_feedback_4": "That is right, making clear rules together in a calm and positive way works so well!",
       "quiz_1_option_5_text": "Both caregivers and their teen were involved",
       "quiz_1_feedback_5": "That’s right. When teens, fathers and mothers are involved in a calm and positive way, creating clear rules and following them becomes a shared responsibility for everyone",
-      "quiz_2_option_1_text": "They praised him",
-      "quiz_2_feedback_1": "Exactly - a positive response makes all the difference!",
-      "quiz_2_option_2_text": "@data.characters.f1_mother.name and @data.characters.f1_father.name rewarded him when he followed the rule",
-      "quiz_2_feedback_2": "Exactly - a positive response makes all the difference!"
-    },
-    {
-      "id": "explore_8",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh2_t_1.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation."
-        },
-        "character_1_text": {
-          "eng": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
-        },
-        "character_2_text": {
-          "eng": "(_calmly_) Sure, my darling. What is the matter?"
-        }
-      },
-      "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
-      "character_2_text": "(_calmly_) Sure, my darling. What is the matter?"
-    },
-    {
-      "id": "explore_9",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh2_t_2.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_2": "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name.",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name."
-        },
-        "character_1_text": {
-          "eng": "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do."
-        },
-        "character_2_text": {
-          "eng": "(🤔_thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
-        }
-      },
-      "character_1_text": "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do.",
-      "character_2_text": "(🤔_thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
-    },
-    {
-      "id": "explore_10",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh2_t_3.svg",
-      "character_1_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "(_calmly_) Thank you for sharing this with me, @data.characters.f1_daughter_16.name. I know that you like @data.characters.boyfriend_1.name a lot, he is a charming boy and he does great at school, but you are only 16 and he is 18.\n\nI feel worried that it is not safe for you to be alone with him. He might pressure you into doing something that you are not prepared to do.\n\nI don’t want to tell you who you can see but we need to have some rules about how you spend time together.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "(_calmly_) Thank you for sharing this with me, @data.characters.f1_daughter_16.name. I know that you like @data.characters.boyfriend_1.name a lot, he is a charming boy and he does great at school, but you are only 16 and he is 18.\n\nI feel worried that it is not safe for you to be alone with him. He might pressure you into doing something that you are not prepared to do.\n\nI don’t want to tell you who you can see but we need to have some rules about how you spend time together."
-        }
-      }
-    },
-    {
-      "id": "explore_11",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh2_t_4.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_16",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "What do you think would be a fair rule about how you spend time together?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "What do you think would be a fair rule about how you spend time together?"
-        },
-        "character_2_text": {
-          "eng": "How about, we can spend time together if there is an adult with us?"
-        }
-      },
-      "character_2_text": "How about, we can spend time together if there is an adult with us?"
-    },
-    {
-      "id": "explore_12",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh2_t_5.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_16",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
-        },
-        "character_2_text": {
-          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
-        }
-      },
-      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
-    },
-    {
-      "id": "explore_13",
-      "category_id": "explore",
-      "quiz_1_option_1_image_asset": "images/icons/faces/scared.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/confused.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/happy.svg",
-      "quiz_2_option_1_image_asset": "She breathes to stay calm",
-      "quiz_2_option_2_image_asset": "She praises @data.characters.f1_daughter_16.name for sharing",
-      "quiz_2_option_3_image_asset": "She shares why she is worried",
-      "quiz_2_option_4_image_asset": "She creates rules with @data.characters.f1_daughter_16.name",
-      "quiz_2_option_5_image_asset": "She involves other adults for support",
-      "quiz_3_option_1_image_asset": "Okay",
-      "quiz_3_option_2_image_asset": "Happy",
-      "quiz_3_option_3_image_asset": "Proud",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Let's think about what happened in this story.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_2_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_2_option_6_text": {
-          "tz_sw": true
-        },
-        "quiz_3_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {},
-        "quiz_3_option_4_text": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Let's think about what happened in this story."
-        },
-        "quiz_1_question": {
-          "eng": "How did @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_16.name, feel at the start of their conversation?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Worried"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Nervous"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Hopeful"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together."
-        },
-        "quiz_2_option_1_text": {
-          "eng": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?"
-        },
-        "quiz_2_option_2_text": {
-          "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-        },
-        "quiz_2_option_3_text": {
-          "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-        },
-        "quiz_2_option_4_text": {
-          "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-        },
-        "quiz_2_option_5_text": {
-          "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-        },
-        "quiz_2_option_6_text": {
-          "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-        },
-        "quiz_3_option_1_text": {
-          "eng": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "images/faces/neutral.svg"
-        },
-        "quiz_3_option_2_text": {
-          "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
-        },
-        "quiz_3_feedback_2": {
-          "eng": "images/faces/happy.svg"
-        },
-        "quiz_3_option_3_text": {
-          "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
-        },
-        "quiz_3_feedback_3": {
-          "eng": "images/faces/happiest.svg"
-        },
-        "quiz_3_option_4_text": {
-          "eng": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
-        }
-      },
-      "quiz_1_question": "How did @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_16.name, feel at the start of their conversation?",
-      "quiz_1_option_1_text": "Worried",
-      "quiz_1_feedback_1": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
-      "quiz_1_option_2_text": "Nervous",
-      "quiz_1_feedback_2": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
-      "quiz_1_option_3_text": "Hopeful",
-      "quiz_1_feedback_3": "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together.",
-      "quiz_2_option_1_text": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?",
-      "quiz_2_option_2_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_3_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_4_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_5_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_6_text": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_3_option_1_text": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
-      "quiz_3_feedback_1": "images/faces/neutral.svg",
-      "quiz_3_option_2_text": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer.",
-      "quiz_3_feedback_2": "images/faces/happy.svg",
-      "quiz_3_option_3_text": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer.",
-      "quiz_3_feedback_3": "images/faces/happiest.svg",
-      "quiz_3_option_4_text": "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
-    },
-    {
-      "id": "explore_14",
-      "category_id": "explore",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "@data.characters.f1_mother.name did well by finding solutions together with @data.characters.f1_daughter_16.name. But this can be hard to do.\n\nMany parents want to help their teens but find it difficult to talk about sensitive topics, like body changes and relationships.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4_id": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "@data.characters.f1_mother.name did well by finding solutions together with @data.characters.f1_daughter_16.name. But this can be hard to do.\n\nMany parents want to help their teens but find it difficult to talk about sensitive topics, like body changes and relationships."
-        },
-        "text_2": {
-          "eng": "Here are some questions from other parents to help you begin."
-        },
-        "quiz_1_question": {
-          "eng": "Who should start the conversation about body changes and intimate relationships? \nTry selecting each option for more tips!"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "The teen's friend"
-        },
-        "quiz_1_feedback_1_id": {
-          "eng": "explore_14_nested_1"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "The teen"
-        },
-        "quiz_1_feedback_2_id": {
-          "eng": "explore_14_nested_2"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "The parent"
-        },
-        "quiz_1_feedback_3_id": {
-          "eng": "explore_14_nested_3"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Another trusted adult"
-        },
-        "quiz_1_feedback_4_id": {
-          "eng": "explore_14_nested_4"
-        }
-      },
-      "text_2": "Here are some questions from other parents to help you begin.",
-      "quiz_1_question": "Who should start the conversation about body changes and intimate relationships? \nTry selecting each option for more tips!",
-      "quiz_1_option_1_text": "The teen's friend",
-      "quiz_1_feedback_1_id": "explore_14_nested_1",
-      "quiz_1_option_2_text": "The teen",
-      "quiz_1_feedback_2_id": "explore_14_nested_2",
-      "quiz_1_option_3_text": "The parent",
-      "quiz_1_feedback_3_id": "explore_14_nested_3",
-      "quiz_1_option_4_text": "Another trusted adult",
-      "quiz_1_feedback_4_id": "explore_14_nested_4"
-    },
-    {
-      "id": "explore_14_nested_1",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "This is not quite right. \n\nRemember, friends can sometimes mislead or have wrong information themselves.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "This is not quite right. \n\nRemember, friends can sometimes mislead or have wrong information themselves."
-        }
-      }
-    },
-    {
-      "id": "explore_14_nested_2",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "This is not quite right. \n\nYour teen might feel uncomfortable or scared to start that conversation with you.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "This is not quite right. \n\nYour teen might feel uncomfortable or scared to start that conversation with you."
-        }
-      }
-    },
-    {
-      "id": "explore_14_nested_3",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Yes, you may need to start the conversation - and it’s okay to feel shy. Be open and use the right words for any body parts you discuss (like breasts, penis, or vagina).\n\nYou can practise with a friend and ask a health worker or social worker for more information. The more you know, the better you can help your teen.\n\nAnd remember, it’s also okay not to know everything. You can say, “I’m not sure - let me find out and tell you later.”",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Yes, you may need to start the conversation - and it’s okay to feel shy. Be open and use the right words for any body parts you discuss (like breasts, penis, or vagina).\n\nYou can practise with a friend and ask a health worker or social worker for more information. The more you know, the better you can help your teen.\n\nAnd remember, it’s also okay not to know everything. You can say, “I’m not sure - let me find out and tell you later.”"
-        }
-      }
-    },
-    {
-      "id": "explore_14_nested_4",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Yes, you can ask another trusted adult to start this conversation with your teen if that would help your teen open up. \n\nTalk to that adult beforehand and help them be open and use the right words for any body parts they discuss (like breasts, penis, or vagina).\n\nThey can practise with you and ask a health worker or social worker for more information. The more they know, the better they can help your teen.",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Yes, you can ask another trusted adult to start this conversation with your teen if that would help your teen open up. \n\nTalk to that adult beforehand and help them be open and use the right words for any body parts they discuss (like breasts, penis, or vagina).\n\nThey can practise with you and ask a health worker or social worker for more information. The more they know, the better they can help your teen."
-        }
-      }
-    },
-    {
-      "id": "explore_15",
-      "category_id": "explore",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_2": "Other parents also wonder:",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5_id": {}
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "Other parents also wonder:"
-        },
-        "quiz_1_question": {
-          "eng": "When is the right time to start talking about body changes and intimate relationships?\nTry selecting each option for more tips!"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "When you find out they have a boyfriend or girlfriend"
-        },
-        "quiz_1_feedback_1_id": {
-          "eng": "explore_15_nested_1"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "When they turn 10"
-        },
-        "quiz_1_feedback_2_id": {
-          "eng": "explore_15_nested_2"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Before they turn 10"
-        },
-        "quiz_1_feedback_3_id": {
-          "eng": "explore_15_nested_3"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "When you get an opportunity"
-        },
-        "quiz_1_feedback_5_id": {
-          "eng": "explore_15_nested_4"
-        }
-      },
-      "quiz_1_question": "When is the right time to start talking about body changes and intimate relationships?\nTry selecting each option for more tips!",
-      "quiz_1_option_1_text": "When you find out they have a boyfriend or girlfriend",
-      "quiz_1_feedback_1_id": "explore_15_nested_1",
-      "quiz_1_option_2_text": "When they turn 10",
-      "quiz_1_feedback_2_id": "explore_15_nested_2",
-      "quiz_1_option_3_text": "Before they turn 10",
-      "quiz_1_feedback_3_id": "explore_15_nested_3",
-      "quiz_1_option_4_text": "When you get an opportunity",
-      "quiz_1_feedback_5_id": "explore_15_nested_4"
-    },
-    {
-      "id": "explore_15_nested_1",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_1.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That’s not quite right.\n\nTeens need to learn about body changes and relationships early, so they are prepared and can make good choices.\n\nIf you find out your teen is having sex, try to stay calm and share your worries gently. Getting angry can make it harder for your teen to talk to you.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That’s not quite right.\n\nTeens need to learn about body changes and relationships early, so they are prepared and can make good choices.\n\nIf you find out your teen is having sex, try to stay calm and share your worries gently. Getting angry can make it harder for your teen to talk to you."
-        }
-      }
-    },
-    {
-      "id": "explore_15_nested_2",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_2.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Age 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n\nThis will also help them cope better with sexual feelings safely.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Age 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n\nThis will also help them cope better with sexual feelings safely."
-        }
-      }
-    },
-    {
-      "id": "explore_15_nested_3",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That's right! \n\nAge 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n\nThis will also help them cope better with sexual feelings safely.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That's right! \n\nAge 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n\nThis will also help them cope better with sexual feelings safely."
-        }
-      }
-    },
-    {
-      "id": "explore_15_nested_4",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_4.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "It’s good to start talking about body changes and relationships early - by gently answering your child’s questions.\n\nYou don’t need to explain everything. Just give simple, honest answers that match their age and understanding.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "It’s good to start talking about body changes and relationships early - by gently answering your child’s questions.\n\nYou don’t need to explain everything. Just give simple, honest answers that match their age and understanding."
-        }
-      }
-    },
-    {
-      "id": "explore_16",
-      "category_id": "explore",
-      "quiz_1_feedback_6_image_asset": "explore_16_nested_5",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_2": "Many parents also ask:",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5_id": {},
-        "quiz_1_option_6_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "Many parents also ask:"
-        },
-        "quiz_1_question": {
-          "eng": "How can I best keep my teen safe?\nTry selecting each option for more tips!"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "I determine what my teen can and cannot do"
-        },
-        "quiz_1_feedback_1_id": {
-          "eng": "explore_16_nested_1"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "I keep information or bad influences away from them"
-        },
-        "quiz_1_feedback_2_id": {
-          "eng": "explore_26_nested_2"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "I build a healthy trusting relationship with my teen"
-        },
-        "quiz_1_feedback_3_id": {
-          "eng": "explore_16_nested_3"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "I discuss consequences and solutions with my teen"
-        },
-        "quiz_1_feedback_5_id": {
-          "eng": "explore_16_nested_4"
-        },
-        "quiz_1_option_6_text": {
-          "eng": "I emphasize that pressure is never okay"
-        }
-      },
-      "quiz_1_question": "How can I best keep my teen safe?\nTry selecting each option for more tips!",
-      "quiz_1_option_1_text": "I determine what my teen can and cannot do",
-      "quiz_1_feedback_1_id": "explore_16_nested_1",
-      "quiz_1_option_2_text": "I keep information or bad influences away from them",
-      "quiz_1_feedback_2_id": "explore_26_nested_2",
-      "quiz_1_option_3_text": "I build a healthy trusting relationship with my teen",
-      "quiz_1_feedback_3_id": "explore_16_nested_3",
-      "quiz_1_option_4_text": "I discuss consequences and solutions with my teen",
-      "quiz_1_feedback_5_id": "explore_16_nested_4",
-      "quiz_1_option_6_text": "I emphasize that pressure is never okay"
-    },
-    {
-      "id": "explore_16_nested_1",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "This may not work.\n\nWhen we try to control too much, teens may do the opposite of what we want.\n\nBut when we guide them and give them space to make choices, they often act more responsibly.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "This may not work.\n\nWhen we try to control too much, teens may do the opposite of what we want.\n\nBut when we guide them and give them space to make choices, they often act more responsibly."
-        }
-      }
-    },
-    {
-      "id": "explore_16_nested_2",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "This may not work. \n\nTeens get pressure and information from many places we can’t control.\n\nAs parents, we can guide and prepare them to know what is right or wrong—and help them feel confident to make good decisions.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "This may not work. \n\nTeens get pressure and information from many places we can’t control.\n\nAs parents, we can guide and prepare them to know what is right or wrong—and help them feel confident to make good decisions."
-        }
-      }
-    },
-    {
-      "id": "explore_16_nested_3",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That’s right.\n\nWhen your teen feels trusted, they are more likely to trust you and come to you for advice or help.\n\nPraise and thank them when they share. Avoid judging, so they feel safe to talk to you again.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That’s right.\n\nWhen your teen feels trusted, they are more likely to trust you and come to you for advice or help.\n\nPraise and thank them when they share. Avoid judging, so they feel safe to talk to you again."
-        }
-      }
-    },
-    {
-      "id": "explore_16_nested_4",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That’s right.\n\nGood decisions come from thinking through the consequences. Talk openly with your teen when there’s a problem. Listen to each other and find solutions together.\n\nEach challenge is an opportunity to teach your teen that actions have consequences—and you can handle them as a team.\n\nRemember to praise each other for working through tough situations together.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That’s right.\n\nGood decisions come from thinking through the consequences. Talk openly with your teen when there’s a problem. Listen to each other and find solutions together.\n\nEach challenge is an opportunity to teach your teen that actions have consequences—and you can handle them as a team.\n\nRemember to praise each other for working through tough situations together."
-        }
-      }
-    },
-    {
-      "id": "explore_16_nested_5",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That’s right.\n\nTo stay safe, your teen needs to know the difference between respectful behaviours and relationships, and unhealthy ones.\n\nRespectful relationships feel caring, safe, and fair. Unhealthy ones involve pressure, discomfort, or feeling unsafe.\n\nNo one should be forced to do something they’re not okay with.",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That’s right.\n\nTo stay safe, your teen needs to know the difference between respectful behaviours and relationships, and unhealthy ones.\n\nRespectful relationships feel caring, safe, and fair. Unhealthy ones involve pressure, discomfort, or feeling unsafe.\n\nNo one should be forced to do something they’re not okay with."
-        }
-      }
-    },
-    {
-      "id": "explore_17",
-      "category_id": "explore",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_2": "Another common question among parents:",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3_id": {}
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "Another common question among parents:"
-        },
-        "quiz_1_question": {
-          "eng": "How can I help prevent my teen from having sex too young?\nTry selecting each option for more tips!"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Keep any information about sex away from them"
-        },
-        "quiz_1_feedback_1_id": {
-          "eng": "explore_17_nested_1"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Forbid them to have a boyfriend or girlfriend"
-        },
-        "quiz_1_feedback_2_id": {
-          "eng": "explore_17_nested_2"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Have an open discussion on how and why they could wait to have sex"
-        },
-        "quiz_1_feedback_3_id": {
-          "eng": "explore_17_nested_3"
-        }
-      },
-      "quiz_1_question": "How can I help prevent my teen from having sex too young?\nTry selecting each option for more tips!",
-      "quiz_1_option_1_text": "Keep any information about sex away from them",
-      "quiz_1_feedback_1_id": "explore_17_nested_1",
-      "quiz_1_option_2_text": "Forbid them to have a boyfriend or girlfriend",
-      "quiz_1_feedback_2_id": "explore_17_nested_2",
-      "quiz_1_option_3_text": "Have an open discussion on how and why they could wait to have sex",
-      "quiz_1_feedback_3_id": "explore_17_nested_3"
-    },
-    {
-      "id": "explore_17_nested_1",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_age_t_1.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That’s not quite right.\n\nTeens hear many things about sex—from school, friends, or social media. Some of it is wrong.\n\nKnowing about sex doesn’t mean they are having sex. Good information helps them stay safe and understand why waiting to have sex can be a good choice.\n\nWithout this knowledge, they may face problems, like not knowing how pregnancy happens or the risks of sex.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That’s not quite right.\n\nTeens hear many things about sex—from school, friends, or social media. Some of it is wrong.\n\nKnowing about sex doesn’t mean they are having sex. Good information helps them stay safe and understand why waiting to have sex can be a good choice.\n\nWithout this knowledge, they may face problems, like not knowing how pregnancy happens or the risks of sex."
-        }
-      }
-    },
-    {
-      "id": "explore_17_nested_2",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_age_t_2.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That’s not quite right.\n\nYour teen might have a boyfriend or girlfriend and not tell you.\n\nIf you make them hide it, they may not come to you with questions or problems—and this can lead to risky situations.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That’s not quite right.\n\nYour teen might have a boyfriend or girlfriend and not tell you.\n\nIf you make them hide it, they may not come to you with questions or problems—and this can lead to risky situations."
-        }
-      }
-    },
-    {
-      "id": "explore_17_nested_3",
-      "category_id": "explore",
-      "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_age_t_3.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "That’s right.\n\nTeens are figuring out who they are. They look to friends and media for answers, and may feel pressure to do things they’re not ready for.\n\nTalk calmly with your teen about waiting to have sex until they feel ready, are in a safe relationship, and understand the consequences. Focus on guiding them calmly to make healthy choices.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That’s right.\n\nTeens are figuring out who they are. They look to friends and media for answers, and may feel pressure to do things they’re not ready for.\n\nTalk calmly with your teen about waiting to have sex until they feel ready, are in a safe relationship, and understand the consequences. Focus on guiding them calmly to make healthy choices."
-        }
-      }
-    },
-    {
-      "id": "practise",
-      "category_id": "practise",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Now let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Now let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week."
-        },
-        "text_2": {
-          "eng": "**Here are some examples of rules other families made:**\n- ⚽ Teen can play outside after finishing homework\n- 👪🏽 All family members eat dinner together\n- 🍽️ Teen 1 does dishes on Sunday and Monday, Teen 2 on Tuesday and Wednesday\n- 💜 We speak to each other politely and nicely\n- 🎶 When listening to music you need to use earphones"
-        }
-      },
-      "text_2": "**Here are some examples of rules other families made:**\n- ⚽ Teen can play outside after finishing homework\n- 👪🏽 All family members eat dinner together\n- 🍽️ Teen 1 does dishes on Sunday and Monday, Teen 2 on Tuesday and Wednesday\n- 💜 We speak to each other politely and nicely\n- 🎶 When listening to music you need to use earphones"
+      "quiz_2_option_3_text": "How do you think @data.characters.f1_son_18.name knew his parents appreciated him?",
+      "quiz_2_option_4_text": "Exactly - a positive response makes all the difference!",
+      "quiz_2_option_5_text": "Exactly - a positive response makes all the difference!"
     },
     {
       "id": "tips_1",
@@ -1261,14 +397,7 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {},
-        "section_3_extra_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_4_button_text": {
-          "tz_sw": true
-        },
-        "section_4_extra_text": {}
+        "section_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1297,21 +426,6 @@
         },
         "section_3_text": {
           "eng": "Praise your teen for planning a rule with you, and praise them for keeping it. \n\nPositive feedback helps teens make good choices, including in relationships."
-        },
-        "section_3_extra_text": {
-          "eng": "images/icons/heart_filled_blue.png"
-        },
-        "section_4_title": {
-          "eng": "RELATIONSHIP RULES"
-        },
-        "section_4_text": {
-          "eng": "Teens learn about sex and relationships from many places, and some information may be incorrect or not right for their age.\n\nTalk calmly about body changes, respect, and consent.\n\nListen without judging, and guide your teen to make safe choices in relationships and online."
-        },
-        "section_4_button_text": {
-          "eng": "More tips"
-        },
-        "section_4_extra_text": {
-          "eng": "You do not need to have all the answers. You can ask other adults or health workers for help and information."
         }
       },
       "section_1_title": "TEAM RULES",
@@ -1321,12 +435,143 @@
       "section_2_title": "REAL RULES",
       "section_2_text": "Plan rules WITH your teenager. Start with one new rule first – you can add another one later. Discuss the reasons for the rule and listen to their views.",
       "section_3_title": "PRAISE RULES!",
-      "section_3_text": "Praise your teen for planning a rule with you, and praise them for keeping it. \n\nPositive feedback helps teens make good choices, including in relationships.",
-      "section_3_extra_text": "images/icons/heart_filled_blue.png",
-      "section_4_title": "RELATIONSHIP RULES",
-      "section_4_text": "Teens learn about sex and relationships from many places, and some information may be incorrect or not right for their age.\n\nTalk calmly about body changes, respect, and consent.\n\nListen without judging, and guide your teen to make safe choices in relationships and online.",
-      "section_4_button_text": "More tips",
-      "section_4_extra_text": "You do not need to have all the answers. You can ask other adults or health workers for help and information."
+      "section_3_text": "Praise your teen for planning a rule with you, and praise them for keeping it. \n\nPositive feedback helps teens make good choices, including in relationships."
+    },
+    {
+      "id": "explore_9",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/rules/rules2_t_1.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_13",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "text_1_facilitator": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f1_daughter_13.name, have you done your homework?"
+        },
+        "character_2_text": {
+          "eng": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video."
+        }
+      },
+      "character_1_text": "@data.characters.f1_daughter_13.name, have you done your homework?",
+      "character_2_text": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video."
+    },
+    {
+      "id": "explore_10",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/rules/rules2_t_2.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_13",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "character_1_text": "You are a really great dancer! Tell me about why you like Tiktok.",
+      "_translations": {
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "You are a really great dancer! Tell me about why you like Tiktok."
+        },
+        "character_2_text": {
+          "eng": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers."
+        }
+      },
+      "character_2_text": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers."
+    },
+    {
+      "id": "explore_11",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/rules/rules2_t_3.svg",
+      "character_1_id": "f1_mother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "character_1_text": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
+      "_translations": {
+        "character_1_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
+        }
+      }
+    },
+    {
+      "id": "explore_12",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/rules/rules2_t_4.svg",
+      "character_1_id": "f1_mother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "character_1_text": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!",
+      "_translations": {
+        "character_1_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!"
+        }
+      }
+    },
+    {
+      "id": "explore_13",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/rules/rules2_t_5.svg",
+      "character_1_id": "f1_mother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "character_1_text": "I’m proud of you, @data.characters.f1_daughter_13.name!",
+      "_translations": {
+        "character_1_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I’m proud of you, @data.characters.f1_daughter_13.name!"
+        }
+      }
+    },
+    {
+      "id": "practise",
+      "category_id": "practise",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "text_1_facilitator": "It was wonderful to see @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_13.name, make a rule together. \n\nNow let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It was wonderful to see @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_13.name, make a rule together. \n\nNow let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week."
+        },
+        "text_2": {
+          "eng": "**Here are some examples of rules other families made:**\n- ⚽ Teen can play outside after finishing homework\n- 👪🏽 All family members eat dinner together\n- 🍽️ Teen 1 does dishes on Sunday and Monday, Teen 2 on Tuesday and Wednesday\n- 💜 We speak to each other politely and nicely\n- 🎶 When listening to music you need to use earphones"
+        }
+      },
+      "text_2": "**Here are some examples of rules other families made:**\n- ⚽ Teen can play outside after finishing homework\n- 👪🏽 All family members eat dinner together\n- 🍽️ Teen 1 does dishes on Sunday and Monday, Teen 2 on Tuesday and Wednesday\n- 💜 We speak to each other politely and nicely\n- 🎶 When listening to music you need to use earphones"
     },
     {
       "id": "home_activity_1",
@@ -1366,7 +611,7 @@
           "eng": "This week's home activity is to set one rule together with your teen.\n\nRemember to praise your teen afterwards!"
         },
         "text_2": {
-          "eng": "**Remember to use your skills for rule setting:**\n\n⚽ Team rules: When making the rule, work together like a team. \n🔎 Real rules: Agree on real rules that are clear and fair. For example, you could agree that everyone says where they are going before leaving the house.\n🎉 Praise rules: Praise when rules are followed!\n💛 Relationship rules: Make rules to guide safe choices in relationships and online."
+          "eng": "**Remember to use your skills for rule setting:**\n\n⚽ Team rules: When making the rule, work together like a team. \n🔎 Real rules: Agree on real rules that are clear and fair. For example, you could agree that everyone says where they are going before leaving the house.\n🎉 Praise rules: Praise when rules are followed!"
         },
         "quiz_1_question": {
           "eng": "Can you set one rule together with your teen this week?"
@@ -1390,7 +635,7 @@
           "eng": "That's okay. It can take time to agree on new rules. You could start by asking your teen what they think is important - small talks can lead to big changes."
         }
       },
-      "text_2": "**Remember to use your skills for rule setting:**\n\n⚽ Team rules: When making the rule, work together like a team. \n🔎 Real rules: Agree on real rules that are clear and fair. For example, you could agree that everyone says where they are going before leaving the house.\n🎉 Praise rules: Praise when rules are followed!\n💛 Relationship rules: Make rules to guide safe choices in relationships and online.",
+      "text_2": "**Remember to use your skills for rule setting:**\n\n⚽ Team rules: When making the rule, work together like a team. \n🔎 Real rules: Agree on real rules that are clear and fair. For example, you could agree that everyone says where they are going before leaving the house.\n🎉 Praise rules: Praise when rules are followed!",
       "quiz_1_question": "Can you set one rule together with your teen this week?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "Fantastic! Setting a rule together helps your teen feel involved and respected. It is a big step toward building trust and cooperation.",
@@ -1411,9 +656,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {
-          "tz_sw": true
-        },
+        "media_title": {},
         "media_transcript": {}
       },
       "_translatedFields": {
@@ -1421,128 +664,14 @@
           "eng": "Clear, simple rules made together with your teen are not about control - they are about keeping them safe and building responsibility. When teens understand the reasons behind the rules, they are more likely to follow them."
         },
         "media_title": {
-          "eng": "Can teens value rules too? Hear @data.characters.media_male_7.name's story"
+          "eng": "Can teens value rules too? Hear @data.characters.media_daughter_5.name's story"
         },
         "media_transcript": {
-          "eng": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a “real man,” and I was scared to tell my parents.\n\nWhen we did @global.app_name, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together."
+          "eng": "I never liked rules and I used to forget rules a lot.\n\nOne day, I was playing with my friends. The rule at home was that we should be in the yard by 6pm, but I forgot again. By 6:30 it was getting dark and I was still outside and playing with my phone. Then a boy came, grabbed my phone and ran away.\n\nI understood that rules can really help to keep us safe, so I changed my behaviour and I was in the yard by 5pm from then."
         }
       },
-      "media_title": "Can teens value rules too? Hear @data.characters.media_male_7.name's story",
-      "media_transcript": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a “real man,” and I was scared to tell my parents.\n\nWhen we did @global.app_name, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together."
-    },
-    {
-      "id": "explore_18",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules2_t_1.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_13",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!"
-        },
-        "character_1_text": {
-          "eng": "@data.characters.f1_daughter_13.name, have you done your homework?"
-        },
-        "character_2_text": {
-          "eng": "Just a minute @data.characters.f1_mother_role.name, I’m finishing this Tiktok video."
-        }
-      },
-      "character_1_text": "@data.characters.f1_daughter_13.name, have you done your homework?",
-      "character_2_text": "Just a minute @data.characters.f1_mother_role.name, I’m finishing this Tiktok video."
-    },
-    {
-      "id": "explore_19",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules2_t_2.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_13",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "You are a really great dancer! Tell me about why you like Tiktok.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {}
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "You are a really great dancer! Tell me about why you like Tiktok."
-        },
-        "character_2_text": {
-          "eng": "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers."
-        }
-      },
-      "character_2_text": "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers."
-    },
-    {
-      "id": "explore_20",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules2_t_3.svg",
-      "character_1_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
-        }
-      }
-    },
-    {
-      "id": "explore_21",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules2_t_4.svg",
-      "character_1_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!"
-        }
-      }
-    },
-    {
-      "id": "explore_22",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules2_t_5.svg",
-      "character_1_id": "f1_mother",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "I’m proud of you, @data.characters.f1_daughter_13.name!",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I’m proud of you, @data.characters.f1_daughter_13.name!"
-        }
-      }
+      "media_title": "Can teens value rules too? Hear @data.characters.media_daughter_5.name's story",
+      "media_transcript": "I never liked rules and I used to forget rules a lot.\n\nOne day, I was playing with my friends. The rule at home was that we should be in the yard by 6pm, but I forgot again. By 6:30 it was getting dark and I was still outside and playing with my phone. Then a boy came, grabbed my phone and ran away.\n\nI understood that rules can really help to keep us safe, so I changed my behaviour and I was in the yard by 5pm from then."
     }
   ],
   "_source": {

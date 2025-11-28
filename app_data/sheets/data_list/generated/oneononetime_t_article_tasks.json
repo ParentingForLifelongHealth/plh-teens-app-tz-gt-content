@@ -208,7 +208,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Thank you for helping me, @data.characters.f3_mother.name. It’s nice to do this together. I was feeling very nervous about my test tomorrow."
+          "eng": "Thank you for helping me, @data.characters.f3_mother_role.name. It’s nice to do this together. I was feeling very nervous about my test tomorrow."
         },
         "character_2_text": {
           "eng": "You have studied so hard, @data.characters.f3_daughter_12.name. You always try your best, and we are proud of you."
@@ -218,7 +218,7 @@
       "nested": false,
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
-      "character_1_text": "Thank you for helping me, @data.characters.f3_mother.name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
+      "character_1_text": "Thank you for helping me, @data.characters.f3_mother_role.name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -231,7 +231,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Thank you, @data.characters.f3_mother.name! Oh look, the wire is loose. The baby chicks can get out."
+          "eng": "Thank you, @data.characters.f3_mother_role.name! Oh look, the wire is loose. The baby chicks can get out."
         },
         "character_2_text": {
           "eng": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school."
@@ -296,7 +296,7 @@
       "quiz_1_option_3_text": "Focused fully on @data.characters.f3_daughter_12.name (no distractions)",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
-      "character_1_text": "Thank you, @data.characters.f3_mother.name! Oh look, the wire is loose. The baby chicks can get out.",
+      "character_1_text": "Thank you, @data.characters.f3_mother_role.name! Oh look, the wire is loose. The baby chicks can get out.",
       "character_2_text": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school.",
       "quiz_1_option_4_text": "Let @data.characters.f3_daughter_12.name know they had 5 minutes together",
       "quiz_1_feedback_4": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",

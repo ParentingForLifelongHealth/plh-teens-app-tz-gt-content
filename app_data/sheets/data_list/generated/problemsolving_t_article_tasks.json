@@ -470,13 +470,9 @@
         }
       },
       "section_1_icon_asset": "images/icons/brain_blue.png",
-      "section_1_image_asset": "/images/teen_modules/solve/solve_tool_t_1.svg",
       "section_2_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_2_image_asset": "/images/teen_modules/solve/solve_tool_t_2.svg",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_image_asset": "/images/teen_modules/solve/solve_tool_t_3.svg",
       "section_4_icon_asset": "images/icons/trophy_blue.png",
-      "section_4_image_asset": "/images/teen_modules/solve/solve_tool_t_4.svg",
       "section_1_title": "KNOW IT",
       "section_1_text": "Identify the problem.",
       "section_2_title": "SOLVE IT",

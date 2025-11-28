@@ -295,10 +295,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Just like we feel better when praised, teens do too. Let’s look at a simple example with @data.characters.f1_father.name and his son, @data.characters.f1_son_14.name."
+          "eng": "Just like we feel better when praised, teens do too. Let’s look at a simple example with @data.characters.f1_father.name and his son, @data.characters.f1_son_18.name."
         },
         "character_1_text": {
-          "eng": "Thank you for doing the dishes, @data.characters.f1_son_14.name. It's a big help!"
+          "eng": "Thank you for doing the dishes, @data.characters.f1_son_18.name. It's a big help!"
         },
         "character_2_text": {
           "eng": "@data.characters.f1_father_role.name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother_role.name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
@@ -306,22 +306,18 @@
       },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Just like we feel better when praised, teens do too. Let’s look at a simple example with @data.characters.f1_father.name and his son, @data.characters.f1_son_14.name.",
+      "text_1_facilitator": "Just like we feel better when praised, teens do too. Let’s look at a simple example with @data.characters.f1_father.name and his son, @data.characters.f1_son_18.name.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
       "character_1_id": "f1_father",
-      "character_2_id": "f1_son_14",
-      "character_1_text": "Thank you for doing the dishes, @data.characters.f1_son_14.name. It's a big help!",
+      "character_2_id": "f1_son_18",
+      "character_1_text": "Thank you for doing the dishes, @data.characters.f1_son_18.name. It's a big help!",
       "character_2_text": "@data.characters.f1_father_role.name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother_role.name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes.",
       "completed": false
     },
@@ -340,7 +336,7 @@
       "nested": false,
       "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
       "character_1_id": "f1_father",
-      "character_2_id": "f1_son_14",
+      "character_2_id": "f1_son_18",
       "character_1_text": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too.",
       "_translations": {
         "character_1_text": {},
@@ -360,22 +356,22 @@
           "eng": "Thanks for helping me @data.characters.f1_father_role.name."
         },
         "quiz_1_question": {
-          "eng": "Why did @data.characters.f1_father.name’s praise help @data.characters.f1_son_14.name?"
+          "eng": "Why did @data.characters.f1_father.name’s praise help @data.characters.f1_son_18.name?"
         },
         "quiz_1_option_1_text": {
-          "eng": "It made @data.characters.f1_son_14.name feel seen and appreciated"
+          "eng": "It made @data.characters.f1_son_18.name feel seen and appreciated"
         },
         "quiz_1_feedback_1": {
           "eng": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family."
         },
         "quiz_1_option_2_text": {
-          "eng": "It helped @data.characters.f1_son_14.name feel respected and more willing to help again"
+          "eng": "It helped @data.characters.f1_son_18.name feel respected and more willing to help again"
         },
         "quiz_1_feedback_2": {
           "eng": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family."
         },
         "quiz_1_option_3_text": {
-          "eng": "It made @data.characters.f1_son_14.name feel more connected to his father"
+          "eng": "It made @data.characters.f1_son_18.name feel more connected to his father"
         },
         "quiz_1_feedback_3": {
           "eng": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family."
@@ -397,13 +393,13 @@
       },
       "quiz_1_feedback_2": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
       "quiz_1_feedback_3": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
-      "quiz_1_question": "Why did @data.characters.f1_father.name’s praise help @data.characters.f1_son_14.name?",
-      "quiz_1_option_1_text": "It made @data.characters.f1_son_14.name feel seen and appreciated",
-      "quiz_1_option_2_text": "It helped @data.characters.f1_son_14.name feel respected and more willing to help again",
-      "quiz_1_option_3_text": "It made @data.characters.f1_son_14.name feel more connected to his father",
+      "quiz_1_question": "Why did @data.characters.f1_father.name’s praise help @data.characters.f1_son_18.name?",
+      "quiz_1_option_1_text": "It made @data.characters.f1_son_18.name feel seen and appreciated",
+      "quiz_1_option_2_text": "It helped @data.characters.f1_son_18.name feel respected and more willing to help again",
+      "quiz_1_option_3_text": "It made @data.characters.f1_son_18.name feel more connected to his father",
       "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
       "character_1_id": "f1_father",
-      "character_2_id": "f1_son_14",
+      "character_2_id": "f1_son_18",
       "character_1_text": "I know it's hard to understand, but it's important that we all work together. Doing this kind of work will help you become an independent and responsible man when you have your own family. \n\nI am proud of you for doing your part. Here, let me help you dry the dishes.",
       "character_2_text": "Thanks for helping me @data.characters.f1_father_role.name.",
       "completed": false

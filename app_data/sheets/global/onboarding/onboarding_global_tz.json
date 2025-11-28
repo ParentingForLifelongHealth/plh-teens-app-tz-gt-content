@@ -84,7 +84,9 @@
       "name": "facilitator_message_1",
       "value": "**Nice to meet you. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -252,7 +254,9 @@
       "name": "facilitator_selection_intro",
       "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting journey.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -260,7 +264,9 @@
       "name": "facilitator_female_intro",
       "value": "Hi, I’m @data.characters.facilitator_female.name! I'm a social worker and grandmother of three. I help parents raise strong, confident teens with care and encouragement.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -268,7 +274,9 @@
       "name": "facilitator_male_intro",
       "value": "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and grandfather of two. I help parents guide their teens with warmth, structure, and respect.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {

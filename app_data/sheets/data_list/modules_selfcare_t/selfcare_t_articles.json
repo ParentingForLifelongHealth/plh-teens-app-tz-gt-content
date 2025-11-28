@@ -75,7 +75,6 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "Make something",
       "quiz_1_option_3_image_asset": "Friend",
       "quiz_1_option_4_image_asset": "Neighbor",
       "quiz_1_option_5_image_asset": "Someone else",
@@ -126,7 +125,7 @@
           "eng": "Great!"
         },
         "quiz_1_option_2_text": {
-          "eng": "Partner"
+          "eng": "Another caregiver"
         },
         "quiz_1_feedback_2": {
           "eng": "Fantastic!"
@@ -135,7 +134,7 @@
           "eng": "Wonderful!"
         },
         "quiz_1_option_5_text": {
-          "eng": "Great!"
+          "eng": "Excellent!"
         },
         "quiz_1_option_6_text": {
           "eng": "Great!"
@@ -156,10 +155,10 @@
       "quiz_1_question": "Sometimes getting a small break means someone else helps you.\nWho can you ask to help you get a short break when you need it?",
       "quiz_1_option_1_text": "Family member",
       "quiz_1_feedback_1": "Great!",
-      "quiz_1_option_2_text": "Partner",
+      "quiz_1_option_2_text": "Another caregiver",
       "quiz_1_feedback_2": "Fantastic!",
       "quiz_1_option_4_text": "Wonderful!",
-      "quiz_1_option_5_text": "Great!",
+      "quiz_1_option_5_text": "Excellent!",
       "quiz_1_option_6_text": "Great!",
       "quiz_2_option_2_text": "How can caregivers at home support each other to take a break?",
       "quiz_2_option_3_text": "Exactly! When caregivers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",

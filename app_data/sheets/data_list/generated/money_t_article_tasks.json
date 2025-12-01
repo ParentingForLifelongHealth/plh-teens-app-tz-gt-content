@@ -474,7 +474,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n\nThink of the advantages and disadvantages of each savings option."
+          "eng": "Saving is important for one more reason - emergencies!\n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n\nThink of the advantages and disadvantages of each savings option."
         },
         "character_1_text": {
           "eng": "One night there was a horrible storm that broke my roof. Everything was flooded. I suddenly had to find money to fix the roof. I just felt defeated."
@@ -526,9 +526,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -541,7 +539,7 @@
       "quiz_1_option_1_text": "Save money at home",
       "quiz_1_option_2_text": "Buy things you can sell for profit",
       "quiz_1_option_3_text": "Save money at a bank",
-      "text_1_facilitator": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n\nThink of the advantages and disadvantages of each savings option.",
+      "text_1_facilitator": "Saving is important for one more reason - emergencies!\n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n\nThink of the advantages and disadvantages of each savings option.",
       "image_asset": "/images/teen_modules/money/money4_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_1_text": "One night there was a horrible storm that broke my roof. Everything was flooded. I suddenly had to find money to fix the roof. I just felt defeated.",

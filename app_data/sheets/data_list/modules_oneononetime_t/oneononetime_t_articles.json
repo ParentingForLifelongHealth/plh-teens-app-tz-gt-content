@@ -281,6 +281,7 @@
         "section_2_text": {
           "tz_sw": true
         },
+        "section_2_button_text": {},
         "section_3_title": {
           "tz_sw": true
         },
@@ -310,6 +311,9 @@
         "section_2_text": {
           "eng": "Let your teen choose.\n\nTell your teen that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first, but they will come to enjoy this time with you!"
         },
+        "section_2_button_text": {
+          "eng": "One-on-one time helps you understand your teen’s world better. Ask open questions like “What was the best part of your day?” or “Can you show me something you enjoy?”. This helps them feel seen and supported."
+        },
         "section_3_title": {
           "eng": "STAY"
         },
@@ -323,6 +327,7 @@
       "section_1_extra_text": "Many short moments of connection each day or week help build trust and give you more chances to guide your teen than long, serious conversations.",
       "section_2_title": "PLAY",
       "section_2_text": "Let your teen choose.\n\nTell your teen that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first, but they will come to enjoy this time with you!",
+      "section_2_button_text": "One-on-one time helps you understand your teen’s world better. Ask open questions like “What was the best part of your day?” or “Can you show me something you enjoy?”. This helps them feel seen and supported.",
       "section_3_title": "STAY",
       "section_3_text": "Focus on your teen.\n\nSwitch off the TV and put phones aside. Look at your teen. Nod or say “I see” to show that you are really paying attention. Accept what they say without judging them."
     },

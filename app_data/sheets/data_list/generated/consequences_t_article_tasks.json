@@ -400,252 +400,6 @@
       "completed": false
     },
     {
-      "id": "explore_6",
-      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Teens often break rules — it’s a normal part of growing up.\n\nWe can guide them without anger or violence. Calm consequences help them learn from their actions and take responsibility."
-        },
-        "quiz_1_question": {
-          "eng": "Imagine you are the parent and @data.characters.f1_son_18.name came home late. \nWhat consequence would help here?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Limit phone time next day"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Do additional chores during the week"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Cannot see friends on the weekend"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "quiz_1_feedback_1": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
-      "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "quiz_1_feedback_2": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
-      "quiz_1_feedback_3": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
-      "quiz_1_question": "Imagine you are the parent and @data.characters.f1_son_18.name came home late. \nWhat consequence would help here?",
-      "quiz_1_option_1_text": "Limit phone time next day",
-      "quiz_1_option_2_text": "Do additional chores during the week",
-      "quiz_1_option_3_text": "Cannot see friends on the weekend",
-      "text_1_facilitator": "Teens often break rules — it’s a normal part of growing up.\n\nWe can guide them without anger or violence. Calm consequences help them learn from their actions and take responsibility.",
-      "image_asset": "/images/teen_modules/consequence/consequence2_t_1.svg",
-      "completed": false
-    },
-    {
-      "id": "explore_7",
-      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "_translatedFields": {
-        "quiz_1_question": {
-          "eng": "Now imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "No gadget use the next day"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Write a letter of apology"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Cannot see friends the next day"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Cannot play with phone after dinner (or next hour)"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Take 5 minutes' pause in a separate part of the room"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "quiz_1_feedback_1": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
-      "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
-      },
-      "quiz_1_feedback_2": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
-      "quiz_1_feedback_3": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
-      "quiz_1_question": "Now imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?",
-      "quiz_1_option_1_text": "No gadget use the next day",
-      "quiz_1_option_2_text": "Write a letter of apology",
-      "quiz_1_option_3_text": "Cannot see friends the next day",
-      "image_asset": "/images/teen_modules/consequence/consequence2_t_2.svg",
-      "quiz_1_option_4_text": "Cannot play with phone after dinner (or next hour)",
-      "quiz_1_feedback_4": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
-      "quiz_1_option_5_text": "Take 5 minutes' pause in a separate part of the room",
-      "quiz_1_feedback_5": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
-      "completed": false
-    },
-    {
-      "id": "explore_8",
-      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
-      "_translatedFields": {
-        "quiz_1_question": {
-          "eng": "Now imagine @data.characters.f2_son_15.name is helping with a special chore. \nWhat consequence would help here?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Extra time with friends on weekend (1 hr)"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Cooking teen's favourite meal"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Extra time with phone after dinner (30 min)"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Watching teen's TV show together"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Extra one-on-one time on Sunday (30 min)"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "quiz_1_feedback_1": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
-      "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
-      },
-      "quiz_1_feedback_2": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
-      "quiz_1_feedback_3": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
-      "quiz_1_question": "Now imagine @data.characters.f2_son_15.name is helping with a special chore. \nWhat consequence would help here?",
-      "quiz_1_option_1_text": "Extra time with friends on weekend (1 hr)",
-      "quiz_1_option_2_text": "Cooking teen's favourite meal",
-      "quiz_1_option_3_text": "Extra time with phone after dinner (30 min)",
-      "image_asset": "/images/teen_modules/consequence/consequence2_t_3.svg",
-      "quiz_1_option_4_text": "Watching teen's TV show together",
-      "quiz_1_feedback_4": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
-      "quiz_1_option_5_text": "Extra one-on-one time on Sunday (30 min)",
-      "quiz_1_feedback_5": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
-      "completed": false
-    },
-    {
       "id": "tips_1",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
@@ -737,7 +491,7 @@
       "completed": false
     },
     {
-      "id": "explore_9",
+      "id": "explore_6",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -772,7 +526,7 @@
       "completed": false
     },
     {
-      "id": "explore_10",
+      "id": "explore_7",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
@@ -800,7 +554,7 @@
       "completed": false
     },
     {
-      "id": "explore_11",
+      "id": "explore_8",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
@@ -828,7 +582,7 @@
       "completed": false
     },
     {
-      "id": "explore_12",
+      "id": "explore_9",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
@@ -856,7 +610,7 @@
       "completed": false
     },
     {
-      "id": "explore_13",
+      "id": "explore_10",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_2": {
@@ -891,7 +645,7 @@
       "completed": false
     },
     {
-      "id": "explore_14",
+      "id": "explore_11",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
@@ -919,7 +673,7 @@
       "completed": false
     },
     {
-      "id": "explore_15",
+      "id": "explore_12",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
@@ -947,7 +701,7 @@
       "completed": false
     },
     {
-      "id": "explore_16",
+      "id": "explore_13",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
@@ -967,7 +721,7 @@
       "completed": false
     },
     {
-      "id": "explore_17",
+      "id": "explore_14",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
@@ -1032,7 +786,7 @@
       "completed": false
     },
     {
-      "id": "explore_18",
+      "id": "explore_15",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1131,10 +885,75 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Now, let’s practise choosing calm consequences for common situations."
+          "eng": "Teens often break rules — it’s a normal part of growing up.\n\nWe can guide them without anger or violence. Calm consequences help them learn from their actions and take responsibility."
         },
         "quiz_1_question": {
-          "eng": "Imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?"
+          "eng": "Imagine you are the parent and @data.characters.f1_son_18.name came home late. \nWhat consequence would help here?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Limit phone time next day"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Do additional chores during the week"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Cannot see friends on the weekend"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "quiz_1_feedback_1": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
+      "_translations": {
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_2": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
+      "quiz_1_feedback_3": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
+      "quiz_1_question": "Imagine you are the parent and @data.characters.f1_son_18.name came home late. \nWhat consequence would help here?",
+      "quiz_1_option_1_text": "Limit phone time next day",
+      "quiz_1_option_2_text": "Do additional chores during the week",
+      "quiz_1_option_3_text": "Cannot see friends on the weekend",
+      "text_1_facilitator": "Teens often break rules — it’s a normal part of growing up.\n\nWe can guide them without anger or violence. Calm consequences help them learn from their actions and take responsibility.",
+      "image_asset": "/images/teen_modules/consequence/consequence2_t_1.svg",
+      "completed": false
+    },
+    {
+      "id": "practise_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Now imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?"
         },
         "quiz_1_option_1_text": {
           "eng": "No gadget use the next day"
@@ -1180,7 +999,9 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -1190,7 +1011,6 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
@@ -1206,11 +1026,10 @@
       },
       "quiz_1_feedback_2": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
       "quiz_1_feedback_3": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
-      "quiz_1_question": "Imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?",
+      "quiz_1_question": "Now imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?",
       "quiz_1_option_1_text": "No gadget use the next day",
       "quiz_1_option_2_text": "Write a letter of apology",
       "quiz_1_option_3_text": "Cannot see friends the next day",
-      "text_1_facilitator": "Now, let’s practise choosing calm consequences for common situations.",
       "image_asset": "/images/teen_modules/consequence/consequence2_t_2.svg",
       "quiz_1_option_4_text": "Cannot play with phone after dinner (or next hour)",
       "quiz_1_feedback_4": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
@@ -1219,7 +1038,7 @@
       "completed": false
     },
     {
-      "id": "practise_2",
+      "id": "practise_3",
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "quiz_1_question": {

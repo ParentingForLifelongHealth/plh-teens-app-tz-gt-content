@@ -590,6 +590,39 @@
         },
         "character_2_text": {
           "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -601,10 +634,54 @@
         },
         "character_2_text": {
           "eng": "Your friends left, so this is the only way you can get home, you idiot!"
+        },
+        "quiz_1_question": {
+          "eng": "What warning signs do you see here?\n\nThe man:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Does not listen to @data.characters.f2_daughter_19.name"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Yells and calls @data.characters.f2_daughter_19.name names"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "May touch @data.characters.f2_daughter_19.name without permission"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Pressures @data.characters.f2_daughter_19.name"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Makes @data.characters.f2_daughter_19.name feel unsafe"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
         }
       },
       "character_1_text": "No, I don't want to...",
-      "character_2_text": "Your friends left, so this is the only way you can get home, you idiot!"
+      "character_2_text": "Your friends left, so this is the only way you can get home, you idiot!",
+      "quiz_1_question": "What warning signs do you see here?\n\nThe man:",
+      "quiz_1_option_1_text": "Does not listen to @data.characters.f2_daughter_19.name",
+      "quiz_1_feedback_1": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+      "quiz_1_option_2_text": "Yells and calls @data.characters.f2_daughter_19.name names",
+      "quiz_1_feedback_2": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+      "quiz_1_option_3_text": "May touch @data.characters.f2_daughter_19.name without permission",
+      "quiz_1_feedback_3": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+      "quiz_1_option_4_text": "Pressures @data.characters.f2_daughter_19.name",
+      "quiz_1_feedback_4": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+      "quiz_1_option_5_text": "Makes @data.characters.f2_daughter_19.name feel unsafe",
+      "quiz_1_feedback_5": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
     },
     {
       "id": "practise_1",
@@ -724,7 +801,7 @@
       "text_2": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper.\n- Remember your phone and other internet devices. There is a lot of support available online!"
     },
     {
-      "id": "explore_8",
+      "id": "explore_7",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress3_t_1.svg",
       "character_1_id": "f1_son_18",
@@ -761,7 +838,7 @@
       "character_2_text": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
     },
     {
-      "id": "explore_9",
+      "id": "explore_8",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress3_t_2.svg",
       "character_1_id": "f1_son_18",
@@ -780,7 +857,7 @@
       }
     },
     {
-      "id": "explore_10",
+      "id": "explore_9",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress3_t_3.svg",
       "character_1_id": "f1_daughter_16",
@@ -799,7 +876,7 @@
       }
     },
     {
-      "id": "explore_11",
+      "id": "explore_10",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress3_t_4.svg",
       "character_1_id": "f1_father",
@@ -825,7 +902,7 @@
       "character_1_text": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
     },
     {
-      "id": "explore_12",
+      "id": "explore_11",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress3_t_5.svg",
       "character_1_id": "f1_daughter_16",
@@ -852,7 +929,7 @@
       "character_2_text": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
     },
     {
-      "id": "explore_13",
+      "id": "explore_12",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress3_t_6.svg",
       "character_1_id": "f1_son_18",

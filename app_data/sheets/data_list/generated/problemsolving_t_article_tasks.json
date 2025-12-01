@@ -160,7 +160,9 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Can problem solving keep your teens safe? It did for @data.characters.media_female_4.name - tap play to hear her story",
       "media_transcript": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her did I realise she was being bullied at school. We sat down and used the steps of problem solving. We identified the problem and figured out solutions together: “What can I do as a parent so you can feel safe and attend school?”\n\nWe agreed I would talk to her teacher to find a way forward. We found the solutions together, and now we are much closer.",
@@ -187,10 +189,18 @@
       "nested": false,
       "text_1_facilitator": "Problem-solving together is an important skill for every family. Let’s see how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name handle a problem calmly and find a plan together.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/solve/solve2_t_1.svg",
       "character_1_id": "f2_grandmother",
@@ -221,7 +231,9 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "Just give me a moment. I am tired and now worried about having to repair this uniform.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         },
@@ -255,9 +267,15 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "Now tell me, what happened?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "This boy in class pulled me off my desk and tore my sleeve. He is kicking me every day, and takes my pens and exercise books.",
       "character_3_id": "f2_grandmother",
@@ -285,9 +303,15 @@
       "character_2_id": "f2_grandmother",
       "character_1_text": "He makes me so angry, I just want to hit him. Or maybe I should tell my teacher?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Hmm… what do you think would happen if you hit him? And what might happen if you tell the teacher?",
       "character_3_id": "f2_son_15",
@@ -312,8 +336,12 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "That sounds like a good idea. I can speak with your teacher or the school — they know how to handle this safely.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Maybe wait, @data.characters.f2_grandmother_role.name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?",
       "completed": false
@@ -339,9 +367,15 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "No, @data.characters.f2_son_15.name, skipping school won’t help. You have a right to be safe. Let’s practise what you can say if he threatens you again — something simple and firm.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Maybe I can say, \"Stop. I don’t like that.\"",
       "character_3_id": "f2_grandmother",
@@ -375,7 +409,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_1_text": "How are things going at school now?",
       "character_2_text": "It’s better. The boy stopped kicking me, but he still says mean things.",
@@ -399,8 +435,12 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Yes, thank you, @data.characters.f2_grandmother_role.name. At least I know you are on my side.",
       "completed": false
@@ -531,20 +571,34 @@
       "nested": false,
       "quiz_1_question": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "text_2": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4_id": {},
-        "quiz_1_option_5_text": {},
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_5_id": {}
       },
       "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",

@@ -233,8 +233,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "character_1_text": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -256,15 +260,25 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "character_1_text": "I know it's hard to understand, but it's important that we all work together. Doing this kind of work will help you become an independent and responsible man when you have your own family. \n\nI am proud of you for doing your part. Here, let me help you dry the dishes.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -332,11 +346,15 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "tz_sw": true
+        },
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -407,7 +425,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "This week’s home activity is to praise your teen once a day. It only takes a few seconds.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -479,7 +499,9 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

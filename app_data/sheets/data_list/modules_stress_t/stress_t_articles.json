@@ -48,7 +48,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -238,19 +240,27 @@
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {},
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_2_option_3_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_3": {},
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_2_option_4_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_4": {}
+        "quiz_2_feedback_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -341,11 +351,21 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -378,7 +398,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "You two are amazing. You've been carrying so much burden. We want to provide everything you need, but things like airtime and private tutoring cost a lot of money.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -397,9 +419,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -422,16 +450,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, let’s think about your own life. What helps you feel calm in a stressful moment?",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -559,15 +607,21 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },

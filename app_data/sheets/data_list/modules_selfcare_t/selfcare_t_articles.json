@@ -92,12 +92,16 @@
           "tz_sw": true
         },
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
         "quiz_1_option_4_text": {},
         "quiz_1_option_5_text": {},
-        "quiz_1_option_6_text": {},
+        "quiz_1_option_6_text": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {
           "tz_sw": true
         },

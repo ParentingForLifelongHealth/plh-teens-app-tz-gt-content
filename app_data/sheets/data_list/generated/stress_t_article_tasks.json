@@ -154,7 +154,9 @@
       "nested": false,
       "text_1_facilitator": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -393,19 +395,27 @@
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {},
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_2_option_3_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_3": {},
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_2_option_4_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_4": {}
+        "quiz_2_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, he did not understand why his father, @data.characters.f1_father.name, got angry, and probably felt all these emotions.",
       "quiz_1_feedback_3": "Yes, he did not understand why his father, @data.characters.f1_father.name, got angry, and probably felt all these emotions.",
@@ -456,11 +466,21 @@
       "nested": false,
       "text_1_facilitator": "Let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/stress/stress2_t_1.svg",
       "text_2": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better.",
@@ -486,7 +506,9 @@
       "character_1_id": "f1_father",
       "character_1_text": "You two are amazing. You've been carrying so much burden. We want to provide everything you need, but things like airtime and private tutoring cost a lot of money.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -511,9 +533,15 @@
       "character_2_id": "f1_daughter_13",
       "character_1_text": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Yes! I like learning with her!",
       "character_3_id": "f1_father",
@@ -559,16 +587,36 @@
       "nested": false,
       "quiz_1_feedback_1": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control.",
       "quiz_1_feedback_3": "Nice! Sharing feelings can reduce stress.",
@@ -695,14 +743,18 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! Pausing to breathe before reacting will help your whole family feel calmer.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -712,7 +764,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }

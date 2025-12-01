@@ -113,9 +113,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name, handled this.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -148,9 +154,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_2": "@data.characters.f2_son_15.name accidentally drops his bag, and a packet of condoms falls out.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -179,7 +191,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -201,8 +215,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "character_1_text": "No, no, no, @data.characters.f2_son_15.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Stupid boy!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -224,12 +242,20 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_3": {},
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {
@@ -713,7 +739,9 @@
           "tz_sw": true
         },
         "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4_id": {}
       },
       "_translatedFields": {
@@ -824,7 +852,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Yes, you can ask another trusted adult to start this conversation with your teen if that would help your teen open up. \n\nTalk to that adult beforehand and help them be open and use the right words for any body parts they discuss (like breasts, penis, or vagina).\n\nThey can practise with you and ask a health worker or social worker for more information. The more they know, the better they can help your teen.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

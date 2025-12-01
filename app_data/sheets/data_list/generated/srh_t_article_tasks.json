@@ -298,7 +298,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "But @data.characters.f2_grandfather.role_name, it’s not like that…!",
       "completed": false
@@ -324,7 +326,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "No @data.characters.f2_grandfather.role_name, please don’t hit me, it is not what you think",
       "completed": false
@@ -410,9 +414,15 @@
       "nested": false,
       "quiz_1_feedback_1": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -428,24 +438,54 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {}
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_3_question": {
+          "tz_sw": true
+        },
+        "quiz_3_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_3_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_3_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_3": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_1_feedback_3": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
@@ -490,8 +530,12 @@
       "nested": false,
       "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and her granddaughter, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -607,7 +651,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name",
       "completed": false
@@ -1149,14 +1195,24 @@
       "nested": false,
       "quiz_1_feedback_1": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4_id": {}
       },
@@ -1300,7 +1356,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You are doing so well! Even starting a small conversation makes a big difference. Keep going - your teen will appreciate your support.",
       "quiz_1_feedback_3": "That's okay. It is normal for these talks to feel a little uncomfortable at first. Try again another time - every small step counts.",
@@ -1337,7 +1395,9 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "@data.characters.media_daughter_8.name learned a lot from honest talks with her mother. Tap play to hear their story",
       "media_transcript": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a ‘real man’ and I was scared to tell my parents.\n\nWhen we did @global.app_name, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together.",

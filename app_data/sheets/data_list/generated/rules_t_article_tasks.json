@@ -155,7 +155,9 @@
       "nested": false,
       "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -185,9 +187,15 @@
       "nested": false,
       "text_1_facilitator": "Let's read what happened with @data.characters.f1_son_18.name and his parents:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/rules/rules1_t_1.svg",
       "character_1_id": "f1_mother",
@@ -214,7 +222,9 @@
       "nested": false,
       "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name, did this the next day.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -339,7 +349,9 @@
       "character_2_id": "f1_mother",
       "character_1_text": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -472,7 +484,9 @@
         "quiz_1_feedback_5": {
           "tz_sw": true
         },
-        "quiz_2_option_3_text": {},
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_2_option_4_text": {
           "tz_sw": true
         },
@@ -599,7 +613,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/rules/rules2_t_1.svg",
       "character_1_id": "f1_mother",
@@ -629,7 +645,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers.",
       "completed": false
@@ -709,7 +727,9 @@
       "nested": false,
       "text_1_facilitator": "It was wonderful to see @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_13.name, make a rule together. \n\nNow let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
@@ -777,7 +797,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You can do it! Even beginning the conversation shows your teen that their voice matters. Take it one step at a time.",
       "quiz_1_feedback_3": "That's okay. It can take time to agree on new rules. You could start by asking your teen what they think is important - small talks can lead to big changes.",
@@ -812,8 +834,12 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Can teens value rules too? Hear @data.characters.media_daughter_5.name's story",
       "media_transcript": "I never liked rules and I used to forget rules a lot.\n\nOne day, I was playing with my friends. The rule at home was that we should be in the yard by 6pm, but I forgot again. By 6:30 it was getting dark and I was still outside and playing with my phone. Then a boy came, grabbed my phone and ran away.\n\nI understood that rules can really help to keep us safe, so I changed my behaviour and I was in the yard by 5pm from then.",

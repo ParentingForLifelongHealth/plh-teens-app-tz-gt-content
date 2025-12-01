@@ -179,7 +179,9 @@
       "nested": false,
       "text_1_facilitator": "Teens stay safer when they know they can talk to you about anything.\n\nWith our support, they can learn to stay safe and make good decisions.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -257,7 +259,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -330,19 +334,39 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_4_text": {}
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_4_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
@@ -420,7 +444,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -511,9 +537,15 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -523,7 +555,9 @@
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -635,27 +669,45 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_4_text": {
           "tz_sw": true
         },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {}
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
@@ -819,14 +871,18 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Great! You will need a:\n\n- 📄 Piece of paper (or old newspaper or a cardboard box) \n- 🖊️ Pen",
       "quiz_1_question": "Can you make this map together with your family now?",
@@ -853,7 +909,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_1.svg",
       "text_2": "Draw a map of your teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits.\n\nRemember to include your phone and other internet devices, as mobile apps and websites are also places where you and your teen can spend a lot of time!",
@@ -1030,7 +1088,9 @@
       "character_2_id": "f1_father",
       "character_1_text": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -1056,8 +1116,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "*(on the other side of the phone)* I will send someone to pick you up now. Where are you?",
       "completed": false

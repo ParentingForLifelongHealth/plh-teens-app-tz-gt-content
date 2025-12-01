@@ -228,7 +228,9 @@
       "character_2_id": "f3_mother",
       "character_1_text": "Thank you for helping me, @data.characters.f3_mother.role_name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -305,7 +307,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         },
@@ -380,7 +384,9 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -463,7 +469,9 @@
         "section_2_text": {
           "tz_sw": true
         },
-        "section_2_button_text": {},
+        "section_2_button_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },

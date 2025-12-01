@@ -302,7 +302,9 @@
       "character_1_id": "f2_daughter_19",
       "character_1_text": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -354,7 +356,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_3_text": {
           "tz_sw": true
         }
@@ -616,7 +620,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_2.svg",
       "character_1_id": "f1_daughter_16",
@@ -655,7 +661,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?"
+          "eng": "Crisis 3: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?"
         },
         "character_1_text": {
           "eng": "I have never done this before. And now they will expel me."
@@ -663,7 +669,7 @@
       },
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
+      "text_1_facilitator": "Crisis 3: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {
@@ -720,7 +726,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_5.svg",
       "character_1_id": "f2_daughter_19",

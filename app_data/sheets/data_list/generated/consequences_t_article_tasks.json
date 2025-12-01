@@ -212,7 +212,9 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "Sorry @data.characters.f1_father.role_name – you can go back to sleep.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -238,7 +240,9 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "I can explain, @data.characters.f1_father.role_name, I can.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -261,7 +265,9 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -597,7 +603,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_id": "f1_son_18",
       "character_2_text": "Okay, @data.characters.f1_father.role_name.",
@@ -626,7 +634,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
+        "character_2_text": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
@@ -656,7 +666,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_id": "f1_son_18",
       "character_2_text": "You promised you would listen to me, @data.characters.f1_father.role_name.",
@@ -746,16 +758,30 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "character_1_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }

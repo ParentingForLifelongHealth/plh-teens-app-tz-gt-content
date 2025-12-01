@@ -349,6 +349,9 @@
         "quiz_1_feedback_4": {
           "eng": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
         },
+        "quiz_2_question": {
+          "eng": "How might this kind of reaction affect @data.characters.f2_son_15.name?"
+        },
         "quiz_2_option_1_text": {
           "eng": "@data.characters.f2_son_15.name may not trust @data.characters.f2_grandfather.name in the future"
         },
@@ -366,6 +369,27 @@
         },
         "quiz_2_feedback_3": {
           "eng": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him."
+        },
+        "quiz_3_question": {
+          "eng": "Would the reaction be different if it was a granddaughter instead of a grandson? Why?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Girls are judged more strictly"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Parents fear more for girls’ safety"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
+        },
+        "quiz_3_option_3_text": {
+          "eng": "Because of cultural expectations"
+        },
+        "quiz_3_feedback_3": {
+          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
         }
       },
       "category_id": "explore",
@@ -386,12 +410,20 @@
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
+        "quiz_2_question": {},
         "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {},
         "quiz_2_feedback_2": {},
         "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_2_feedback_3": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {},
+        "quiz_3_option_3_text": {},
+        "quiz_3_feedback_3": {}
       },
       "quiz_1_feedback_2": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_1_feedback_3": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
@@ -402,12 +434,20 @@
       "text_1_facilitator": "Let's think about what happened in this story.",
       "quiz_1_option_4_text": "He felt ashamed to talk about sex",
       "quiz_1_feedback_4": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
+      "quiz_2_question": "How might this kind of reaction affect @data.characters.f2_son_15.name?",
       "quiz_2_option_1_text": "@data.characters.f2_son_15.name may not trust @data.characters.f2_grandfather.name in the future",
       "quiz_2_feedback_1": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
       "quiz_2_option_2_text": "@data.characters.f2_son_15.name may not ask @data.characters.f2_grandfather.name questions or advice if she has a problem",
       "quiz_2_feedback_2": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
       "quiz_2_option_3_text": "@data.characters.f2_son_15.name may make bad decisions out of anger",
       "quiz_2_feedback_3": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
+      "quiz_3_question": "Would the reaction be different if it was a granddaughter instead of a grandson? Why?",
+      "quiz_3_option_1_text": "Girls are judged more strictly",
+      "quiz_3_feedback_1": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
+      "quiz_3_option_2_text": "Parents fear more for girls’ safety",
+      "quiz_3_feedback_2": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
+      "quiz_3_option_3_text": "Because of cultural expectations",
+      "quiz_3_feedback_3": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
       "completed": false
     },
     {
@@ -415,7 +455,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation."
+          "eng": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and her granddaughter, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly."
         },
         "character_1_text": {
           "eng": "@data.characters.f1_mother_role.name, can I talk to you about something?"
@@ -426,7 +466,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n\nLet's see how @data.characters.f1_mother.name handles this conversation.",
+      "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and her granddaughter, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {
@@ -668,6 +708,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -684,21 +727,6 @@
           "tz_sw": true
         },
         "quiz_2_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_2_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_5": {
           "tz_sw": true
         },
         "quiz_3_question": {
@@ -721,6 +749,18 @@
         },
         "quiz_3_feedback_3": {
           "tz_sw": true
+        },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_2_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_5": {
+          "tz_sw": true
         }
       },
       "quiz_1_feedback_2": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
@@ -730,20 +770,13 @@
       "quiz_1_option_2_text": "Nervous",
       "quiz_1_option_3_text": "Hopeful",
       "text_1_facilitator": "Let's think about what happened in this story.",
+      "quiz_2_question": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?",
       "quiz_2_option_1_text": "She breathes to stay calm",
       "quiz_2_feedback_1": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "quiz_2_option_2_text": "She praises @data.characters.f1_daughter_16.name for sharing",
       "quiz_2_feedback_2": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "quiz_2_option_3_text": "She shares why she is worried",
       "quiz_2_feedback_3": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_3_option_1_image_asset": "images/faces/neutral.svg",
-      "quiz_3_option_2_image_asset": "images/faces/happy.svg",
-      "quiz_3_option_3_image_asset": "images/faces/happiest.svg",
-      "quiz_2_question": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?",
-      "quiz_2_option_4_text": "She creates rules with @data.characters.f1_daughter_16.name",
-      "quiz_2_feedback_4": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_5_text": "She involves other adults for support",
-      "quiz_2_feedback_5": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "quiz_3_question": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
       "quiz_3_option_1_text": "Okay",
       "quiz_3_feedback_1": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
@@ -751,6 +784,13 @@
       "quiz_3_feedback_2": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
       "quiz_3_option_3_text": "Proud",
       "quiz_3_feedback_3": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
+      "quiz_3_option_1_image_asset": "images/faces/neutral.svg",
+      "quiz_3_option_2_image_asset": "images/faces/happy.svg",
+      "quiz_3_option_3_image_asset": "images/faces/happiest.svg",
+      "quiz_2_option_4_text": "She creates rules with @data.characters.f1_daughter_16.name",
+      "quiz_2_feedback_4": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
+      "quiz_2_option_5_text": "She involves other adults for support",
+      "quiz_2_feedback_5": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "completed": false
     },
     {
@@ -1061,28 +1101,28 @@
           "eng": "How can I support my teen with body changes, relationships, and staying safe?\n\nTry selecting each option to learn more!"
         },
         "quiz_1_option_1_text": {
-          "eng": "Body changes and puberty"
+          "eng": "Talk about body changes and puberty"
         },
         "quiz_1_feedback_1": {
           "eng": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions."
         },
         "quiz_1_option_2_text": {
-          "eng": "Risks and protection (or How to stay safe)"
+          "eng": "Discuss risks and protection (or how to stay safe)"
         },
         "quiz_1_feedback_2": {
           "eng": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get them the help they need."
         },
         "quiz_1_option_3_text": {
-          "eng": "Respectful relationships (or How to say ‘no’)"
+          "eng": "Explain respectful relationships (or how to say ‘no’)"
         },
         "quiz_1_feedback_3": {
           "eng": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time."
         },
         "quiz_1_option_4_text": {
-          "eng": "Where to go for help"
+          "eng": "Know where to go for help"
         },
         "quiz_1_feedback_4_id": {
-          "eng": "Both you and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe."
+          "eng": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe."
         }
       },
       "category_id": "explore",
@@ -1103,12 +1143,12 @@
       "quiz_1_feedback_2": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get them the help they need.",
       "quiz_1_feedback_3": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time.",
       "quiz_1_question": "How can I support my teen with body changes, relationships, and staying safe?\n\nTry selecting each option to learn more!",
-      "quiz_1_option_1_text": "Body changes and puberty",
-      "quiz_1_option_2_text": "Risks and protection (or How to stay safe)",
-      "quiz_1_option_3_text": "Respectful relationships (or How to say ‘no’)",
+      "quiz_1_option_1_text": "Talk about body changes and puberty",
+      "quiz_1_option_2_text": "Discuss risks and protection (or how to stay safe)",
+      "quiz_1_option_3_text": "Explain respectful relationships (or how to say ‘no’)",
       "text_1_facilitator": "Many parents also wonder what they should know to guide their teens well. Here are a few things that can help you feel more prepared. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too.",
-      "quiz_1_option_4_text": "Where to go for help",
-      "quiz_1_feedback_4_id": "Both you and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe.",
+      "quiz_1_option_4_text": "Know where to go for help",
+      "quiz_1_feedback_4_id": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe.",
       "completed": false
     },
     {
@@ -1135,6 +1175,12 @@
         },
         "section_3_text": {
           "eng": "Your teen will hear about sex from many places. If they feel safe with you, you can help them find good information and make smart choices.\n\nHelp them think about consequences without shame or blame. Make sure they know they should never feel pressure (or pressure others) into sex or a relationship.\n\nYou can also ask other adults or health workers for help and information."
+        },
+        "section_3_button_text": {
+          "eng": "More tips"
+        },
+        "section_3_extra_text": {
+          "eng": "Reflect on your own experiences to guide your teen better: What support or advice did you get around body changes or relationships when you were a teen? How did being a boy or a girl impact you growing up?"
         }
       },
       "category_id": "practical_tips",
@@ -1161,7 +1207,11 @@
         },
         "section_3_text": {
           "tz_sw": true
-        }
+        },
+        "section_3_button_text": {
+          "tz_sw": true
+        },
+        "section_3_extra_text": {}
       },
       "section_1_text": "Build a strong relationship with your teen by spending time with them and showing them you trust them. Create a safe, encouraging space, and avoid judging them.\n\nThat will make your teen share their questions and worries with you, when they need advice or are in a potentially dangerous situation.",
       "text_1_facilitator": "Discussing body changes and intimate relationships can be uncomfortable, but it is so important in order to keep your teen happy, healthy and safe. \n\nHere are some skills to help you get started.",
@@ -1172,6 +1222,8 @@
       "section_2_text": "Your teen may feel shy or scared, so parents need to start the talk about body changes and intimate relationships.\n\nBegin early by answering questions simply and honestly. This builds confidence for you and your child.\n\nIt’s okay to feel uncomfortable. Be open, use the correct words, and get help if you don’t know all the answers.",
       "section_3_title": "GUIDE",
       "section_3_text": "Your teen will hear about sex from many places. If they feel safe with you, you can help them find good information and make smart choices.\n\nHelp them think about consequences without shame or blame. Make sure they know they should never feel pressure (or pressure others) into sex or a relationship.\n\nYou can also ask other adults or health workers for help and information.",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "Reflect on your own experiences to guide your teen better: What support or advice did you get around body changes or relationships when you were a teen? How did being a boy or a girl impact you growing up?",
       "completed": false
     },
     {
@@ -1252,7 +1304,7 @@
           "eng": "@data.characters.media_daughter_8.name learned a lot from honest talks with her mother. Tap play to hear their story"
         },
         "media_transcript": {
-          "eng": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together."
+          "eng": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a ‘real man’. I was scared to tell my parents.\n\nWhen we did this App together, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together."
         }
       },
       "category_id": "teen_test",
@@ -1265,12 +1317,10 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "media_title": "@data.characters.media_daughter_8.name learned a lot from honest talks with her mother. Tap play to hear their story",
-      "media_transcript": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together.",
+      "media_transcript": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a ‘real man’. I was scared to tell my parents.\n\nWhen we did this App together, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together.",
       "completed": false
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_consequences_t_explore_16",
+  "flow_name": "article_consequences_t_practise_3",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "explore_16",
+          "value": "practise_3",
           "_translations": {
             "value": {}
           },

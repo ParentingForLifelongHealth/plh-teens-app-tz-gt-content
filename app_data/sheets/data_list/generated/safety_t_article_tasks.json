@@ -687,14 +687,65 @@
         },
         "character_2_text": {
           "eng": "Your friends left, so this is the only way you can get home, you idiot!"
+        },
+        "quiz_1_question": {
+          "eng": "What warning signs do you see here?\n\nThe man:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Does not listen to @data.characters.f2_daughter_19.name"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Yells and calls @data.characters.f2_daughter_19.name names"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "May touch @data.characters.f2_daughter_19.name without permission"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Pressures @data.characters.f2_daughter_19.name"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Makes @data.characters.f2_daughter_19.name feel unsafe"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
         }
       },
       "nested": false,
-      "image_asset": "/images/teen_modules/svp/svp_rejected_ride_t.svg",
-      "character_1_id": "f2_daughter_19",
-      "character_2_id": "man_in_car",
-      "text_2": "@data.characters.f2_daughter_19.name says 'no' to offered lift",
+      "quiz_1_feedback_1": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
       "_translations": {
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -703,10 +754,36 @@
         },
         "character_2_text": {
           "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
         }
       },
+      "quiz_1_feedback_2": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+      "quiz_1_feedback_3": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+      "quiz_1_question": "What warning signs do you see here?\n\nThe man:",
+      "quiz_1_option_1_text": "Does not listen to @data.characters.f2_daughter_19.name",
+      "quiz_1_option_2_text": "Yells and calls @data.characters.f2_daughter_19.name names",
+      "quiz_1_option_3_text": "May touch @data.characters.f2_daughter_19.name without permission",
+      "image_asset": "/images/teen_modules/svp/svp_rejected_ride_t.svg",
+      "character_1_id": "f2_daughter_19",
+      "character_2_id": "man_in_car",
+      "text_2": "@data.characters.f2_daughter_19.name says 'no' to offered lift",
       "character_1_text": "No, I don't want to...",
       "character_2_text": "Your friends left, so this is the only way you can get home, you idiot!",
+      "quiz_1_option_4_text": "Pressures @data.characters.f2_daughter_19.name",
+      "quiz_1_feedback_4": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+      "quiz_1_option_5_text": "Makes @data.characters.f2_daughter_19.name feel unsafe",
+      "quiz_1_feedback_5": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
       "completed": false
     },
     {
@@ -831,7 +908,7 @@
       "completed": false
     },
     {
-      "id": "explore_8",
+      "id": "explore_7",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -869,7 +946,7 @@
       "completed": false
     },
     {
-      "id": "explore_9",
+      "id": "explore_8",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
@@ -889,7 +966,7 @@
       "completed": false
     },
     {
-      "id": "explore_10",
+      "id": "explore_9",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
@@ -909,7 +986,7 @@
       "completed": false
     },
     {
-      "id": "explore_11",
+      "id": "explore_10",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -936,7 +1013,7 @@
       "completed": false
     },
     {
-      "id": "explore_12",
+      "id": "explore_11",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
@@ -964,7 +1041,7 @@
       "completed": false
     },
     {
-      "id": "explore_13",
+      "id": "explore_12",
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {

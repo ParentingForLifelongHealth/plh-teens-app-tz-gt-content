@@ -205,9 +205,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -217,11 +215,11 @@
           "eng": "Thank you for doing the dishes, @data.characters.f1_son_18.name. It's a big help!"
         },
         "character_2_text": {
-          "eng": "@data.characters.f1_father_role.name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother_role.name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
+          "eng": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
         }
       },
       "character_1_text": "Thank you for doing the dishes, @data.characters.f1_son_18.name. It's a big help!",
-      "character_2_text": "@data.characters.f1_father_role.name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother_role.name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
+      "character_2_text": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
     },
     {
       "id": "explore_3",
@@ -231,18 +229,16 @@
       "character_2_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
-      "character_1_text": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too.",
+      "character_1_text": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too."
+          "eng": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
         },
         "character_2_text": {
           "eng": "Okay, fine."
@@ -263,9 +259,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_2_text": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {
@@ -285,7 +279,7 @@
           "eng": "I know it's hard to understand, but it's important that we all work together. Doing this kind of work will help you become an independent and responsible man when you have your own family. \n\nI am proud of you for doing your part. Here, let me help you dry the dishes."
         },
         "character_2_text": {
-          "eng": "Thanks for helping me @data.characters.f1_father_role.name."
+          "eng": "Thanks for helping me @data.characters.f1_father.role_name."
         },
         "quiz_1_question": {
           "eng": "Why did @data.characters.f1_father.name’s praise help @data.characters.f1_son_18.name?"
@@ -309,7 +303,7 @@
           "eng": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family."
         }
       },
-      "character_2_text": "Thanks for helping me @data.characters.f1_father_role.name.",
+      "character_2_text": "Thanks for helping me @data.characters.f1_father.role_name.",
       "quiz_1_question": "Why did @data.characters.f1_father.name’s praise help @data.characters.f1_son_18.name?",
       "quiz_1_option_1_text": "It made @data.characters.f1_son_18.name feel seen and appreciated",
       "quiz_1_feedback_1": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",

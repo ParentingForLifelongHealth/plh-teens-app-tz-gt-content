@@ -192,18 +192,16 @@
       "character_2_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
-      "character_1_text": "Let’s decide together what to do. Your @data.characters.f2_grandfather_role.name loves you and he would want to help. Are you okay with it if I call him?",
+      "character_1_text": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Let’s decide together what to do. Your @data.characters.f2_grandfather_role.name loves you and he would want to help. Are you okay with it if I call him?"
+          "eng": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?"
         },
         "character_2_text": {
           "eng": "Yes, that’s a good idea."
@@ -244,9 +242,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_2_text": {},
         "character_3_text": {
           "tz_sw": true
         }
@@ -256,13 +252,13 @@
           "eng": "I think it would be a good idea to go to the clinic, so they can do a check-up to make sure you are okay. What do you think about that?"
         },
         "character_2_text": {
-          "eng": "Yes… Okay… But will you come with me @data.characters.f2_grandmother_role.name?"
+          "eng": "Yes… Okay… But will you come with me @data.characters.f2_grandmother.role_name?"
         },
         "character_3_text": {
           "eng": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this."
         }
       },
-      "character_2_text": "Yes… Okay… But will you come with me @data.characters.f2_grandmother_role.name?",
+      "character_2_text": "Yes… Okay… But will you come with me @data.characters.f2_grandmother.role_name?",
       "character_3_text": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this."
     },
     {
@@ -506,19 +502,17 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 1: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?"
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_father_role.name, I am so ashamed. I do not know what to do."
+          "eng": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do"
         }
       },
-      "character_1_text": "@data.characters.f1_father_role.name, I am so ashamed. I do not know what to do."
+      "character_1_text": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do"
     },
     {
       "id": "practise_3",
@@ -608,19 +602,17 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 5: @data.characters.f2_daughter_19.name is pressured into sex by her boyfriend.\n\nHow could you respond to @data.characters.f2_daughter_19.name?"
         },
         "character_1_text": {
-          "eng": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother_role.name, I am so scared..."
+          "eng": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
         }
       },
-      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother_role.name, I am so scared..."
+      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
     },
     {
       "id": "home_activity_1",

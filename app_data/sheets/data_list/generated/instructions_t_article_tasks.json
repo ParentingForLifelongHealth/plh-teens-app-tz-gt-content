@@ -325,7 +325,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother_role.name."
+          "eng": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother.role_name."
         },
         "quiz_1_question": {
           "eng": "How do you think @data.characters.f2_daughter_19.name felt about the way @data.characters.f2_grandmother.name responded?"
@@ -334,7 +334,7 @@
           "eng": "Sad"
         },
         "quiz_1_feedback_1": {
-          "eng": "She might feel like her @data.characters.f2_grandmother_role.name doesn't understand her needs."
+          "eng": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother.role_name."
         },
         "quiz_1_option_2_text": {
           "eng": "Confused"
@@ -375,7 +375,7 @@
       "quiz_1_option_1_image_asset": "/images/faces/sad.svg",
       "quiz_1_option_2_image_asset": "/images/faces/confused.svg",
       "quiz_1_option_3_image_asset": "/images/faces/angry.svg",
-      "quiz_1_feedback_1": "She might feel like her @data.characters.f2_grandmother_role.name doesn't understand her needs.",
+      "quiz_1_feedback_1": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother.role_name.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {
@@ -421,7 +421,7 @@
       "quiz_1_option_1_text": "Sad",
       "quiz_1_option_2_text": "Confused",
       "quiz_1_option_3_text": "Angry",
-      "text_1_facilitator": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother_role.name.",
+      "text_1_facilitator": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother.role_name.",
       "quiz_2_question": "What could @data.characters.f2_grandmother.name have done differently?",
       "quiz_2_option_1_text": "Say something nice first",
       "quiz_2_feedback_1": "That may have helped keep tensions low, but it wouldn't help @data.characters.f2_daughter_19.name know how to behave or practise for the match without getting in trouble.",
@@ -442,7 +442,7 @@
           "eng": "@data.characters.f2_daughter_19.name, it is great to see you enjoying your soccer with your friend! Please go play behind the house so the ball does not knock over the pot."
         },
         "character_2_text": {
-          "eng": "Okay, @data.characters.f2_grandmother_role.name!"
+          "eng": "Okay, @data.characters.f2_grandmother.role_name!"
         }
       },
       "category_id": "explore",
@@ -459,7 +459,7 @@
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "@data.characters.f2_daughter_19.name, it is great to see you enjoying your soccer with your friend! Please go play behind the house so the ball does not knock over the pot.",
-      "character_2_text": "Okay, @data.characters.f2_grandmother_role.name!",
+      "character_2_text": "Okay, @data.characters.f2_grandmother.role_name!",
       "completed": false
     },
     {
@@ -470,7 +470,7 @@
           "eng": "@data.characters.f2_daughter_19.name and her friend enjoy practising their soccer moves."
         },
         "character_1_text": {
-          "eng": "Thank you for playing behind the house while @data.characters.f2_grandmother_role.name was cooking, @data.characters.f2_daughter_19.name. Now we have time to watch you play."
+          "eng": "Okay, @data.characters.f2_grandmother.role_name!"
         },
         "character_2_text": {
           "eng": "Yay! We learned lots of new moves, look!"
@@ -484,16 +484,14 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
-      "character_1_text": "Thank you for playing behind the house while @data.characters.f2_grandmother_role.name was cooking, @data.characters.f2_daughter_19.name. Now we have time to watch you play.",
+      "character_1_text": "Okay, @data.characters.f2_grandmother.role_name!",
       "character_2_text": "Yay! We learned lots of new moves, look!",
       "completed": false
     },
@@ -557,7 +555,7 @@
           "eng": "Why do you think the situation went better for @data.characters.f2_grandmother.name this time?"
         },
         "quiz_2_option_1_text": {
-          "eng": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f2_grandmother_role.name"
+          "eng": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f2_grandmother.role_name"
         },
         "quiz_2_feedback_1": {
           "eng": "Exactly. Staying calm and positive helps our teens feel respected and loved!"
@@ -624,7 +622,7 @@
       "quiz_1_option_3_text": "Sad",
       "text_1_facilitator": "Positive instructions changed the moment. How do you think everyone feels now?",
       "quiz_2_question": "Why do you think the situation went better for @data.characters.f2_grandmother.name this time?",
-      "quiz_2_option_1_text": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f2_grandmother_role.name",
+      "quiz_2_option_1_text": "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f2_grandmother.role_name",
       "quiz_2_feedback_1": "Exactly. Staying calm and positive helps our teens feel respected and loved!",
       "quiz_2_option_2_text": "@data.characters.f2_grandmother.name was able to stay calm",
       "quiz_2_feedback_2": "Exactly. Staying calm and positive helps our teens feel respected and loved!",

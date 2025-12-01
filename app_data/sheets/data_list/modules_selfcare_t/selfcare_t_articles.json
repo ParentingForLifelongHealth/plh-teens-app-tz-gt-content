@@ -75,9 +75,6 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "quiz_1_option_3_image_asset": "Friend",
-      "quiz_1_option_4_image_asset": "Neighbor",
-      "quiz_1_option_5_image_asset": "Someone else",
       "quiz_2_option_2_image_asset": "Remind them of easy ways to take care of themselves",
       "quiz_2_option_3_image_asset": "Help them find time to relax by offering to assist with chores or childcare",
       "quiz_2_option_4_image_asset": "Find moments of play and laughter together",
@@ -97,9 +94,12 @@
         },
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {},
-        "quiz_1_option_6_text": {
+        "quiz_1_feedback_5": {
           "tz_sw": true
         },
         "quiz_2_option_2_text": {
@@ -128,13 +128,22 @@
         "quiz_1_feedback_2": {
           "eng": "Fantastic!"
         },
-        "quiz_1_option_4_text": {
+        "quiz_1_option_3_text": {
+          "eng": "Friend"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Wonderful!"
         },
-        "quiz_1_option_5_text": {
+        "quiz_1_option_4_text": {
+          "eng": "Neighbor"
+        },
+        "quiz_1_feedback_4": {
           "eng": "Excellent!"
         },
-        "quiz_1_option_6_text": {
+        "quiz_1_option_5_text": {
+          "eng": "Someone else"
+        },
+        "quiz_1_feedback_5": {
           "eng": "Great!"
         },
         "quiz_2_option_2_text": {
@@ -155,9 +164,12 @@
       "quiz_1_feedback_1": "Great!",
       "quiz_1_option_2_text": "Another caregiver",
       "quiz_1_feedback_2": "Fantastic!",
-      "quiz_1_option_4_text": "Wonderful!",
-      "quiz_1_option_5_text": "Excellent!",
-      "quiz_1_option_6_text": "Great!",
+      "quiz_1_option_3_text": "Friend",
+      "quiz_1_feedback_3": "Wonderful!",
+      "quiz_1_option_4_text": "Neighbor",
+      "quiz_1_feedback_4": "Excellent!",
+      "quiz_1_option_5_text": "Someone else",
+      "quiz_1_feedback_5": "Great!",
       "quiz_2_option_2_text": "How can caregivers at home support each other to take a break?",
       "quiz_2_option_3_text": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",
       "quiz_2_option_4_text": "Exactly! When mothers and fathers help each other take small breaks, everyone in the family benefits. Teens also learn that self-care is important.",

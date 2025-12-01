@@ -91,9 +91,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -106,12 +104,12 @@
           "eng": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!"
         },
         "character_2_text": {
-          "eng": "Sorry, @data.characters.f2_grandmother_role.name. There is this guy at school, he..."
+          "eng": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
         }
       },
       "text_2": "@data.characters.f2_grandmother.name comes back from the market and finds @data.characters.f2_son_15.name at home in a dirty school uniform with a sleeve missing.",
       "character_1_text": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!",
-      "character_2_text": "Sorry, @data.characters.f2_grandmother_role.name. There is this guy at school, he..."
+      "character_2_text": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
     },
     {
       "id": "explore_2",
@@ -127,9 +125,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_2_text": {},
         "character_3_text": {
           "tz_sw": true
         }
@@ -139,13 +135,13 @@
           "eng": "Just give me a moment. I am tired and now worried about having to repair this uniform."
         },
         "character_2_text": {
-          "eng": "I am sorry, @data.characters.f2_grandmother_role.name."
+          "eng": "I am sorry, @data.characters.f2_grandmother.role_name"
         },
         "character_3_text": {
           "eng": "(🤔_thinking_) Take a pause… just breathe…"
         }
       },
-      "character_2_text": "I am sorry, @data.characters.f2_grandmother_role.name.",
+      "character_2_text": "I am sorry, @data.characters.f2_grandmother.role_name",
       "character_3_text": "(🤔_thinking_) Take a pause… just breathe…"
     },
     {
@@ -231,19 +227,17 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
           "eng": "That sounds like a good idea. I can speak with your teacher or the school — they know how to handle this safely."
         },
         "character_2_text": {
-          "eng": "Maybe wait, @data.characters.f2_grandmother_role.name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?"
+          "eng": "Maybe wait, @data.characters.f2_grandmother.role_name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?"
         }
       },
-      "character_2_text": "Maybe wait, @data.characters.f2_grandmother_role.name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?"
+      "character_2_text": "Maybe wait, @data.characters.f2_grandmother.role_name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?"
     },
     {
       "id": "explore_6",
@@ -327,19 +321,17 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
           "eng": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works."
         },
         "character_2_text": {
-          "eng": "Yes, thank you, @data.characters.f2_grandmother_role.name. At least I know you are on my side."
+          "eng": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
         }
       },
-      "character_2_text": "Yes, thank you, @data.characters.f2_grandmother_role.name. At least I know you are on my side."
+      "character_2_text": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
     },
     {
       "id": "tips_1",

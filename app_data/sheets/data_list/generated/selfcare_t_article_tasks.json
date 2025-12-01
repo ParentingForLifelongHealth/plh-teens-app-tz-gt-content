@@ -229,19 +229,33 @@
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
         "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {
           "tz_sw": true
@@ -249,9 +263,15 @@
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_option_3_text": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_option_5_text": {}
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_5_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Fantastic!",
       "quiz_1_feedback_3": "Wonderful!",
@@ -667,7 +687,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That’s a good start! Look for small ways to relax, recognise your efforts, and reward yourself - even little moments of self-care can make a big difference.",
       "quiz_1_feedback_3": "That's okay. Try choosing one small, simple action like taking a deep breath or sitting quietly for a moment. Every little bit counts!",

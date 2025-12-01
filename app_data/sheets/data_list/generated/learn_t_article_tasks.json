@@ -192,7 +192,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/learn/learn_conflict_t_1.svg",
       "character_1_id": "f1_daughter_16",
@@ -421,7 +423,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/learn/learn_support_t_1.svg",
       "character_1_id": "f1_daughter_16",
@@ -476,7 +480,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_id": "f1_daughter_16",
       "character_2_text": "Thank you, @data.characters.f1_mother.role_name, you can call me when you are ready.",

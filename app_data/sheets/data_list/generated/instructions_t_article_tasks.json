@@ -272,7 +272,9 @@
       "nested": false,
       "text_1_facilitator": "Let’s see what happens if @data.characters.f2_grandmother.name tells @data.characters.f2_daughter_19.name \"DON'T\":",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -377,14 +379,18 @@
       "quiz_1_option_3_image_asset": "/images/faces/angry.svg",
       "quiz_1_feedback_1": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother.role_name.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -394,8 +400,12 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -449,11 +459,15 @@
       "nested": false,
       "text_1_facilitator": "Let’s go back in time and see what happens if @data.characters.f2_grandmother.name gives a positive instruction:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/instruct/instruct3_t_1.svg",
       "character_1_id": "f2_grandmother",
@@ -484,7 +498,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -580,14 +596,18 @@
       "quiz_1_option_3_image_asset": "/images/faces/sad.svg",
       "quiz_1_feedback_1": "How do @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, feel now?",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -600,16 +620,24 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_2_feedback_1": {
           "tz_sw": true
         },
-        "quiz_2_option_2_text": {},
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_2_feedback_2": {
           "tz_sw": true
         },
-        "quiz_2_option_3_text": {},
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_2_feedback_3": {
           "tz_sw": true
         }

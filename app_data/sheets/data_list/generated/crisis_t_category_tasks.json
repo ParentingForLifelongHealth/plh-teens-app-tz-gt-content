@@ -144,7 +144,9 @@
       "icon_asset": "images/icons/smile_eyes_up.svg",
       "title": "Check-out",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -339,8 +339,12 @@
       "character_2_id": "f1_son_18",
       "character_1_text": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Okay, fine.",
       "completed": false
@@ -381,15 +385,25 @@
       "nested": false,
       "quiz_1_feedback_1": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
       "quiz_1_feedback_3": "Exactly! Praising boys and girls encourages them to both play their part at home. It teaches fairness, life skills, and helps build a more respectful family.",
@@ -458,11 +472,15 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "tz_sw": true
+        },
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
@@ -556,7 +574,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You can do it! Try praising your teen for something simple at first, like looking after their siblings or going to school.",
       "quiz_1_feedback_3": "That's okay. With time, giving praise will become easier. Try to praise yourself for something first, like \"Good job using @global.app_name. It shows you care.\"",
@@ -593,7 +613,9 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Hear from @data.characters.media_daughter_2.name on how it feels to get praise from her mother",
       "media_transcript": "I was grateful when my mother learned about praise.\n\nBefore the workshop, she mostly noticed when I did something wrong. She would shout and sometimes hit me.\n\nBut after the workshop, she began praising me for small things — even things she never noticed before, like my good maths grades. At first I thought, ‘What is going on?’ But she kept doing it. I liked it, so I started doing more good things.\n\nIt feels good that my mother now sees the good in me, not only the bad.\n\nOne day during one-on-one time, I told her, ‘Thank you, Mama, for saying something nice when I do things well, not only when I do things wrong.’ It made both of us very happy.",

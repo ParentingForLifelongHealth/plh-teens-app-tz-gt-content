@@ -156,8 +156,12 @@
       "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
         "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Rules worked for @data.characters.media_male_6.name and his teens. Tap play to hear more",
       "media_transcript": "Before I was only seen as the judge and punisher, coming in when a problem was already big. I was always blaming my wife that she was not being strict with the children and making me look like a bad person, and my wife blamed me for not being around. \n\nNow that we learned how to create family rules together, I am part of family conversations from the start. It makes me feel closer to my children and my wife.",
@@ -211,8 +215,12 @@
       "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name, did this the next day.",
       "_translations": {
         "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/rules/rules1_t_2.svg",
       "character_1_id": "f1_father",
@@ -239,8 +247,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "That is right. It is also not safe in this area to be outside after sunset.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "What do you think would be a good time for you to be home?",
       "completed": false
@@ -297,8 +309,12 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays.",
       "character_3_id": "f1_father",
@@ -323,8 +339,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Thank you very much, @data.characters.f1_son_18.name, for helping to come up with a good rule together.",
       "completed": false
@@ -353,7 +373,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
+        "character_2_text": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
@@ -425,11 +447,15 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
@@ -442,8 +468,12 @@
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        },
         "quiz_2_option_3_text": {},
         "quiz_2_option_4_text": {
           "tz_sw": true
@@ -518,7 +548,9 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
@@ -528,7 +560,9 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "section_1_icon_asset": "images/icons/trophy_blue.png",
       "section_2_icon_asset": "images/icons/diamond_blue.png",

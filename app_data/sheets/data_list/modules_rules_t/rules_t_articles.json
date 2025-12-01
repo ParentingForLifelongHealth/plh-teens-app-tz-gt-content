@@ -49,8 +49,12 @@
       "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
         "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -105,8 +109,12 @@
       "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name, did this the next day.",
       "_translations": {
         "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -132,8 +140,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "That is right. It is also not safe in this area to be outside after sunset.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -186,8 +198,12 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -213,8 +229,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -242,7 +262,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -270,14 +292,18 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
@@ -293,8 +319,12 @@
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        },
         "quiz_2_option_3_text": {},
         "quiz_2_option_4_text": {
           "tz_sw": true
@@ -387,7 +417,9 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
@@ -397,7 +429,9 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

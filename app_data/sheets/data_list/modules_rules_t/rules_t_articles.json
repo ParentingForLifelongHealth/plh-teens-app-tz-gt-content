@@ -227,18 +227,16 @@
       "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name.",
+      "character_1_text": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
+          "eng": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name."
         },
         "character_2_text": {
           "eng": "Thank you very much, @data.characters.f1_son_18.name, for helping to come up with a good rule together."

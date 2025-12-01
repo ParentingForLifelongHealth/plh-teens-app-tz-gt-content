@@ -1017,7 +1017,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Hey @data.characters.f1_father_role.name, how is Aunty Cecilia doing now?"
+          "eng": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?"
         },
         "character_2_text": {
           "eng": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
@@ -1028,11 +1028,9 @@
       "image_asset": "/images/teen_modules/stress/stress3_t_5.svg",
       "character_1_id": "f1_daughter_16",
       "character_2_id": "f1_father",
-      "character_1_text": "Hey @data.characters.f1_father_role.name, how is Aunty Cecilia doing now?",
+      "character_1_text": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -1045,7 +1043,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f1_mother_role.name, I just remembered, Aunty Cecilia said she will come visit tomorrow."
+          "eng": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow."
         },
         "character_2_text": {
           "eng": "*(on the other side of the phone)* I will send someone to pick you up now. Where are you?"
@@ -1056,7 +1054,7 @@
       "image_asset": "/images/teen_modules/stress/stress3_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
-      "character_1_text": "@data.characters.f1_mother_role.name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
+      "character_1_text": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}

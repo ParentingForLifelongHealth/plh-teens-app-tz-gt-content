@@ -179,7 +179,7 @@
           "eng": "One afternoon, @data.characters.f1_daughter_16.name is looking after her younger sibling @data.characters.f1_daughter_13.name."
         },
         "character_1_text": {
-          "eng": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother_role.name to come home so I can tell her about it."
+          "eng": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother.role_name to come home so I can tell her about it."
         }
       },
       "category_id": "explore",
@@ -192,14 +192,12 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "image_asset": "/images/teen_modules/learn/learn_conflict_t_1.svg",
       "character_1_id": "f1_daughter_16",
       "text_2": "One afternoon, @data.characters.f1_daughter_16.name is looking after her younger sibling @data.characters.f1_daughter_13.name.",
-      "character_1_text": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother_role.name to come home so I can tell her about it.",
+      "character_1_text": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother.role_name to come home so I can tell her about it.",
       "completed": false
     },
     {
@@ -410,7 +408,7 @@
           "eng": "One afternoon, @data.characters.f1_daughter_16.name is looking after her younger sibling @data.characters.f1_daughter_13.name."
         },
         "character_1_text": {
-          "eng": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother_role.name to come home so I can tell her about it."
+          "eng": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother.role_name to come home so I can tell her about it"
         }
       },
       "category_id": "explore",
@@ -423,14 +421,12 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "image_asset": "/images/teen_modules/learn/learn_support_t_1.svg",
       "character_1_id": "f1_daughter_16",
       "text_2": "One afternoon, @data.characters.f1_daughter_16.name is looking after her younger sibling @data.characters.f1_daughter_13.name.",
-      "character_1_text": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother_role.name to come home so I can tell her about it.",
+      "character_1_text": "(🤔_thinking_) It has been such a hard day at school… I can’t wait for @data.characters.f1_mother.role_name to come home so I can tell her about it",
       "completed": false
     },
     {
@@ -468,7 +464,7 @@
           "eng": "I am glad we have this time together. I actually wanted to tell you about a problem I had at school today."
         },
         "character_2_text": {
-          "eng": "Thank you, @data.characters.f1_mother_role.name, you can call me when you are ready."
+          "eng": "Thank you, @data.characters.f1_mother.role_name, you can call me when you are ready."
         }
       },
       "category_id": "explore",
@@ -480,12 +476,10 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_id": "f1_daughter_16",
-      "character_2_text": "Thank you, @data.characters.f1_mother_role.name, you can call me when you are ready.",
+      "character_2_text": "Thank you, @data.characters.f1_mother.role_name, you can call me when you are ready.",
       "completed": false
     },
     {

@@ -1207,14 +1207,24 @@
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4_id": {}
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4_id": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get them the help they need.",
       "quiz_1_feedback_3": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time.",
@@ -1287,7 +1297,9 @@
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "section_1_text": "Build a strong relationship with your teen by spending time with them and showing them you trust them. Create a safe, encouraging space, and avoid judging them.\n\nThat will make your teen share their questions and worries with you, when they need advice or are in a potentially dangerous situation.",
       "text_1_facilitator": "Discussing body changes and intimate relationships can be uncomfortable, but it is so important in order to keep your teen happy, healthy and safe. \n\nHere are some skills to help you get started.",

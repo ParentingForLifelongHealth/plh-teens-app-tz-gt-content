@@ -82,7 +82,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "text_1_facilitator": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name. Let's have a look:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },

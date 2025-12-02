@@ -3040,6 +3040,11 @@
           "flow_name": "article_grief_t_teen_test_1",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "article_grief_t_check_out_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -3143,6 +3148,11 @@
           "flow_name": "article_instructions_t_teen_test_1",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_t_check_out_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -3239,6 +3249,11 @@
         },
         {
           "flow_name": "article_learn_t_teen_test_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_learn_t_check_out_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3441,6 +3456,11 @@
           "flow_name": "article_money_t_teen_test_1",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "article_money_t_check_out_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -3509,6 +3529,11 @@
           "flow_name": "article_oneononetime_t_teen_test_1",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_t_check_out_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -3575,6 +3600,11 @@
         },
         {
           "flow_name": "article_praise_t_teen_test_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_t_check_out_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3695,6 +3725,11 @@
           "flow_name": "article_problemsolving_t_teen_test_1",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_t_check_out_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -3806,6 +3841,11 @@
         },
         {
           "flow_name": "article_rules_t_teen_test_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rules_t_check_out_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -4212,6 +4252,11 @@
           "flow_name": "article_srh_t_teen_test_1",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "article_srh_t_check_out_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -4503,6 +4548,11 @@
         },
         {
           "flow_name": "article_stress_t_teen_test_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_stress_t_check_out_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -5241,6 +5291,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_grief_t_check_out_1": {
+      "flow_name": "article_grief_t_check_out_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_grief_t_explore_1": {
       "flow_name": "article_grief_t_explore_1",
       "flow_subtype": "generated",
@@ -5328,6 +5383,11 @@
     },
     "article_instructions_t_check_in_4": {
       "flow_name": "article_instructions_t_check_in_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_instructions_t_check_out_1": {
+      "flow_name": "article_instructions_t_check_out_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -5426,6 +5486,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_learn_t_check_out_1": {
+      "flow_name": "article_learn_t_check_out_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_learn_t_explore_1": {
       "flow_name": "article_learn_t_explore_1",
       "flow_subtype": "generated",
@@ -5513,6 +5578,11 @@
     },
     "article_money_t_check_in_7": {
       "flow_name": "article_money_t_check_in_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_money_t_check_out_1": {
+      "flow_name": "article_money_t_check_out_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -5611,6 +5681,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_oneononetime_t_check_out_1": {
+      "flow_name": "article_oneononetime_t_check_out_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_oneononetime_t_explore_1": {
       "flow_name": "article_oneononetime_t_explore_1",
       "flow_subtype": "generated",
@@ -5671,6 +5746,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_praise_t_check_out_1": {
+      "flow_name": "article_praise_t_check_out_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_praise_t_explore_1": {
       "flow_name": "article_praise_t_explore_1",
       "flow_subtype": "generated",
@@ -5728,6 +5808,11 @@
     },
     "article_problemsolving_t_check_in_6": {
       "flow_name": "article_problemsolving_t_check_in_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_problemsolving_t_check_out_1": {
+      "flow_name": "article_problemsolving_t_check_out_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -5958,6 +6043,11 @@
     },
     "article_rules_t_check_in_8": {
       "flow_name": "article_rules_t_check_in_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_rules_t_check_out_1": {
+      "flow_name": "article_rules_t_check_out_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6243,6 +6333,11 @@
     },
     "article_srh_t_check_in_12": {
       "flow_name": "article_srh_t_check_in_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_srh_t_check_out_1": {
+      "flow_name": "article_srh_t_check_out_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6543,6 +6638,11 @@
     },
     "article_stress_t_check_in_5": {
       "flow_name": "article_stress_t_check_in_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_stress_t_check_out_1": {
+      "flow_name": "article_stress_t_check_out_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

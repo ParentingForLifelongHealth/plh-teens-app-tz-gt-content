@@ -349,12 +349,9 @@
       "character_3_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "text_1_facilitator": "Let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different.",
+      "text_1_facilitator": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better.",
       "_translations": {
         "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
           "tz_sw": true
         },
         "character_1_text": {
@@ -369,9 +366,6 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s go back in time and see what might happen if @data.characters.f1_father.name tries something different."
-        },
-        "text_2": {
           "eng": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better."
         },
         "character_1_text": {
@@ -384,7 +378,6 @@
           "eng": "I also feel worried. I want to help, but I don’t know how."
         }
       },
-      "text_2": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better.",
       "character_1_text": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. \n\nI know this is also hard for you. How are you feeling?",
       "character_2_text": "I feel worried when I need to ask for anything. The answer is always no...",
       "character_3_text": "I also feel worried. I want to help, but I don’t know how."
@@ -705,6 +698,32 @@
       },
       "media_title": "Hear how @data.characters.media_son_1.name learned to stay calm from his father",
       "media_transcript": "Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me and I would get so angry as well at him and everyone else.\n\nNow, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n\nIt really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

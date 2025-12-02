@@ -730,6 +730,32 @@
       },
       "media_title": "Can teens value rules too? Hear @data.characters.media_daughter_5.name's story",
       "media_transcript": "I never liked rules and I used to forget rules a lot.\n\nOne day, I was playing with my friends. The rule at home was that we should be in the yard by 6pm, but I forgot again. By 6:30 it was getting dark and I was still outside and playing with my phone. Then a boy came, grabbed my phone and ran away.\n\nI understood that rules can really help to keep us safe, so I changed my behaviour and I was in the yard by 5pm from then."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

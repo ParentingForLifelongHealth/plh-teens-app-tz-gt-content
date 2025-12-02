@@ -203,6 +203,7 @@
           "tz_sw": true
         }
       },
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_12",
       "character_3_id": "f3_mother",
@@ -224,6 +225,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
       "character_1_text": "Thank you for helping me, @data.characters.f3_mother.role_name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
@@ -332,6 +334,7 @@
       "quiz_1_option_1_text": "@data.characters.f3_mother.name listened and followed @data.characters.f3_daughter_12.name’s lead",
       "quiz_1_option_2_text": "Praised @data.characters.f3_daughter_12.name",
       "quiz_1_option_3_text": "Focused fully on @data.characters.f3_daughter_12.name (no distractions)",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
       "character_1_text": "Thank you, @data.characters.f3_mother.role_name! Oh look, the wire is loose. The baby chicks can get out.",
@@ -350,7 +353,7 @@
           "eng": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too."
         },
         "quiz_1_question": {
-          "eng": "True or False? Mothers AND fatheres need to spend one-on-one time with their teens."
+          "eng": "True or False: Mothers AND fathers need to spend one-on-one time with their teens?"
         },
         "quiz_1_option_1_text": {
           "eng": "True"
@@ -384,9 +387,7 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -402,7 +403,7 @@
       },
       "quiz_1_feedback_2": "Try again… Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "quiz_1_feedback_3": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
-      "quiz_1_question": "True or False? Mothers AND fatheres need to spend one-on-one time with their teens.",
+      "quiz_1_question": "True or False: Mothers AND fathers need to spend one-on-one time with their teens?",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "quiz_1_option_3_text": "Not sure",
@@ -435,6 +436,9 @@
           "eng": "Let your teen choose.\n\nTell your teen that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first, but they will come to enjoy this time with you!"
         },
         "section_2_button_text": {
+          "eng": "More tips"
+        },
+        "section_2_extra_text": {
           "eng": "One-on-one time helps you understand your teen’s world better. Ask open questions like “What was the best part of your day?” or “Can you show me something you enjoy?”. This helps them feel seen and supported."
         },
         "section_3_title": {
@@ -472,6 +476,9 @@
         "section_2_button_text": {
           "tz_sw": true
         },
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
@@ -488,7 +495,8 @@
       "section_1_extra_text": "Many short moments of connection each day or week help build trust and give you more chances to guide your teen than long, serious conversations.",
       "section_2_title": "PLAY",
       "section_2_text": "Let your teen choose.\n\nTell your teen that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first, but they will come to enjoy this time with you!",
-      "section_2_button_text": "One-on-one time helps you understand your teen’s world better. Ask open questions like “What was the best part of your day?” or “Can you show me something you enjoy?”. This helps them feel seen and supported.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "One-on-one time helps you understand your teen’s world better. Ask open questions like “What was the best part of your day?” or “Can you show me something you enjoy?”. This helps them feel seen and supported.",
       "section_3_title": "STAY",
       "section_3_text": "Focus on your teen.\n\nSwitch off the TV and put phones aside. Look at your teen. Nod or say “I see” to show that you are really paying attention. Accept what they say without judging them.",
       "completed": false
@@ -694,6 +702,33 @@
       },
       "media_title": "Here's what @data.characters.media_daughter_1.name has to say about one-on-one time with her mother",
       "media_transcript": "When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick.” But she said “No, I just want to spend time.” I was sceptical, but I accepted.\n\nShe asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own.\n\nThe more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now.",
+      "completed": false
+    },
+    {
+      "id": "check_out_1",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "media_type": "video",
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "category_id": "check_out",
+      "nested": false,
+      "media_title": "Here is a short video to help you slow down before you go",
+      "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "text_2": "Well done for taking time for yourself today. 🎉",
       "completed": false
     }
   ],

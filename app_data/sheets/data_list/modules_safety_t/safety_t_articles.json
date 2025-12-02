@@ -119,7 +119,7 @@
         "character_2_text": {
           "tz_sw": true
         },
-        "character_4_text": {
+        "character_3_text": {
           "tz_sw": true
         },
         "quiz_1_question": {
@@ -157,7 +157,7 @@
         "character_2_text": {
           "eng": "Uhmmm... I don’t…"
         },
-        "character_4_text": {
+        "character_3_text": {
           "eng": "Yes, she’ll have it!"
         },
         "quiz_1_question": {
@@ -185,7 +185,7 @@
       "text_2": "Friend pushes @data.characters.f2_daughter_19.name to accept food",
       "character_1_text": "Hi beautiful, can I buy you a snack?",
       "character_2_text": "Uhmmm... I don’t…",
-      "character_4_text": "Yes, she’ll have it!",
+      "character_3_text": "Yes, she’ll have it!",
       "quiz_1_question": "What warning signs do you see here?",
       "quiz_1_option_1_text": "The friend pressures and manipulates @data.characters.f2_daughter_19.name",
       "quiz_1_feedback_1": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices.",
@@ -214,7 +214,7 @@
         "character_2_text": {
           "tz_sw": true
         },
-        "character_4_text": {
+        "character_3_text": {
           "tz_sw": true
         },
         "quiz_1_question": {
@@ -249,7 +249,7 @@
         "character_2_text": {
           "eng": "I am not sure… I heard some bad things about this."
         },
-        "character_4_text": {
+        "character_3_text": {
           "eng": "Don’t worry, that won’t happen to you. Just try it once, you will see."
         },
         "quiz_1_question": {
@@ -276,7 +276,7 @@
       },
       "character_1_text": "You should try this! It will boost your energy so you can study or work till the next morning.",
       "character_2_text": "I am not sure… I heard some bad things about this.",
-      "character_4_text": "Don’t worry, that won’t happen to you. Just try it once, you will see.",
+      "character_3_text": "Don’t worry, that won’t happen to you. Just try it once, you will see.",
       "quiz_1_question": "What warning signs do you see here?\n\nThe friend:",
       "quiz_1_option_1_text": "Pressures @data.characters.f1_son_18.name to do something unsafe",
       "quiz_1_feedback_1": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
@@ -540,7 +540,7 @@
         "character_2_text": {
           "tz_sw": true
         },
-        "character_4_text": {
+        "character_3_text": {
           "tz_sw": true
         },
         "quiz_1_question": {
@@ -581,7 +581,7 @@
         "character_2_text": {
           "eng": "My friend also needs support. Can I invite him too?"
         },
-        "character_4_text": {
+        "character_3_text": {
           "eng": "No, this will be our secret. You don't want people to think you are stupid, right?"
         },
         "quiz_1_question": {
@@ -614,7 +614,7 @@
       },
       "character_1_text": "@data.characters.f2_son_15.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you.",
       "character_2_text": "My friend also needs support. Can I invite him too?",
-      "character_4_text": "No, this will be our secret. You don't want people to think you are stupid, right?",
+      "character_3_text": "No, this will be our secret. You don't want people to think you are stupid, right?",
       "quiz_1_question": "What warning signs do you see here?\n\nThe teacher:",
       "quiz_1_option_1_text": "Abuses his power",
       "quiz_1_feedback_1": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",

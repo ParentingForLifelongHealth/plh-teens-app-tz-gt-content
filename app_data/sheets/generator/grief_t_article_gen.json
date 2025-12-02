@@ -130,6 +130,11 @@
       "flow_name": "article_grief_t_teen_test_1",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "article_grief_t_check_out_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }

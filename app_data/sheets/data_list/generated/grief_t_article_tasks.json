@@ -884,6 +884,33 @@
       "media_title": "Hear how @data.characters.media_daughter_10.name and her father learned to support each other",
       "media_transcript": "When I lost my mom, everything changed. I was so sad, but it felt like my dad couldn't understand. Our relationship suffered. We did our own things and we stopped talking to each other. But then something incredible happened.\n\nMy dad learnt all these things from the app about what to do when you lose someone. He asked me how I was doing and we started to talk again. He explained that he was sad too, and he even said he was sorry for not talking to me after my mom died. We can now see that it is hard for both of us, and we can help each other. He is supporting me and we are a lot closer.",
       "completed": false
+    },
+    {
+      "id": "check_out_1",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "media_type": "video",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "category_id": "check_out",
+      "nested": false,
+      "media_title": "Here is a short video to help you slow down before you go",
+      "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "completed": false
     }
   ],
   "_metadata": {

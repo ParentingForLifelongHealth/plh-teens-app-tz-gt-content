@@ -786,6 +786,32 @@
       },
       "media_title": "Spending quality time together helped @data.characters.media_daughter_11.name and her mother connect and learn. Listen to their story",
       "media_transcript": "In the past there were times my mom got angry and she would shout at me before beating me. But since my mom started using @global.app_name, she tries to create time for us to interact and for us to have fun discussions.\n\nWe play games, we sing together and other stuff… She takes time to listen before jumping to conclusions, like she listens and then she calms down and takes her time to explain, and then be like “what you did is not good” and such."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

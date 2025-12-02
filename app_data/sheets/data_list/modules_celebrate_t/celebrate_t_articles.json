@@ -97,9 +97,7 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -130,7 +128,7 @@
           "eng": "MEET"
         },
         "section_1_text": {
-          "eng": "Keep meeting regularly to give each other parenting support."
+          "eng": "Keep meeting regularly to give each other parenting support and reflect about how things are going in your families."
         },
         "section_2_title": {
           "eng": "CALL"
@@ -153,7 +151,7 @@
       },
       "text_2": "**Here are some ideas on how you can support each other:**",
       "section_1_title": "MEET",
-      "section_1_text": "Keep meeting regularly to give each other parenting support.",
+      "section_1_text": "Keep meeting regularly to give each other parenting support and reflect about how things are going in your families.",
       "section_2_title": "CALL",
       "section_2_text": "Be ‘parenting buddies’ to call when you are upset or do not know what to do.",
       "section_3_title": "TEXT",

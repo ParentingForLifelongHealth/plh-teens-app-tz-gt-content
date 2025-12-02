@@ -389,10 +389,9 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
-      "section_4_icon_asset": "images/icons/brain_blue.png",
+      "section_1_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_3_icon_asset": "images/icons/brain_blue.png",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!",
@@ -418,16 +417,10 @@
         "section_3_text": {
           "tz_sw": true
         },
-        "section_4_title": {
+        "section_3_button_text": {
           "tz_sw": true
         },
-        "section_4_text": {
-          "tz_sw": true
-        },
-        "section_4_button_text": {
-          "tz_sw": true
-        },
-        "section_4_extra_text": {
+        "section_3_extra_text": {
           "tz_sw": true
         }
       },
@@ -436,61 +429,51 @@
           "eng": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!"
         },
         "section_1_title": {
-          "eng": "CONNECT"
-        },
-        "section_1_text": {
-          "eng": "Make sure your teen knows they can talk to you about anything that happens online and offline, and if a crisis happens, you will handle it together."
-        },
-        "section_2_title": {
           "eng": "BREATHE"
         },
-        "section_2_text": {
+        "section_1_text": {
           "eng": "Stay calm. Ask yourself, \"What does my teen need right now?\""
         },
-        "section_3_title": {
+        "section_2_title": {
           "eng": "LISTEN"
         },
-        "section_3_text": {
+        "section_2_text": {
           "eng": "Tell them you are there for them and love them."
         },
-        "section_4_title": {
+        "section_3_title": {
           "eng": "THINK"
         },
-        "section_4_text": {
+        "section_3_text": {
           "eng": "Talk with your teen. What might help the situation? Reach out to the available support around you, in your community, and online."
         },
-        "section_4_button_text": {
+        "section_3_button_text": {
           "eng": "More tips"
         },
-        "section_4_extra_text": {
+        "section_3_extra_text": {
           "eng": "You might need to make immediate plans now and then long-term plans later. Remember, you can find Support Contacts in the @global.app_name Library."
         }
       },
-      "section_1_title": "CONNECT",
-      "section_1_text": "Make sure your teen knows they can talk to you about anything that happens online and offline, and if a crisis happens, you will handle it together.",
-      "section_2_title": "BREATHE",
-      "section_2_text": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
-      "section_3_title": "LISTEN",
-      "section_3_text": "Tell them you are there for them and love them.",
-      "section_4_title": "THINK",
-      "section_4_text": "Talk with your teen. What might help the situation? Reach out to the available support around you, in your community, and online.",
-      "section_4_button_text": "More tips",
-      "section_4_extra_text": "You might need to make immediate plans now and then long-term plans later. Remember, you can find Support Contacts in the @global.app_name Library."
+      "section_1_title": "BREATHE",
+      "section_1_text": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
+      "section_2_title": "LISTEN",
+      "section_2_text": "Tell them you are there for them and love them.",
+      "section_3_title": "THINK",
+      "section_3_text": "Talk with your teen. What might help the situation? Reach out to the available support around you, in your community, and online.",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "You might need to make immediate plans now and then long-term plans later. Remember, you can find Support Contacts in the @global.app_name Library."
     },
     {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
-      "text_1_facilitator": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: CONNECT - BREATHE - LISTEN - THINK",
+      "text_1_facilitator": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: BREATHE - LISTEN - THINK",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: CONNECT - BREATHE - LISTEN - THINK"
+          "eng": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: BREATHE - LISTEN - THINK"
         }
       }
     },
@@ -508,7 +491,8 @@
         },
         "character_1_text": {
           "tz_sw": true
-        }
+        },
+        "quiz_1_question": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -516,9 +500,13 @@
         },
         "character_1_text": {
           "eng": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do"
+        },
+        "quiz_1_question": {
+          "eng": "How could you respond to @data.characters.f1_daughter_16.name?"
         }
       },
-      "character_1_text": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do"
+      "character_1_text": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do",
+      "quiz_1_question": "How could you respond to @data.characters.f1_daughter_16.name?"
     },
     {
       "id": "practise_3",
@@ -534,7 +522,14 @@
         },
         "character_1_text": {
           "tz_sw": true
-        }
+        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -542,9 +537,37 @@
         },
         "character_1_text": {
           "eng": "I do not want to have a baby."
+        },
+        "quiz_1_question": {
+          "eng": "How could you respond to @data.characters.f1_son_18.name?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Get angry and scold"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Think again. It’s normal to feel upset, but getting angry can hurt your relationship and make it harder for @data.characters.f1_son_18.name and the girl to get the support they need.\n\nPregnancy is not only the girl’s responsibility. Both boys and girls share responsibility, and anger makes it harder to handle the situation safely."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Take a pause and talk later"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, this can help. A pause gives you time to calm down and think. \n\nWhen you talk later, you can listen, understand what happened, and remind @data.characters.f1_son_18.name that being responsible means owning his part and showing respect to the girl. A calm talk helps both teens make a safe, healthy plan."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Ask a friend for support"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, this is helpful. Talking to a trusted friend gives you support and helps you stay calm. Boys and girls both need care, guidance, and help to understand respect and consequences. When you feel supported, it’s easier to help @data.characters.f1_son_18.name take responsibility and for both families to plan what comes next."
         }
       },
-      "character_1_text": "I do not want to have a baby."
+      "character_1_text": "I do not want to have a baby.",
+      "quiz_1_question": "How could you respond to @data.characters.f1_son_18.name?",
+      "quiz_1_option_1_text": "Get angry and scold",
+      "quiz_1_feedback_1": "Think again. It’s normal to feel upset, but getting angry can hurt your relationship and make it harder for @data.characters.f1_son_18.name and the girl to get the support they need.\n\nPregnancy is not only the girl’s responsibility. Both boys and girls share responsibility, and anger makes it harder to handle the situation safely.",
+      "quiz_1_option_2_text": "Take a pause and talk later",
+      "quiz_1_feedback_2": "Yes, this can help. A pause gives you time to calm down and think. \n\nWhen you talk later, you can listen, understand what happened, and remind @data.characters.f1_son_18.name that being responsible means owning his part and showing respect to the girl. A calm talk helps both teens make a safe, healthy plan.",
+      "quiz_1_option_3_text": "Ask a friend for support",
+      "quiz_1_feedback_3": "Yes, this is helpful. Talking to a trusted friend gives you support and helps you stay calm. Boys and girls both need care, guidance, and help to understand respect and consequences. When you feel supported, it’s easier to help @data.characters.f1_son_18.name take responsibility and for both families to plan what comes next."
     },
     {
       "id": "practise_4",
@@ -558,7 +581,14 @@
         "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
-        }
+        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -566,9 +596,37 @@
         },
         "character_1_text": {
           "eng": "I have never done this before. And now they will expel me."
+        },
+        "quiz_1_question": {
+          "eng": "How could you respond to @data.characters.f2_son_15.name?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Shout at @data.characters.f2_son_15.name and punish hiim"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "We all feel like doing this sometimes! But shouting or punishing makes it harder for your teen to talk to you now and in the future. Staying calm helps you understand what happened and support your teen to fix things safely and learn."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Stay calm and listen first"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes. Staying calm helps your teen feel safe to talk. Listening first helps you understand what happened and why. When your teen feels heard, it’s easier for them to talk and think about what needs to happen next."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Help him take responsibility and make a plan"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes. You can help your teen think about what to do next — like speaking honestly to the school, apologising if someone was hurt, or learning safer ways to handle anger. A simple plan helps your teen move forward and avoid fighting again."
         }
       },
-      "character_1_text": "I have never done this before. And now they will expel me."
+      "character_1_text": "I have never done this before. And now they will expel me.",
+      "quiz_1_question": "How could you respond to @data.characters.f2_son_15.name?",
+      "quiz_1_option_1_text": "Shout at @data.characters.f2_son_15.name and punish hiim",
+      "quiz_1_feedback_1": "We all feel like doing this sometimes! But shouting or punishing makes it harder for your teen to talk to you now and in the future. Staying calm helps you understand what happened and support your teen to fix things safely and learn.",
+      "quiz_1_option_2_text": "Stay calm and listen first",
+      "quiz_1_feedback_2": "Yes. Staying calm helps your teen feel safe to talk. Listening first helps you understand what happened and why. When your teen feels heard, it’s easier for them to talk and think about what needs to happen next.",
+      "quiz_1_option_3_text": "Help him take responsibility and make a plan",
+      "quiz_1_feedback_3": "Yes. You can help your teen think about what to do next — like speaking honestly to the school, apologising if someone was hurt, or learning safer ways to handle anger. A simple plan helps your teen move forward and avoid fighting again."
     },
     {
       "id": "practise_5",
@@ -584,7 +642,14 @@
         },
         "character_1_text": {
           "tz_sw": true
-        }
+        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -592,9 +657,37 @@
         },
         "character_1_text": {
           "eng": "The test said I have HIV. I am scared I am going to die."
+        },
+        "quiz_1_question": {
+          "eng": "How could you respond to @data.characters.friend_female_1.name in this situation?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Feel angry with @data.characters.friend_female_1.name"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "However you feel, blaming will only make things worse. Get more information about HIV so you know what steps to take. You can reassure your teen that it’s not her fault, HIV is treatable, and many people live long, healthy lives with treatment. Calm support helps your teen feel safe and able to talk."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Listen to her feelings"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, this is a caring response. When someone is scared, the first step is to listen. Let your teen share how they feel and show understanding. Feeling heard can reduce panic and help you both think about what to do next."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Help her make a simple plan"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Exactly. A small, simple plan can reduce stress and help keep @data.characters.friend_female_1.name as safe as possible. \n\nYou can talk with your teen about going to the clinic, getting more information about treatment, or deciding who to tell. A plan helps your family feel more in control."
         }
       },
-      "character_1_text": "The test said I have HIV. I am scared I am going to die."
+      "character_1_text": "The test said I have HIV. I am scared I am going to die.",
+      "quiz_1_question": "How could you respond to @data.characters.friend_female_1.name in this situation?",
+      "quiz_1_option_1_text": "Feel angry with @data.characters.friend_female_1.name",
+      "quiz_1_feedback_1": "However you feel, blaming will only make things worse. Get more information about HIV so you know what steps to take. You can reassure your teen that it’s not her fault, HIV is treatable, and many people live long, healthy lives with treatment. Calm support helps your teen feel safe and able to talk.",
+      "quiz_1_option_2_text": "Listen to her feelings",
+      "quiz_1_feedback_2": "Yes, this is a caring response. When someone is scared, the first step is to listen. Let your teen share how they feel and show understanding. Feeling heard can reduce panic and help you both think about what to do next.",
+      "quiz_1_option_3_text": "Help her make a simple plan",
+      "quiz_1_feedback_3": "Exactly. A small, simple plan can reduce stress and help keep @data.characters.friend_female_1.name as safe as possible. \n\nYou can talk with your teen about going to the clinic, getting more information about treatment, or deciding who to tell. A plan helps your family feel more in control."
     },
     {
       "id": "practise_6",
@@ -610,7 +703,8 @@
         },
         "character_1_text": {
           "tz_sw": true
-        }
+        },
+        "quiz_1_question": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -618,9 +712,13 @@
         },
         "character_1_text": {
           "eng": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
+        },
+        "quiz_1_question": {
+          "eng": "How could you respond to @data.characters.f2_daughter_19.name?"
         }
       },
-      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
+      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared...",
+      "quiz_1_question": "How could you respond to @data.characters.f2_daughter_19.name?"
     },
     {
       "id": "home_activity_1",

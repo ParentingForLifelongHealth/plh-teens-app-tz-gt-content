@@ -425,7 +425,7 @@
           "eng": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works."
         },
         "character_2_text": {
-          "eng": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
+          "eng": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side."
         }
       },
       "category_id": "explore",
@@ -438,11 +438,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
-      "character_2_text": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he...",
+      "character_2_text": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side.",
       "completed": false
     },
     {
@@ -528,13 +526,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward."
-        },
-        "text_2": {
-          "eng": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
+          "eng": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and her parents feel worried about it."
         },
         "quiz_1_question": {
-          "eng": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!"
+          "eng": "What could @data.characters.f1_mother.name and @data.characters.f1_father.name do to handle the situation? \nTap on each option to see if these solutions worked!"
         },
         "quiz_1_option_1_text": {
           "eng": "Ground @data.characters.f1_daughter_16.name for a month"
@@ -569,11 +564,9 @@
       },
       "category_id": "practise",
       "nested": false,
-      "quiz_1_question": "What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \nTap on each option to see if these solutions worked!",
+      "quiz_1_question": "What could @data.characters.f1_mother.name and @data.characters.f1_father.name do to handle the situation? \nTap on each option to see if these solutions worked!",
       "_translations": {
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -583,12 +576,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {},
@@ -604,8 +592,7 @@
       "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",
       "quiz_1_option_2_text": "Return the phone and save up together to buy a new one",
       "quiz_1_option_3_text": "Talk to @data.characters.f1_daughter_16.name about safe sex",
-      "text_1_facilitator": "You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n\nThese simple steps help families stay calm and find a way forward.",
-      "text_2": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it.",
+      "text_1_facilitator": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and her parents feel worried about it.",
       "quiz_1_feedback_1_id": "practise_1_nested_1",
       "quiz_1_feedback_2_id": "practise_1_nested_2",
       "quiz_1_feedback_3_id": "practise_1_nested_3",
@@ -746,6 +733,33 @@
       },
       "media_title": "Can you make an impact on your community with these skills? Hear @data.characters.media_son_2.name's story",
       "media_transcript": "When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends.\n\nI told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.”\n\nMy friends even took it to their own homes, and it is helping with their families as well!\n\nIt is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family.",
+      "completed": false
+    },
+    {
+      "id": "check_out_1",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "media_type": "video",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "category_id": "check_out",
+      "nested": false,
+      "media_title": "Here is a short video to help you slow down before you go",
+      "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "text_2": "Well done for taking time for yourself today. 🎉",
       "completed": false
     }
   ],

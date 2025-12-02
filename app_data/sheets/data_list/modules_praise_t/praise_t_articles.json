@@ -235,18 +235,16 @@
       "character_2_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
-      "character_1_text": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes.",
+      "character_1_text": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
+          "eng": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too."
         },
         "character_2_text": {
           "eng": "Okay, fine."
@@ -528,6 +526,32 @@
       },
       "media_title": "Hear from @data.characters.media_daughter_2.name on how it feels to get praise from her mother",
       "media_transcript": "I was grateful when my mother learned about praise.\n\nBefore the workshop, she mostly noticed when I did something wrong. She would shout and sometimes hit me.\n\nBut after the workshop, she began praising me for small things — even things she never noticed before, like my good maths grades. At first I thought, ‘What is going on?’ But she kept doing it. I liked it, so I started doing more good things.\n\nIt feels good that my mother now sees the good in me, not only the bad.\n\nOne day during one-on-one time, I told her, ‘Thank you, Mama, for saying something nice when I do things well, not only when I do things wrong.’ It made both of us very happy."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

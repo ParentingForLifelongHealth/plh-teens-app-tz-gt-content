@@ -157,7 +157,6 @@
       "image_asset": "/images/teen_modules/instruct/instruct2_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
-      "character_3_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
       "text_1_facilitator": "Let’s see what happens if @data.characters.f2_grandmother.name tells @data.characters.f2_daughter_19.name \"DON'T\":",
@@ -170,9 +169,6 @@
         },
         "character_2_text": {
           "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -184,41 +180,45 @@
         },
         "character_2_text": {
           "eng": "But I need to practise for the match on Saturday. You never let me do anything."
-        },
-        "character_3_text": {
-          "eng": "Don't you talk back to me!"
         }
       },
       "character_1_text": "Stop kicking that ball around. Can’t you see we are busy here? You’ll knock over the pot!",
-      "character_2_text": "But I need to practise for the match on Saturday. You never let me do anything.",
-      "character_3_text": "Don't you talk back to me!"
+      "character_2_text": "But I need to practise for the match on Saturday. You never let me do anything."
     },
     {
       "id": "explore_6",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/instruct/instruct2_t_3.svg",
-      "character_1_id": "f2_daughter_19",
-      "character_2_id": "f2_grandmother",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_daughter_19",
+      "character_3_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
-      "character_1_text": "Arrg!! Why am I being yelled at all the time????",
+      "character_1_text": "Don't you talk back to me!",
       "_translations": {
         "character_1_text": {
           "tz_sw": true
         },
         "character_2_text": {
           "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Arrg!! Why am I being yelled at all the time????"
+          "eng": "Don't you talk back to me!"
         },
         "character_2_text": {
+          "eng": "Arrg!! Why am I being yelled at all the time????"
+        },
+        "character_3_text": {
           "eng": "(🤔_thinking_) That child is always making trouble."
         }
       },
-      "character_2_text": "(🤔_thinking_) That child is always making trouble."
+      "character_2_text": "Arrg!! Why am I being yelled at all the time????",
+      "character_3_text": "(🤔_thinking_) That child is always making trouble."
     },
     {
       "id": "explore_7",
@@ -239,9 +239,7 @@
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
@@ -287,7 +285,7 @@
           "eng": "Sad"
         },
         "quiz_1_feedback_1": {
-          "eng": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother.role_name."
+          "eng": "She might feel like her grandmother doesn't understand her needs."
         },
         "quiz_1_option_2_text": {
           "eng": "Confused"
@@ -325,7 +323,7 @@
       },
       "quiz_1_question": "How do you think @data.characters.f2_daughter_19.name felt about the way @data.characters.f2_grandmother.name responded?",
       "quiz_1_option_1_text": "Sad",
-      "quiz_1_feedback_1": "Let's look at what happened here with @data.characters.f2_daughter_19.name and her @data.characters.f2_grandmother.role_name.",
+      "quiz_1_feedback_1": "She might feel like her grandmother doesn't understand her needs.",
       "quiz_1_option_2_text": "Confused",
       "quiz_1_feedback_2": "It's possible! How is she meant to practise? What should she do?",
       "quiz_1_option_3_text": "Angry",
@@ -385,9 +383,7 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -397,13 +393,13 @@
           "eng": "@data.characters.f2_daughter_19.name and her friend enjoy practising their soccer moves."
         },
         "character_1_text": {
-          "eng": "Okay, @data.characters.f2_grandmother.role_name!"
+          "eng": "Thank you for playing behind the house while I was cooking, @data.characters.f2_daughter_19.name. Now we have time to watch you play."
         },
         "character_2_text": {
           "eng": "Yay! We learned lots of new moves, look!"
         }
       },
-      "character_1_text": "Okay, @data.characters.f2_grandmother.role_name!",
+      "character_1_text": "Thank you for playing behind the house while I was cooking, @data.characters.f2_daughter_19.name. Now we have time to watch you play.",
       "character_2_text": "Yay! We learned lots of new moves, look!"
     },
     {
@@ -411,7 +407,7 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/instruct/instruct3_t_4.svg",
       "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_grandmother",
+      "character_2_id": "f2_grandfather",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
       "character_1_text": "That was a great shot, @data.characters.f2_daughter_19.name, you keep getting better!",
@@ -452,9 +448,7 @@
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
@@ -500,7 +494,7 @@
           "eng": "Happy"
         },
         "quiz_1_feedback_1": {
-          "eng": "How do @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, feel now?"
+          "eng": "Yes! By giving positive instructions, @data.characters.f2_grandmother.name was able to turn the situation into a positive one for everyone."
         },
         "quiz_1_option_2_text": {
           "eng": "Okay"
@@ -538,7 +532,7 @@
       },
       "quiz_1_question": "How do @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, feel now?",
       "quiz_1_option_1_text": "Happy",
-      "quiz_1_feedback_1": "How do @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, feel now?",
+      "quiz_1_feedback_1": "Yes! By giving positive instructions, @data.characters.f2_grandmother.name was able to turn the situation into a positive one for everyone.",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_feedback_2": "It's possible! @data.characters.f2_daughter_19.name may wish she could practise in front of the house, but this is a better outcome than the previous scenario.",
       "quiz_1_option_3_text": "Sad",
@@ -784,6 +778,32 @@
       },
       "media_title": "Hear how positive instructions helped @data.characters.media_daughter_3.name and her mother",
       "media_transcript": "At first, I did not care much that my mother was doing with @global.app_name. But then I started to see my mother change how she communicated with us.\n\nOne day, when I was going out with my friends, she said I must be home by 6pm. I was like “Hmmm okay,” because she normally did not give clear instructions on what she wanted – she would just say nothing and then shout at me for being late when I got home.\n\nWhen I got home around 5pm, my mother gave me a hug and said “Thank you for being on time.” It was strange, but I liked it.\n\nSince then, we have much clearer communication in the house."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1FvLY5HGvIn-ep8ZJZErlsMILU9OXrlOTNtKEFqmaAps",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

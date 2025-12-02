@@ -1554,9 +1554,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {
-          "tz_sw": true
-        },
+        "media_title": {},
         "media_transcript": {
           "tz_sw": true
         }
@@ -1566,14 +1564,40 @@
           "eng": "Talking openly with your teen about body changes and relationships helps them feel safe, supported, and better able to make healthy choices. \n\nNo matter your teen’s age, now is the best time to build trust and guide them with care."
         },
         "media_title": {
-          "eng": "@data.characters.media_daughter_8.name learned a lot from honest talks with her mother. Tap play to hear their story"
+          "eng": "@data.characters.media_male_8.name learned a lot from honest talks with his parents. Tap play to hear their story"
         },
         "media_transcript": {
           "eng": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a ‘real man’ and I was scared to tell my parents.\n\nWhen we did @global.app_name, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together."
         }
       },
-      "media_title": "@data.characters.media_daughter_8.name learned a lot from honest talks with her mother. Tap play to hear their story",
+      "media_title": "@data.characters.media_male_8.name learned a lot from honest talks with his parents. Tap play to hear their story",
       "media_transcript": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a ‘real man’ and I was scared to tell my parents.\n\nWhen we did @global.app_name, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

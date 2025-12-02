@@ -6133,9 +6133,15 @@
   },
   {
     "SourceText": "My teens used to ask for many things and couldn’t understand when I said, “I don’t have money for that right now.” They would say, “But you have a job!”\n\nOne day I sat with them and showed them all our monthly costs and how much is left. After that, they understood. Now they even share ideas on how we can save for small goals, like new shoes or birthdays, and bigger things like school fees. For my older one, I also opened a savings account.\n\nBudgeting together has made me realise that it’s not just earning money that is important but actually showing up as a father. This has made me feel less stressed and less alone with the money worries, because now we plan together as a family.",
-    "text": "Vijana wangu wamekuwa wakiomba vitu mbalimbali, na walikuwa hawanielewi nikiwaeleza, “sina pesa”\n\nSiku moja niliketi nao na kuwaonyesha gharama zetu zote kwa mwezi na kiasi kilicho salio. Baada ya hapo walielewa. Kwa sasa hata wao wanachangia mawazo kuhusiana na namna gani tunaweza kupunguza gharama tunazozitumia kwa vitu vidogo vidogo kama vile kununua viatu vipya na sherehe za kuzaliwa. Na kuwekeza kwenye vitu vikubwa kama vile ada za shule. Vilevile nimefunga akaunti ya akiba kwa ajili ya kijana wangu mkubwa.\n\nKupanga bajeti pamoja kumenifanya nitambue kwamba siyo tu kutafuta pesa ndio jambo muhimu lakini pia kujionyesha kama baba. Hii imenifanya nijihisi mwenye mawazo kidogo, na siyo peke yangu mwenye hofu ya pesa, kwa sababu kwa sasa tunapanga pamoja kama familia.",
+    "text": "Vijana wangu wamekuwa wakiomba vitu mbalimbali, na walikuwa hawanielewi nikiwaeleza, “sina pesa”\n\nSiku moja niliketi nao na kuwaonyesha gharama zetu zote kwa mwezi na kiasi kilicho salio. Baada ya hapo walielewa. Kwa sasa hata wao wanachangia mawazo kuhusiana na namna gani tunaweza kupunguza gharama tunazozitumia kwa vitu vidogo vidogo kama vile kununua viatu vipya na sherehe za kuzaliwa. Na kuwekeza kwenye vitu vikubwa kama vile ada za shule. Vilevile nimefungua akaunti ya akiba kwa ajili ya kijana wangu mkubwa.\n\nKupanga bajeti pamoja kumenifanya nitambue kwamba siyo tu kutafuta pesa ndio jambo muhimu lakini pia kujionyesha kama baba. Hii imenifanya nijihisi mwenye mawazo kidogo, na siyo peke yangu mwenye hofu ya pesa, kwa sababu kwa sasa tunapanga pamoja kama familia.",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "It can be hard to make ends meet every month. Many families have this problem!\n\nIncluding @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name. Let's have a look:",
+    "text": "Inaweza kuwa vigumu kumudu mahitaji kila mwezi. familia nyingi hukabiliana na tatizo hili! \n\nIkiwemo@data.characters.f2_grandmother.name na @data.characters.f2_grandfather.name. Hebu tuangalie:",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_grandmother.name\n@data.characters.f2_grandfather.name."
   },
   {
     "SourceText": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again.",
@@ -7699,7 +7705,7 @@
   },
   {
     "SourceText": "Before I was only seen as the judge and punisher, coming in when a problem was already big. I was always blaming my wife that she was not being strict with the children and making me look like a bad person, and my wife blamed me for not being around. \n\nNow that we learned how to create family rules together, I am part of family conversations from the start. It makes me feel closer to my children and my wife.",
-    "text": "Kabla, nilikuwa naonekana tu kama hakimu na mtoa adhabu, ilikuwa nikifika tu pale wakati tayari shida imeshakuwa kubwa na kuanza kumlaumu mke wangu kila wakati, kwamba hakuwa mkali kwa watoto na kunifanaya nionekane kama mtu mbaya, na mke wangu kunilaumu mimi kwa kutokuwepo karibu.\n\nkwa sasa tumejifunza jinsi ya kuunda sheria za familia pamoja, mimi ni sehemu ya mazungumzo ya familia kutoka mwanzo. inanifanya nijisikie nipo karibu na watoto wangu na mke wangu.",
+    "text": "Hapo awali, nilikuwa naonekana tu kama hakimu na mtoa adhabu, ambaye hujitokeza tuu, pale ambapo tatizo linapokuwa kubwa. Mara kadhaa nilikuwa nikimlaumu mke wangu kwa kushindwa kuwa mkali kwa watoto na kunifanya nionekane mtu mbaya, na mke wangu naye kunilaumu mimi kwa kutokuwepo karibu.\n\nkwa sasa tumejifunza jinsi ya kuunda sheria za familia pamoja, mimi ni sehemu ya mazungumzo ya kifamilia kutoka mwanzo. Jambo hili linanifanya niwe karibu na watoto wangu na mke wangu pia.",
     "type": "data_list",
     "note": ""
   },
@@ -8550,10 +8556,34 @@
     "note": ""
   },
   {
+    "SourceText": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer? Is this different for boys and girls?\n- Looking at the places you mapped out, what rules could you come up with together to help your teen stay safe?",
+    "text": "-Ni maeneo gani kwenye ramani yako ambayo ni salama kwa vijana? ZUNGUSHA maeneo hayo kwa duara\n-Ni maeneo gani kwenye ramani yako ambayo si salama kwa vijana? VUKA maeneo hayo\n-Nini hufanya mahali pawe salama au pasiwe salama?\n-Wewe na kijana wako mnaweza kufanaya nini ili kumuweka kijana wako salama? Je, hili ni tofauti kwa wavulana na wasichana?\n-Kwa kuangalia maeneo uliyoyachora kwenye ramani, ni sheria gani mnazoweza kutunga pamoja ili kumsaidia kijana wako kubaki salama?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Step 3: Identify where you can get support.",
     "text": "Hatua ya 3: Tambua mahali unapoweza kupata msaada.",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper.\n- Remember your phone and other internet devices. There is a lot of support available online!",
+    "text": "Wakati mwingine, tunaweza kujikuta kwenye matatizo.\n\n-Ni wapi wewe na kijana wako mnaweza kupata msaada mnapokumbana na majanga(dharura)? WEKA ALAMA kwenye maeneo hayo kwa kitu kidogo kama jiwe au kipande cha karatasi.\n-Kumbuka simu yako na vifaa vingine vya mtandaoni. Kuna msaada mwingi unaopatikana mtandaoni!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Now that we understand our safe and unsafe places better, let’s look at an example where something simple, like a Safety Word, can help keep your teen safe.",
+    "text": "Sasa tunafahamu vizuri zaidi maeneo yetu salama na yasiyo salama, hebu tuchunguze mfano ambapo jambo rahisi, kama Neno la Usalama, linaweza kusaidia kumuweka kijana wako salama.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:",
+    "text": "Je, kulikuwa na wakati wowote ambapo ulikuwa katika hatari lakini hukuweza kuieleza familia yako kwa sababu ungehofia wangekasirika?\n\nHili LILIKARIBIA kumtokea @data.characters.f1_son_18.name na @data.characters.f1_daughter_16.name! Hebu tuangalie:",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f1_son_18.name\n@data.characters.f1_daughter_16.name!"
   },
   {
     "SourceText": "Don’t tell the adults, but I am going to a bar with my friends tonight.",
@@ -8628,6 +8658,12 @@
     "note": ""
   },
   {
+    "SourceText": "Make a map with your teen of safe and unsafe areas in your community and online. Talk about how to keep their information, photos and videos private online. Talk about how once something goes online, it stays there forever. They might know an example from their friends.",
+    "text": "Tengeneza ramani pamoja na kijana wako ya maeneo salama na yasiyo salama katika jamii yenu na mtandaoni. Zungumzia jinsi ya kuweka taarifa zao, picha na video kuwa binafsi mtandaoni. Zungumzia pia jinsi jambo fulani linapowekwa mtandaoni, linabaki pale daima. wanaweza kujua mfano kutoka kwa marafiki zao.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "RULES",
     "text": "SHERIA",
     "type": "data_list",
@@ -8636,6 +8672,12 @@
   {
     "SourceText": "Make rules with your teen about how they can stay safe in your community (especially in risky areas that cannot be avoided), and how they can safely use the apps and websites that they like.",
     "text": "Tengeneza sheria na kijana wako kuhusu jinsi ya kujilinda katika jamii yenu (hasa katika maeneo hatari ambayo hayaepukiki), na jinsi wanavyoweza kutumia kwa usalama programu na tovuti wanazozipenda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Explore with your teen if you can create a rule around sharing with a trusted adult when something feels wrong. This can really help them stay safe in person and online.",
+    "text": "Chunguza pamoja na kijana wako kama mnaweza kuunda sheria kuhusu kushirikisha jambo kwa mtu mzima anayeaminika wakati unapo hisi jambo linakuwa si sawa. Hii inaweza kuwasaidia sana kubaki salama, kihalisi na mtandaoni.",
     "type": "data_list",
     "note": ""
   },
@@ -8660,6 +8702,12 @@
   {
     "SourceText": "What Safety Word can you choose with your teen? Here are some ideas from other families:\n\n🥑 A specific food\n👵🏽 A specific family member\n🐒 A specific animal\n🤔 Something else",
     "text": "Neno gani la Usalama mnaweza kulichagua pamoja na kijana wako? Hapa kuna baadhi ya mawazo kutoka kwa familia ziingine:\n\n🥑 Chakula maalum\n👵🏽 Mwana familia maalum\n🐒 Mnyama maalum\n🤔 Kitu kingine chochote",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you have not done it together yet, this week's home assignment is to make a map with your teen of safe and unsafe places. You can include places from your community 🗺️ and even apps and websites your teen uses online 🌐.\n\nMake sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this.",
+    "text": "Kama bado hamjafanya pamoja, kazi ya nyumbani ya wiki hii ni kutengeneza ramani pamoja na kijana wako ya maeneo salama na yasiyo salama. Unaweza kujumuisha maeneo ya jamii yako 🗺️ na hata programu na tovuti ambazo kijana wako anazitumia mtandaoni 🌐.\n\nHakikisha wote mmefurahia mpango salama, kinacho hitajika ni kwamba mnazungumza na kijana wako wakati mnatengeneza hili.",
     "type": "data_list",
     "note": ""
   },
@@ -8810,6 +8858,12 @@
   {
     "SourceText": "Excellent!",
     "text": "Bora!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Someone else",
+    "text": "Mtu mwingine",
     "type": "data_list",
     "note": ""
   },
@@ -9259,7 +9313,7 @@
   },
   {
     "SourceText": "No @data.characters.f2_grandfather.role_name, please don’t hit me, it is not what you think",
-    "text": "Hapana @data.characters.f2_grandfather.role_name, tafadhali usinipige, sivyo inavyofikiri",
+    "text": "Hapana @data.characters.f2_grandfather.role_name, tafadhali usinipige, sivyo unavyofikiri",
     "type": "data_list",
     "note": "The string @data.characters.f2_grandfather.role_name, should not be translated."
   },
@@ -9804,8 +9858,20 @@
     "note": ""
   },
   {
+    "SourceText": "Talk about body changes and puberty",
+    "text": "Zungumzia mabadiliko ya mwili na balehe",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions.",
     "text": "Zungumza na vijana wako kuhusiana na mabadiliko yakawaida ya mwili kama kuongezeka kimo, kuota nywele sehemu za siri, na mabadiliko ya sauti, maziwa au siku zao, na kuwa hisia kali au kuanza kumpenda mtu kimapenzi. waeleze kuwa kila mmoja hukua kwa namna yake. wasisitize kuuliza swali lolote kwako au mtu mzima anaeaminika.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Discuss risks and protection (or how to stay safe)",
+    "text": "Jadili hatari na namna ya kujikinga (au jinsi ya kubaki salama)",
     "type": "data_list",
     "note": ""
   },
@@ -9816,8 +9882,26 @@
     "note": ""
   },
   {
+    "SourceText": "Explain respectful relationships (or how to say ‘no’)",
+    "text": "Elezea mahusianao yenye heshima ( au jinsi ya kusema 'hapana')",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time.",
     "text": "Hakikisha kwamba vijana wako wanafahamu wanatakiwa kuwatendea kwa kwa heshima na na kwa wema, na wao wanatakiwa kutenda hivo pia. kwenye mahusiano watu wote wanatakiwa kujihisi salama na kusemandio ya kuhofia. hii inaitwa ' Ridhaa'. Vijana wanaeza sema hapana muda wowote.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Know where to go for help",
+    "text": "Jua mahali pakwenda kupata msaada",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe.",
+    "text": "Wewe na kijana wako mnaweza kupata msaada kutoka kwa watu wazima mnaowaamini, washauri wa shule, na kliniki kwa maswali kuhusu mabadiliko ya mwili, mahusiano, usalama, au njia za kuzuia mimba na maambukizi.\n\nZungumza na kijana wako kuhusu nani wanaweza kumwendea ikiwa watahisi kutokuwa na uhakika au kutokuwa salama.",
     "type": "data_list",
     "note": ""
   },
@@ -9866,6 +9950,12 @@
   {
     "SourceText": "More tips",
     "text": "Vidokezo zaidi\n",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reflect on your own experiences to guide your teen better: What support or advice did you get around body changes or relationships when you were a teen? How did being a boy or a girl impact you growing up?",
+    "text": "Fikiria kuhusu uzoefu wako wewe mwenyewe ili kumwelekeza kijana wako vizuri zaidi: Ulipokea msaada au ushauri gani kuhusu mabadiliko ya mwili au mahusiano wakati ulipo kuwa kijana? kuwa mvulana au msichana kulikuathirije ulipokuwa unakua?",
     "type": "data_list",
     "note": ""
   },

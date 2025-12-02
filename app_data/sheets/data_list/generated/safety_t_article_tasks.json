@@ -935,7 +935,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_2.svg",
       "text_2": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer? Is this different for boys and girls?\n- Looking at the places you mapped out, what rules could you come up with together to help your teen stay safe?",
@@ -959,7 +961,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_3.svg",
       "text_2": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper.\n- Remember your phone and other internet devices. There is a lot of support available online!",
@@ -986,8 +990,12 @@
       "nested": false,
       "text_1_facilitator": "Now that we understand our safe and unsafe places better, let’s look at an example where something simple, like a Safety Word, can help keep your teen safe.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -1171,7 +1179,9 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "text_1_facilitator": {
           "tz_sw": true
         },
@@ -1184,7 +1194,9 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {},
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
@@ -1267,7 +1279,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You can do it! Even starting the conversation is a big step towards helping your teen stay safe.",
       "quiz_1_feedback_3": "That's okay. It can feel hard at first, but small talks about safety make a big difference. Try again when you feel ready.",

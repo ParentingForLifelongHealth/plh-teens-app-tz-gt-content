@@ -330,7 +330,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too."
+          "eng": "It is not women’s work. @data.characters.f1_mother.role_name and @data.characters.f1_daughter_16.name are busy at work and school all day as well. We all need to play our part at home too."
         },
         "character_2_text": {
           "eng": "Okay, fine."
@@ -341,7 +341,7 @@
       "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
-      "character_1_text": "It is not women’s work. @data.characters.f1_mother_role.name and @data.characters.f1_daughter_16.name  are busy at work and school all day as well. We all need to play our part at home too.",
+      "character_1_text": "It is not women’s work. @data.characters.f1_mother.role_name and @data.characters.f1_daughter_16.name are busy at work and school all day as well. We all need to play our part at home too.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {

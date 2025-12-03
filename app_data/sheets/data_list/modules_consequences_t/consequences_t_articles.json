@@ -1130,6 +1130,32 @@
       },
       "media_title": "Tap play to hear how @data.characters.media_daughter_6.name learned to appreciate calm consequences",
       "media_transcript": "My mom and dad would always punish me when they were angry with me. They would shout at me and I would also get angry. I often did not follow the rules, because they were too harsh, I did not understand what they were saying, or I would not even bother listening to them, because we were all angry.\n\nOne day, they asked me: Let's think together what the consequence should be for not coming home in time. It was great to give my view – before something happens that makes us all angry. We are all calm and agree first. It is easier for me to follow the rules now because I know I agreed on the rule and on the consequence if I do not follow the rule."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_asset": "video",
+      "youtube_gb_en": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_transcript": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      },
+      "media_transcript": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

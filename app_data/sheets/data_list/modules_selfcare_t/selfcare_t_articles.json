@@ -75,6 +75,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "quiz_2_option_2_image_asset": "Remind them of easy ways to take care of themselves",
       "quiz_2_option_3_image_asset": "Help them find time to relax by offering to assist with chores or childcare",
       "quiz_2_option_4_image_asset": "Find moments of play and laughter together",

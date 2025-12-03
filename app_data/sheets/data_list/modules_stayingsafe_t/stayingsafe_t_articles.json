@@ -1146,6 +1146,27 @@
       },
       "media_title": "Hear how @data.characters.media_daughter_9.name used her voice to stay safe",
       "media_transcript": "It helped me a lot that I learnt I can use my voice to stay safe. A while ago, I was walking home alone and some man began to follow me and I felt scared. My father taught me that the most important thing is to be safe, so I turned around and said loud and clear ‘Why are you following me, I don’t want that’. It really surprised the man and even some other people looked at us, so the man walked away. I felt so relieved and even told my father. He said I did well and I felt really good. Before, I would have been too scared, also what other people think, but now I feel confident."
+    },
+    {
+      "id": "check_out_1",
+      "image_asset": "Well done for taking time for yourself today. 🎉",
+      "media_type": "Here is a short video to help you slow down before you go",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
+      "character_3_text": "video",
+      "_translations": {
+        "character_3_text": {},
+        "media_title": {}
+      },
+      "_translatedFields": {
+        "character_3_text": {
+          "eng": "video"
+        },
+        "media_title": {
+          "eng": "/video/plh_video/lets_slow_down.mp4"
+        }
+      },
+      "media_title": "/video/plh_video/lets_slow_down.mp4"
     }
   ],
   "_source": {

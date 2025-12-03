@@ -280,6 +280,7 @@
       "quiz_1_option_2_text": "Another caregiver",
       "quiz_1_option_3_text": "Friend",
       "text_1_facilitator": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other adults can make it easier.",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "quiz_2_option_2_image_asset": "Remind them of easy ways to take care of themselves",
       "quiz_2_option_3_image_asset": "Help them find time to relax by offering to assist with chores or childcare",
       "quiz_2_option_4_image_asset": "Find moments of play and laughter together",
@@ -394,11 +395,11 @@
       "quiz_1_option_2_text": "Getting up even though I felt tired",
       "quiz_1_option_3_text": "Smiling at someone",
       "text_1_facilitator": "Appreciating ourselves is one way to care for ourselves. \n\nLet’s give it a try.",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "quiz_1_option_4_text": "Making food to stay strong",
       "quiz_1_feedback_4": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_option_5_text": "Spending time with my children",
       "quiz_1_feedback_5": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "quiz_1_option_6_text": "Helping my children with schoolwork",
       "quiz_1_feedback_6": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "completed": false
@@ -492,11 +493,11 @@
       "quiz_1_option_2_text": "Talking with a friend",
       "quiz_1_option_3_text": "Reading something I enjoy",
       "text_1_facilitator": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_2.svg",
       "quiz_1_option_4_text": "Going for a walk",
       "quiz_1_feedback_4": "Nice! Taking care of yourself is an important parenting skill!",
       "quiz_1_option_5_text": "Having a nice cup of coffee, tea or hot chocolate",
       "quiz_1_feedback_5": "Nice! Taking care of yourself is an important parenting skill!",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_2.svg",
       "completed": false
     },
     {

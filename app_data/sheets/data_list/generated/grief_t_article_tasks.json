@@ -254,18 +254,121 @@
       "_translatedFields": {
         "character_1_text": {
           "eng": "Stop being so dramatic! Your behaviour is unacceptable!"
+        },
+        "quiz_1_question": {
+          "eng": "What emotions does @data.characters.f4_daughter_13.name, feel?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, she seems sad right now because she is crying. Sadness is one of the stages of grief for teens and adults."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Nothing"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "She seems more sad than numb right now, but feeling nothing is one of the stages of grief for teens and adults."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Angry"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "She seems more sad than angry right now, but feeling angry is one of the five stages of grief for teens and adults."
+        },
+        "quiz_2_question": {
+          "eng": "@data.characters.f4_father.name's response made @data.characters.f4_daughter_13.name more upset. What could he have done differently?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Take a pause before responding and notice his own emotions"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Ask @data.characters.f4_daughter_13.name to share more about how she feels"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Give @data.characters.f4_daughter_13.name a hug and tell her she can talk to him"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "Ask @data.characters.f4_daughter_13.name what would help her feel better"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family."
         }
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/grief/grief1_t_3.svg",
-      "character_1_id": "f4_father",
-      "character_1_text": "Stop being so dramatic! Your behaviour is unacceptable!",
+      "quiz_1_option_1_image_asset": "images/icons/faces/sad.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/neutral.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/angry.svg",
+      "quiz_1_feedback_1": "Yes, she seems sad right now because she is crying. Sadness is one of the stages of grief for teens and adults.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "character_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_4": {
           "tz_sw": true
         }
       },
+      "quiz_1_feedback_2": "She seems more sad than numb right now, but feeling nothing is one of the stages of grief for teens and adults.",
+      "quiz_1_feedback_3": "She seems more sad than angry right now, but feeling angry is one of the five stages of grief for teens and adults.",
+      "quiz_1_question": "What emotions does @data.characters.f4_daughter_13.name, feel?",
+      "quiz_1_option_1_text": "Sad",
+      "quiz_1_option_2_text": "Nothing",
+      "quiz_1_option_3_text": "Angry",
+      "image_asset": "/images/teen_modules/grief/grief1_t_3.svg",
+      "character_1_id": "f4_father",
+      "character_1_text": "Stop being so dramatic! Your behaviour is unacceptable!",
+      "quiz_2_question": "@data.characters.f4_father.name's response made @data.characters.f4_daughter_13.name more upset. What could he have done differently?",
+      "quiz_2_option_1_text": "Take a pause before responding and notice his own emotions",
+      "quiz_2_feedback_1": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family.",
+      "quiz_2_option_2_text": "Ask @data.characters.f4_daughter_13.name to share more about how she feels",
+      "quiz_2_feedback_2": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family.",
+      "quiz_2_option_3_text": "Give @data.characters.f4_daughter_13.name a hug and tell her she can talk to him",
+      "quiz_2_feedback_3": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family.",
+      "quiz_2_option_4_text": "Ask @data.characters.f4_daughter_13.name what would help her feel better",
+      "quiz_2_feedback_4": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family.",
       "completed": false
     },
     {
@@ -544,6 +647,27 @@
         },
         "quiz_2_feedback_3": {
           "eng": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other."
+        },
+        "quiz_3_question": {
+          "eng": "How do you think @data.characters.f4_father.name feels about losing his wife?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Angry"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
+        },
+        "quiz_3_option_3_text": {
+          "eng": "Numb"
+        },
+        "quiz_3_feedback_3": {
+          "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
         }
       },
       "category_id": "explore",
@@ -594,7 +718,18 @@
         },
         "quiz_2_feedback_3": {
           "tz_sw": true
-        }
+        },
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_2": {},
+        "quiz_3_option_3_text": {},
+        "quiz_3_feedback_3": {}
       },
       "quiz_1_feedback_2": "Yes, knowing that her @data.characters.f4_father.role_name understood and accepted her feelings made @data.characters.f4_daughter_13.name feel cared for and supported.",
       "quiz_1_feedback_3": "Exactly. Sharing her sadness and anger openly made @data.characters.f4_daughter_13.name feel comforted and closer to her father.",
@@ -610,6 +745,13 @@
       "quiz_2_feedback_2": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other.",
       "quiz_2_option_3_text": "@data.characters.f4_daughter_13.name might show more challenging behaviour",
       "quiz_2_feedback_3": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other.",
+      "quiz_3_question": "How do you think @data.characters.f4_father.name feels about losing his wife?",
+      "quiz_3_option_1_text": "Sad",
+      "quiz_3_feedback_1": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
+      "quiz_3_option_2_text": "Angry",
+      "quiz_3_feedback_2": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
+      "quiz_3_option_3_text": "Numb",
+      "quiz_3_feedback_3": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
       "completed": false
     },
     {
@@ -624,6 +766,12 @@
         },
         "section_1_text": {
           "eng": "Losing someone we love can affect us for weeks, months or years. There’s no right way to feel, and no need to feel better quickly.\n\nYour teen may feel sad, angry, confused, or unwell. They may have nightmares, pain, or school problems. Even if they seem happy, they might still feel sad. This is all normal."
+        },
+        "section_1_button_text": {
+          "eng": "More tips"
+        },
+        "section_1_extra_text": {
+          "eng": "Many people experience grief in the following 5 stages. Knowing this helps you to better support your teen and take care of yourself: \n\n1: 😟 Denial: “This isn’t really happening.”\n2: 😡 Anger: “I’m mad.”\n3: 🙏🏾 Bargaining: “I wish I could change it.”\n4: 😣 Depression: “I feel really sad.”\n5: 😔 Acceptance: “I’m okay now, even though it still hurts.”"
         },
         "section_2_title": {
           "eng": "SAY GOODBYE"
@@ -651,6 +799,10 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -669,6 +821,8 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_1_button_text": "More tips",
+      "section_1_extra_text": "Many people experience grief in the following 5 stages. Knowing this helps you to better support your teen and take care of yourself: \n\n1: 😟 Denial: “This isn’t really happening.”\n2: 😡 Anger: “I’m mad.”\n3: 🙏🏾 Bargaining: “I wish I could change it.”\n4: 😣 Depression: “I feel really sad.”\n5: 😔 Acceptance: “I’m okay now, even though it still hurts.”",
       "section_2_title": "SAY GOODBYE",
       "section_2_text": "Find a way to say goodbye that feels right for you and your family. Some people hold a ceremony or have a special meal to celebrate the person.\n\nAsk your teen what they would want to do to say goodbye.",
       "section_3_title": "TALK",

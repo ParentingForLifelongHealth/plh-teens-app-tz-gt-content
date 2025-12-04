@@ -332,7 +332,6 @@
       "image_asset": "/images/teen_modules/money/money3_t_3.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
-      "character_3_id": "f2_grandfather",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "character_1_text": "I know — let’s start with a plan! Maybe we can make a budget and see how we can save our money.",
@@ -342,9 +341,6 @@
         },
         "character_2_text": {
           "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -353,16 +349,37 @@
         },
         "character_2_text": {
           "eng": "That’s a great idea. We can save a little bit at a time — I will even join a savings group."
-        },
-        "character_3_text": {
-          "eng": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want."
         }
       },
-      "character_2_text": "That’s a great idea. We can save a little bit at a time — I will even join a savings group.",
-      "character_3_text": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want."
+      "character_2_text": "That’s a great idea. We can save a little bit at a time — I will even join a savings group."
     },
     {
       "id": "explore_10",
+      "category_id": "explore",
+      "image_asset": "/images/teen_modules/money/money3_t_4.svg",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_grandmother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
+      "character_1_text": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want.",
+      "_translations": {
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want."
+        },
+        "character_2_text": {
+          "eng": "Great idea."
+        }
+      },
+      "character_2_text": "Great idea."
+    },
+    {
+      "id": "explore_11",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money3_t_5.svg",
       "character_1_id": "f2_grandfather",
@@ -396,7 +413,7 @@
       "character_2_text": "By saving a tiny bit each week, we managed to pay for @data.characters.f2_son_15.name’s high school and save some money for @data.characters.f2_daughter_19.name’s university. I am so proud of this."
     },
     {
-      "id": "explore_11",
+      "id": "explore_12",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/money/money4_t_1.svg",
       "character_1_id": "f2_grandmother",
@@ -420,7 +437,7 @@
       "character_1_text": "One night there was a horrible storm that broke my roof. Everything was flooded. I suddenly had to find money to fix the roof. I just felt defeated."
     },
     {
-      "id": "explore_12",
+      "id": "explore_13",
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",

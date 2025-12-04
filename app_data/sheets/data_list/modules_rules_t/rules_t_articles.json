@@ -46,11 +46,9 @@
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents.",
+      "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -60,7 +58,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents."
+          "eng": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected. Setting rules as a family helps build trust and responsibility for both teens and parents."
         },
         "media_title": {
           "eng": "Rules worked for @data.characters.media_male_6.name and his teens. Tap play to hear more"
@@ -114,11 +112,9 @@
       "character_2_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name, did this the next day.",
+      "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_son_18.name and his parents did this the next day.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -128,7 +124,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Making rules as a team builds trust. Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name, did this the next day."
+          "eng": "Making rules as a team builds trust. Let’s see how @data.characters.f1_son_18.name and his parents did this the next day."
         },
         "character_1_text": {
           "eng": "We want you to have fun, @data.characters.f1_son_18.name, but we are also worried about you staying out late. Do you know why?"

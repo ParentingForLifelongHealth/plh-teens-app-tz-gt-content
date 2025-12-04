@@ -667,37 +667,35 @@
       "text_1_facilitator": "We’ve seen that teens can face many unsafe situations — both in the community and online.\nTo keep our teens safe, we also need to understand the risks they face online.",
       "_translations": {
         "text_1_facilitator": {},
-        "quiz_2_question": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_option_1_text": {
+        "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {
+        "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_option_2_text": {
+        "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {
+        "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_2_option_3_text": {
+        "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_2_feedback_3": {
+        "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_2_option_4_text": {
+        "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_feedback_4": {
+        "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_2_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_5": {
+        "quiz_1_feedback_5": {
           "tz_sw": true
         }
       },
@@ -705,51 +703,51 @@
         "text_1_facilitator": {
           "eng": "We’ve seen that teens can face many unsafe situations — both in the community and online.\nTo keep our teens safe, we also need to understand the risks they face online."
         },
-        "quiz_2_question": {
-          "eng": "What do you think is the biggest online risk for teens these days?"
+        "quiz_1_question": {
+          "eng": "What do you think is the biggest online risk for teens these days?\n\nSelect each option to learn more!"
         },
-        "quiz_2_option_1_text": {
+        "quiz_1_option_1_text": {
           "eng": "Adults use social media, gaming and messaging apps and websites to meet teenagers and pressure them to do sexual things"
         },
-        "quiz_2_feedback_1": {
+        "quiz_1_feedback_1": {
           "eng": "Yes, this is a serious risk. Some adults may act friendly online but try to trick or pressure teens. Talking openly can help keep your teen safe."
         },
-        "quiz_2_option_2_text": {
+        "quiz_1_option_2_text": {
           "eng": "People post things online to make us hurt other people - like making violence seem cool or spreading hate towards certain races or countries"
         },
-        "quiz_2_feedback_2": {
+        "quiz_1_feedback_2": {
           "eng": "Yes, this is a real concern. Some people spread hate or make violence seem normal. Helping your teen think about what they see online can protect them."
         },
-        "quiz_2_option_3_text": {
+        "quiz_1_option_3_text": {
           "eng": "People put things online to convince teenagers to hurt themselves or take their own lives"
         },
-        "quiz_2_feedback_3": {
+        "quiz_1_feedback_3": {
           "eng": "Yes, sadly this does happen. Some online spaces can make teens feel hopeless or alone. Checking in often can help keep your teen safe."
         },
-        "quiz_2_option_4_text": {
+        "quiz_1_option_4_text": {
           "eng": "Teenagers share sexy photos, videos or information about themselves, and others use it to embarrass or threaten them"
         },
-        "quiz_2_feedback_4": {
+        "quiz_1_feedback_4": {
           "eng": "Yes, this is a real danger. Once something is shared, it can be spread or used to hurt them. Teaching your teen to pause and think before sharing can make a big difference."
         },
-        "quiz_2_option_5_text": {
+        "quiz_1_option_5_text": {
           "eng": "People can often be nasty to teenagers online - they feel like they can bully people safely"
         },
-        "quiz_2_feedback_5": {
+        "quiz_1_feedback_5": {
           "eng": "Yes, online bullying happens a lot because people feel braver behind a screen. Talking about kindness and bullying can help your teen feel supported and know what to do."
         }
       },
-      "quiz_2_question": "What do you think is the biggest online risk for teens these days?",
-      "quiz_2_option_1_text": "Adults use social media, gaming and messaging apps and websites to meet teenagers and pressure them to do sexual things",
-      "quiz_2_feedback_1": "Yes, this is a serious risk. Some adults may act friendly online but try to trick or pressure teens. Talking openly can help keep your teen safe.",
-      "quiz_2_option_2_text": "People post things online to make us hurt other people - like making violence seem cool or spreading hate towards certain races or countries",
-      "quiz_2_feedback_2": "Yes, this is a real concern. Some people spread hate or make violence seem normal. Helping your teen think about what they see online can protect them.",
-      "quiz_2_option_3_text": "People put things online to convince teenagers to hurt themselves or take their own lives",
-      "quiz_2_feedback_3": "Yes, sadly this does happen. Some online spaces can make teens feel hopeless or alone. Checking in often can help keep your teen safe.",
-      "quiz_2_option_4_text": "Teenagers share sexy photos, videos or information about themselves, and others use it to embarrass or threaten them",
-      "quiz_2_feedback_4": "Yes, this is a real danger. Once something is shared, it can be spread or used to hurt them. Teaching your teen to pause and think before sharing can make a big difference.",
-      "quiz_2_option_5_text": "People can often be nasty to teenagers online - they feel like they can bully people safely",
-      "quiz_2_feedback_5": "Yes, online bullying happens a lot because people feel braver behind a screen. Talking about kindness and bullying can help your teen feel supported and know what to do."
+      "quiz_1_question": "What do you think is the biggest online risk for teens these days?\n\nSelect each option to learn more!",
+      "quiz_1_option_1_text": "Adults use social media, gaming and messaging apps and websites to meet teenagers and pressure them to do sexual things",
+      "quiz_1_feedback_1": "Yes, this is a serious risk. Some adults may act friendly online but try to trick or pressure teens. Talking openly can help keep your teen safe.",
+      "quiz_1_option_2_text": "People post things online to make us hurt other people - like making violence seem cool or spreading hate towards certain races or countries",
+      "quiz_1_feedback_2": "Yes, this is a real concern. Some people spread hate or make violence seem normal. Helping your teen think about what they see online can protect them.",
+      "quiz_1_option_3_text": "People put things online to convince teenagers to hurt themselves or take their own lives",
+      "quiz_1_feedback_3": "Yes, sadly this does happen. Some online spaces can make teens feel hopeless or alone. Checking in often can help keep your teen safe.",
+      "quiz_1_option_4_text": "Teenagers share sexy photos, videos or information about themselves, and others use it to embarrass or threaten them",
+      "quiz_1_feedback_4": "Yes, this is a real danger. Once something is shared, it can be spread or used to hurt them. Teaching your teen to pause and think before sharing can make a big difference.",
+      "quiz_1_option_5_text": "People can often be nasty to teenagers online - they feel like they can bully people safely",
+      "quiz_1_feedback_5": "Yes, online bullying happens a lot because people feel braver behind a screen. Talking about kindness and bullying can help your teen feel supported and know what to do."
     },
     {
       "id": "practise_1",

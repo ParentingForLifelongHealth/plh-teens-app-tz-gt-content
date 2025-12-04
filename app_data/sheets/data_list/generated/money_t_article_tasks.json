@@ -439,9 +439,6 @@
         },
         "character_2_text": {
           "eng": "That’s a great idea. We can save a little bit at a time — I will even join a savings group."
-        },
-        "character_3_text": {
-          "eng": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want."
         }
       },
       "category_id": "explore",
@@ -456,18 +453,39 @@
         },
         "character_2_text": {
           "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
         }
       },
       "character_2_text": "That’s a great idea. We can save a little bit at a time — I will even join a savings group.",
-      "character_3_id": "f2_grandfather",
-      "character_3_text": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want.",
       "completed": false
     },
     {
       "id": "explore_10",
+      "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want."
+        },
+        "character_2_text": {
+          "eng": "Great idea."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/money/money3_t_4.svg",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_grandmother",
+      "character_1_text": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want.",
+      "_translations": {
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {}
+      },
+      "character_2_text": "Great idea.",
+      "completed": false
+    },
+    {
+      "id": "explore_11",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_2": {
@@ -502,7 +520,7 @@
       "completed": false
     },
     {
-      "id": "explore_11",
+      "id": "explore_12",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -527,7 +545,7 @@
       "completed": false
     },
     {
-      "id": "explore_12",
+      "id": "explore_13",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {

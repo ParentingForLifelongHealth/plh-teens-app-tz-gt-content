@@ -522,6 +522,15 @@
   },
   "audio/teen/testimonials/caregiver/caregiver_test_money_t.mp3": {
     "md5Checksum": "9588f2d7506306dc575963f8a6835d14",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_money_t.mp3",
+          "md5Checksum": "776d8facd632ee986910188331268573",
+          "size_kb": 1812.8
+        }
+      }
+    },
     "size_kb": 1114.6
   },
   "audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3": {
@@ -641,6 +650,19 @@
     },
     "size_kb": 148
   },
+  "audio/teen/testimonials/teen/ZOLD_teen_test_srh_t.mp3": {
+    "md5Checksum": "1e7596ea300778955a3fa2d66828e666",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/teen/ZOLD_teen_test_srh_t.mp3",
+          "md5Checksum": "e4d21da252e944068385deb0f444177f",
+          "size_kb": 359.9
+        }
+      }
+    },
+    "size_kb": 263.5
+  },
   "audio/teen/testimonials/teen/teen_test_1on1_t.mp3": {
     "md5Checksum": "5c71c6376501d2b0842f713fd4f7361a",
     "overrides": {
@@ -734,6 +756,15 @@
   },
   "audio/teen/testimonials/teen/teen_test_praise_t.mp3": {
     "md5Checksum": "b8a64049ed052b6b6e53c0403bb059e5",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/teen/teen_test_praise_t.mp3",
+          "md5Checksum": "4e758b00588b13dc3d574e069d378a92",
+          "size_kb": 940.3
+        }
+      }
+    },
     "size_kb": 988.7
   },
   "audio/teen/testimonials/teen/teen_test_rules_t.mp3": {
@@ -789,17 +820,17 @@
     "size_kb": 264.6
   },
   "audio/teen/testimonials/teen/teen_test_srh_t.mp3": {
-    "md5Checksum": "1e7596ea300778955a3fa2d66828e666",
+    "md5Checksum": "a76602d4a6f948dad4f6e11a946205d6",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/teen/teen_test_srh_t.mp3",
-          "md5Checksum": "e4d21da252e944068385deb0f444177f",
-          "size_kb": 359.9
+          "md5Checksum": "985e7c39c4764cc05d07d1260730a29e",
+          "size_kb": 1385.9
         }
       }
     },
-    "size_kb": 263.5
+    "size_kb": 1372.7
   },
   "audio/teen/testimonials/teen/teen_test_stress_t.mp3": {
     "md5Checksum": "115203556d3dfc8d4033c2edc11d900b",
@@ -2017,96 +2048,104 @@
     "size_kb": 30
   },
   "images/logos/CWBSA.png": {
-    "md5Checksum": "a586140fb423c76d5bffb0d051f78d01",
-    "size_kb": 34.9
+    "md5Checksum": "d5e02d5b088e5c80cd93a7af666fc9e1",
+    "size_kb": 84.4
+  },
+  "images/logos/Exeter.png": {
+    "md5Checksum": "f8806c3baf9ccc107271d65f56c2bce7",
+    "size_kb": 140.5
   },
   "images/logos/GISP.png": {
-    "md5Checksum": "030c6b107eeb1cd42c451d28aaa682f7",
-    "size_kb": 34.8
+    "md5Checksum": "78bf5a94dea5752f131d77dfbf71be84",
+    "size_kb": 30.5
   },
   "images/logos/ICS_SP.jpg": {
-    "md5Checksum": "a1082b421ef84cbf8f51eb050ae57919",
-    "size_kb": 228.8
+    "md5Checksum": "17b2bf4042cf4004b85c973ad9426e15",
+    "size_kb": 228.6
   },
   "images/logos/IDEMS.png": {
-    "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
-    "size_kb": 84.6
+    "md5Checksum": "14708fffe8153ad45cd1834bb72f1944",
+    "size_kb": 42.7
   },
   "images/logos/NIMR.png": {
-    "md5Checksum": "b515ba973fa776f31b2801f428b88f9e",
-    "size_kb": 29.6
+    "md5Checksum": "b6cab9812df99df7fcdc89aaf6094c05",
+    "size_kb": 225
   },
   "images/logos/Oxford.png": {
-    "md5Checksum": "a738b0e0c6d5601cac1d4ea299ee4281",
-    "size_kb": 42
+    "md5Checksum": "534a92b9cf93f74beeba66da1541ce29",
+    "size_kb": 93.7
   },
   "images/logos/PLH.png": {
-    "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
-    "size_kb": 26.6
+    "md5Checksum": "7f8d6447bea922cc433afd57a5836d4e",
+    "size_kb": 33.9
   },
   "images/logos/UCT.png": {
-    "md5Checksum": "32c7f74745acacc48ab83dd80692864f",
-    "size_kb": 414.2
+    "md5Checksum": "07285fa8c3bedf764d5f18de4c315d00",
+    "size_kb": 168
   },
   "images/logos/UNICEF.png": {
-    "md5Checksum": "551166fa76f616ac56f998718a650ed4",
-    "size_kb": 57.9
+    "md5Checksum": "7dc237af042a9dcf2f2346ea4f3b03e8",
+    "size_kb": 68.8
   },
   "images/logos/Vodacom.png": {
-    "md5Checksum": "a90a1a4bc2260ab57b6208c9976f04b0",
-    "size_kb": 30.9
+    "md5Checksum": "8778fc9ce3b6042ac77a3f87b3d2e013",
+    "size_kb": 59.2
   },
   "images/logos/WHO.jpeg": {
-    "md5Checksum": "5ca831556adbae45e3a7aa3d6b81c739",
-    "size_kb": 165.8
+    "md5Checksum": "da9edd7c2b2a20419a5fbc9b3fa0b8f6",
+    "size_kb": 310.7
   },
   "images/logos/donors/Agency_fund.png": {
-    "md5Checksum": "d267401541d86e29c7aea689325229c3",
-    "size_kb": 17.2
+    "md5Checksum": "23c6ab14da736ba0d11b553c81afb5e0",
+    "size_kb": 43.7
+  },
+  "images/logos/donors/ERC-EU.png": {
+    "md5Checksum": "0059207e824ad297982b373928877b15",
+    "size_kb": 209.7
   },
   "images/logos/donors/ERC.png": {
-    "md5Checksum": "96b2dae17030d5a0f69ddb1c65ca64cc",
-    "size_kb": 38.8
+    "md5Checksum": "f69794db8b870aa39347cd16eaf1f968",
+    "size_kb": 321.9
   },
   "images/logos/donors/GCRF.png": {
-    "md5Checksum": "1997a36868a25724e60bc3fea64d78b9",
-    "size_kb": 88.4
+    "md5Checksum": "7480f676d6582d9b4d7cdf7bd5590988",
+    "size_kb": 38.7
   },
   "images/logos/donors/Human_safety_net.png": {
-    "md5Checksum": "c60a267a33cbf7e31b5534c47309244e",
-    "size_kb": 3.9
+    "md5Checksum": "2ff8d59ddeb2d73b5fbf7b0d916ee2cb",
+    "size_kb": 36.1
   },
   "images/logos/donors/LEGO.png": {
-    "md5Checksum": "8de1959a449f6c3afe2878c14d18f34a",
-    "size_kb": 9.3
+    "md5Checksum": "eac7a5242a9e9e3c1861e14df4a2a4d2",
+    "size_kb": 32
   },
   "images/logos/donors/Nuffield_college.png": {
-    "md5Checksum": "29226543af992c3ca048004942386ea7",
-    "size_kb": 32.5
+    "md5Checksum": "b0dfa82d2e0c73222aeee44a83ba514e",
+    "size_kb": 63.5
   },
   "images/logos/donors/OAK.png": {
-    "md5Checksum": "4cb2185a0288eb7b5c0c61e5da9bf49c",
-    "size_kb": 17.7
+    "md5Checksum": "161140bbd26c480d8a0c621489d2c0e7",
+    "size_kb": 66.6
   },
   "images/logos/donors/UKRI.png": {
-    "md5Checksum": "e224282f5c98c50c2e3434da15d4f6d9",
-    "size_kb": 25
+    "md5Checksum": "3d50b523d6a8d46a61853d793f520cbf",
+    "size_kb": 30.1
   },
   "images/logos/donors/WCF.jpg": {
-    "md5Checksum": "1c99e70c0c73763d4bd03b4dda086a5c",
-    "size_kb": 29.6
+    "md5Checksum": "771bd4a2c6652dfeb0ee616a03f4240a",
+    "size_kb": 90.5
   },
   "images/logos/donors/Wellspring.jpeg": {
-    "md5Checksum": "28e93fcd4d9975db653ccf80da480675",
-    "size_kb": 22.1
+    "md5Checksum": "2554d90e86de65bf038fc7962399a99e",
+    "size_kb": 106.5
   },
   "images/logos/donors/safe_online.png": {
     "md5Checksum": "7191614124a086fe7c9036d105f70db4",
     "size_kb": 65.8
   },
   "images/logos/favicon.png": {
-    "md5Checksum": "2265c040569691441d445a1696bd5035",
-    "size_kb": 6.3
+    "md5Checksum": "4d69d00da738dcea1c6c54a1a7814b27",
+    "size_kb": 149.9
   },
   "images/logos/kuwait.png": {
     "md5Checksum": "b1dcf13898cef04ccbc62ef4b73a9710",
@@ -2125,6 +2164,18 @@
     "size_kb": 12.8
   },
   "images/logos/plh_white.svg": {
+    "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
+    "size_kb": 256.1
+  },
+  "images/logos/sino_horizontal.svg": {
+    "md5Checksum": "06a8668df87e64b5e494c555d73c4472",
+    "size_kb": 251
+  },
+  "images/logos/sino_mark.svg": {
+    "md5Checksum": "a89c023dc10e0b7c4b98dab70e9c1fbe",
+    "size_kb": 461.7
+  },
+  "images/logos/sino_white.svg": {
     "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
     "size_kb": 256.1
   },

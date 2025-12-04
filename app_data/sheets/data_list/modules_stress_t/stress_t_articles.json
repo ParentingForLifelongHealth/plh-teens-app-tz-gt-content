@@ -441,11 +441,9 @@
       "category_id": "practise",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
-      "text_1_facilitator": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, let’s think about your own life. What helps you feel calm in a stressful moment?",
+      "text_1_facilitator": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, take a moment to think about how you handle tough moments in your own life.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -476,7 +474,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, let’s think about your own life. What helps you feel calm in a stressful moment?"
+          "eng": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, take a moment to think about how you handle tough moments in your own life."
         },
         "quiz_1_question": {
           "eng": "What can help you feel calm in a stressful moment?"

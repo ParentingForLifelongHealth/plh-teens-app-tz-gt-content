@@ -85,9 +85,6 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -99,9 +96,6 @@
         "text_1_facilitator": {
           "eng": "Problem-solving together is an important skill for every family. Let’s see how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name handle a problem calmly and find a plan together."
         },
-        "text_2": {
-          "eng": "@data.characters.f2_grandmother.name comes back from the market and finds @data.characters.f2_son_15.name at home in a dirty school uniform with a sleeve missing."
-        },
         "character_1_text": {
           "eng": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!"
         },
@@ -109,7 +103,6 @@
           "eng": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
         }
       },
-      "text_2": "@data.characters.f2_grandmother.name comes back from the market and finds @data.characters.f2_son_15.name at home in a dirty school uniform with a sleeve missing.",
       "character_1_text": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!",
       "character_2_text": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
     },
@@ -248,7 +241,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/solve/solve2_t_6.svg",
+      "image_asset": "/images/teen_modules/solve/solve2_t_10.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_son_15",
       "character_3_id": "f2_grandmother",
@@ -283,7 +276,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/solve/solve2_t_7.svg",
+      "image_asset": "/images/teen_modules/solve/solve2_t_11.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_son_15",
       "nested": false,
@@ -317,7 +310,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/solve/solve2_t_8.svg",
+      "image_asset": "/images/teen_modules/solve/solve2_t_12.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_son_15",
       "nested": false,

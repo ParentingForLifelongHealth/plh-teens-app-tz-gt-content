@@ -294,7 +294,7 @@
           "eng": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse."
         },
         "quiz_1_option_3_text": {
-          "eng": "Dissapointed"
+          "eng": "disappointed"
         },
         "quiz_1_feedback_3": {
           "eng": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse."
@@ -349,9 +349,7 @@
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {
           "tz_sw": true
         },
@@ -388,7 +386,7 @@
       "quiz_1_question": "How do you think @data.characters.f1_father.name felt after this conversation?",
       "quiz_1_option_1_text": "Angry",
       "quiz_1_option_2_text": "Worried",
-      "quiz_1_option_3_text": "Dissapointed",
+      "quiz_1_option_3_text": "disappointed",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "quiz_2_question": "Why did giving a consequence this way not work well?",
       "quiz_2_option_1_text": "@data.characters.f1_father.name was angry",
@@ -412,7 +410,7 @@
           "eng": "EXPLAIN"
         },
         "section_1_text": {
-          "eng": "Check you are both calm. Take a few breaths. Explain to your teen why you are concerned about their behaviour.\n\nExplain the reasons why the rule mattered. You can share your feelings – it is okay to say you are dissappointed."
+          "eng": "Check you are both calm. Take a few breaths. Explain to your teen why you are concerned about their behaviour.\n\nExplain the reasons why the rule mattered. You can share your feelings – it is okay to say you are disappointed."
         },
         "section_2_title": {
           "eng": "AGREE"
@@ -449,9 +447,7 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -481,7 +477,7 @@
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "section_1_title": "EXPLAIN",
-      "section_1_text": "Check you are both calm. Take a few breaths. Explain to your teen why you are concerned about their behaviour.\n\nExplain the reasons why the rule mattered. You can share your feelings – it is okay to say you are dissappointed.",
+      "section_1_text": "Check you are both calm. Take a few breaths. Explain to your teen why you are concerned about their behaviour.\n\nExplain the reasons why the rule mattered. You can share your feelings – it is okay to say you are disappointed.",
       "section_2_title": "AGREE",
       "section_2_text": "Plan consequences with your teen for following and not following the rule.\n\nAsk for their ideas. Talk until you agree on something realistic.\n\nMake a consequence for NOT following the rule and a privilege when they DO follow the rule.",
       "section_2_button_text": "More tips",
@@ -730,7 +726,7 @@
           "eng": "I am sorry I worried you and @data.characters.f1_mother.role_name."
         },
         "character_2_text": {
-          "eng": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night."
+          "eng": "Thank you. Now go to bed. But just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night."
         },
         "quiz_1_question": {
           "eng": "How do you think @data.characters.f1_father.name feels now?"
@@ -782,9 +778,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "quiz_1_feedback_2": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children.",
       "quiz_1_feedback_3": "Yes, when we stay calm and listen, we often feel more in control and more connected to our children.",
@@ -796,7 +790,7 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "I am sorry I worried you and @data.characters.f1_mother.role_name.",
       "character_2_id": "f1_father",
-      "character_2_text": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night.",
+      "character_2_text": "Thank you. Now go to bed. But just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night.",
       "completed": false
     },
     {
@@ -1145,7 +1139,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "It is time to learn and practise!\n\nYour home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule."
+          "eng": "Your home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule."
         },
         "text_2": {
           "eng": "**Remember, consequences should be:** \n⚖️ FAIR (not too harsh) \n💨 IMMEDIATE (do it straight away) \n🎯 CONSISTENT (same every time)"
@@ -1197,9 +1191,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         }
@@ -1210,7 +1202,7 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "It is time to learn and practise!\n\nYour home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule.",
+      "text_1_facilitator": "Your home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule.",
       "text_2": "**Remember, consequences should be:** \n⚖️ FAIR (not too harsh) \n💨 IMMEDIATE (do it straight away) \n🎯 CONSISTENT (same every time)",
       "completed": false
     },

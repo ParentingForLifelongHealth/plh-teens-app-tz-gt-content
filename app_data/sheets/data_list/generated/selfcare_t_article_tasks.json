@@ -235,7 +235,9 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -771,9 +773,7 @@
       "quiz_1_option_3_image_asset": "images/faces/sad.svg",
       "quiz_1_feedback_1": "That’s great to hear! Keep doing what helps you feel strong. Even small moments for yourself make a big difference.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {
           "tz_sw": true
         },

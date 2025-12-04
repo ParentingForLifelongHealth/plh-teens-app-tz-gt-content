@@ -379,7 +379,9 @@
       "quiz_1_option_3_image_asset": "/images/faces/angry.svg",
       "quiz_1_feedback_1": "She might feel like her grandmother doesn't understand her needs.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
@@ -496,7 +498,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -592,7 +596,9 @@
       "quiz_1_option_3_image_asset": "/images/faces/sad.svg",
       "quiz_1_feedback_1": "Yes! By giving positive instructions, @data.characters.f2_grandmother.name was able to turn the situation into a positive one for everyone.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },

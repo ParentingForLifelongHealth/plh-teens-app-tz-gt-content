@@ -431,7 +431,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side.",
       "completed": false
@@ -559,7 +561,9 @@
       "nested": false,
       "quiz_1_question": "What could @data.characters.f1_mother.name and @data.characters.f1_father.name do to handle the situation? \nTap on each option to see if these solutions worked!",
       "_translations": {
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -569,7 +573,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {},

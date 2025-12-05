@@ -887,9 +887,6 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -901,9 +898,6 @@
         "text_1_facilitator": {
           "eng": "Now that we understand our safe and unsafe places better, let’s look at an example where something simple, like a Safety Word, can help keep your teen safe."
         },
-        "text_2": {
-          "eng": "Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:"
-        },
         "character_1_text": {
           "eng": "Don’t tell the adults, but I am going to a bar with my friends tonight."
         },
@@ -911,7 +905,6 @@
           "eng": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
         }
       },
-      "text_2": "Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:",
       "character_1_text": "Don’t tell the adults, but I am going to a bar with my friends tonight.",
       "character_2_text": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
     },
@@ -965,19 +958,17 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:"
         },
         "character_1_text": {
-          "eng": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
+          "eng": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me or your @data.characters.f1_mother.role_name for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
         }
       },
-      "character_1_text": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
+      "character_1_text": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me or your @data.characters.f1_mother.role_name for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
     },
     {
       "id": "explore_12",

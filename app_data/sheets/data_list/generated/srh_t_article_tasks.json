@@ -387,27 +387,6 @@
         },
         "quiz_2_feedback_3": {
           "eng": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him."
-        },
-        "quiz_3_question": {
-          "eng": "Would the reaction be different if it was a granddaughter instead of a grandson? Why?"
-        },
-        "quiz_3_option_1_text": {
-          "eng": "Girls are judged more strictly"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
-        },
-        "quiz_3_option_2_text": {
-          "eng": "Parents fear more for girls’ safety"
-        },
-        "quiz_3_feedback_2": {
-          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
-        },
-        "quiz_3_option_3_text": {
-          "eng": "Because of cultural expectations"
-        },
-        "quiz_3_feedback_3": {
-          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
         }
       },
       "category_id": "explore",
@@ -464,27 +443,6 @@
         },
         "quiz_2_feedback_3": {
           "tz_sw": true
-        },
-        "quiz_3_question": {
-          "tz_sw": true
-        },
-        "quiz_3_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_3_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_3_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_3": {
-          "tz_sw": true
         }
       },
       "quiz_1_feedback_2": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
@@ -503,17 +461,66 @@
       "quiz_2_feedback_2": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
       "quiz_2_option_3_text": "@data.characters.f2_son_15.name may make bad decisions out of anger",
       "quiz_2_feedback_3": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
-      "quiz_3_question": "Would the reaction be different if it was a granddaughter instead of a grandson? Why?",
-      "quiz_3_option_1_text": "Girls are judged more strictly",
-      "quiz_3_feedback_1": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
-      "quiz_3_option_2_text": "Parents fear more for girls’ safety",
-      "quiz_3_feedback_2": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
-      "quiz_3_option_3_text": "Because of cultural expectations",
-      "quiz_3_feedback_3": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
       "completed": false
     },
     {
       "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Now imagine a girl was in @data.characters.f2_son_15.name’s place. Some families might react differently because of worries about safety or beliefs learned over time. Thinking about this can help us understand our own reactions."
+        },
+        "quiz_1_question": {
+          "eng": "How might the reaction be different if it was a granddaughter instead of a grandson in this position?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Girls are judged more strictly"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
+        },
+        "quiz_1_feedback_1_id": {
+          "eng": "Parents fear more for girls’ safety"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Because of family and community beliefs"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "quiz_1_option_2_image_asset": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
+      "quiz_1_feedback_1": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
+      "_translations": {
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {},
+        "quiz_1_feedback_1_id": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_feedback_2": "Because of family and community beliefs",
+      "quiz_1_question": "How might the reaction be different if it was a granddaughter instead of a grandson in this position?",
+      "quiz_1_option_1_text": "Girls are judged more strictly",
+      "quiz_1_option_3_text": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
+      "text_1_facilitator": "Now imagine a girl was in @data.characters.f2_son_15.name’s place. Some families might react differently because of worries about safety or beliefs learned over time. Thinking about this can help us understand our own reactions.",
+      "image_asset": "/images/teen_modules/srh/srh1_t_4.svg",
+      "quiz_1_feedback_1_id": "Parents fear more for girls’ safety",
+      "completed": false
+    },
+    {
+      "id": "explore_7",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -548,7 +555,7 @@
       "completed": false
     },
     {
-      "id": "explore_7",
+      "id": "explore_8",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_2": {
@@ -583,7 +590,7 @@
       "completed": false
     },
     {
-      "id": "explore_8",
+      "id": "explore_9",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "character_1_text": {
@@ -603,7 +610,7 @@
       "completed": false
     },
     {
-      "id": "explore_9",
+      "id": "explore_10",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "character_1_text": {
@@ -631,7 +638,7 @@
       "completed": false
     },
     {
-      "id": "explore_10",
+      "id": "explore_11",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "character_1_text": {
@@ -659,7 +666,7 @@
       "completed": false
     },
     {
-      "id": "explore_11",
+      "id": "explore_12",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -793,6 +800,18 @@
         "quiz_2_feedback_3": {
           "tz_sw": true
         },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_2_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_5": {
+          "tz_sw": true
+        },
         "quiz_3_question": {
           "tz_sw": true
         },
@@ -813,18 +832,6 @@
         },
         "quiz_3_feedback_3": {
           "tz_sw": true
-        },
-        "quiz_2_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_2_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_5": {
-          "tz_sw": true
         }
       },
       "quiz_1_feedback_2": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
@@ -841,13 +848,6 @@
       "quiz_2_feedback_2": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "quiz_2_option_3_text": "She shares why she is worried",
       "quiz_2_feedback_3": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_3_question": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
-      "quiz_3_option_1_text": "Okay",
-      "quiz_3_feedback_1": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
-      "quiz_3_option_2_text": "Happy",
-      "quiz_3_feedback_2": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
-      "quiz_3_option_3_text": "Proud",
-      "quiz_3_feedback_3": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
       "quiz_3_option_1_image_asset": "images/faces/neutral.svg",
       "quiz_3_option_2_image_asset": "images/faces/happy.svg",
       "quiz_3_option_3_image_asset": "images/faces/happiest.svg",
@@ -855,10 +855,17 @@
       "quiz_2_feedback_4": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "quiz_2_option_5_text": "She involves other adults for support",
       "quiz_2_feedback_5": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
+      "quiz_3_question": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
+      "quiz_3_option_1_text": "Okay",
+      "quiz_3_feedback_1": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
+      "quiz_3_option_2_text": "Happy",
+      "quiz_3_feedback_2": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
+      "quiz_3_option_3_text": "Proud",
+      "quiz_3_feedback_3": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
       "completed": false
     },
     {
-      "id": "explore_12",
+      "id": "explore_13",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -874,25 +881,25 @@
           "eng": "The teen's friend"
         },
         "quiz_1_feedback_1_id": {
-          "eng": "explore_12_nested_1"
+          "eng": "explore_13_nested_1"
         },
         "quiz_1_option_2_text": {
           "eng": "The teen"
         },
         "quiz_1_feedback_2_id": {
-          "eng": "explore_12_nested_2"
+          "eng": "explore_13_nested_2"
         },
         "quiz_1_option_3_text": {
           "eng": "The parent"
         },
         "quiz_1_feedback_3_id": {
-          "eng": "explore_12_nested_3"
+          "eng": "explore_13_nested_3"
         },
         "quiz_1_option_4_text": {
           "eng": "Another trusted adult"
         },
         "quiz_1_feedback_4_id": {
-          "eng": "explore_12_nested_4"
+          "eng": "explore_13_nested_4"
         }
       },
       "category_id": "explore",
@@ -931,14 +938,14 @@
       "text_1_facilitator": "@data.characters.f1_mother.name did well by finding solutions together with @data.characters.f1_daughter_16.name. But this can be hard to do.\n\nMany parents want to help their teens but find it difficult to talk about sensitive topics, like body changes and relationships.",
       "text_2": "Here are some questions from other parents to help you begin.",
       "quiz_1_option_4_text": "Another trusted adult",
-      "quiz_1_feedback_1_id": "explore_12_nested_1",
-      "quiz_1_feedback_2_id": "explore_12_nested_2",
-      "quiz_1_feedback_3_id": "explore_12_nested_3",
-      "quiz_1_feedback_4_id": "explore_12_nested_4",
+      "quiz_1_feedback_1_id": "explore_13_nested_1",
+      "quiz_1_feedback_2_id": "explore_13_nested_2",
+      "quiz_1_feedback_3_id": "explore_13_nested_3",
+      "quiz_1_feedback_4_id": "explore_13_nested_4",
       "completed": false
     },
     {
-      "id": "explore_13",
+      "id": "explore_14",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_2": {
@@ -951,25 +958,25 @@
           "eng": "When you find out they have a boyfriend or girlfriend"
         },
         "quiz_1_feedback_1_id": {
-          "eng": "explore_13_nested_1"
+          "eng": "explore_14_nested_1"
         },
         "quiz_1_option_2_text": {
           "eng": "When they turn 10"
         },
         "quiz_1_feedback_2_id": {
-          "eng": "explore_13_nested_2"
+          "eng": "explore_14_nested_2"
         },
         "quiz_1_option_3_text": {
           "eng": "Before they turn 10"
         },
         "quiz_1_feedback_3_id": {
-          "eng": "explore_13_nested_3"
+          "eng": "explore_14_nested_3"
         },
         "quiz_1_option_4_text": {
           "eng": "When you get an opportunity"
         },
         "quiz_1_feedback_4_id": {
-          "eng": "explore_13_nested_4"
+          "eng": "explore_14_nested_4"
         }
       },
       "category_id": "explore",
@@ -1004,14 +1011,14 @@
       "quiz_1_option_3_text": "Before they turn 10",
       "text_2": "Other parents also wonder:",
       "quiz_1_option_4_text": "When you get an opportunity",
-      "quiz_1_feedback_1_id": "explore_13_nested_1",
-      "quiz_1_feedback_2_id": "explore_13_nested_2",
-      "quiz_1_feedback_3_id": "explore_13_nested_3",
-      "quiz_1_feedback_4_id": "explore_13_nested_4",
+      "quiz_1_feedback_1_id": "explore_14_nested_1",
+      "quiz_1_feedback_2_id": "explore_14_nested_2",
+      "quiz_1_feedback_3_id": "explore_14_nested_3",
+      "quiz_1_feedback_4_id": "explore_14_nested_4",
       "completed": false
     },
     {
-      "id": "explore_14",
+      "id": "explore_15",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_2": {
@@ -1024,31 +1031,31 @@
           "eng": "I determine what my teen can and cannot do"
         },
         "quiz_1_feedback_1_id": {
-          "eng": "explore_14_nested_1"
+          "eng": "explore_15_nested_1"
         },
         "quiz_1_option_2_text": {
           "eng": "I keep information or bad influences away from them"
         },
         "quiz_1_feedback_2_id": {
-          "eng": "explore_14_nested_2"
+          "eng": "explore_15_nested_2"
         },
         "quiz_1_option_3_text": {
           "eng": "I build a healthy trusting relationship with my teen"
         },
         "quiz_1_feedback_3_id": {
-          "eng": "explore_14_nested_3"
+          "eng": "explore_15_nested_3"
         },
         "quiz_1_option_4_text": {
           "eng": "I discuss consequences and solutions with my teen"
         },
         "quiz_1_feedback_4_id": {
-          "eng": "explore_14_nested_4"
+          "eng": "explore_15_nested_4"
         },
         "quiz_1_option_5_text": {
           "eng": "I emphasize that pressure is never okay"
         },
         "quiz_1_feedback_5_id": {
-          "eng": "explore_14_nested_5"
+          "eng": "explore_15_nested_5"
         }
       },
       "category_id": "explore",
@@ -1087,16 +1094,16 @@
       "quiz_1_option_3_text": "I build a healthy trusting relationship with my teen",
       "text_2": "Many parents also ask:",
       "quiz_1_option_4_text": "I discuss consequences and solutions with my teen",
-      "quiz_1_feedback_1_id": "explore_14_nested_1",
-      "quiz_1_feedback_2_id": "explore_14_nested_2",
-      "quiz_1_feedback_3_id": "explore_14_nested_3",
-      "quiz_1_feedback_4_id": "explore_14_nested_4",
+      "quiz_1_feedback_1_id": "explore_15_nested_1",
+      "quiz_1_feedback_2_id": "explore_15_nested_2",
+      "quiz_1_feedback_3_id": "explore_15_nested_3",
+      "quiz_1_feedback_4_id": "explore_15_nested_4",
       "quiz_1_option_5_text": "I emphasize that pressure is never okay",
-      "quiz_1_feedback_5_id": "explore_14_nested_5",
+      "quiz_1_feedback_5_id": "explore_15_nested_5",
       "completed": false
     },
     {
-      "id": "explore_15",
+      "id": "explore_16",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_2": {
@@ -1109,19 +1116,19 @@
           "eng": "Keep any information about sex away from them"
         },
         "quiz_1_feedback_1_id": {
-          "eng": "explore_15_nested_1"
+          "eng": "explore_16_nested_1"
         },
         "quiz_1_option_2_text": {
           "eng": "Forbid them to have a boyfriend or girlfriend"
         },
         "quiz_1_feedback_2_id": {
-          "eng": "explore_15_nested_2"
+          "eng": "explore_16_nested_2"
         },
         "quiz_1_option_3_text": {
           "eng": "Have an open discussion on how and why they could wait to have sex"
         },
         "quiz_1_feedback_3_id": {
-          "eng": "explore_15_nested_3"
+          "eng": "explore_16_nested_3"
         }
       },
       "category_id": "explore",
@@ -1151,17 +1158,17 @@
       "quiz_1_option_2_text": "Forbid them to have a boyfriend or girlfriend",
       "quiz_1_option_3_text": "Have an open discussion on how and why they could wait to have sex",
       "text_2": "Another common question among parents:",
-      "quiz_1_feedback_1_id": "explore_15_nested_1",
-      "quiz_1_feedback_2_id": "explore_15_nested_2",
-      "quiz_1_feedback_3_id": "explore_15_nested_3",
+      "quiz_1_feedback_1_id": "explore_16_nested_1",
+      "quiz_1_feedback_2_id": "explore_16_nested_2",
+      "quiz_1_feedback_3_id": "explore_16_nested_3",
       "completed": false
     },
     {
-      "id": "explore_16",
+      "id": "explore_17",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Many parents also wonder what they should know to guide their teens well. Here are a few things that can help you feel more prepared. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too."
+          "eng": "Here are a few things that can help you feel more prepared to guide your teen. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too."
         },
         "quiz_1_question": {
           "eng": "How can I support my teen with body changes, relationships, and staying safe?\n\nTry selecting each option to learn more!"
@@ -1173,13 +1180,13 @@
           "eng": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions."
         },
         "quiz_1_option_2_text": {
-          "eng": "Discuss risks and protection (or how to stay safe)"
+          "eng": "Discuss risks and protection"
         },
         "quiz_1_feedback_2": {
-          "eng": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get them the help they need."
+          "eng": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get the help they need."
         },
         "quiz_1_option_3_text": {
-          "eng": "Explain respectful relationships (or how to say ‘no’)"
+          "eng": "How to say 'no'"
         },
         "quiz_1_feedback_3": {
           "eng": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time."
@@ -1187,8 +1194,8 @@
         "quiz_1_option_4_text": {
           "eng": "Know where to go for help"
         },
-        "quiz_1_feedback_4_id": {
-          "eng": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe."
+        "quiz_1_feedback_4": {
+          "eng": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they feel unsure or unsafe."
         }
       },
       "category_id": "explore",
@@ -1198,9 +1205,7 @@
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
@@ -1210,31 +1215,23 @@
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4_id": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_4": {}
       },
-      "quiz_1_feedback_2": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get them the help they need.",
+      "quiz_1_feedback_2": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get the help they need.",
       "quiz_1_feedback_3": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time.",
       "quiz_1_question": "How can I support my teen with body changes, relationships, and staying safe?\n\nTry selecting each option to learn more!",
       "quiz_1_option_1_text": "Talk about body changes and puberty",
-      "quiz_1_option_2_text": "Discuss risks and protection (or how to stay safe)",
-      "quiz_1_option_3_text": "Explain respectful relationships (or how to say ‘no’)",
-      "text_1_facilitator": "Many parents also wonder what they should know to guide their teens well. Here are a few things that can help you feel more prepared. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too.",
+      "quiz_1_option_2_text": "Discuss risks and protection",
+      "quiz_1_option_3_text": "How to say 'no'",
+      "text_1_facilitator": "Here are a few things that can help you feel more prepared to guide your teen. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too.",
       "quiz_1_option_4_text": "Know where to go for help",
-      "quiz_1_feedback_4_id": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they ever feel unsure or unsafe.",
+      "quiz_1_feedback_4": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they feel unsure or unsafe.",
       "completed": false
     },
     {

@@ -1150,23 +1150,21 @@
     {
       "id": "check_out_1",
       "image_asset": "Well done for taking time for yourself today. 🎉",
-      "media_type": "Here is a short video to help you slow down before you go",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
-      "character_3_text": "video",
+      "media_title": "Here is a short video to help you slow down before you go",
       "_translations": {
-        "character_3_text": {},
-        "media_title": {}
-      },
-      "_translatedFields": {
-        "character_3_text": {
-          "eng": "video"
-        },
         "media_title": {
-          "eng": "/video/plh_video/lets_slow_down.mp4"
+          "tz_sw": true
         }
       },
-      "media_title": "/video/plh_video/lets_slow_down.mp4"
+      "_translatedFields": {
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        }
+      }
     }
   ],
   "_source": {

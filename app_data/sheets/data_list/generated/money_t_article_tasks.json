@@ -549,7 +549,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n\nThink of the advantages and disadvantages of each savings option."
+          "eng": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n\nThink of the advantages and disadvantages of each savings option."
         },
         "quiz_1_question": {
           "eng": "What is the best way your family can save?"
@@ -573,7 +573,7 @@
           "eng": "Whatever savings plan you choose, it will really help your family move forward!"
         },
         "quiz_1_option_4_text": {
-          "eng": "Save in a stokvel/savings group"
+          "eng": "Save in a savings group"
         },
         "quiz_1_feedback_4": {
           "eng": "Whatever savings plan you choose, it will really help your family move forward!"
@@ -599,7 +599,9 @@
           "tz_sw": true
         },
         "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4": {}
       },
       "quiz_1_feedback_2": "Whatever savings plan you choose, it will really help your family move forward!",
@@ -608,8 +610,8 @@
       "quiz_1_option_1_text": "Save money at home",
       "quiz_1_option_2_text": "Buy things you can sell for profit",
       "quiz_1_option_3_text": "Save money at a bank",
-      "text_1_facilitator": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n\nThink of the advantages and disadvantages of each savings option.",
-      "quiz_1_option_4_text": "Save in a stokvel/savings group",
+      "text_1_facilitator": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n\nThink of the advantages and disadvantages of each savings option.",
+      "quiz_1_option_4_text": "Save in a savings group",
       "quiz_1_feedback_4": "Whatever savings plan you choose, it will really help your family move forward!",
       "completed": false
     },

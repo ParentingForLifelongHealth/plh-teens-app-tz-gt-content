@@ -441,7 +441,7 @@
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
-      "text_1_facilitator": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n\nThink of the advantages and disadvantages of each savings option.",
+      "text_1_facilitator": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n\nThink of the advantages and disadvantages of each savings option.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {
@@ -459,12 +459,14 @@
           "tz_sw": true
         },
         "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n\nThink of the advantages and disadvantages of each savings option."
+          "eng": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n\nThink of the advantages and disadvantages of each savings option."
         },
         "quiz_1_question": {
           "eng": "What is the best way your family can save?"
@@ -488,7 +490,7 @@
           "eng": "Whatever savings plan you choose, it will really help your family move forward!"
         },
         "quiz_1_option_4_text": {
-          "eng": "Save in a stokvel/savings group"
+          "eng": "Save in a savings group"
         },
         "quiz_1_feedback_4": {
           "eng": "Whatever savings plan you choose, it will really help your family move forward!"
@@ -501,7 +503,7 @@
       "quiz_1_feedback_2": "Whatever savings plan you choose, it will really help your family move forward!",
       "quiz_1_option_3_text": "Save money at a bank",
       "quiz_1_feedback_3": "Whatever savings plan you choose, it will really help your family move forward!",
-      "quiz_1_option_4_text": "Save in a stokvel/savings group",
+      "quiz_1_option_4_text": "Save in a savings group",
       "quiz_1_feedback_4": "Whatever savings plan you choose, it will really help your family move forward!"
     },
     {

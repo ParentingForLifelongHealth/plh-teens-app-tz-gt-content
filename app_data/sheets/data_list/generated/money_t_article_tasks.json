@@ -479,7 +479,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Great idea.",
       "completed": false
@@ -534,7 +536,9 @@
       "nested": false,
       "text_1_facilitator": "Saving is important for one more reason - emergencies! @data.characters.f2_grandmother.name also learnt this along the way:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         }
@@ -583,9 +587,15 @@
       "nested": false,
       "quiz_1_feedback_1": "Whatever savings plan you choose, it will really help your family move forward!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -602,7 +612,9 @@
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {}
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Whatever savings plan you choose, it will really help your family move forward!",
       "quiz_1_feedback_3": "Whatever savings plan you choose, it will really help your family move forward!",
@@ -663,19 +675,27 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "tz_sw": true
+        },
         "section_4_title": {
           "tz_sw": true
         },
-        "section_4_text": {},
+        "section_4_text": {
+          "tz_sw": true
+        },
         "section_4_button_text": {
           "tz_sw": true
         },

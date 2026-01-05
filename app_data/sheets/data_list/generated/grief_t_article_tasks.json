@@ -613,7 +613,9 @@
           "tz_sw": true
         },
         "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
+        "quiz_3_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_3": {}
       },
       "quiz_1_feedback_2": "Yes, knowing that her @data.characters.f4_father.role_name understood and accepted her feelings made @data.characters.f4_daughter_13.name feel cared for and supported.",

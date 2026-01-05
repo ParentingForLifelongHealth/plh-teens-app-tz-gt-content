@@ -440,7 +440,9 @@
           "tz_sw": true
         },
         "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
+        "quiz_3_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_3_feedback_3": {}
       },
       "_translatedFields": {

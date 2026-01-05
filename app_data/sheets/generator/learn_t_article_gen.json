@@ -107,6 +107,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "article_learn_t_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_learn_t_practise_1",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -118,11 +123,6 @@
     },
     {
       "flow_name": "article_learn_t_practise_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_learn_t_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

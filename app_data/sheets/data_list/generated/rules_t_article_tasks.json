@@ -155,7 +155,9 @@
       "nested": false,
       "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -220,7 +222,9 @@
       "nested": false,
       "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_son_18.name and his parents did this the next day.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },

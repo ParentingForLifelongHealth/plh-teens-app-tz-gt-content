@@ -32,11 +32,11 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1997 |
+| set_variable | 1999 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
-| template | 662 |
+| template | 663 |
 | text | 145 |
 | text_area | 2 |
 | text_box | 12 |
@@ -56,13 +56,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 483 |
+| emit: completed | 484 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 489 |
+| emit: uncompleted | 490 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 68126 KB | 68.1 MB |
-| unused | 82771 KB | 82.8 MB |
+| total | 72321 KB | 72.3 MB |
+| unused | 84048 KB | 84 MB |
 </details>
 
 <details open>
@@ -180,6 +180,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/self_care_yc_4.svg | 61.5 |
 | images/comics/teach_consequences_yc_3.jpg | 3174 |
 | images/consequences.jpg | 115.1 |
+| images/faces/happier.svg | 0.6 |
 | images/facilitators_face.svg | 39.3 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -229,6 +230,12 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/instruct/instruct2_t_2.svg | 37.4 |
 | images/teen_modules/instruct/instruct3_t_2.svg | 39.7 |
 | images/teen_modules/instruct/instruct3_t_5.svg | 53.4 |
+| images/teen_modules/learn/learn_conflict_t_4.svg | 48.3 |
+| images/teen_modules/learn/learn_support_t_1.svg | 51.8 |
+| images/teen_modules/learn/learn_support_t_2.svg | 69.4 |
+| images/teen_modules/learn/learn_support_t_3.svg | 46 |
+| images/teen_modules/learn/learn_support_t_4.svg | 40.2 |
+| images/teen_modules/learn/learning_mistakes_teen_1.jpg | 1020.7 |
 | images/teen_modules/money/money1_t_1.svg | 38.9 |
 | images/teen_modules/praise/praise1_t_1.svg | 164.8 |
 | images/teen_modules/safe/safe1_t_1.svg | 32.5 |
@@ -405,14 +412,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/TZ_FACILITATOR_FEMALE.svg | 17.7 | 2 |
 | images/character_icons/TZ_FACILITATOR_MALE.svg | 22.4 | 2 |
 | images/faces/angry.svg | 1.1 | 8 |
-| images/faces/confused.svg | 1.8 | 8 |
-| images/faces/happier.svg | 0.6 | 2 |
-| images/faces/happiest.svg | 1.3 | 6 |
-| images/faces/happy.svg | 0.6 | 25 |
+| images/faces/confused.svg | 1.8 | 6 |
+| images/faces/happiest.svg | 1.3 | 4 |
+| images/faces/happy.svg | 0.6 | 23 |
 | images/faces/neutral.svg | 0.5 | 23 |
-| images/faces/sad.svg | 0.6 | 28 |
+| images/faces/sad.svg | 0.6 | 26 |
 | images/faces/scared.svg | 2.1 | 4 |
-| images/faces/tired.svg | 2.4 | 4 |
+| images/faces/tired.svg | 2.4 | 2 |
 | images/homescreen/celebrate_t.svg | 36.3 | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 23.9 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 28.8 | 1 |
@@ -583,14 +589,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/instruct/instruct3_t_1.svg | 47 | 2 |
 | images/teen_modules/instruct/instruct3_t_3.svg | 43.4 | 2 |
 | images/teen_modules/instruct/instruct3_t_4.svg | 42.5 | 2 |
+| images/teen_modules/learn/learn2_teen_1.jpg | 1020.7 | 2 |
+| images/teen_modules/learn/learn2_teen_2.jpg | 1119.2 | 2 |
+| images/teen_modules/learn/learn2_teen_3.jpg | 1090.5 | 2 |
+| images/teen_modules/learn/learn2_teen_4.jpg | 1221.5 | 2 |
 | images/teen_modules/learn/learn_conflict_t_1.svg | 51.8 | 2 |
 | images/teen_modules/learn/learn_conflict_t_2.svg | 69.4 | 2 |
-| images/teen_modules/learn/learn_conflict_t_3.svg | 47.4 | 2 |
-| images/teen_modules/learn/learn_conflict_t_4.svg | 48.3 | 2 |
-| images/teen_modules/learn/learn_support_t_1.svg | 51.8 | 2 |
-| images/teen_modules/learn/learn_support_t_2.svg | 69.4 | 2 |
-| images/teen_modules/learn/learn_support_t_3.svg | 46 | 2 |
-| images/teen_modules/learn/learn_support_t_4.svg | 40.2 | 2 |
+| images/teen_modules/learn/learn_conflict_t_3.svg | 47.4 | 8 |
 | images/teen_modules/money/money1_t_2.svg | 44.9 | 2 |
 | images/teen_modules/money/money2_t_1.svg | 702.9 | 2 |
 | images/teen_modules/money/money2_t_2.svg | 61.8 | 2 |
@@ -731,6 +736,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
 | template |  | 102 |
-| template | generated | 506 |
+| template | generated | 507 |
 | template | legal_terms | 4 |
 </details>

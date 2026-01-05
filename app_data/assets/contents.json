@@ -2443,6 +2443,22 @@
     "md5Checksum": "136750deb5d97ef1eaf47598aff65a2d",
     "size_kb": 53.4
   },
+  "images/teen_modules/learn/learn2_teen_1.jpg": {
+    "md5Checksum": "81eb33c54d17b33b900b257ad70dba75",
+    "size_kb": 1020.7
+  },
+  "images/teen_modules/learn/learn2_teen_2.jpg": {
+    "md5Checksum": "f5002f28f47e67fb09a3ad59064753be",
+    "size_kb": 1119.2
+  },
+  "images/teen_modules/learn/learn2_teen_3.jpg": {
+    "md5Checksum": "cd19729c686720f18c5f247447732abd",
+    "size_kb": 1090.5
+  },
+  "images/teen_modules/learn/learn2_teen_4.jpg": {
+    "md5Checksum": "ddc0309c8077c4d8c45c24d70aee7e95",
+    "size_kb": 1221.5
+  },
   "images/teen_modules/learn/learn_conflict_t_1.svg": {
     "md5Checksum": "cf87f64046b6a28a2e5342b1e988ea85",
     "size_kb": 51.8
@@ -2474,6 +2490,10 @@
   "images/teen_modules/learn/learn_support_t_4.svg": {
     "md5Checksum": "03f0f013a0040a04eabc1ff84d855a88",
     "size_kb": 40.2
+  },
+  "images/teen_modules/learn/learning_mistakes_teen_1.jpg": {
+    "md5Checksum": "81eb33c54d17b33b900b257ad70dba75",
+    "size_kb": 1020.7
   },
   "images/teen_modules/money/money1_t_1.svg": {
     "md5Checksum": "b45987866cd3ef0f1839c12f2a482799",

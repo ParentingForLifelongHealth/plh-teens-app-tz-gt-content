@@ -451,7 +451,7 @@
         "quiz_1_option_4_text": {
           "eng": "She offered to teach him"
         },
-        "quiz_1_option_5_text": {
+        "quiz_1_feedback_4": {
           "eng": "Try again."
         }
       },
@@ -470,7 +470,7 @@
           "tz_sw": true
         },
         "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_4": {}
       },
       "quiz_1_feedback_2": "Try again.",
       "quiz_1_feedback_3": "That’s right! There are 2 right answers! Can you find them both?",
@@ -480,7 +480,64 @@
       "quiz_1_option_3_text": "She noticed his feelings first",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "quiz_1_option_4_text": "She offered to teach him",
-      "quiz_1_option_5_text": "Try again.",
+      "quiz_1_feedback_4": "Try again.",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are some skills you can use to help your teen learn!"
+        },
+        "section_1_title": {
+          "eng": "ROUTINE"
+        },
+        "section_1_text": {
+          "eng": "Most teens do not enjoy homework. You can understand how they feel and still help them build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time."
+        },
+        "section_2_title": {
+          "eng": "SUPPORT"
+        },
+        "section_2_text": {
+          "eng": "Support your teen’s learning at home by making study time calm and focused. Turn off phones, keep the house as quiet as possible, encourage breaks when needed, and show interest and excitement by asking your teen what they are interested in learning."
+        },
+        "section_3_title": {
+          "eng": "PRAISE"
+        },
+        "section_3_text": {
+          "eng": "Praising your teen is a powerful way to help them try again. Teens do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "text_1_facilitator": "Here are some skills you can use to help your teen learn!",
+      "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {},
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
+      },
+      "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_1_title": "ROUTINE",
+      "section_1_text": "Most teens do not enjoy homework. You can understand how they feel and still help them build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time.",
+      "section_2_title": "SUPPORT",
+      "section_2_text": "Support your teen’s learning at home by making study time calm and focused. Turn off phones, keep the house as quiet as possible, encourage breaks when needed, and show interest and excitement by asking your teen what they are interested in learning.",
+      "section_3_title": "PRAISE",
+      "section_3_text": "Praising your teen is a powerful way to help them try again. Teens do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes.",
       "completed": false
     },
     {
@@ -561,63 +618,6 @@
       "image_asset": "/images/teen_modules/learn/learn_conflict_t_3.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "You are old enough to learn how to prepare ugali safely. I have done this for many years, and now it is your turn to try. @data.characters.f1_son_19.name, what do you think is the first step for making ugali?",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Here are some skills you can use to help your teen learn!"
-        },
-        "section_1_title": {
-          "eng": "ROUTINE"
-        },
-        "section_1_text": {
-          "eng": "Most teens do not enjoy homework. You can understand how they feel and still help them build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time."
-        },
-        "section_2_title": {
-          "eng": "SUPPORT"
-        },
-        "section_2_text": {
-          "eng": "Support your teen’s learning at home by making study time calm and focused. Turn off phones, keep the house as quiet as possible, encourage breaks when needed, and show interest and excitement by asking your teen what they are interested in learning."
-        },
-        "section_3_title": {
-          "eng": "PRAISE"
-        },
-        "section_3_text": {
-          "eng": "Praising your teen is a powerful way to help them try again. Teens do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes."
-        }
-      },
-      "category_id": "practical_tips",
-      "nested": false,
-      "text_1_facilitator": "Here are some skills you can use to help your teen learn!",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {},
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        }
-      },
-      "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
-      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_3_icon_asset": "images/icons/star_filled_blue.png",
-      "section_1_title": "ROUTINE",
-      "section_1_text": "Most teens do not enjoy homework. You can understand how they feel and still help them build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time.",
-      "section_2_title": "SUPPORT",
-      "section_2_text": "Support your teen’s learning at home by making study time calm and focused. Turn off phones, keep the house as quiet as possible, encourage breaks when needed, and show interest and excitement by asking your teen what they are interested in learning.",
-      "section_3_title": "PRAISE",
-      "section_3_text": "Praising your teen is a powerful way to help them try again. Teens do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes.",
       "completed": false
     },
     {

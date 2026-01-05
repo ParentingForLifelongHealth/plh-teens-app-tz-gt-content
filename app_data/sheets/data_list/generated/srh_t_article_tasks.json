@@ -1164,7 +1164,7 @@
       "completed": false
     },
     {
-      "id": "explore_17",
+      "id": "practise",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1198,7 +1198,7 @@
           "eng": "You and your teen can get support from trusted adults, school counsellors, and clinics for questions about body changes, relationships, safety, or ways to prevent pregnancy and infections. \n\nTalk with your teen about who they can go to if they feel unsure or unsafe."
         }
       },
-      "category_id": "explore",
+      "category_id": "practise",
       "nested": false,
       "quiz_1_feedback_1": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions.",
       "_translations": {

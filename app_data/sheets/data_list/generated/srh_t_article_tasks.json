@@ -235,7 +235,7 @@
         }
       },
       "text_2": "@data.characters.f2_son_15.name is on his way to leave the house to meet friends.",
-      "image_asset": "/images/teen_modules/srh/srh1_t_1.svg",
+      "image_asset": "/images/teen_modules/srh/srh1_t_1.png",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "character_1_text": "Where are you going?",
@@ -270,7 +270,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/srh/srh1_t_2.svg",
+      "image_asset": "/images/teen_modules/srh/srh1_t_2.png",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "character_1_text": "What is that @data.characters.f2_son_15.name? Condoms? Why are you carrying those in your bag? Where did you get them?!",
@@ -290,7 +290,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/srh/srh1_t_3.svg",
+      "image_asset": "/images/teen_modules/srh/srh1_t_3.png",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "character_1_text": "What is this talk of sex in my house! You are too young…",
@@ -318,7 +318,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/srh/srh1_t_4.svg",
+      "image_asset": "/images/teen_modules/srh/srh1_t_4.png",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "character_1_text": "No, no, no, @data.characters.f2_son_15.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Stupid boy!",

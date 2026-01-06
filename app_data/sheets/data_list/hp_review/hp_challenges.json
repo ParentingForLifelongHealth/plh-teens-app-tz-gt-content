@@ -1703,36 +1703,20 @@
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {
-          "tz_sw": true
-        },
-        "reply_challenge_2": {
-          "tz_sw": true
-        },
-        "text_challenge_3": {
-          "tz_sw": true
-        },
-        "reply_challenge_3": {
-          "tz_sw": true
-        },
-        "text_challenge_4": {
-          "tz_sw": true
-        },
-        "reply_challenge_4": {
-          "tz_sw": true
-        },
+        "text_challenge_2": {},
+        "reply_challenge_2": {},
+        "text_challenge_3": {},
+        "reply_challenge_3": {},
+        "text_challenge_4": {},
+        "reply_challenge_4": {},
         "text_challenge_5": {
           "tz_sw": true
         },
         "reply_challenge_5": {
           "tz_sw": true
         },
-        "text_challenge_6": {
-          "tz_sw": true
-        },
-        "reply_challenge_6": {
-          "tz_sw": true
-        },
+        "text_challenge_6": {},
+        "reply_challenge_6": {},
         "question_text": {
           "tz_sw": true
         },
@@ -1748,22 +1732,22 @@
           "eng": "That’s okay — it can be hard to find time. Try starting with something small, like helping them with one task or asking about their day. Every bit helps."
         },
         "text_challenge_2": {
-          "eng": "My teen wasn't interested in the activity"
+          "eng": "My teen wasn't interested in having a routine"
         },
         "reply_challenge_2": {
-          "eng": "It can be tough when teens seem not interested. Try letting them choose the activity next time — it might help them feel more involved."
+          "eng": "It can be tough when teens seem not interested. Try letting them suggest a routine – it might help them feel more involved."
         },
         "text_challenge_3": {
-          "eng": "I felt unsure what kind of activity would help with learning"
+          "eng": "I wasn’t sure what kind of routine would help with learning"
         },
         "reply_challenge_3": {
-          "eng": "That’s okay. It doesn’t have to be school-related — even cooking or watching a video together can be a chance to learn and connect."
+          "eng": "That’s okay. A routine does not need to be big. It could be getting ready for school together or talking about school for a few minutes."
         },
         "text_challenge_4": {
-          "eng": "We did something together, but I don’t think it helped"
+          "eng": "We tried a routine, but I don’t think it helped"
         },
         "reply_challenge_4": {
-          "eng": "It’s normal to wonder if it’s working. Just spending time together builds connection and supports learning — even if it doesn’t seem obvious right away."
+          "eng": "That’s normal. Routines take time to work. Even small routines help teens feel supported and build learning over time."
         },
         "text_challenge_5": {
           "eng": "I tried, but my teen was too busy"
@@ -1772,10 +1756,10 @@
           "eng": "Teens often have full schedules. Try asking when they’re free, or offer to join something they’re already doing — even briefly."
         },
         "text_challenge_6": {
-          "eng": "My teen chose a competitive activity. I won and s/he got angry"
+          "eng": "We tried a routine, but it didn’t happen every day"
         },
         "reply_challenge_6": {
-          "eng": "Competitive activities can be tough if your teen doesn’t like losing.\n\nOnce they’ve calmed down, talk about what it means to win or lose kindly.\n\nTry suggesting activities where you work together instead of compete.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
+          "eng": "That’s okay. A routine does not need to be big. It could be getting ready for school together or talking about school for a few minutes."
         },
         "question_text": {
           "eng": "What challenges did you experience?"
@@ -1785,16 +1769,16 @@
         }
       },
       "reply_challenge_1": "That’s okay — it can be hard to find time. Try starting with something small, like helping them with one task or asking about their day. Every bit helps.",
-      "text_challenge_2": "My teen wasn't interested in the activity",
-      "reply_challenge_2": "It can be tough when teens seem not interested. Try letting them choose the activity next time — it might help them feel more involved.",
-      "text_challenge_3": "I felt unsure what kind of activity would help with learning",
-      "reply_challenge_3": "That’s okay. It doesn’t have to be school-related — even cooking or watching a video together can be a chance to learn and connect.",
-      "text_challenge_4": "We did something together, but I don’t think it helped",
-      "reply_challenge_4": "It’s normal to wonder if it’s working. Just spending time together builds connection and supports learning — even if it doesn’t seem obvious right away.",
+      "text_challenge_2": "My teen wasn't interested in having a routine",
+      "reply_challenge_2": "It can be tough when teens seem not interested. Try letting them suggest a routine – it might help them feel more involved.",
+      "text_challenge_3": "I wasn’t sure what kind of routine would help with learning",
+      "reply_challenge_3": "That’s okay. A routine does not need to be big. It could be getting ready for school together or talking about school for a few minutes.",
+      "text_challenge_4": "We tried a routine, but I don’t think it helped",
+      "reply_challenge_4": "That’s normal. Routines take time to work. Even small routines help teens feel supported and build learning over time.",
       "text_challenge_5": "I tried, but my teen was too busy",
       "reply_challenge_5": "Teens often have full schedules. Try asking when they’re free, or offer to join something they’re already doing — even briefly.",
-      "text_challenge_6": "My teen chose a competitive activity. I won and s/he got angry",
-      "reply_challenge_6": "Competitive activities can be tough if your teen doesn’t like losing.\n\nOnce they’ve calmed down, talk about what it means to win or lose kindly.\n\nTry suggesting activities where you work together instead of compete.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App.",
+      "text_challenge_6": "We tried a routine, but it didn’t happen every day",
+      "reply_challenge_6": "That’s okay. A routine does not need to be big. It could be getting ready for school together or talking about school for a few minutes.",
       "question_text": "What challenges did you experience?",
       "top_text": "Challenges other parents experience:"
     }

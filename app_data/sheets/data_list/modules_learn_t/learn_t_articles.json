@@ -26,13 +26,13 @@
           "eng": "Today's topic is about helping your teen learn.\n\nDid you know that spending one-on-one time with your teen can help them do better at school? Today we will share some ideas about how you can support your teen to learn in school and outside of school."
         },
         "media_title": {
-          "eng": "How could you support your teen’s learning in school and life? Tap play to learn how"
+          "eng": "How could you support your teen’s learning in school and life? Tap play to learn"
         },
         "media_transcript": {
           "eng": "Greetings everyone!\n\nToday's topic is helping your teen to learn.\n\nThere are different fun ways and activities that we can use as parents to help our teens learn. Some of those activities could be playing games together or doing house chores together. Remember, our teens learn better when they are having fun!"
         }
       },
-      "media_title": "How could you support your teen’s learning in school and life? Tap play to learn how",
+      "media_title": "How could you support your teen’s learning in school and life? Tap play to learn",
       "media_transcript": "Greetings everyone!\n\nToday's topic is helping your teen to learn.\n\nThere are different fun ways and activities that we can use as parents to help our teens learn. Some of those activities could be playing games together or doing house chores together. Remember, our teens learn better when they are having fun!"
     },
     {
@@ -42,7 +42,7 @@
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_learn_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_1_facilitator": "Schools teach teens important skills, but learning does not stop at school, it can happen anywhere. Parents help teens learn through daily life with family and friends and during fun. Often, learning starts by simply spending time together.",
+      "text_1_facilitator": "Schools teach teens important skills, but learning does not stop at school, it can happen anywhere. \n\nParents help teens learn through daily life with family and friends and during fun. Often, learning starts by simply spending time together.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -55,7 +55,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Schools teach teens important skills, but learning does not stop at school, it can happen anywhere. Parents help teens learn through daily life with family and friends and during fun. Often, learning starts by simply spending time together."
+          "eng": "Schools teach teens important skills, but learning does not stop at school, it can happen anywhere. \n\nParents help teens learn through daily life with family and friends and during fun. Often, learning starts by simply spending time together."
         },
         "text_2": {
           "eng": "**Think back to your own teenage years:**\n\n- Where did you learn best? \n- Who was your favourite person to learn from? \n- What kind of skills are most helpful to you today?\n- What kind of knowledge is most helpful to you today?"
@@ -73,6 +73,7 @@
     },
     {
       "id": "explore_1",
+      "category_id": "explore",
       "image_asset": "/images/teen_modules/learn/learn_conflict_t_1.svg",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
@@ -100,35 +101,37 @@
     },
     {
       "id": "explore_2",
+      "category_id": "explore",
       "image_asset": "/images/teen_modules/learn/learn_conflict_t_2.svg",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "character_1_text": "Why should I go to school if you didn’t?",
+      "character_1_text": "I hate school. Why should I go to school if you didn’t?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Why should I go to school if you didn’t?"
+          "eng": "I hate school. Why should I go to school if you didn’t?"
         },
         "character_2_text": {
-          "eng": "You know your uncle — how he always has many foods on the table? I work just as hard, but it is not easy for me. School gave him more chances."
+          "eng": "You know how your uncle always has many foods on the table? I work just as hard as he does, but our table often does not have as many foods.. School gave him more chances than I had.\n\nIt also helped him feel confident and get along with different types of people. I want those things for you, too."
         }
       },
-      "character_2_text": "You know your uncle — how he always has many foods on the table? I work just as hard, but it is not easy for me. School gave him more chances."
+      "character_2_text": "You know how your uncle always has many foods on the table? I work just as hard as he does, but our table often does not have as many foods.. School gave him more chances than I had.\n\nIt also helped him feel confident and get along with different types of people. I want those things for you, too."
     },
     {
       "id": "explore_3",
+      "category_id": "explore",
       "image_asset": "/images/teen_modules/learn/learn_conflict_t_3.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_12",
       "character_3_id": "f3_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "character_1_text": "I know school can feel difficult. Maybe we can make study time easier at home. What do you think could help?",
+      "character_1_text": "I imagine school can feel challenging. Learning usually is before it starts to make sense and  feel exciting. Maybe we can make study time easier at home. What do you think could help?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -136,20 +139,21 @@
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I know school can feel difficult. Maybe we can make study time easier at home. What do you think could help?"
+          "eng": "I imagine school can feel challenging. Learning usually is before it starts to make sense and  feel exciting. Maybe we can make study time easier at home. What do you think could help?"
         },
         "character_2_text": {
           "eng": "Maybe if I take short breaks…"
         },
         "character_3_text": {
-          "eng": "That’s a good idea. Let’s try a small routine — study in a quiet place with no distractions, and take short breaks when you need them. After you finish studying, I’m excited to hear one thing you found interesting"
+          "eng": "That’s a good idea. Let’s try a small routine — study in a quiet place with no distractions and take short breaks. \n\nAfter you finish studying, I’ll be excited to hear one thing you found interesting. That way you can share what you are learning with me, too."
         }
       },
       "character_2_text": "Maybe if I take short breaks…",
-      "character_3_text": "That’s a good idea. Let’s try a small routine — study in a quiet place with no distractions, and take short breaks when you need them. After you finish studying, I’m excited to hear one thing you found interesting"
+      "character_3_text": "That’s a good idea. Let’s try a small routine — study in a quiet place with no distractions and take short breaks. \n\nAfter you finish studying, I’ll be excited to hear one thing you found interesting. That way you can share what you are learning with me, too."
     },
     {
       "id": "explore_4",
+      "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "Let's think about what happened in this story.",
@@ -177,13 +181,13 @@
           "eng": "How did @data.characters.f3_mother.name support her daughter, @data.characters.f3_daughter_12.name, to stay in school?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Listen to understand the problem"
+          "eng": "Listened to understand the problem"
         },
         "quiz_1_feedback_1": {
           "eng": "That’s right. There are more correct options. Can you find them?"
         },
         "quiz_1_option_2_text": {
-          "eng": "Share her own experiences"
+          "eng": "Shared her own experiences"
         },
         "quiz_1_feedback_2": {
           "eng": "That’s right. There are more correct options. Can you find them?"
@@ -201,28 +205,28 @@
           "eng": "That’s not the best way to get your teen to stay in school. Try again."
         },
         "quiz_1_option_5_text": {
-          "eng": "She looked for solutions with her daughter"
+          "eng": "Looked for solutions together"
         },
         "quiz_1_feedback_5": {
           "eng": "That’s right. There are more correct options. Can you find them?"
         }
       },
       "quiz_1_question": "How did @data.characters.f3_mother.name support her daughter, @data.characters.f3_daughter_12.name, to stay in school?",
-      "quiz_1_option_1_text": "Listen to understand the problem",
+      "quiz_1_option_1_text": "Listened to understand the problem",
       "quiz_1_feedback_1": "That’s right. There are more correct options. Can you find them?",
-      "quiz_1_option_2_text": "Share her own experiences",
+      "quiz_1_option_2_text": "Shared her own experiences",
       "quiz_1_feedback_2": "That’s right. There are more correct options. Can you find them?",
       "quiz_1_option_3_text": "She punished her",
       "quiz_1_feedback_3": "That’s not the best way to get your teen to stay in school. Try again.",
       "quiz_1_option_4_text": "She forced her to go",
       "quiz_1_feedback_4": "That’s not the best way to get your teen to stay in school. Try again.",
-      "quiz_1_option_5_text": "She looked for solutions with her daughter",
+      "quiz_1_option_5_text": "Looked for solutions together",
       "quiz_1_feedback_5": "That’s right. There are more correct options. Can you find them?"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/learn/learn2_teen_1.jpg",
+      "image_asset": "/images/teen_modules/learn/learn2_t_1.jpg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_son_18",
       "nested": false,
@@ -250,7 +254,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/learn/learn2_teen_2.jpg",
+      "image_asset": "/images/teen_modules/learn/learn2_t_2.jpg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_son_18",
       "nested": false,
@@ -273,7 +277,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/learn/learn2_teen_3.jpg",
+      "image_asset": "/images/teen_modules/learn/learn2_t_3.jpg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_son_18",
       "nested": false,
@@ -296,8 +300,8 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/learn/learn2_teen_4.jpg",
-      "character_1_id": "f1_daughter_16",
+      "image_asset": "/images/teen_modules/learn/learn2_t_4.jpg",
+      "character_1_id": "f1_mother",
       "character_2_id": "f1_son_18",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
@@ -311,10 +315,10 @@
           "eng": "Ah well, at least you now know that it is important to study for every test no matter how confident you feel. Would you like some help to remind you next time?"
         },
         "character_2_text": {
-          "eng": "It is okay, @data.characters.f1_mother.role_name . I will remember. Thanks for understanding."
+          "eng": "It is okay, @data.characters.f1_mother.role_name. I will remember. Thanks for understanding."
         }
       },
-      "character_2_text": "It is okay, @data.characters.f1_mother.role_name . I will remember. Thanks for understanding."
+      "character_2_text": "It is okay, @data.characters.f1_mother.role_name. I will remember. Thanks for understanding."
     },
     {
       "id": "explore_9",
@@ -344,7 +348,7 @@
           "eng": "How did @data.characters.f1_mother.name support her teen to learn from his mistake?"
         },
         "quiz_1_option_1_text": {
-          "eng": "She problem solved together"
+          "eng": "She problem-solved with him"
         },
         "quiz_1_feedback_1": {
           "eng": "That’s right! There are 2 right answers! Can you find them both?"
@@ -369,7 +373,7 @@
         }
       },
       "quiz_1_question": "How did @data.characters.f1_mother.name support her teen to learn from his mistake?",
-      "quiz_1_option_1_text": "She problem solved together",
+      "quiz_1_option_1_text": "She problem-solved with him",
       "quiz_1_feedback_1": "That’s right! There are 2 right answers! Can you find them both?",
       "quiz_1_option_2_text": "She got frustrated with him",
       "quiz_1_feedback_2": "Try again.",
@@ -412,7 +416,7 @@
           "eng": "ROUTINE"
         },
         "section_1_text": {
-          "eng": "Most teens do not enjoy homework. You can understand how they feel and still help them build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time."
+          "eng": "Help your teen build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time."
         },
         "section_2_title": {
           "eng": "SUPPORT"
@@ -428,7 +432,7 @@
         }
       },
       "section_1_title": "ROUTINE",
-      "section_1_text": "Most teens do not enjoy homework. You can understand how they feel and still help them build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time.",
+      "section_1_text": "Help your teen build a simple homework routine at home, like setting aside a regular time or place for homework. This helps strengthen what they learned at school and teaches them how to manage their time.",
       "section_2_title": "SUPPORT",
       "section_2_text": "Support your teen’s learning at home by making study time calm and focused. Turn off phones, keep the house as quiet as possible, encourage breaks when needed, and show interest and excitement by asking your teen what they are interested in learning.",
       "section_3_title": "PRAISE",
@@ -441,7 +445,7 @@
       "character_1_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_1_facilitator": "You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family.",
+      "text_1_facilitator": "You don’t need to have gone to school to teach your children. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -449,7 +453,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family."
+          "eng": "You don’t need to have gone to school to teach your children. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family."
         },
         "text_2": {
           "eng": "@data.characters.f1_son_18.name learns practical skills by helping his @data.characters.f1_father.role_name make furniture."
@@ -464,12 +468,12 @@
     {
       "id": "practise_2",
       "category_id": "practise",
-      "image_asset": "/images/teen_modules/learn/learn_conflict_t_3.svg",
-      "character_1_id": "f2_grandfather",
+      "image_asset": "/images/teen_modules/learn/learn3_t_2.svg",
+      "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_2": "@data.characters.f2_daughter_19.name learns about her culture and history through stories from her @data.characters.f1_grandfather.role_name.",
+      "text_2": "@data.characters.f2_daughter_19.name learns about her culture and history through stories from her @data.characters.f2_grandmother.role_name.",
       "_translations": {
         "text_2": {},
         "character_1_text": {},
@@ -477,7 +481,7 @@
       },
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f2_daughter_19.name learns about her culture and history through stories from her @data.characters.f1_grandfather.role_name."
+          "eng": "@data.characters.f2_daughter_19.name learns about her culture and history through stories from her @data.characters.f2_grandmother.role_name."
         },
         "character_1_text": {
           "eng": "Long ago, elders taught us to greet others first as a sign of respect."
@@ -492,31 +496,31 @@
     {
       "id": "practise_3",
       "category_id": "practise",
-      "image_asset": "/images/teen_modules/learn/learn_conflict_t_3.svg",
-      "character_1_id": "f1_mother",
+      "image_asset": "/images/teen_modules/learn/learn3_t_3.svg",
+      "character_1_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_2": "@data.characters.f1_daughter_13.name and @data.characters.f1_son_19.name learn an important life skill by cooking together at home.",
+      "text_2": "@data.characters.f2_son_15.name learns an important life skill by cooking with his @data.characters.f2_grandmother.role_name.",
       "_translations": {
         "text_2": {},
         "character_1_text": {}
       },
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f1_daughter_13.name and @data.characters.f1_son_19.name learn an important life skill by cooking together at home."
+          "eng": "@data.characters.f2_son_15.name learns an important life skill by cooking with his @data.characters.f2_grandmother.role_name."
         },
         "character_1_text": {
-          "eng": "You are old enough to learn how to prepare ugali safely. I have done this for many years, and now it is your turn to try. @data.characters.f1_son_19.name, what do you think is the first step for making ugali?"
+          "eng": "I have prepared ugali for many years, and now it is your turn to try! What do you think is the first step for making ugali?"
         }
       },
-      "character_1_text": "You are old enough to learn how to prepare ugali safely. I have done this for many years, and now it is your turn to try. @data.characters.f1_son_19.name, what do you think is the first step for making ugali?"
+      "character_1_text": "I have prepared ugali for many years, and now it is your turn to try! What do you think is the first step for making ugali?"
     },
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_1_facilitator": "This week’s home activity is to create a small routine that supports learning at home. This could be getting ready for school, doing homework, or having a regular time to talk about school.",
+      "text_1_facilitator": "This week’s home activity is to create a small routine that supports learning at home. This could be getting ready for school or having a regular time to talk about school.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -535,7 +539,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This week’s home activity is to create a small routine that supports learning at home. This could be getting ready for school, doing homework, or having a regular time to talk about school."
+          "eng": "This week’s home activity is to create a small routine that supports learning at home. This could be getting ready for school or having a regular time to talk about school."
         },
         "quiz_1_question": {
           "eng": "Can you try one small routine this week to support your teen’s learning at home?"
@@ -574,7 +578,7 @@
       "media_asset": "/audio/teen/testimonials/teen/teen_test_learn_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_1_facilitator": "Spending time together helps teens feel supported and more open to learning. When parents make time to talk and listen, teens are more likely to share what they are struggling with.",
+      "text_1_facilitator": "Spending time together helps teens feel supported and more open to learning. When parents make time to talk and listen, teens are more likely to share the challenges and celebrations that come with learning.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
@@ -582,7 +586,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Spending time together helps teens feel supported and more open to learning. When parents make time to talk and listen, teens are more likely to share what they are struggling with."
+          "eng": "Spending time together helps teens feel supported and more open to learning. When parents make time to talk and listen, teens are more likely to share the challenges and celebrations that come with learning."
         },
         "media_title": {
           "eng": "Spending time together helped @data.characters.media_male_1.name and his father connect. Listen to their story"

@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "87656 KB",
-        "MB": "87.7 MB"
+        "KB": "88775 KB",
+        "MB": "88.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "87826 KB",
-        "MB": "87.8 MB"
+        "KB": "86707 KB",
+        "MB": "86.7 MB"
       }
     ]
   },
@@ -860,10 +860,6 @@
         "size_kb": 53.4
       },
       {
-        "path": "images/teen_modules/learn/learn2_teen_2.jpg",
-        "size_kb": 1119.2
-      },
-      {
         "path": "images/teen_modules/learn/learn_conflict_t_4.svg",
         "size_kb": 48.3
       },
@@ -1123,11 +1119,6 @@
       {
         "path": "images/onboarding/facilitator_onboarding_icon.svg",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/learn/learn2_t_2.jpg",
-        "count": 2,
         "missing": true
       },
       {
@@ -2663,6 +2654,11 @@
         "path": "images/teen_modules/learn/learn2_t_1.jpg",
         "count": 2,
         "size_kb": 1020.7
+      },
+      {
+        "path": "images/teen_modules/learn/learn2_t_2.jpg",
+        "count": 2,
+        "size_kb": 1119.2
       },
       {
         "path": "images/teen_modules/learn/learn2_t_3.jpg",

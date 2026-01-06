@@ -1145,23 +1145,13 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "notification_text": "How did trying a fun activity with your teen go?",
+      "notification_text": "How did creating a routine go?",
       "_translations": {
-        "notification_text": {
-          "tz_sw": true
-        },
-        "text_goal": {
-          "tz_sw": true
-        },
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "notification_text": {},
+        "text_goal": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {
           "tz_sw": true
         },
@@ -1180,19 +1170,19 @@
       },
       "_translatedFields": {
         "notification_text": {
-          "eng": "How did trying a fun activity with your teen go?"
+          "eng": "How did creating a routine go?"
         },
         "text_goal": {
-          "eng": "Your goal was to try a fun activity with your teen."
+          "eng": "Your goal was to create a routine that supports learning at home."
         },
         "reply_happy": {
-          "eng": "Great to hear it went well! Spending fun, relaxed time with your teen helps them learn important life skills  —  and it strengthens your bond."
+          "eng": "Great to hear it went well! Having even a small routine helps them learn important life skills  —  and it strengthens your bond."
         },
         "reply_ok": {
-          "eng": "You're doing well! Even small moments of fun and conversation can help your teen feel valued and motivated. Keep it up!"
+          "eng": "You're doing well! Even having a regular time to talk can help your teen feel valued and motivated. Keep it up!"
         },
         "reply_sad": {
-          "eng": "Taking time for yourself can be challenging, but you’re doing great. Keep it up — you deserve it!"
+          "eng": "Creating new routines can be challenging, but you’re doing great. Keep it up — you deserve it!"
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
@@ -1210,10 +1200,10 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
-      "text_goal": "Your goal was to try a fun activity with your teen.",
-      "reply_happy": "Great to hear it went well! Spending fun, relaxed time with your teen helps them learn important life skills  —  and it strengthens your bond.",
-      "reply_ok": "You're doing well! Even small moments of fun and conversation can help your teen feel valued and motivated. Keep it up!",
-      "reply_sad": "Taking time for yourself can be challenging, but you’re doing great. Keep it up — you deserve it!",
+      "text_goal": "Your goal was to create a routine that supports learning at home.",
+      "reply_happy": "Great to hear it went well! Having even a small routine helps them learn important life skills  —  and it strengthens your bond.",
+      "reply_ok": "You're doing well! Even having a regular time to talk can help your teen feel valued and motivated. Keep it up!",
+      "reply_sad": "Creating new routines can be challenging, but you’re doing great. Keep it up — you deserve it!",
       "activity_title": "Let’s check in on your home activity!",
       "question_done": "Did you have a chance to try this?",
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",

@@ -75,7 +75,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_1.svg",
+      "image_asset": "/images/teen_modules/rules/rules1_t_1.png",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_son_18",
       "nested": false,
@@ -109,7 +109,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_2.svg",
+      "image_asset": "/images/teen_modules/rules/rules1_t_2.png",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "nested": false,
@@ -143,7 +143,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_3.svg",
+      "image_asset": "/images/teen_modules/rules/rules1_t_3.png",
       "character_1_id": "f1_father",
       "character_2_id": "f1_mother",
       "nested": false,
@@ -170,7 +170,7 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_4.svg",
+      "image_asset": "/images/teen_modules/rules/rules1_t_4.png",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "nested": false,
@@ -197,7 +197,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_5.svg",
+      "image_asset": "/images/teen_modules/rules/rules1_t_5.png",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "character_3_id": "f1_father",
@@ -232,7 +232,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_6.svg",
+      "image_asset": "/images/teen_modules/rules/rules1_t_6.png",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "nested": false,
@@ -259,7 +259,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/rules/rules1_t_7.svg",
+      "image_asset": "/images/teen_modules/rules/rules1_t_7.png",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_father",
       "nested": false,

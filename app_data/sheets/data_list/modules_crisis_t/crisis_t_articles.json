@@ -99,7 +99,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_1.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_1.png",
       "character_1_id": "f2_grandmother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
@@ -125,7 +125,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_2.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_2.png",
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f2_grandmother",
       "character_3_id": "f2_grandmother",
@@ -160,7 +160,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_3.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_3.png",
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f2_grandmother",
       "nested": false,
@@ -187,7 +187,7 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_4.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_4.png",
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f2_grandmother",
       "nested": false,
@@ -214,7 +214,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_5.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_5.png",
       "character_1_id": "f2_grandfather",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
@@ -233,7 +233,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_6.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_6.png",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_daughter_19",
       "character_3_id": "f2_grandmother",
@@ -268,7 +268,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_6.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_7.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "nested": false,

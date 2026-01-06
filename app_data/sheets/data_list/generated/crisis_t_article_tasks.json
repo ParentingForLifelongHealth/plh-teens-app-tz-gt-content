@@ -216,7 +216,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_1.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_1.png",
       "character_1_id": "f2_grandmother",
       "character_1_text": "Shame my dear, you look really upset, do you want to tell me what happened?",
       "completed": false
@@ -237,7 +237,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_2.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_2.png",
       "character_1_id": "f2_daughter_19",
       "character_1_text": "It’s that man, he… he… he touched me.",
       "_translations": {
@@ -270,7 +270,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_3.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_3.png",
       "character_1_id": "f2_daughter_19",
       "character_1_text": "Yesterday when you went to see your friend. He just came and that’s when it happened. He… he… he made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble.",
       "_translations": {
@@ -298,7 +298,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_4.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_4.png",
       "character_1_id": "f2_daughter_19",
       "character_1_text": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?",
       "_translations": {
@@ -323,7 +323,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_5.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_5.png",
       "character_1_id": "f2_grandfather",
       "character_1_text": "I am so sorry this happened to you, my child. We are here to support you. What you shared is important. We will find a way to get the help we need.",
       "_translations": {
@@ -349,7 +349,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_6.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_6.png",
       "character_1_id": "f2_grandfather",
       "character_1_text": "I think it would be a good idea to go to the clinic, so they can do a check-up to make sure you are okay. What do you think about that?",
       "_translations": {
@@ -382,7 +382,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/crisis/crisis1_t_6.svg",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_7.png",
       "character_1_id": "f2_grandmother",
       "character_1_text": "I am glad we could handle this together. I was so scared you would think this is my fault.",
       "_translations": {

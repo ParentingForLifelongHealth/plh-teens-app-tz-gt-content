@@ -79,7 +79,7 @@
       "character_2_id": "f3_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_1_facilitator": "Spending time together helps you understand what your teen is going through at school, and makes it easier to discuss what they need to keep attending and learning.\n \nLet’s see how @data.characters.f3_mother.name does this.",
+      "text_1_facilitator": "Spending time together helps you understand what your teen is going through at school, and makes it easier to learn how to keep them attending school and learning.\n \nLet’s see how @data.characters.f3_mother.name does this.",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -87,7 +87,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Spending time together helps you understand what your teen is going through at school, and makes it easier to discuss what they need to keep attending and learning.\n \nLet’s see how @data.characters.f3_mother.name does this."
+          "eng": "Spending time together helps you understand what your teen is going through at school, and makes it easier to learn how to keep them attending school and learning.\n \nLet’s see how @data.characters.f3_mother.name does this."
         },
         "character_1_text": {
           "eng": "I don’t want to go to school today."
@@ -117,10 +117,10 @@
           "eng": "I hate school. Why should I go to school if you didn’t?"
         },
         "character_2_text": {
-          "eng": "You know how your uncle always has many foods on the table? I work just as hard as he does, but our table often does not have as many foods.. School gave him more chances than I had.\n\nIt also helped him feel confident and get along with different types of people. I want those things for you, too."
+          "eng": "You know how your uncle always has many foods on the table? I work just as hard as he does, but our table often does not have as many foods. School gave him more chances than I had.\n\nSchool also helped him feel confident and get along with different types of people. I want those things for you, too."
         }
       },
-      "character_2_text": "You know how your uncle always has many foods on the table? I work just as hard as he does, but our table often does not have as many foods.. School gave him more chances than I had.\n\nIt also helped him feel confident and get along with different types of people. I want those things for you, too."
+      "character_2_text": "You know how your uncle always has many foods on the table? I work just as hard as he does, but our table often does not have as many foods. School gave him more chances than I had.\n\nSchool also helped him feel confident and get along with different types of people. I want those things for you, too."
     },
     {
       "id": "explore_3",
@@ -131,7 +131,7 @@
       "character_3_id": "f3_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "character_1_text": "I imagine school can feel challenging. Learning usually is before it starts to make sense and  feel exciting. Maybe we can make study time easier at home. What do you think could help?",
+      "character_1_text": "I imagine school can feel challenging. Learning can be frustrating before it starts to make sense and feel exciting. Maybe we can make it easier to study at home. What do you think could help?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -139,7 +139,7 @@
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I imagine school can feel challenging. Learning usually is before it starts to make sense and  feel exciting. Maybe we can make study time easier at home. What do you think could help?"
+          "eng": "I imagine school can feel challenging. Learning can be frustrating before it starts to make sense and feel exciting. Maybe we can make it easier to study at home. What do you think could help?"
         },
         "character_2_text": {
           "eng": "Maybe if I take short breaks…"
@@ -184,13 +184,13 @@
           "eng": "Listened to understand the problem"
         },
         "quiz_1_feedback_1": {
-          "eng": "That’s right. There are more correct options. Can you find them?"
+          "eng": "That’s right! There are more correct answers. Can you find them?"
         },
         "quiz_1_option_2_text": {
           "eng": "Shared her own experiences"
         },
         "quiz_1_feedback_2": {
-          "eng": "That’s right. There are more correct options. Can you find them?"
+          "eng": "That’s right! There are more correct answers. Can you find them?"
         },
         "quiz_1_option_3_text": {
           "eng": "She punished her"
@@ -208,20 +208,20 @@
           "eng": "Looked for solutions together"
         },
         "quiz_1_feedback_5": {
-          "eng": "That’s right. There are more correct options. Can you find them?"
+          "eng": "That’s right! There are more correct answers. Can you find them?"
         }
       },
       "quiz_1_question": "How did @data.characters.f3_mother.name support her daughter, @data.characters.f3_daughter_12.name, to stay in school?",
       "quiz_1_option_1_text": "Listened to understand the problem",
-      "quiz_1_feedback_1": "That’s right. There are more correct options. Can you find them?",
+      "quiz_1_feedback_1": "That’s right! There are more correct answers. Can you find them?",
       "quiz_1_option_2_text": "Shared her own experiences",
-      "quiz_1_feedback_2": "That’s right. There are more correct options. Can you find them?",
+      "quiz_1_feedback_2": "That’s right! There are more correct answers. Can you find them?",
       "quiz_1_option_3_text": "She punished her",
       "quiz_1_feedback_3": "That’s not the best way to get your teen to stay in school. Try again.",
       "quiz_1_option_4_text": "She forced her to go",
       "quiz_1_feedback_4": "That’s not the best way to get your teen to stay in school. Try again.",
       "quiz_1_option_5_text": "Looked for solutions together",
-      "quiz_1_feedback_5": "That’s right. There are more correct options. Can you find them?"
+      "quiz_1_feedback_5": "That’s right! There are more correct answers. Can you find them?"
     },
     {
       "id": "explore_5",
@@ -404,9 +404,7 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {
-          "tz_sw": true
-        }
+        "section_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -428,7 +426,7 @@
           "eng": "PRAISE"
         },
         "section_3_text": {
-          "eng": "Praising your teen is a powerful way to help them try again. Teens do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes."
+          "eng": "Praising your teen is a powerful way to help them try again. Teens often do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes."
         }
       },
       "section_1_title": "ROUTINE",
@@ -436,7 +434,7 @@
       "section_2_title": "SUPPORT",
       "section_2_text": "Support your teen’s learning at home by making study time calm and focused. Turn off phones, keep the house as quiet as possible, encourage breaks when needed, and show interest and excitement by asking your teen what they are interested in learning.",
       "section_3_title": "PRAISE",
-      "section_3_text": "Praising your teen is a powerful way to help them try again. Teens do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes."
+      "section_3_text": "Praising your teen is a powerful way to help them try again. Teens often do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes."
     },
     {
       "id": "practise_1",
@@ -445,7 +443,7 @@
       "character_1_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
-      "text_1_facilitator": "You don’t need to have gone to school to teach your children. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family.",
+      "text_1_facilitator": "You can teach your children, even if you didn’t go to school. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
@@ -453,17 +451,17 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "You don’t need to have gone to school to teach your children. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family."
+          "eng": "You can teach your children, even if you didn’t go to school. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family."
         },
         "text_2": {
           "eng": "@data.characters.f1_son_18.name learns practical skills by helping his @data.characters.f1_father.role_name make furniture."
         },
         "character_1_text": {
-          "eng": "Well done, @data.characters.f1_son_18.name, for trying again after that plank broke. You figured out the last step on your own. Next holidays, I know you will be ready to help with the stool orders."
+          "eng": "Well done, @data.characters.f1_son_18.name, for trying again after that plank broke. You figured out the last step on your own. Next holiday, I know you will be ready to help with the stool orders."
         }
       },
       "text_2": "@data.characters.f1_son_18.name learns practical skills by helping his @data.characters.f1_father.role_name make furniture.",
-      "character_1_text": "Well done, @data.characters.f1_son_18.name, for trying again after that plank broke. You figured out the last step on your own. Next holidays, I know you will be ready to help with the stool orders."
+      "character_1_text": "Well done, @data.characters.f1_son_18.name, for trying again after that plank broke. You figured out the last step on your own. Next holiday, I know you will be ready to help with the stool orders."
     },
     {
       "id": "practise_2",

@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 87656 KB | 87.7 MB |
-| unused | 87826 KB | 87.8 MB |
+| total | 88775 KB | 88.8 MB |
+| unused | 86707 KB | 86.7 MB |
 </details>
 
 <details open>
@@ -237,7 +237,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/instruct/instruct2_t_2.svg | 37.4 |
 | images/teen_modules/instruct/instruct3_t_2.svg | 39.7 |
 | images/teen_modules/instruct/instruct3_t_5.svg | 53.4 |
-| images/teen_modules/learn/learn2_teen_2.jpg | 1119.2 |
 | images/teen_modules/learn/learn_conflict_t_4.svg | 48.3 |
 | images/teen_modules/learn/learn_support_t_1.svg | 51.8 |
 | images/teen_modules/learn/learn_support_t_2.svg | 69.4 |
@@ -311,7 +310,6 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
-| images/teen_modules/learn/learn2_t_2.jpg | 2 |
 | images/teen_modules/safe/safe1_t_4.svg | 2 |
 | images/teen_modules/safe/safe1_t_6.svg | 2 |
 </details>
@@ -627,6 +625,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/instruct/instruct3_t_3.svg | 43.4 | 2 |
 | images/teen_modules/instruct/instruct3_t_4.svg | 42.5 | 2 |
 | images/teen_modules/learn/learn2_t_1.jpg | 1020.7 | 2 |
+| images/teen_modules/learn/learn2_t_2.jpg | 1119.2 | 2 |
 | images/teen_modules/learn/learn2_t_3.jpg | 1090.5 | 2 |
 | images/teen_modules/learn/learn2_t_4.jpg | 1221.5 | 2 |
 | images/teen_modules/learn/learn3_t_2.svg | 37.5 | 2 |

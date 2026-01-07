@@ -97,7 +97,9 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },

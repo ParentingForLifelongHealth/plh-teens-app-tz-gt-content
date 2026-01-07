@@ -447,7 +447,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "text_1_facilitator": "Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n\nThere are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n\nThink of the advantages and disadvantages of each savings option.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -559,7 +561,9 @@
         "section_4_button_text": {
           "tz_sw": true
         },
-        "section_4_extra_text": {}
+        "section_4_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

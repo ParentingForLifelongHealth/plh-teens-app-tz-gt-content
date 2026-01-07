@@ -653,7 +653,9 @@
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },

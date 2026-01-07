@@ -400,7 +400,9 @@
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
@@ -664,8 +666,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "We’ve seen that teens can face many unsafe situations — both in the community and online.\nTo keep our teens safe, we also need to understand the risks they face online.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -810,7 +816,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -956,7 +964,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

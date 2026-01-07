@@ -271,12 +271,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "88775 KB",
-        "MB": "88.8 MB"
+        "KB": "89966 KB",
+        "MB": "90 MB"
       },
       {
         "assets": "unused",
-        "KB": "86707 KB",
+        "KB": "86682 KB",
         "MB": "86.7 MB"
       }
     ]
@@ -973,7 +973,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 57.8
+        "size_kb": 32.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -2384,6 +2384,11 @@
         "path": "images/logos/plh_white.svg",
         "count": 1,
         "size_kb": 256.1
+      },
+      {
+        "path": "images/logos/tz_ministry.png",
+        "count": 1,
+        "size_kb": 1191.3
       },
       {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",

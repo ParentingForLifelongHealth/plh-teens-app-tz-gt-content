@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 88775 KB | 88.8 MB |
-| unused | 86707 KB | 86.7 MB |
+| total | 89966 KB | 90 MB |
+| unused | 86682 KB | 86.7 MB |
 </details>
 
 <details open>
@@ -265,7 +265,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/safe1_t_4.png | 767.5 |
@@ -571,6 +571,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/Wellspring.jpeg | 106.5 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
+| images/logos/tz_ministry.png | 1191.3 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 1 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |

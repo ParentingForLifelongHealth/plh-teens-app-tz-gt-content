@@ -237,7 +237,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "character_1_text": "It is not women’s work. @data.characters.f1_mother.role_name and @data.characters.f1_daughter_16.name are busy at work and school all day as well. We all need to play our part at home too.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -414,19 +416,17 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It can be hard to think of reasons to praise your teen! Here are some ideas from other parents:"
         },
         "text_2": {
-          "eng": "**Thank you for...**\n- Being kind to someone\n- Cleaning your room\n- Joining a family meal\n- Greeting other family members\n- Looking after your siblings\n- Coming home on time\n- Showing thoughtfulness\n- Saying 'please' or 'thank you'\n- Going to school on time\n- Doing chores or schoolwork"
+          "eng": "**Thank you for...**\n- Being kind to someone\n- Cleaning your room\n- Joining a family meal\n- Greeting other family members\n- Looking after your siblings\n- Coming home on time\n- Saying 'please' or 'thank you'\n- Going to school on time"
         }
       },
-      "text_2": "**Thank you for...**\n- Being kind to someone\n- Cleaning your room\n- Joining a family meal\n- Greeting other family members\n- Looking after your siblings\n- Coming home on time\n- Showing thoughtfulness\n- Saying 'please' or 'thank you'\n- Going to school on time\n- Doing chores or schoolwork"
+      "text_2": "**Thank you for...**\n- Being kind to someone\n- Cleaning your room\n- Joining a family meal\n- Greeting other family members\n- Looking after your siblings\n- Coming home on time\n- Saying 'please' or 'thank you'\n- Going to school on time"
     },
     {
       "id": "home_activity_1",

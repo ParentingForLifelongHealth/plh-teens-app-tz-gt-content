@@ -331,21 +331,33 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/angry.svg",
       "quiz_1_feedback_1": "Yes, she seems sad right now because she is crying. Sadness is one of the stages of grief for teens and adults.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_2_question": {},
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -604,19 +616,27 @@
         "quiz_2_feedback_3": {
           "tz_sw": true
         },
-        "quiz_3_question": {},
+        "quiz_3_question": {
+          "tz_sw": true
+        },
         "quiz_3_option_1_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_1": {},
+        "quiz_3_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_3_option_2_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_2": {},
+        "quiz_3_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_3_option_3_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_3": {}
+        "quiz_3_feedback_3": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, knowing that her @data.characters.f4_father.role_name understood and accepted her feelings made @data.characters.f4_daughter_13.name feel cared for and supported.",
       "quiz_1_feedback_3": "Exactly. Sharing her sadness and anger openly made @data.characters.f4_daughter_13.name feel comforted and closer to her father.",
@@ -686,8 +706,12 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },

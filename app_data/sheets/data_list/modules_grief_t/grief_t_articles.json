@@ -181,18 +181,30 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {},
-        "quiz_2_question": {},
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -431,19 +443,27 @@
         "quiz_2_feedback_3": {
           "tz_sw": true
         },
-        "quiz_3_question": {},
+        "quiz_3_question": {
+          "tz_sw": true
+        },
         "quiz_3_option_1_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_1": {},
+        "quiz_3_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_3_option_2_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_2": {},
+        "quiz_3_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_3_option_3_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_3": {}
+        "quiz_3_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -554,8 +574,12 @@
         "section_1_text": {
           "tz_sw": true
         },
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },

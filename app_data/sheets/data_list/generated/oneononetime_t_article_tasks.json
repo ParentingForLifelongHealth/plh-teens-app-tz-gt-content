@@ -587,7 +587,9 @@
         "quiz_1_feedback_5": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
       "quiz_1_feedback_3": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",

@@ -608,7 +608,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
@@ -699,7 +701,9 @@
         "section_4_button_text": {
           "tz_sw": true
         },
-        "section_4_extra_text": {}
+        "section_4_extra_text": {
+          "tz_sw": true
+        }
       },
       "section_1_icon_asset": "images/icons/brain_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",

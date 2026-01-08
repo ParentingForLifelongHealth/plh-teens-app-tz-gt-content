@@ -16,7 +16,9 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {}
+        "section_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -69,7 +71,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
@@ -276,7 +280,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },

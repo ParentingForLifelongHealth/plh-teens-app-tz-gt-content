@@ -443,7 +443,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, take a moment to think about how you handle tough moments in your own life.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },

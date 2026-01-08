@@ -15,8 +15,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "Today's topic is about helping your teen learn.\n\nDid you know that spending one-on-one time with your teen can help them do better at school? Today we will share some ideas about how you can support your teen to learn in school and outside of school.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
@@ -44,8 +48,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "Schools teach teens important skills, but learning does not stop at school, it can happen anywhere. \n\nParents help teens learn through daily life with family and friends and during fun. Often, learning starts by simply spending time together.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -82,8 +90,12 @@
       "text_1_facilitator": "Spending time together helps you understand what your teen is going through at school, and makes it easier to learn how to keep them attending school and learning.\n \nLet’s see how @data.characters.f3_mother.name does this.",
       "_translations": {
         "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -109,7 +121,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "character_1_text": "I hate school. Why should I go to school if you didn’t?",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {}
       },
       "_translatedFields": {
@@ -134,8 +148,12 @@
       "character_1_text": "I imagine school can feel challenging. Learning can be frustrating before it starts to make sense and feel exciting. Maybe we can make it easier to study at home. What do you think could help?",
       "_translations": {
         "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -161,16 +179,32 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_5": {}
       },
       "_translatedFields": {
@@ -233,9 +267,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "As parents, it is natural to want to help our teens avoid mistakes, but learning from mistakes is the best way to learn!\n\nLet’s look at how @data.characters.f1_mother.name supports her son after a mistake.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -261,8 +301,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "character_1_text": "I am sorry you got a bad result. You must be very frustrated.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -284,8 +328,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "character_1_text": "I know you are still amazing and smart. Do you know what went wrong?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -307,8 +355,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "character_1_text": "Ah well, at least you now know that it is important to study for every test no matter how confident you feel. Would you like some help to remind you next time?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -330,15 +382,33 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -395,12 +465,18 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "section_1_title": {},
-        "section_1_text": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
@@ -446,7 +522,9 @@
       "text_1_facilitator": "You can teach your children, even if you didn’t go to school. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family.",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true
+        },
         "character_1_text": {}
       },
       "_translatedFields": {
@@ -473,9 +551,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_2": "@data.characters.f2_daughter_19.name learns about her culture and history through stories from her @data.characters.f2_grandmother.role_name.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -500,8 +584,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_2": "@data.characters.f2_son_15.name learns an important life skill by cooking with his @data.characters.f2_grandmother.role_name.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -520,20 +608,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "This week’s home activity is to create a small routine that supports learning at home. This could be getting ready for school or having a regular time to talk about school.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -578,9 +676,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "Spending time together helps teens feel supported and more open to learning. When parents make time to talk and listen, teens are more likely to share the challenges and celebrations that come with learning.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

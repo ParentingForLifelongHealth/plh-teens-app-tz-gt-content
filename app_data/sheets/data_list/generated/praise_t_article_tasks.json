@@ -343,7 +343,9 @@
       "character_2_id": "f1_son_18",
       "character_1_text": "It is not women’s work. @data.characters.f1_mother.role_name and @data.characters.f1_daughter_16.name are busy at work and school all day as well. We all need to play our part at home too.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -523,7 +525,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "text_2": "**Thank you for...**\n- Being kind to someone\n- Cleaning your room\n- Joining a family meal\n- Greeting other family members\n- Looking after your siblings\n- Coming home on time\n- Saying 'please' or 'thank you'\n- Going to school on time",
       "completed": false

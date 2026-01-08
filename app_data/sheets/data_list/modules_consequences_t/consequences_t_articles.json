@@ -623,7 +623,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
+        "character_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -1028,7 +1030,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_1_facilitator": "Your home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },

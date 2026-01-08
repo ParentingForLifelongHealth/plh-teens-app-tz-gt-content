@@ -505,15 +505,21 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
       "quiz_1_feedback_3": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
@@ -1207,7 +1213,9 @@
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
@@ -1217,13 +1225,21 @@
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {}
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get the help they need.",
       "quiz_1_feedback_3": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time.",
@@ -1403,7 +1419,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }

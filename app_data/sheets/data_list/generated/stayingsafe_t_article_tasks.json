@@ -488,6 +488,9 @@
       "media_type": "video",
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
         "media_title": {
           "eng": "Here is a short video to help you slow down before you go"
         }
@@ -498,9 +501,12 @@
       "_translations": {
         "media_title": {
           "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
         }
       },
-      "image_asset": "Well done for taking time for yourself today. 🎉",
+      "text_2": "Well done for taking time for yourself today. 🎉",
       "completed": false
     }
   ],

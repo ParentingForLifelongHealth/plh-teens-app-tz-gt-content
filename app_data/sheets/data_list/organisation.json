@@ -72,7 +72,8 @@
     },
     {
       "id": "organisation_12",
-      "image_asset": "images/logos/tz_ministry.png",
+      "name": "Ministry of Information, Culture, Arts and Sports",
+      "image_asset": "images/logos/tz_ministry.svg",
       "group": "partners"
     },
     {

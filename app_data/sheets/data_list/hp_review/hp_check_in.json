@@ -664,9 +664,7 @@
         "notification_text": {
           "tz_sw": true
         },
-        "text_goal": {
-          "tz_sw": true
-        },
+        "text_goal": {},
         "reply_happy": {
           "tz_sw": true
         },
@@ -697,7 +695,7 @@
           "eng": "How did making a safety map go?"
         },
         "text_goal": {
-          "eng": "Your goal was to make a safety map with your teen of safe and unsafe places – both in your community and online."
+          "eng": "Your goal was to make a safety map with your teen of safe and unsafe places."
         },
         "reply_happy": {
           "eng": "Great to hear it went well! Talking about risks and support options prevents problems and really helps to keep your teen safe."
@@ -724,7 +722,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
-      "text_goal": "Your goal was to make a safety map with your teen of safe and unsafe places – both in your community and online.",
+      "text_goal": "Your goal was to make a safety map with your teen of safe and unsafe places.",
       "reply_happy": "Great to hear it went well! Talking about risks and support options prevents problems and really helps to keep your teen safe.",
       "reply_ok": "Even if it did not go so well yet, you will get there! Mapping risks and support systems together will help your family. Well done for trying.",
       "reply_sad": "Sorry that this was hard. Mapping risks and places to get support can be challenging and emotional. It really does help to keep your teen safe!",
@@ -1222,8 +1220,8 @@
     }
   ],
   "_source": {
-    "name": "teens_tz",
-    "path": "data/TZ hp_review.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1GluTR-aDYcVaKOqPlGM3nuaTWloRp2LIf-mnlxtHm8M"
+    "name": "tz_GT",
+    "path": "TZ hp_review 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1C3yQwdhDp0-Porfd7YlP_vZPTwMysxEhSYKXRHc40mE"
   }
 }

@@ -13,7 +13,8 @@
         "value": {
           "tz_sw": true
         }
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -23,7 +24,8 @@
         "value": {
           "tz_sw": true
         }
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",

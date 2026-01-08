@@ -382,22 +382,28 @@
     {
       "id": "check_out_1",
       "category_id": "check_out",
-      "image_asset": "Well done for taking time for yourself today. 🎉",
       "media_type": "video",
       "media_asset": "/video/plh_video/lets_slow_down.mp4",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
-      "media_title": "Here is a short video to help you slow down before you go",
+      "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
         "media_title": {
           "eng": "Here is a short video to help you slow down before you go"
         }
-      }
+      },
+      "media_title": "Here is a short video to help you slow down before you go"
     }
   ],
   "_source": {

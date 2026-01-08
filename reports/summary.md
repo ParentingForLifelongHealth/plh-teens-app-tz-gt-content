@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 89966 KB | 90 MB |
-| unused | 86682 KB | 86.7 MB |
+| total | 89935 KB | 89.9 MB |
+| unused | 86738 KB | 86.7 MB |
 </details>
 
 <details open>
@@ -265,7 +265,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/safe1_t_4.png | 767.5 |
@@ -291,6 +291,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/srh/srh1_t_1.svg | 32.5 |
 | images/teen_modules/srh/srh1_t_2.svg | 36.9 |
 | images/teen_modules/srh/srh1_t_3.svg | 30.6 |
+| images/teen_modules/srh/srh1_t_4.svg | 31 |
 | images/teen_modules/stress/stress2_t_4.svg | 55.6 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
@@ -686,8 +687,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/srh/srh1_t_1.png | 463.4 | 2 |
 | images/teen_modules/srh/srh1_t_2.png | 524.8 | 2 |
 | images/teen_modules/srh/srh1_t_3.png | 515.4 | 2 |
-| images/teen_modules/srh/srh1_t_4.png | 493.7 | 2 |
-| images/teen_modules/srh/srh1_t_4.svg | 31 | 2 |
+| images/teen_modules/srh/srh1_t_4.png | 493.7 | 4 |
 | images/teen_modules/srh/srh2_t_1.svg | 49.6 | 2 |
 | images/teen_modules/srh/srh2_t_2.svg | 44 | 2 |
 | images/teen_modules/srh/srh2_t_3.svg | 28.7 | 2 |
@@ -716,9 +716,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/stress/stress2_t_1.svg | 75.1 | 2 |
 | images/teen_modules/stress/stress2_t_2.svg | 59.4 | 2 |
 | images/teen_modules/stress/stress2_t_3.svg | 55.3 | 2 |
-| images/teen_modules/svp/svp_usebody_t_1.gif | 1111.6 | 2 |
-| images/teen_modules/svp/svp_usebody_t_2.gif | 2008.5 | 2 |
-| images/teen_modules/svp/svp_usebody_t_3.gif | 844.1 | 2 |
+| images/teen_modules/svp/svp_usebody_t_1.gif | 2008.5 | 2 |
+| images/teen_modules/svp/svp_usebody_t_2.gif | 844.1 | 2 |
+| images/teen_modules/svp/svp_usebody_t_3.gif | 1111.6 | 2 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 23.6 | 1 |

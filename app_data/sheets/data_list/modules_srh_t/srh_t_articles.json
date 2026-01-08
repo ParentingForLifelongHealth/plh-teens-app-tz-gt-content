@@ -364,8 +364,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh1_t_4.svg",
-      "quiz_1_option_2_image_asset": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
+      "image_asset": "/images/teen_modules/srh/srh1_t_4.png",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Now imagine a girl was in @data.characters.f2_son_15.name’s place. Some families might react differently because of worries about safety or beliefs learned over time. Thinking about this can help us understand our own reactions.",
@@ -378,11 +377,14 @@
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1_id": {
+        "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {
           "tz_sw": true
         }
       },
@@ -399,22 +401,26 @@
         "quiz_1_feedback_1": {
           "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
         },
-        "quiz_1_feedback_1_id": {
+        "quiz_1_option_2_text": {
           "eng": "Parents fear more for girls’ safety"
         },
         "quiz_1_feedback_2": {
-          "eng": "Because of family and community beliefs"
+          "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
         },
         "quiz_1_option_3_text": {
+          "eng": "Because of family and community beliefs"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
         }
       },
       "quiz_1_question": "How might the reaction be different if it was a granddaughter instead of a grandson in this position?",
       "quiz_1_option_1_text": "Girls are judged more strictly",
       "quiz_1_feedback_1": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
-      "quiz_1_feedback_1_id": "Parents fear more for girls’ safety",
-      "quiz_1_feedback_2": "Because of family and community beliefs",
-      "quiz_1_option_3_text": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
+      "quiz_1_option_2_text": "Parents fear more for girls’ safety",
+      "quiz_1_feedback_2": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
+      "quiz_1_option_3_text": "Because of family and community beliefs",
+      "quiz_1_feedback_3": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way."
     },
     {
       "id": "explore_7",
@@ -424,11 +430,9 @@
       "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
-      "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and her granddaughter, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
+      "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -438,7 +442,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and her granddaughter, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly."
+          "eng": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly."
         },
         "character_1_text": {
           "eng": "@data.characters.f1_mother.role_name, can I talk to you about something?"
@@ -466,9 +470,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_2": {
@@ -478,11 +480,11 @@
           "eng": "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do."
         },
         "character_2_text": {
-          "eng": "(🤔_thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
+          "eng": "(🤔 _thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
         }
       },
       "character_1_text": "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do.",
-      "character_2_text": "(🤔_thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
+      "character_2_text": "(🤔 _thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
     },
     {
       "id": "explore_9",

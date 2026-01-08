@@ -600,7 +600,7 @@
           "eng": "@data.characters.f1_daughter_13.name, have you done your homework?"
         },
         "character_2_text": {
-          "eng": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video."
+          "eng": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this TikTok video."
         }
       },
       "category_id": "explore",
@@ -613,15 +613,13 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/rules/rules2_t_1.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_13",
       "character_1_text": "@data.characters.f1_daughter_13.name, have you done your homework?",
-      "character_2_text": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video.",
+      "character_2_text": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this TikTok video.",
       "completed": false
     },
     {
@@ -629,7 +627,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "You are a really great dancer! Tell me about why you like Tiktok."
+          "eng": "You are a really great dancer! Tell me about why you like TikTok."
         },
         "character_2_text": {
           "eng": "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers."
@@ -640,11 +638,9 @@
       "image_asset": "/images/teen_modules/rules/rules2_t_2.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_13",
-      "character_1_text": "You are a really great dancer! Tell me about why you like Tiktok.",
+      "character_1_text": "You are a really great dancer! Tell me about why you like TikTok.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -657,18 +653,16 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
+          "eng": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at TikTok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "/images/teen_modules/rules/rules2_t_3.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
+      "character_1_text": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at TikTok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -677,18 +671,16 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!"
+          "eng": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use TikTok, but with a private account? I trust you to know who to accept!"
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "/images/teen_modules/rules/rules2_t_4.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!",
+      "character_1_text": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use TikTok, but with a private account? I trust you to know who to accept!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },

@@ -196,9 +196,7 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
@@ -250,7 +248,7 @@
           "eng": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse."
         },
         "quiz_1_option_3_text": {
-          "eng": "disappointed"
+          "eng": "Disappointed"
         },
         "quiz_1_feedback_3": {
           "eng": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse."
@@ -288,7 +286,7 @@
       "quiz_1_feedback_1": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse.",
       "quiz_1_option_2_text": "Worried",
       "quiz_1_feedback_2": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse.",
-      "quiz_1_option_3_text": "disappointed",
+      "quiz_1_option_3_text": "Disappointed",
       "quiz_1_feedback_3": "Yes, when we react or punish in anger, we often don’t feel good about it – and it can make the situation worse.",
       "quiz_2_question": "Why did giving a consequence this way not work well?",
       "quiz_2_option_1_text": "@data.characters.f1_father.name was angry",

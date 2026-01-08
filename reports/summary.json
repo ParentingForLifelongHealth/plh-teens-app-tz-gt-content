@@ -271,12 +271,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "89966 KB",
-        "MB": "90 MB"
+        "KB": "89935 KB",
+        "MB": "89.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "86682 KB",
+        "KB": "86738 KB",
         "MB": "86.7 MB"
       }
     ]
@@ -973,7 +973,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 32.8
+        "size_kb": 57.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -1074,6 +1074,10 @@
       {
         "path": "images/teen_modules/srh/srh1_t_3.svg",
         "size_kb": 30.6
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_4.svg",
+        "size_kb": 31
       },
       {
         "path": "images/teen_modules/stress/stress2_t_4.svg",
@@ -2962,13 +2966,8 @@
       },
       {
         "path": "images/teen_modules/srh/srh1_t_4.png",
-        "count": 2,
+        "count": 4,
         "size_kb": 493.7
-      },
-      {
-        "path": "images/teen_modules/srh/srh1_t_4.svg",
-        "count": 2,
-        "size_kb": 31
       },
       {
         "path": "images/teen_modules/srh/srh2_t_1.svg",
@@ -3113,17 +3112,17 @@
       {
         "path": "images/teen_modules/svp/svp_usebody_t_1.gif",
         "count": 2,
-        "size_kb": 1111.6
+        "size_kb": 2008.5
       },
       {
         "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
         "count": 2,
-        "size_kb": 2008.5
+        "size_kb": 844.1
       },
       {
         "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
         "count": 2,
-        "size_kb": 844.1
+        "size_kb": 1111.6
       },
       {
         "path": "images/teen_modules/svp/svp_usevoice_t.svg",

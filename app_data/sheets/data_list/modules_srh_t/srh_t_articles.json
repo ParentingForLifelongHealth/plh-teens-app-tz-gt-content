@@ -882,7 +882,7 @@
       "id": "explore_13_nested_3",
       "category_id": "practise",
       "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
+      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_3.png",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Yes, you may need to start the conversation - and it’s okay to feel shy. Be open and use the right words for any body parts you discuss (like breasts, penis, or vagina).\n\nYou can practise with a friend and ask a health worker or social worker for more information. The more you know, the better you can help your teen.\n\nAnd remember, it’s also okay not to know everything. You can say, “I’m not sure - let me find out and tell you later.”",
       "_translations": {
@@ -900,7 +900,7 @@
       "id": "explore_13_nested_4",
       "category_id": "explore",
       "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
+      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_4.png",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Yes, you can ask another trusted adult to start this conversation with your teen if that would help your teen open up. \n\nTalk to that adult beforehand and help them be open and use the right words for any body parts they discuss (like breasts, penis, or vagina).\n\nThey can practise with you and ask a health worker or social worker for more information. The more they know, the better they can help your teen.",
       "_translations": {
@@ -1615,6 +1615,9 @@
         },
         "media_title": {
           "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -1623,9 +1626,13 @@
         },
         "media_title": {
           "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
         }
       },
-      "media_title": "Here is a short video to help you slow down before you go"
+      "media_title": "Here is a short video to help you slow down before you go",
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
     }
   ],
   "_source": {

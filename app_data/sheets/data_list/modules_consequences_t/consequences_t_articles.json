@@ -1132,13 +1132,16 @@
     {
       "id": "check_out_1",
       "category_id": "check_out",
-      "media_asset": "video",
-      "youtube_gb_en": "/video/plh_video/lets_slow_down.mp4",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
         "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
           "tz_sw": true
         },
         "media_transcript": {
@@ -1149,11 +1152,15 @@
         "text_2": {
           "eng": "Well done for taking time for yourself today. 🎉"
         },
-        "media_transcript": {
+        "media_title": {
           "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
         }
       },
-      "media_transcript": "Here is a short video to help you slow down before you go"
+      "media_title": "Here is a short video to help you slow down before you go",
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
     }
   ],
   "_source": {

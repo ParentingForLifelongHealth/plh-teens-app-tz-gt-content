@@ -318,7 +318,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
+      "image_asset": "/images/teen_modules/praise/praise1_t_1.png",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "character_1_text": "Thank you for doing the dishes, @data.characters.f1_son_18.name. It's a big help!",
@@ -338,7 +338,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
+      "image_asset": "/images/teen_modules/praise/praise1_t_2.png",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "character_1_text": "It is not women’s work. @data.characters.f1_mother.role_name and @data.characters.f1_daughter_16.name are busy at work and school all day as well. We all need to play our part at home too.",
@@ -423,7 +423,7 @@
       "quiz_1_option_1_text": "It made @data.characters.f1_son_18.name feel seen and appreciated",
       "quiz_1_option_2_text": "It helped @data.characters.f1_son_18.name feel respected and more willing to help again",
       "quiz_1_option_3_text": "It made @data.characters.f1_son_18.name feel more connected to his father",
-      "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
+      "image_asset": "/images/teen_modules/praise/praise1_t_3.png",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "character_1_text": "I know it's hard to understand, but it's important that we all work together. Doing this kind of work will help you become an independent and responsible man when you have your own family. \n\nI am proud of you for doing your part. Here, let me help you dry the dishes.",
@@ -644,6 +644,9 @@
         },
         "media_title": {
           "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
         }
       },
       "category_id": "check_out",
@@ -653,10 +656,14 @@
         "media_title": {
           "tz_sw": true
         },
+        "media_transcript": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
       },
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "completed": false
     }

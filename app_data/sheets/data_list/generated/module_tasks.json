@@ -221,11 +221,35 @@
       "task_child": "consequences_t_article_tasks"
     },
     {
-      "id": "safety_t",
+      "id": "srh_t",
       "tag_list": [
         "teen"
       ],
       "number": 3.1,
+      "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
+      "image_asset": "images/homescreen/srh_t.svg",
+      "relax_id": "relax_15",
+      "check_in_id": "check_in_12",
+      "title": "Body Changes and Intimate Relationships",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body Changes and Intimate Relationships"
+        }
+      },
+      "completed": false,
+      "task_child": "srh_t_article_tasks"
+    },
+    {
+      "id": "safety_t",
+      "tag_list": [
+        "teen"
+      ],
+      "number": 3.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/safe_t.svg",
       "image_asset": "images/homescreen/safe_t.svg",
       "relax_id": "relax_12",
@@ -249,7 +273,7 @@
       "tag_list": [
         "teen"
       ],
-      "number": 3.2,
+      "number": 3.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/crisis_t.svg",
       "image_asset": "images/homescreen/crisis_t.svg",
       "relax_id": "relax_4",
@@ -273,7 +297,7 @@
       "tag_list": [
         "teen"
       ],
-      "number": 3.3,
+      "number": 3.4,
       "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
       "image_asset": "images/homescreen/celebrate_t.svg",
       "relax_id": "relax_14",
@@ -293,16 +317,16 @@
       "task_child": "celebrate_t_article_tasks"
     },
     {
-      "id": "srh_t",
+      "id": "learn_t",
       "tag_list": [
         "teen"
       ],
-      "number": 3.4,
-      "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
-      "image_asset": "images/homescreen/srh_t.svg",
-      "relax_id": "relax_15",
-      "check_in_id": "check_in_12",
-      "title": "Body Changes and Intimate Relationships",
+      "number": 3.5,
+      "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
+      "image_asset": "images/homescreen/learn_t.svg",
+      "relax_id": "relax_20",
+      "check_in_id": "check_in_15",
+      "title": "Helping Your Teen Learn",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -310,18 +334,18 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body Changes and Intimate Relationships"
+          "eng": "Helping Your Teen Learn"
         }
       },
       "completed": false,
-      "task_child": "srh_t_article_tasks"
+      "task_child": "learn_t_article_tasks"
     },
     {
       "id": "stayingsafe_t",
       "tag_list": [
         "teen"
       ],
-      "number": 3.5,
+      "number": 3.6,
       "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
       "image_asset": "images/homescreen/svp_t.svg",
       "relax_id": "relax_17",
@@ -345,7 +369,7 @@
       "tag_list": [
         "teen"
       ],
-      "number": 3.6,
+      "number": 3.7,
       "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
       "image_asset": "images/homescreen/grief_t.svg",
       "relax_id": "relax_22",
@@ -363,30 +387,6 @@
       },
       "completed": false,
       "task_child": "grief_t_article_tasks"
-    },
-    {
-      "id": "learn_t",
-      "tag_list": [
-        "teen"
-      ],
-      "number": 3.7,
-      "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
-      "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_20",
-      "check_in_id": "check_in_15",
-      "title": "Helping Your Teen Learn",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Helping Your Teen Learn"
-        }
-      },
-      "completed": false,
-      "task_child": "learn_t_article_tasks"
     }
   ],
   "_metadata": {

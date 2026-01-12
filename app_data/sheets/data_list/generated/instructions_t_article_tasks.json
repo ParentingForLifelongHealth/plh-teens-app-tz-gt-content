@@ -279,7 +279,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_1.svg",
+      "image_asset": "/images/teen_modules/instruct/instruct2_t_1.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "Stop kicking that ball around. Can’t you see we are busy here? You’ll knock over the pot!",
@@ -302,7 +302,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_3.svg",
+      "image_asset": "/images/teen_modules/instruct/instruct2_t_3.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "Don't you talk back to me!",
@@ -469,7 +469,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_1.svg",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_1.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "@data.characters.f2_daughter_19.name, it is great to see you enjoying your soccer with your friend! Please go play behind the house so the ball does not knock over the pot.",
@@ -492,7 +492,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_3.svg",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_2.png",
       "text_2": "@data.characters.f2_daughter_19.name and her friend enjoy practising their soccer moves.",
       "_translations": {
         "text_2": {
@@ -524,7 +524,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_4.svg",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_3.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "character_1_text": "That was a great shot, @data.characters.f2_daughter_19.name, you keep getting better!",
@@ -907,6 +907,9 @@
         },
         "media_title": {
           "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
         }
       },
       "category_id": "check_out",
@@ -916,10 +919,14 @@
         "media_title": {
           "tz_sw": true
         },
+        "media_transcript": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
       },
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "completed": false
     }

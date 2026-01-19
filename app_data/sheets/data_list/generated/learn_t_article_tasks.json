@@ -201,7 +201,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/learn/learn_conflict_t_1.svg",
+      "image_asset": "/images/teen_modules/learn/learn1_t_1.png",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
       "character_1_text": "I don’t want to go to school today.",
@@ -221,7 +221,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/learn/learn_conflict_t_2.svg",
+      "image_asset": "/images/teen_modules/learn/learn1_t_2.png",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
       "character_1_text": "I hate school. Why should I go to school if you didn’t?",
@@ -250,7 +250,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/learn/learn_conflict_t_3.svg",
+      "image_asset": "/images/teen_modules/learn/learn1_t_3.png",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_12",
       "character_1_text": "I imagine school can feel challenging. Learning can be frustrating before it starts to make sense and feel exciting. Maybe we can make it easier to study at home. What do you think could help?",
@@ -643,7 +643,7 @@
         "character_1_text": {}
       },
       "text_2": "@data.characters.f1_son_18.name learns practical skills by helping his @data.characters.f1_father.role_name make furniture.",
-      "image_asset": "/images/teen_modules/learn/learn_conflict_t_3.svg",
+      "image_asset": "/images/teen_modules/learn/learn3_t_1.png",
       "character_1_id": "f1_father",
       "character_1_text": "Well done, @data.characters.f1_son_18.name, for trying again after that plank broke. You figured out the last step on your own. Next holiday, I know you will be ready to help with the stool orders.",
       "completed": false

@@ -301,7 +301,7 @@
           "eng": "Thank you for doing the dishes, @data.characters.f1_son_18.name. It's a big help!"
         },
         "character_2_text": {
-          "eng": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
+          "eng": "I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes."
         }
       },
       "category_id": "explore",
@@ -314,15 +314,13 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/praise/praise1_t_1.png",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "character_1_text": "Thank you for doing the dishes, @data.characters.f1_son_18.name. It's a big help!",
-      "character_2_text": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes.",
+      "character_2_text": "I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes.",
       "completed": false
     },
     {

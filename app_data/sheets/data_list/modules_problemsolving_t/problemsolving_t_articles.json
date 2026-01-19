@@ -276,7 +276,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/solve/solve2_t_7.svg",
+      "image_asset": "/images/teen_modules/solve/solve2_t_7.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_son_15",
       "nested": false,
@@ -310,7 +310,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/solve/solve2_t_8.svg",
+      "image_asset": "/images/teen_modules/solve/solve2_t_8.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_son_15",
       "nested": false,

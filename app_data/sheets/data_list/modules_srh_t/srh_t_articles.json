@@ -364,7 +364,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh1_t_4.png",
+      "image_asset": "/images/teen_modules/srh/srh1_t_5.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Now imagine a girl was in @data.characters.f2_son_15.name’s place. Some families might react differently because of worries about safety or beliefs learned over time. Thinking about this can help us understand our own reactions.",
@@ -439,9 +439,7 @@
       "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
         "text_1_facilitator": {},
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -451,13 +449,13 @@
           "eng": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly."
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_mother.role_name, can I talk to you about something?"
+          "eng": "Mother, can I talk to you about something?"
         },
         "character_2_text": {
           "eng": "(_calmly_) Sure, my darling. What is the matter?"
         }
       },
-      "character_1_text": "@data.characters.f1_mother.role_name, can I talk to you about something?",
+      "character_1_text": "Mother, can I talk to you about something?",
       "character_2_text": "(_calmly_) Sure, my darling. What is the matter?"
     },
     {
@@ -844,7 +842,7 @@
     },
     {
       "id": "explore_13_nested_1",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
@@ -862,7 +860,7 @@
     },
     {
       "id": "explore_13_nested_2",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
@@ -880,9 +878,9 @@
     },
     {
       "id": "explore_13_nested_3",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_3.png",
+      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Yes, you may need to start the conversation - and it’s okay to feel shy. Be open and use the right words for any body parts you discuss (like breasts, penis, or vagina).\n\nYou can practise with a friend and ask a health worker or social worker for more information. The more you know, the better you can help your teen.\n\nAnd remember, it’s also okay not to know everything. You can say, “I’m not sure - let me find out and tell you later.”",
       "_translations": {
@@ -1026,7 +1024,7 @@
       "id": "explore_14_nested_3",
       "category_id": "explore",
       "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg",
+      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_3.png",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "That's right! \n\nAge 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n\nThis will also help them cope better with sexual feelings safely.",
       "_translations": {
@@ -1144,7 +1142,7 @@
     },
     {
       "id": "explore_15_nested_1",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
@@ -1162,7 +1160,7 @@
     },
     {
       "id": "explore_15_nested_2",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
@@ -1180,7 +1178,7 @@
     },
     {
       "id": "explore_15_nested_3",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
@@ -1198,7 +1196,7 @@
     },
     {
       "id": "explore_15_nested_4",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
@@ -1216,7 +1214,7 @@
     },
     {
       "id": "explore_15_nested_5",
-      "category_id": "practise",
+      "category_id": "explore",
       "nested": true,
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",

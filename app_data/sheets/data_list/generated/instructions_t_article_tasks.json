@@ -195,7 +195,7 @@
           "eng": "What are you thinking about? \n\nYou probably DID think about an elephant..."
         },
         "text_2": {
-          "eng": "In the same way, when we tell our teens “don’t do that,” they often focus only on the thing we told them not to do.\nThey may not understand what we *DO* want.\n\nAnd like most of us, they don’t enjoy being told what not to do."
+          "eng": "In the same way, when we tell our teens “don’t do that,” they often focus only on the thing we told them not to do. They may not understand what we *DO* want.\n\nAnd like most of us, they don’t enjoy being told what not to do."
         }
       },
       "category_id": "explore",
@@ -205,12 +205,10 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/instruct/instruct1_t_2.svg",
-      "text_2": "In the same way, when we tell our teens “don’t do that,” they often focus only on the thing we told them not to do.\nThey may not understand what we *DO* want.\n\nAnd like most of us, they don’t enjoy being told what not to do.",
+      "text_2": "In the same way, when we tell our teens “don’t do that,” they often focus only on the thing we told them not to do. They may not understand what we *DO* want.\n\nAnd like most of us, they don’t enjoy being told what not to do.",
       "completed": false
     },
     {
@@ -302,7 +300,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_3.png",
+      "image_asset": "/images/teen_modules/instruct/instruct2_t_2.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "Don't you talk back to me!",
@@ -366,7 +364,7 @@
           "eng": "Speaking to her in a calm voice may have helped keep tensions low, but it wouldn't help @data.characters.f2_daughter_19.name know how to behave next time."
         },
         "quiz_2_option_3_text": {
-          "eng": "Tell @data.characters.f2_daughter_19.name what he wants her to do"
+          "eng": "Tell @data.characters.f2_daughter_19.name what she wants her to do"
         },
         "quiz_2_feedback_3": {
           "eng": "That's right! This would help @data.characters.f2_daughter_19.name understand how to behave next time."
@@ -418,9 +416,7 @@
         "quiz_2_feedback_2": {
           "tz_sw": true
         },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_2_option_3_text": {},
         "quiz_2_feedback_3": {
           "tz_sw": true
         }
@@ -437,7 +433,7 @@
       "quiz_2_feedback_1": "That may have helped keep tensions low, but it wouldn't help @data.characters.f2_daughter_19.name know how to behave or practise for the match without getting in trouble.",
       "quiz_2_option_2_text": "Speak to @data.characters.f2_daughter_19.name in a calm voice",
       "quiz_2_feedback_2": "Speaking to her in a calm voice may have helped keep tensions low, but it wouldn't help @data.characters.f2_daughter_19.name know how to behave next time.",
-      "quiz_2_option_3_text": "Tell @data.characters.f2_daughter_19.name what he wants her to do",
+      "quiz_2_option_3_text": "Tell @data.characters.f2_daughter_19.name what she wants her to do",
       "quiz_2_feedback_3": "That's right! This would help @data.characters.f2_daughter_19.name understand how to behave next time.",
       "completed": false
     },

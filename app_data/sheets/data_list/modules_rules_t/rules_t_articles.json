@@ -311,9 +311,7 @@
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
@@ -359,7 +357,7 @@
           "eng": "That is right, making clear rules together in a calm and positive way works so well!"
         },
         "quiz_1_option_2_text": {
-          "eng": "@data.characters.f1_mother.name and @data.characters.f1_father.name listened to their son, @data.characters.f1_son_18.name's suggestions"
+          "eng": "@data.characters.f1_mother.name and @data.characters.f1_father.name listened to their son's suggestions"
         },
         "quiz_1_feedback_2": {
           "eng": "That is right, making clear rules together in a calm and positive way works so well!"
@@ -395,7 +393,7 @@
       "quiz_1_question": "What went well when @data.characters.f1_son_18.name and his parents made a rule together?",
       "quiz_1_option_1_text": "They discussed the reasons behind the rule",
       "quiz_1_feedback_1": "That is right, making clear rules together in a calm and positive way works so well!",
-      "quiz_1_option_2_text": "@data.characters.f1_mother.name and @data.characters.f1_father.name listened to their son, @data.characters.f1_son_18.name's suggestions",
+      "quiz_1_option_2_text": "@data.characters.f1_mother.name and @data.characters.f1_father.name listened to their son's suggestions",
       "quiz_1_feedback_2": "That is right, making clear rules together in a calm and positive way works so well!",
       "quiz_1_option_3_text": "The rule was clear, specific and fair",
       "quiz_1_feedback_3": "That is right, making clear rules together in a calm and positive way works so well!",

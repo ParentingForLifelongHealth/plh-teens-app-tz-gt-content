@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 113786 KB | 113.8 MB |
-| unused | 86915 KB | 86.9 MB |
+| total | 113828 KB | 113.8 MB |
+| unused | 86953 KB | 87 MB |
 </details>
 
 <details open>
@@ -275,7 +275,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -293,8 +293,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |
@@ -333,7 +333,6 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
-| images/teen_modules/safe/safe1_t_2.svg | 2 |
 </details>
 
 <details >
@@ -686,6 +685,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/rules/rules2_t_4.svg | 164.6 | 2 |
 | images/teen_modules/rules/rules2_t_5.svg | 423.4 | 2 |
 | images/teen_modules/safe/safe1_t_1.svg | 24.3 | 2 |
+| images/teen_modules/safe/safe1_t_2.svg | 42 | 2 |
 | images/teen_modules/safe/safe1_t_3.svg | 38.5 | 2 |
 | images/teen_modules/safe/safe1_t_4.png | 767.5 | 2 |
 | images/teen_modules/safe/safe1_t_5.svg | 71.4 | 2 |

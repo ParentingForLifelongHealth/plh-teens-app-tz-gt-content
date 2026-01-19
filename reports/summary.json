@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "113786 KB",
+        "KB": "113828 KB",
         "MB": "113.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "86915 KB",
-        "MB": "86.9 MB"
+        "KB": "86953 KB",
+        "MB": "87 MB"
       }
     ]
   },
@@ -1013,7 +1013,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 32.8
+        "size_kb": 57.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -1085,11 +1085,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.5
+        "size_kb": 34.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 25.7
+        "size_kb": 38.3
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -1211,11 +1211,6 @@
       {
         "path": "images/onboarding/facilitator_onboarding_icon.svg",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_2.svg",
-        "count": 2,
         "missing": true
       }
     ]
@@ -2936,6 +2931,11 @@
         "path": "images/teen_modules/safe/safe1_t_1.svg",
         "count": 2,
         "size_kb": 24.3
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_2.svg",
+        "count": 2,
+        "size_kb": 42
       },
       {
         "path": "images/teen_modules/safe/safe1_t_3.svg",

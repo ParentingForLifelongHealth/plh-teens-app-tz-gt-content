@@ -196,7 +196,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/money/money3_t_1.png",
+      "image_asset": "/images/teen_modules/money/money1_t_1.png",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "character_1_text": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again.",

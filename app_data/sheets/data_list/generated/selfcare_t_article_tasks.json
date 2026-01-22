@@ -247,7 +247,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },

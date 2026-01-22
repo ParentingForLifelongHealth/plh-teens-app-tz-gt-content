@@ -206,7 +206,9 @@
       "nested": false,
       "section_1_title": "Weak Spots",
       "_translations": {
-        "section_1_title": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
         "section_1_text": {
           "tz_sw": true
         },
@@ -245,7 +247,9 @@
       "nested": false,
       "section_1_title": "Weak Spots",
       "_translations": {
-        "section_1_title": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
         "section_1_text": {
           "tz_sw": true
         },

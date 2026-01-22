@@ -89,7 +89,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "Spending time together helps you understand what your teen is going through at school, and makes it easier to learn how to keep them attending school and learning.\n \nLet’s see how @data.characters.f3_mother.name does this.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -124,7 +126,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -147,7 +151,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "character_1_text": "I imagine school can feel challenging. Learning can be frustrating before it starts to make sense and feel exciting. Maybe we can make it easier to study at home. What do you think could help?",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         },
@@ -185,11 +191,15 @@
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
@@ -205,7 +215,9 @@
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -480,7 +492,9 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -521,11 +535,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "text_1_facilitator": "You can teach your children, even if you didn’t go to school. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

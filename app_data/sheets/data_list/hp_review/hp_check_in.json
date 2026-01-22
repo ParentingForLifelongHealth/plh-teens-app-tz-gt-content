@@ -664,7 +664,9 @@
         "notification_text": {
           "tz_sw": true
         },
-        "text_goal": {},
+        "text_goal": {
+          "tz_sw": true
+        },
         "reply_happy": {
           "tz_sw": true
         },

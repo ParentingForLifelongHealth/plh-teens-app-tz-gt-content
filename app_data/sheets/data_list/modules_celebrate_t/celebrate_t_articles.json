@@ -162,8 +162,8 @@
       "section_4_text": "Share @global.app_name and help other families start their journey."
     },
     {
-      "id": "tips_2",
-      "category_id": "practical_tips",
+      "id": "check_out_1",
+      "category_id": "check_out",
       "media_type": "video",
       "media_asset": "/video/plh_video/lets_slow_down.mp4",
       "nested": false,

@@ -14,6 +14,12 @@
       "name": "facilitator_male",
       "text": "Steven",
       "image": "images/character_icons/TZ_FACILITATOR_MALE.svg"
+    },
+    {
+      "id": "facilitator",
+      "name": "facilitator",
+      "text": "Neema",
+      "image": "images/character_icons/TZ_FACILITATOR_FEMALE.svg"
     }
   ]
 }

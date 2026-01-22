@@ -1338,8 +1338,8 @@
     "note": ""
   },
   {
-    "SourceText": "Your goal was to make a safety map with your teen of safe and unsafe places – both in your community and online.",
-    "text": "Lengo lako lilikuwa kutengeneza ramani ya usalama na kijana wako kwa maeneo salama na yasiyo salama - katika jamii yako na mtandaoni.",
+    "SourceText": "Your goal was to make a safety map with your teen of safe and unsafe places.",
+    "text": "Lengo lako lilikuwa kutengeneza ramani pamoja na kijana wako ya maeneo salama na yasiyo salama katika jamii yenu na mtandaoni.",
     "type": "data_list",
     "note": ""
   },
@@ -2772,38 +2772,38 @@
     "note": ""
   },
   {
-    "SourceText": "Grandmother",
-    "text": "Bibi",
+    "SourceText": "grandmother",
+    "text": "bibi",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Grandfather",
-    "text": "Babu",
+    "SourceText": "grandfather",
+    "text": "babu",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Mother",
-    "text": "Mama",
+    "SourceText": "mother",
+    "text": "mama",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Uncle",
-    "text": "Mjomba",
+    "SourceText": "uncle",
+    "text": "mjomba",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Father",
-    "text": "Baba",
+    "SourceText": "father",
+    "text": "baba",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Aunty Esta",
-    "text": "Shangazi Esta",
+    "SourceText": "aunty Esta",
+    "text": "shangazi Esta",
     "type": "data_list",
     "note": ""
   },
@@ -2922,6 +2922,12 @@
     "note": ""
   },
   {
+    "SourceText": "Body Changes and Intimate Relationships",
+    "text": "Mabadiliko ya Mwili na Mahusiano ya Kimapenzi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Teen Safety",
     "text": "Usalama wa Vijana",
     "type": "data_list",
@@ -2929,7 +2935,7 @@
   },
   {
     "SourceText": "Crisis",
-    "text": "Janga au matatizo",
+    "text": "Janga au Matatizo",
     "type": "data_list",
     "note": ""
   },
@@ -2940,26 +2946,20 @@
     "note": ""
   },
   {
-    "SourceText": "Body Changes and Intimate Relationships",
-    "text": "Mabadiliko ya Mwili na Mahusiano ya Kimapenzi",
+    "SourceText": "Helping Your Teen Learn",
+    "text": "Kumsaidia Kijana Wako Kujifunza",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Staying Safe",
-    "text": "Kukaa salama",
+    "text": "Kukaa Salama",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Coping with Grief",
     "text": "Kukabiliana na Majanga",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Helping Your Teen Learn",
-    "text": "Kumsaidia Kijana Wako Kujifunza",
     "type": "data_list",
     "note": ""
   },
@@ -3054,12 +3054,6 @@
     "note": ""
   },
   {
-    "SourceText": "ParentApp Teens",
-    "text": "Programu Tumishi ya Malezi kwa Vijana",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "5 December 2024",
     "text": "5 Desemba 2024",
     "type": "global",
@@ -3068,6 +3062,12 @@
   {
     "SourceText": "Tap and choose",
     "text": "Bofya na uchague",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "We are also grateful for the support of a family foundation that wishes to remain anonymous",
+    "text": "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina",
     "type": "global",
     "note": ""
   },
@@ -3948,7 +3948,7 @@
     "note": ""
   },
   {
-    "SourceText": "disappointed",
+    "SourceText": "Disappointed",
     "text": "Kuvunjika moyo",
     "type": "data_list",
     "note": ""
@@ -4458,6 +4458,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "⚠️ Sensitive Content Notice",
     "text": "⚠️ Tangazo la Maudhui Nyeti",
     "type": "data_list",
@@ -4710,12 +4716,6 @@
     "note": "The following strings should not be translated:\n@data.characters.f1_daughter_16.name\n@data.characters.f1_daughter_16.name?"
   },
   {
-    "SourceText": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do",
-    "text": "@data.characters.f1_father.role_name, nina aibu sana. Sijui la kufanya",
-    "type": "data_list",
-    "note": "The string @data.characters.f1_father.role_name, should not be translated."
-  },
-  {
     "SourceText": "Crisis 2: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
     "text": "Hatari ya 2: @data.characters.f1_son_18.name amempatia binti ujauzito.\n\nUngefanyaje kwa @data.characters.f1_son_18.name?",
     "type": "data_list",
@@ -4758,10 +4758,10 @@
     "note": "The following strings should not be translated:\n@data.characters.f2_daughter_19.name\n@data.characters.f2_daughter_19.name?"
   },
   {
-    "SourceText": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared...",
-    "text": "Sitaki kufanya. Sasa hivi nitapata ujauzito au kuugua. @data.characters.f2_grandmother.role_name, ninaogopa sana...",
+    "SourceText": "I didn't really want to. Now I will get pregnant or be ill. Grandmother, I am so scared...",
+    "text": "Sitaki kufanya. Sasa hivi nitapata ujauzito au kuugua. Bibi, ninaogopa sana...",
     "type": "data_list",
-    "note": "The string @data.characters.f2_grandmother.role_name, should not be translated."
+    "note": ""
   },
   {
     "SourceText": "This week's home activity is to look back at the five crisis examples and discuss what you would do together if this happened to a friend or in your family.",
@@ -4848,6 +4848,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "⚠️ Sensitive Content Notice",
     "text": "⚠️ Tangazo la Maudhui Nyeti",
     "type": "data_list",
@@ -4861,13 +4867,13 @@
   },
   {
     "SourceText": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay.",
-    "text": "Mada ya leo inahusu kukabiliana na majonzi.\n\nMajonzi hutuathiri sisi sote kwa namna tofauti.\n\nVyoyote unavyojisikia, unahuzunika kwa namna yako mwenyewew, na hiyo ni sawa.",
+    "text": "Mada ya leo inahusu kukabiliana na huzuni.\n\nHali ya huzuni hutuathiri sisi sote kwa namna tofauti.\n\nVyoyote unavyojisikia, unahuzunika kwa namna yako mwenyewe, na hiyo ni sawa.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "What techniques can you use to cope with grief? Tap play to find out",
-    "text": "Ni mbinu gani unazotumia kukabiliana na majonzi? Bonyeza cheza ili kujua",
+    "text": "Ni mbinu zipi unaweza kutumia kukabiliana na huzuni? Bonyeza cheza ili kujua",
     "type": "data_list",
     "note": ""
   },
@@ -4879,13 +4885,13 @@
   },
   {
     "SourceText": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
-    "text": "Kujitunza wakati wa huzuni hutusaidia kuwa watulivu na kuwepo kwajili ya watoto wetu.\nTunaposhirikishana na kutaja hisia zetu kwa uwazi, inaweza kusaidia familia nzima kuhisi kutokuwa na upweke na kuungwa mkono zaidi.",
+    "text": "Kujijali wakati wa huzuni hutusaidia kusalia watulivu na kuwepo kikamilifu kwa ajili ya watoto wetu.\nTunaposhirikishana na kutaja hisia zetu kwa uwazi, inaweza kusaidia familia nzima kuhisi kutokuwa na upweke na kuungwa mkono zaidi.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Hear how naming feelings helped @data.characters.media_female_12.name feel closer to family while grieving",
-    "text": "Sikiliza jinsi kutaja hisia kulivyosaidia @data.characters.media_female_12.name ajisikie karibu na familia wakati wa huzuni",
+    "text": "Sikiliza jinsi kutaja hisia kulivyomsaidia @data.characters.media_female_12.name ajisikie karibu na familia wakati wa huzuni",
     "type": "data_list",
     "note": "The string @data.characters.media_female_12.name should not be translated."
   },
@@ -4897,7 +4903,7 @@
   },
   {
     "SourceText": "Difficult emotions can lead to difficult behaviour – especially with children. Losing a caregiver or a loved one can make your teen feel worried, insecure, or angry, and can often make them act out.\n\nLet’s see what happened with @data.characters.f4_daughter_13.name who lost her mother 6 months ago:",
-    "text": "Hisia ngumu zinaweza kusababisha tabia ngumu hasa kwa watoto. Kumpoteza mlezi au mpendwa wako kunaweza kumfanya kijana wako ahisi kuwa na wasiwasi, kukosa usalama au hasira na wakati mwingine kumfanya aigize.\n\nHebu tuone kilichotokea kwa @data.characters.f4_daughter_13.name aliyefiwa na mama yake miezi 6 iliyopita:",
+    "text": "Hisia ngumu zinaweza kusababisha tabia ngumu hasa kwa watoto. Kumpoteza mlezi au mpendwa wako kunaweza kumfanya kijana wako ahisi hali ya hofu, asiye salama, au hata kuwa na hasira na wakati mwingine kumfanya aigize.\n\nHebu tuone kilichotokea kwa @data.characters.f4_daughter_13.name aliyefiwa na mama yake miezi 6 iliyopita:",
     "type": "data_list",
     "note": "The string @data.characters.f4_daughter_13.name should not be translated."
   },
@@ -4909,7 +4915,7 @@
   },
   {
     "SourceText": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!",
-    "text": "@data.characters.f4_daughter_13.name, unahitaji kuacha kulia. Imekuwa miezi tayari. Kulia huku hakutamrudisha @data.characters.f1_mother.role_name na unafanya vibaya na vibaya zaidi shuleni!",
+    "text": "@data.characters.f4_daughter_13.name, unahitaji kuacha kulia. Imekuwa miezi tayari. Kulia huku hakutamrudisha @data.characters.f1_mother.role_name unafanya vibaya na hasa vibaya zaidi shuleni!",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f4_daughter_13.name,\n@data.characters.f1_mother.role_name"
   },
@@ -4999,13 +5005,13 @@
   },
   {
     "SourceText": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother.role_name. What do you think we can do to help you feel better?",
-    "text": "Ninajua una huzuni, @data.characters.f4_daughter_13.name pia namkumbuka @data.characters.f1_mother.role_name. Unafikiri tunaweza kufanya nini ili tuweze kukusaidia kujisikia vizuri?",
+    "text": "Ninajua una huzuni, @data.characters.f4_daughter_13.name hata mimi namkumbuka @data.characters.f1_mother.role_name. Unafikiri tunaweza kufanya nini ili tuweze kukusaidia kujisikia vizuri?",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f4_daughter_13.name.\n@data.characters.f1_mother.role_name."
   },
   {
     "SourceText": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother.role_name?",
-    "text": "Labda tunaweza kumtembelea @data.characters.f4_aunt.role_name, ili tushirikishane hadithi kuhusu @data.characters.f1_mother.role_name?",
+    "text": "Labda tunaweza kumtembelea @data.characters.f4_aunt.role_name, ili tushirikishane simulizi zinazomuhusu @data.characters.f1_mother.role_name?",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f4_aunt.role_name,\n@data.characters.f1_mother.role_name?"
   },
@@ -5029,7 +5035,7 @@
   },
   {
     "SourceText": "Let's think about what happened in this story.",
-    "text": "Hebu tufikirie kuhusu kilichotokea kwenye hadithi hii.",
+    "text": "Hebu tufikirie kuhusu kilichotokea kwenye simulizi hii.",
     "type": "data_list",
     "note": ""
   },
@@ -5304,6 +5310,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Today's topic is about giving positive instructions!\n\nTelling our teens what we DO want them to do works better than telling them to STOP doing something.",
     "text": "Maada ya leo ni kuhusu kutoa maelekezo chanya!\n\nKuwaambia vijana wetu nini tunataka wafanye ni vizuri kuliko kuwakataza kufanya jambo fulani.",
     "type": "data_list",
@@ -5352,8 +5364,8 @@
     "note": ""
   },
   {
-    "SourceText": "In the same way, when we tell our teens “don’t do that,” they often focus only on the thing we told them not to do.\nThey may not understand what we *DO* want.\n\nAnd like most of us, they don’t enjoy being told what not to do.",
-    "text": "Vivyo hivyo, tunapowaambia vijana wetu “usifanye hivyo,” mara nyingi wao huzingatia tu kile tulichowaambia wasifanye.\nWanaweza wasielewe kile tunachotaka *WAFANYE*.\n\nNa wengi wetu, hawafurahii kuambiwa wasifanye kitu fulani.",
+    "SourceText": "In the same way, when we tell our teens “don’t do that,” they often focus only on the thing we told them not to do. They may not understand what we *DO* want.\n\nAnd like most of us, they don’t enjoy being told what not to do.",
+    "text": "Vivyo hivyo, tunapowaambia vijana wetu “usifanye hivyo,” mara nyingi wao huzingatia tu kile tulichowaambia wasifanye. Wanaweza wasielewe kile tunachotaka *WAFANYE*.\n\nNa wengi wetu, hawafurahii kuambiwa wasifanye kitu fulani.",
     "type": "data_list",
     "note": ""
   },
@@ -5478,8 +5490,8 @@
     "note": "The string @data.characters.f2_daughter_19.name should not be translated."
   },
   {
-    "SourceText": "Tell @data.characters.f2_daughter_19.name what he wants her to do",
-    "text": "Mwambie @data.characters.f2_daughter_19.name ni nini anataka yeye afanye",
+    "SourceText": "Tell @data.characters.f2_daughter_19.name what she wants her to do",
+    "text": "Mwambie @data.characters.f2_daughter_19.name nini anataka kufanya",
     "type": "data_list",
     "note": "The string @data.characters.f2_daughter_19.name should not be translated."
   },
@@ -5790,6 +5802,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Today's topic is about helping your teen learn.\n\nDid you know that spending one-on-one time with your teen can help them do better at school? Today we will share some ideas about how you can support your teen to learn in school and outside of school.",
     "text": "Mada ya leo inahusu kumsaidia kijana wako kujifunza.\n\nJe, wajua kuwa na muda wa mazungumzo ya ana kwa ana na mwanao huwasaidia kufanya vizuri shuleni?\nLeo tutashirikishana baadhi ya mawazo juu ya namna ambavyo unaweza kumsaidia kijana wako kujifunza shuleni na hata nje ya shule.",
     "type": "data_list",
@@ -5832,6 +5850,12 @@
     "note": ""
   },
   {
+    "SourceText": "Spending time together helps you understand what your teen is going through at school, and makes it easier to learn how to keep them attending school and learning.\n \nLet’s see how @data.characters.f3_mother.name does this.",
+    "text": "Kutenga muda wa kuwa pamoja kunaweza kukusaidia kuelewa changamoto anazopitia kijana wako shuleni, na hurahisisha kuelewa namna ya kumsaidia ili azidi kuhudhuria shule na kuendelea na masomo.\n\nEbu tuangalie jinsi @data.characters.f3_mother.name alivyo fanya hili.",
+    "type": "data_list",
+    "note": "The string @data.characters.f3_mother.name should not be translated."
+  },
+  {
     "SourceText": "I don’t want to go to school today.",
     "text": "Sitaki kwenda shule leo.",
     "type": "data_list",
@@ -5846,6 +5870,18 @@
   {
     "SourceText": "I hate school. Why should I go to school if you didn’t?",
     "text": "Sipendi Shule. Kwa nini mimi niende shule wakati wewe hukwenda?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You know how your uncle always has many foods on the table? I work just as hard as he does, but our table often does not have as many foods. School gave him more chances than I had.\n\nSchool also helped him feel confident and get along with different types of people. I want those things for you, too.",
+    "text": "Unajua vile mjomba wako huwa na vyakula vingi mezani? Mimi hufanya kazi kwa bidii kama yeye, lakini meza yetu mara nyingi haina vyakula vingi hivyo. Shule ilimpa fursa nyingi zaidi kuliko mimi.\n\nPia ilimsaidia kuwa katika hali ya kujiamini na kufahamiana na watu tofauti tofauti. Natamani mambo hayo yatokee kwako pia.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I imagine school can feel challenging. Learning can be frustrating before it starts to make sense and feel exciting. Maybe we can make it easier to study at home. What do you think could help?",
+    "text": "Nawaza kuwa shule inaweza kuonekana kuwa na changamoto. Mara nyingi kujifunza huwa hivi kabla haijaanza kujenga maana na kuanza kusisimua. Labda tunaweza kufanya muda wa kujifunza nyumbani uwe rahisi zaidi. Unafikiri nini kinaweza kusaidia?",
     "type": "data_list",
     "note": ""
   },
@@ -5900,6 +5936,12 @@
   {
     "SourceText": "Looked for solutions together",
     "text": "Tulitafuta suluhisho pamoja",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s right! There are more correct answers. Can you find them?",
+    "text": "Ni kweli! Yapo majibu zaidi ya kweli! Je, unaweza kuyagundua yote?",
     "type": "data_list",
     "note": ""
   },
@@ -6042,10 +6084,28 @@
     "note": ""
   },
   {
+    "SourceText": "Praising your teen is a powerful way to help them try again. Teens often do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes.",
+    "text": "Kumsifu kijana wako ni njia nzuri ya kumsaidia kujaribu tena. Vijana hawafanyi mambo sawa mara ya kwanza na wanapaswa kujifunza jinsi ya kujaribu tena. Wasifu kwa kujaribu kufanya mambo, ili wajifunze kutokana na makosa yao.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You can teach your children, even if you didn’t go to school. You can make learning happen anytime you spend time with your teen. \n\nLet’s look at a few simple examples to help you think about how this could work in your own family.",
+    "text": "Unaweza kumfundisha mwanao, hata kama hukuenda shule. Unaweza kufanya mafunzo yafanyike wakati wowote unapotumia muda na kijana wako.\n\nHebu tuangalie mifano michache rahisi ili kukusaidia kufikiria jinsi jambo hili linavyoweza kufanya kazi katika familia yako mwenyewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "@data.characters.f1_son_18.name learns practical skills by helping his @data.characters.f1_father.role_name make furniture.",
     "text": "@data.characters.f1_son_18.name alijifunza ujuzi wa kazi kwa kumsaidia @data.characters.f1_father.role_name kutengeneza vitu vya samani.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f1_son_18.name\n@data.characters.f1_father.role_name"
+  },
+  {
+    "SourceText": "Well done, @data.characters.f1_son_18.name, for trying again after that plank broke. You figured out the last step on your own. Next holiday, I know you will be ready to help with the stool orders.",
+    "text": "Umefanya vizuri sana @data.characters.f1_son_18.name kujariju tena baada ya ule ubao kuvunjika. Ulimalizia hatua ya mwisho mwenyewe. Likizo ijayo, najua utakuwa utakuwa tayari kunisaidia na oda ya viti.",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_son_18.name, should not be translated."
   },
   {
     "SourceText": "@data.characters.f2_daughter_19.name learns about her culture and history through stories from her @data.characters.f2_grandmother.role_name.",
@@ -6152,6 +6212,12 @@
   {
     "SourceText": "Here is a short video to help you slow down before you go",
     "text": "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
     "type": "data_list",
     "note": ""
   },
@@ -6636,6 +6702,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Today's topic is about spending one-on-one time with our teens. \n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love.",
     "text": "Mada ya leo inahusu kutumia muda wa pamoja wawili na vijana wetu.\n\nKuwa mzazi kunaweza kuwa kugumu sana. Wakati mwingine inaonekana kama vijana wetu hawatusikilizi kabisa.\n\nLakini sayansi inaonyesha kwamba kutumia dakika chache tu kila siku za muda wa pekee na kijana wako kunasaidia kujenga uaminifu na upendo.",
     "type": "data_list",
@@ -7002,6 +7074,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Today's topic is about praise.\n\nPraise is a powerful parenting skill.\n\nIf we praise our teens when they do something well, we will see them do more and more positive things!",
     "text": "Kipindi cha leo ni kuhusu Kusifia.\n\nKusifia ni ujuzi wenye nguvu katika malezi.\n\nKama tutawasifia vijana wetu wanapofanya jambo vizuri, tutawaona wakifanya mambo mazuri zaidi na zaidi!",
     "type": "data_list",
@@ -7128,10 +7206,10 @@
     "note": "The string @data.characters.f1_son_18.name. should not be translated."
   },
   {
-    "SourceText": "@data.characters.f1_father.role_name, I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes.",
-    "text": "@data.characters.f1_father.role_name, Nachukia kuosha vyombo kila siku. Nikazi za watoto wa kike! @data.characters.f1_mother.role_name au @data.characters.f1_daughter_16.name ndo wanatakiwa kuwa wanaviosha. Hata kitabu changu cha shule kinaonyesha wanawake pekee ndio wanao osha vyomba.",
+    "SourceText": "I hate doing the dishes every day. It is women’s work! @data.characters.f1_mother.role_name or @data.characters.f1_daughter_16.name should be doing them. Even my book at school only shows women doing the dishes.",
+    "text": "Nachukia kuosha vyombo kila siku. Nikazi za watoto wa kike! @data.characters.f1_mother.role_name au @data.characters.f1_daughter_16.name ndo wanatakiwa kuwa wanaviosha. Hata kitabu changu cha shule kinaonyesha wanawake pekee ndio wanao osha vyomba.",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@data.characters.f1_father.role_name,\n@data.characters.f1_mother.role_name\n@data.characters.f1_daughter_16.name"
+    "note": "The following strings should not be translated:\n@data.characters.f1_mother.role_name\n@data.characters.f1_daughter_16.name"
   },
   {
     "SourceText": "It is not women’s work. @data.characters.f1_mother.role_name and @data.characters.f1_daughter_16.name are busy at work and school all day as well. We all need to play our part at home too.",
@@ -7328,6 +7406,12 @@
   {
     "SourceText": "Here is a short video to help you slow down before you go",
     "text": "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
     "type": "data_list",
     "note": ""
   },
@@ -7782,6 +7866,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Today's topic is about rules.\n\nRules help teens understand what is expected of them.\n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!",
     "text": "Mada ya leo ni kuhusu sheria.\n\nSheria husaidia vijana kuelewa kile kinachotarajiwa kutoka kwao.\n\nVijana wana uwezekano mkubwa wa kufuata sheria ikiwa utatunga sheria PAMOJA na kijana wako na kuwasifu kwa hilo!",
     "type": "data_list",
@@ -7944,10 +8034,10 @@
     "note": ""
   },
   {
-    "SourceText": "@data.characters.f1_mother.name and @data.characters.f1_father.name listened to their son, @data.characters.f1_son_18.name's suggestions",
-    "text": "@data.characters.f1_mother.name na @data.characters.f1_father.name walisikiliza mapendekezo ya mtoto wao @data.characters.f1_son_18.name",
+    "SourceText": "@data.characters.f1_mother.name and @data.characters.f1_father.name listened to their son's suggestions",
+    "text": "@data.characters.f1_mother.name na @data.characters.f1_father.name walisikiliza mapendekezo ya mtoto wao",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@data.characters.f1_mother.name\n@data.characters.f1_father.name\n@data.characters.f1_son_18.name's"
+    "note": "The following strings should not be translated:\n@data.characters.f1_mother.name\n@data.characters.f1_father.name"
   },
   {
     "SourceText": "The rule was clear, specific and fair",
@@ -8058,13 +8148,13 @@
     "note": "The string @data.characters.f1_daughter_13.name, should not be translated."
   },
   {
-    "SourceText": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video.",
+    "SourceText": "Just a minute @data.characters.f1_mother.role_name, I’m finishing this TikTok video.",
     "text": "Dakika moja tu, @data.characters.f1_mother.role_name nimalizie video hii ya TikTok.",
     "type": "data_list",
     "note": "The string @data.characters.f1_mother.role_name, should not be translated."
   },
   {
-    "SourceText": "You are a really great dancer! Tell me about why you like Tiktok.",
+    "SourceText": "You are a really great dancer! Tell me about why you like TikTok.",
     "text": "Wewe ni mchezaji mzuri sana! Ebu nieleze kwa nini unapenda TikTok.",
     "type": "data_list",
     "note": ""
@@ -8076,13 +8166,13 @@
     "note": "The string @data.characters.f1_mother.role_name. should not be translated."
   },
   {
-    "SourceText": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
+    "SourceText": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at TikTok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
     "text": "Ninajivunia sana jinsi unavyocheza vizuri, @data.characters.f1_daughter_13.name. Lakini tunahitaji kuhakikisha kuwa uko salama.\n \nNajua marafiki zako wanaangalia TikTok, lakini unapotumia akaunti huria, elewa kwamba kuna watu wengine wanatazama video za vijana ili kukidhi mahitaji yao ya kingono. Wakati mwingine wanawasiliana na vijana. Wanajifanya kuwa watu wema lakini wanaishia kuwatishia na kuwadhalilisha vijana.",
     "type": "data_list",
     "note": "The string @data.characters.f1_daughter_13.name. should not be translated."
   },
   {
-    "SourceText": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!",
+    "SourceText": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use TikTok, but with a private account? I trust you to know who to accept!",
     "text": "Hebu tuangalie pamoja mtandaoni jinsi unavyoweza kuendelea na hii burudani yako lakini ukiwa salama.\n\nOna – unaweza kuifanya akaunti yako kuwa akaunti binafsi na kudhibiti wafuasi wako. Kwa hiyo, utaweza kukubali watu unaowajua kutoka shuleni na kwenye jamii yetu, lakini sio watu usiowafahamu.\n\nJe, tunaweza kuweka sheria pamoja unayoweza kuitumia kwenye TikTok, lakini kupitia akaunti binafsi? Ninakuamini kwamba unajua nani wakumkubali!",
     "type": "data_list",
     "note": ""
@@ -8186,6 +8276,12 @@
   {
     "SourceText": "Here is a short video to help you slow down before you go",
     "text": "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
     "type": "data_list",
     "note": ""
   },
@@ -8904,6 +9000,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Today's topic is about taking care of yourself.\n\nTaking time for yourself helps you stay calm and strong.",
     "text": "Mada ya leo ni kuhusu kujijali wewe mwenyewe.\n\nKutenga muda kwa ajili yako mwenyewe kunakusaidia kubaki mtulivu na mwenye nguvu.",
     "type": "data_list",
@@ -8940,7 +9042,7 @@
     "note": "The string @global.app_name, should not be translated."
   },
   {
-    "SourceText": "Taking a small break can help you feel calm and strong. But finding time is hard when you have many responsibilities.\n\nSupport from other adults can make it easier.",
+    "SourceText": "Taking a small break can help you feel calm and strong. But, finding time is hard when you have many responsibilities.\n\nSupport from other adults can make it easier.",
     "text": "Kuchukua mapumziko madogo kunaweza kukusaidia kujisikia mtulivu na mwenye nguvu. Lakini kupata muda ni ngumu hasa unapo kuwa na majukumu mengi.\n\nMsaada kutoka kwa watu wazima wengine unaweza kurahisisha jambo hili.",
     "type": "data_list",
     "note": ""
@@ -9330,6 +9432,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "⚠️ Sensitive Content Notice",
     "text": "⚠️ Tangazo la Maudhui Nyeti",
     "type": "data_list",
@@ -9558,16 +9666,16 @@
     "note": ""
   },
   {
-    "SourceText": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and her granddaughter, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
-    "text": "Tumeona namna ulivyokuwa wakati mgumu kwa @data.characters.f2_grandfather.name na mjukuu wake, @data.characters.f2_son_15.name.\n\nSiyo rahisi - kwa wazazi au vijana kuzungumza kuhusu marafiki wa kiume na wa kike.\n\nHebu tuangalie mfano wa namna mazungumzo haya yanaweza kuwa kwa utulivu.",
+    "SourceText": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
+    "text": "Tumeona jinsi ilivyokuwa kwa @data.characters.f2_grandfather.name na mjukuu wake@data.characters.f2_son_15.name kukabiliana na changamoto ile\n\nKuongelea maswala ya rafiki wa kike na rafiki wa kiume sio jambo jepesi kwa wazazi au vijana.\n\nHebu tuangalie mfano wa jinsi mazungumzo ya namna hii yanavyoweza kufanyika kwa utulivu.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f2_grandfather.name\n@data.characters.f2_son_15.name."
   },
   {
-    "SourceText": "@data.characters.f1_mother.role_name, can I talk to you about something?",
-    "text": "@data.characters.f1_mother.role_name, naweza kuongea na wewe kuhusu jambo?",
+    "SourceText": "Mother, can I talk to you about something?",
+    "text": "Mama, naweza kuongea na wewe kuhusu jambo?",
     "type": "data_list",
-    "note": "The string @data.characters.f1_mother.role_name, should not be translated."
+    "note": ""
   },
   {
     "SourceText": "(_calmly_) Sure, my darling. What is the matter?",
@@ -9588,7 +9696,7 @@
     "note": "The string @data.characters.boyfriend_1.name should not be translated."
   },
   {
-    "SourceText": "(🤔_thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…",
+    "SourceText": "(🤔 _thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…",
     "text": "(🤔 _akijiwazia_) Imekuwaje binti yangu amekua haraka hivyo? Nifanyaje sasa Vuta pumzi ndefu…",
     "type": "data_list",
     "note": ""
@@ -10176,6 +10284,12 @@
     "note": ""
   },
   {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "⚠️ Sensitive Content Notice",
     "text": "⚠️ Tangazo la Maudhui Nyeti",
     "type": "data_list",
@@ -10238,6 +10352,12 @@
   {
     "SourceText": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
     "text": "Jifunze namna ya kujilinda mwenyewe kwa kujua maeneo dhaifu ya mvamizi wako:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Weak Spots",
+    "text": "Maeneo Dhaifu",
     "type": "data_list",
     "note": ""
   },
@@ -10392,8 +10512,20 @@
     "note": ""
   },
   {
+    "SourceText": "Well done for taking time for yourself today. 🎉",
+    "text": "Hongera kwa kujipa muda wewe mwenyewe leo. 🎉",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Here is a short video to help you slow down before you go",
     "text": "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
     "type": "data_list",
     "note": ""
   },
@@ -10766,6 +10898,12 @@
   {
     "SourceText": "Here is a short video to help you slow down before you go",
     "text": "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
     "type": "data_list",
     "note": ""
   },

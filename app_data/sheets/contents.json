@@ -514,9 +514,9 @@
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions_tz",
       "_source": {
-        "name": "teens_tz",
-        "path": "templates/TZ onboarding templates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+        "name": "tz_GT",
+        "path": "onboarding templates 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1TtyWfKU_aOBTZkMEVk5qDx1YaudUrNrQ_xf8EVxZF4M"
       },
       "_metadata": {
         "priority": {
@@ -837,9 +837,9 @@
       "flow_subtype": "onboarding",
       "flow_name": "onboarding_splash_slides",
       "_source": {
-        "name": "teens_tz",
-        "path": "data/TZ onboarding.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1V1i6pGZASQWux3EkVtDhO7zPw7rR1E0Y7H_5Ld0DEfI"
+        "name": "tz_GT",
+        "path": "TZ onboarding 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1eHVjeYa2rrWR0wwksuE0LoLxzyRg58Rm8QFGwMKjm4Q"
       },
       "_metadata": {
         "duration_sec": {
@@ -852,9 +852,9 @@
       "flow_name": "onboarding_settings_pages",
       "data_list_name": "onboarding_settings_pages",
       "_source": {
-        "name": "teens_tz",
-        "path": "templates/TZ onboarding templates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+        "name": "tz_GT",
+        "path": "onboarding templates 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1TtyWfKU_aOBTZkMEVk5qDx1YaudUrNrQ_xf8EVxZF4M"
       },
       "_metadata": {
         "completed": {
@@ -1397,7 +1397,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_celebrate_t_tips_2",
+          "flow_name": "article_celebrate_t_check_out_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -4623,9 +4623,9 @@
       "flow_subtype": "onboarding",
       "flow_name": "onboarding_global_tz",
       "_source": {
-        "name": "teens_tz",
-        "path": "data/TZ onboarding.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1V1i6pGZASQWux3EkVtDhO7zPw7rR1E0Y7H_5Ld0DEfI"
+        "name": "tz_GT",
+        "path": "TZ onboarding 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1eHVjeYa2rrWR0wwksuE0LoLxzyRg58Rm8QFGwMKjm4Q"
       }
     },
     "user_data_global": {
@@ -5026,6 +5026,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_celebrate_t_check_out_1": {
+      "flow_name": "article_celebrate_t_check_out_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_celebrate_t_explore_1": {
       "flow_name": "article_celebrate_t_explore_1",
       "flow_subtype": "generated",
@@ -5043,11 +5048,6 @@
     },
     "article_celebrate_t_tips_1": {
       "flow_name": "article_celebrate_t_tips_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_celebrate_t_tips_2": {
-      "flow_name": "article_celebrate_t_tips_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -7881,9 +7881,9 @@
       "flow_type": "template",
       "flow_name": "module_list",
       "_source": {
-        "name": "kids_teens_global",
-        "path": "PLH module_navigation.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/13WrrsCwjK_5S9t8VQTbgWbWpAVbRKByxpOXr95YnjY8"
+        "name": "teens_tz",
+        "path": "templates/TZ module_navigation.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1dx1wQXhNLw8xBiHxpR6gZhEbJq5UgvXJvlFua0VAflE"
       }
     },
     "module_list_item": {
@@ -7980,36 +7980,36 @@
       "flow_type": "template",
       "flow_name": "onboarding_settings_page_1",
       "_source": {
-        "name": "teens_tz",
-        "path": "templates/TZ onboarding templates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+        "name": "tz_GT",
+        "path": "onboarding templates 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1TtyWfKU_aOBTZkMEVk5qDx1YaudUrNrQ_xf8EVxZF4M"
       }
     },
     "onboarding_settings_page_2": {
       "flow_type": "template",
       "flow_name": "onboarding_settings_page_2",
       "_source": {
-        "name": "teens_tz",
-        "path": "templates/TZ onboarding templates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+        "name": "tz_GT",
+        "path": "onboarding templates 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1TtyWfKU_aOBTZkMEVk5qDx1YaudUrNrQ_xf8EVxZF4M"
       }
     },
     "onboarding_settings_page_3": {
       "flow_type": "template",
       "flow_name": "onboarding_settings_page_3",
       "_source": {
-        "name": "teens_tz",
-        "path": "templates/TZ onboarding templates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+        "name": "tz_GT",
+        "path": "onboarding templates 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1TtyWfKU_aOBTZkMEVk5qDx1YaudUrNrQ_xf8EVxZF4M"
       }
     },
     "onboarding_settings_page_4": {
       "flow_type": "template",
       "flow_name": "onboarding_settings_page_4",
       "_source": {
-        "name": "teens_tz",
-        "path": "templates/TZ onboarding templates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+        "name": "tz_GT",
+        "path": "onboarding templates 2.1.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1TtyWfKU_aOBTZkMEVk5qDx1YaudUrNrQ_xf8EVxZF4M"
       }
     },
     "onboarding_splash_auto": {

@@ -19,6 +19,12 @@
       "_nested_name": "current_module_id"
     },
     {
+      "name": "current_number",
+      "value": 0,
+      "type": "set_variable",
+      "_nested_name": "current_number"
+    },
+    {
       "type": "data_items",
       "value": "@data.module_tasks",
       "_translations": {
@@ -33,6 +39,15 @@
             "@items[0]?.id"
           ],
           "_raw": "data_changed | set_local : current_module_id : @items[0]?.id"
+        },
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "current_number",
+            "@items[0]?.number"
+          ],
+          "_raw": "data_changed | set_local : current_number : @items[0]?.number"
         }
       ],
       "parameter_list": {
@@ -40,8 +55,8 @@
         "sort": "number",
         "limit": "1"
       },
-      "name": "data_items_4",
-      "_nested_name": "data_items_4",
+      "name": "data_items_5",
+      "_nested_name": "data_items_5",
       "_dynamicFields": {
         "value": [
           {
@@ -254,6 +269,84 @@
               }
             },
             {
+              "type": "text",
+              "name": "debug_5",
+              "value": "current_module: @local.current_module_id",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "exclude_from_translation": true,
+              "_nested_name": "dg_all_modules.loop_modules.debug_5",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "current_module: @local.current_module_id",
+                    "matchedExpression": "@local.current_module_id",
+                    "type": "local",
+                    "fieldName": "current_module_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.current_module_id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "debug_6",
+              "value": "current_number: @local.current_number",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "exclude_from_translation": true,
+              "_nested_name": "dg_all_modules.loop_modules.debug_6",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "current_number: @local.current_number",
+                    "matchedExpression": "@local.current_number",
+                    "type": "local",
+                    "fieldName": "current_number"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.current_number": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "debug_7",
+              "value": "unlock_tag: @item.unlock_tag",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "exclude_from_translation": true,
+              "_nested_name": "dg_all_modules.loop_modules.debug_7",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "unlock_tag: @item.unlock_tag",
+                    "matchedExpression": "@item.unlock_tag",
+                    "type": "item",
+                    "fieldName": "unlock_tag"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.unlock_tag": [
+                  "value"
+                ]
+              }
+            },
+            {
               "type": "template",
               "name": "module_@item.id",
               "value": "module_list_item",
@@ -332,7 +425,7 @@
                 },
                 {
                   "name": "is_locked",
-                  "value": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
+                  "value": "!(@item.id == @local.current_module_id || !!@item.completed_ts || (@item.unlock_tag < @local.current_number))",
                   "_translations": {
                     "value": {}
                   },
@@ -342,28 +435,34 @@
                   "_dynamicFields": {
                     "value": [
                       {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
+                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || (@item.unlock_tag < @local.current_number))",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
                       },
                       {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
+                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || (@item.unlock_tag < @local.current_number))",
                         "matchedExpression": "@local.current_module_id",
                         "type": "local",
                         "fieldName": "current_module_id"
                       },
                       {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
+                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || (@item.unlock_tag < @local.current_number))",
                         "matchedExpression": "!@item.completed_ts",
                         "type": "item",
                         "fieldName": "completed_ts"
                       },
                       {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
-                        "matchedExpression": "@item.tag_list.includes",
+                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || (@item.unlock_tag < @local.current_number))",
+                        "matchedExpression": "@item.unlock_tag",
                         "type": "item",
-                        "fieldName": "tag_list"
+                        "fieldName": "unlock_tag"
+                      },
+                      {
+                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || (@item.unlock_tag < @local.current_number))",
+                        "matchedExpression": "@local.current_number",
+                        "type": "local",
+                        "fieldName": "current_number"
                       }
                     ],
                     "_nested_name": [
@@ -385,7 +484,10 @@
                     "!@item.completed_ts": [
                       "value"
                     ],
-                    "@item.tag_list.includes": [
+                    "@item.unlock_tag": [
+                      "value"
+                    ],
+                    "@local.current_number": [
                       "value"
                     ],
                     "@item.id.is_locked": [
@@ -527,8 +629,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global",
-    "path": "PLH module_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/13WrrsCwjK_5S9t8VQTbgWbWpAVbRKByxpOXr95YnjY8"
+    "name": "teens_tz",
+    "path": "templates/TZ module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1dx1wQXhNLw8xBiHxpR6gZhEbJq5UgvXJvlFua0VAflE"
   }
 }

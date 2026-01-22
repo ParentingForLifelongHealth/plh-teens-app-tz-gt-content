@@ -10,9 +10,7 @@
       "name": "app_name",
       "value": "ParentApp Teens",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true
     },
@@ -21,9 +19,7 @@
       "name": "app_name_full",
       "value": "ParentApp Teens",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true
     },
@@ -196,7 +192,9 @@
       "name": "donors_text",
       "value": "We are also grateful for the support of a family foundation that wishes to remain anonymous",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],

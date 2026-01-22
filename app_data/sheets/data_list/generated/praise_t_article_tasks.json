@@ -314,7 +314,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/praise/praise1_t_1.png",
       "character_1_id": "f1_father",

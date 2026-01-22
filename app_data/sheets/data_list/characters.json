@@ -19,6 +19,12 @@
       "intro_image_asset": "images/onboarding/facilitator_male_onboarding_icon.svg"
     },
     {
+      "id": "facilitator",
+      "name": "Neema",
+      "role": "facilitator",
+      "image_asset": "images/character_icons/TZ_FACILITATOR_FEMALE.svg"
+    },
+    {
       "id": "f1_mother",
       "caps_id": "F1_MOTHER",
       "family_no": 1,
@@ -29,7 +35,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "mother",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -48,7 +56,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "father",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -106,7 +116,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "grandmother",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -125,7 +137,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "grandfather",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -163,7 +177,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "mother",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -182,7 +198,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "uncle",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -221,7 +239,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "father",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -238,7 +258,9 @@
       "role": "caregiver",
       "role_name": "aunty Esta",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {

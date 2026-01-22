@@ -103,7 +103,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "section_1_title": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
         "section_1_text": {
           "tz_sw": true
         }
@@ -141,7 +143,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "section_1_title": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
         "section_1_text": {
           "tz_sw": true
         }

@@ -19,6 +19,12 @@
       "intro_image_asset": "images/onboarding/facilitator_male_onboarding_icon.svg"
     },
     {
+      "id": "facilitator",
+      "name": "Neema",
+      "role": "facilitator",
+      "image_asset": "images/character_icons/TZ_FACILITATOR_FEMALE.svg"
+    },
+    {
       "id": "f1_mother",
       "caps_id": "F1_MOTHER",
       "family_no": 1,

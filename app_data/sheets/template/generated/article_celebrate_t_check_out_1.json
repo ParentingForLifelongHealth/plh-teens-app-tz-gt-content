@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_celebrate_t_tips_2",
+  "flow_name": "article_celebrate_t_check_out_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "tips_2",
+          "value": "check_out_1",
           "_translations": {
             "value": {}
           },

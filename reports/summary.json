@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1981
+        "count": 1982
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "text",
-        "count": 145
+        "count": 148
       },
       {
         "type": "text_area",
@@ -255,7 +255,7 @@
       },
       {
         "type": "set_local",
-        "count": 45
+        "count": 46
       },
       {
         "type": "task",
@@ -271,12 +271,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "113828 KB",
-        "MB": "113.8 MB"
+        "KB": "113593 KB",
+        "MB": "113.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "86953 KB",
+        "KB": "87022 KB",
         "MB": "87 MB"
       }
     ]
@@ -752,6 +752,10 @@
         "size_kb": 209.7
       },
       {
+        "path": "images/logos/donors/Wellspring.jpeg",
+        "size_kb": 106.5
+      },
+      {
         "path": "images/logos/donors/safe_online.png",
         "size_kb": 65.8
       },
@@ -1013,7 +1017,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 57.8
+        "size_kb": 32.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -1085,11 +1089,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.7
+        "size_kb": 34.5
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 38.3
+        "size_kb": 25.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -1829,7 +1833,7 @@
       },
       {
         "path": "images/character_icons/TZ_FACILITATOR_FEMALE.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 17.7
       },
       {
@@ -2453,11 +2457,6 @@
         "size_kb": 90.5
       },
       {
-        "path": "images/logos/donors/Wellspring.jpeg",
-        "count": 1,
-        "size_kb": 106.5
-      },
-      {
         "path": "images/logos/plh_logomark.png",
         "count": 2,
         "size_kb": 20.5
@@ -2470,7 +2469,7 @@
       {
         "path": "images/logos/tz_ministry.svg",
         "count": 1,
-        "size_kb": 251.1
+        "size_kb": 122.4
       },
       {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",

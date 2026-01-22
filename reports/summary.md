@@ -32,12 +32,12 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1981 |
+| set_variable | 1982 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
 | template | 654 |
-| text | 145 |
+| text | 148 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 7 |
@@ -72,7 +72,7 @@
 | set_data | 53 |
 | set_field | 52 |
 | set_item | 38 |
-| set_local | 45 |
+| set_local | 46 |
 | task | 2 |
 | user | 3 |
 </details>
@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 113828 KB | 113.8 MB |
-| unused | 86953 KB | 87 MB |
+| total | 113593 KB | 113.6 MB |
+| unused | 87022 KB | 87 MB |
 </details>
 
 <details open>
@@ -210,6 +210,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/kw_facilitator_sq.jpg | 30 |
 | images/logos/Exeter.png | 140.5 |
 | images/logos/donors/ERC-EU.png | 209.7 |
+| images/logos/donors/Wellspring.jpeg | 106.5 |
 | images/logos/donors/safe_online.png | 65.8 |
 | images/logos/favicon.png | 149.9 |
 | images/logos/kuwait.png | 248 |
@@ -275,7 +276,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -293,8 +294,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |
@@ -464,7 +465,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/FRIEND_MALE_2.svg | 22 | 1 |
 | images/character_icons/MAN_IN_CAR.svg | 13.2 | 1 |
 | images/character_icons/TEACHER_1.svg | 20.4 | 1 |
-| images/character_icons/TZ_FACILITATOR_FEMALE.svg | 17.7 | 2 |
+| images/character_icons/TZ_FACILITATOR_FEMALE.svg | 17.7 | 4 |
 | images/character_icons/TZ_FACILITATOR_MALE.svg | 22.4 | 2 |
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 6 |
@@ -589,10 +590,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/OAK.png | 66.6 | 1 |
 | images/logos/donors/UKRI.png | 30.1 | 1 |
 | images/logos/donors/WCF.jpg | 90.5 | 1 |
-| images/logos/donors/Wellspring.jpeg | 106.5 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
-| images/logos/tz_ministry.svg | 251.1 | 1 |
+| images/logos/tz_ministry.svg | 122.4 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 1 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |

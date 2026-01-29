@@ -19,12 +19,6 @@
       "intro_image_asset": "images/onboarding/facilitator_male_onboarding_icon.svg"
     },
     {
-      "id": "facilitator",
-      "name": "Neema",
-      "role": "facilitator",
-      "image_asset": "images/character_icons/TZ_FACILITATOR_FEMALE.svg"
-    },
-    {
       "id": "f1_mother",
       "caps_id": "F1_MOTHER",
       "family_no": 1,
@@ -616,9 +610,9 @@
     }
   ],
   "_source": {
-    "name": "teens_tz",
-    "path": "data/TZ characters.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1F07jqq33WYeJNFOlW0-GRFEX2wZBVBMcdjTSvdGkvLk"
+    "name": "tz_GT",
+    "path": "TZ characters 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11pq_hd2zcx21wjophLy8hmzS9-TeaH2w4OAbWzxM17Y"
   },
   "_metadata": {
     "family_no": {

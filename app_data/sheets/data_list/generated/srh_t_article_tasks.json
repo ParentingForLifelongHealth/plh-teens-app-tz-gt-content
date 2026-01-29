@@ -737,27 +737,6 @@
         },
         "quiz_2_feedback_5": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-        },
-        "quiz_3_question": {
-          "eng": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?"
-        },
-        "quiz_3_option_1_text": {
-          "eng": "Okay"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen."
-        },
-        "quiz_3_option_2_text": {
-          "eng": "Happy"
-        },
-        "quiz_3_feedback_2": {
-          "eng": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen."
-        },
-        "quiz_3_option_3_text": {
-          "eng": "Proud"
-        },
-        "quiz_3_feedback_3": {
-          "eng": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen."
         }
       },
       "category_id": "explore",
@@ -823,27 +802,6 @@
         },
         "quiz_2_feedback_5": {
           "tz_sw": true
-        },
-        "quiz_3_question": {
-          "tz_sw": true
-        },
-        "quiz_3_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_3_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_3_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_3": {
-          "tz_sw": true
         }
       },
       "quiz_1_feedback_2": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
@@ -860,20 +818,10 @@
       "quiz_2_feedback_2": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "quiz_2_option_3_text": "She shares why she is worried",
       "quiz_2_feedback_3": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_3_option_1_image_asset": "images/faces/neutral.svg",
-      "quiz_3_option_2_image_asset": "images/faces/happy.svg",
-      "quiz_3_option_3_image_asset": "images/faces/happiest.svg",
       "quiz_2_option_4_text": "She creates rules with @data.characters.f1_daughter_16.name",
       "quiz_2_feedback_4": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
       "quiz_2_option_5_text": "She involves other adults for support",
       "quiz_2_feedback_5": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_3_question": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
-      "quiz_3_option_1_text": "Okay",
-      "quiz_3_feedback_1": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
-      "quiz_3_option_2_text": "Happy",
-      "quiz_3_feedback_2": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
-      "quiz_3_option_3_text": "Proud",
-      "quiz_3_feedback_3": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
       "completed": false
     },
     {

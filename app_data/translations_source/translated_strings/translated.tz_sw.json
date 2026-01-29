@@ -4716,6 +4716,12 @@
     "note": "The following strings should not be translated:\n@data.characters.f1_daughter_16.name\n@data.characters.f1_daughter_16.name?"
   },
   {
+    "SourceText": "I am so ashamed. I do not know what to do",
+    "text": "Nina aibu sana. Sijui nifanye nini",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Crisis 2: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
     "text": "Hatari ya 2: @data.characters.f1_son_18.name amempatia binti ujauzito.\n\nUngefanyaje kwa @data.characters.f1_son_18.name?",
     "type": "data_list",

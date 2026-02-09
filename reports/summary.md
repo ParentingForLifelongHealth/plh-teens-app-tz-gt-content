@@ -32,11 +32,11 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1982 |
+| set_variable | 1998 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
-| template | 654 |
+| template | 662 |
 | text | 148 |
 | text_area | 2 |
 | text_box | 12 |
@@ -56,13 +56,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 475 |
+| emit: completed | 483 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 481 |
+| emit: uncompleted | 489 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 113593 KB | 113.6 MB |
-| unused | 10015 KB | 10 MB |
+| total | 113767 KB | 113.8 MB |
+| unused | 86847 KB | 86.8 MB |
 </details>
 
 <details open>
@@ -97,15 +97,92 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
+| audio/care_audio_1.mp3 | 527.5 |
+| audio/care_audio_2.mp3 | 1166.3 |
+| audio/celebrate_audio_1.mp3 | 497.1 |
+| audio/connect_audio_1.mp3 | 891.7 |
+| audio/connect_audio_2.mp3 | 981.4 |
+| audio/consequences_audio_1.mp3 | 800.2 |
+| audio/consequences_audio_2.mp3 | 1206.6 |
+| audio/feelings_audio_1.mp3 | 336 |
+| audio/feelings_audio_2.mp3 | 635.8 |
+| audio/instructions_audio_1.mp3 | 613.7 |
+| audio/instructions_audio_2.mp3 | 784.2 |
+| audio/learn_audio_1.mp3 | 563.1 |
+| audio/learn_audio_2.mp3 | 254.5 |
+| audio/praise_audio_1.mp3 | 344 |
+| audio/praise_audio_2.mp3 | 1042.6 |
+| audio/rules_audio_1.mp3 | 427.6 |
+| audio/rules_audio_2.mp3 | 742.7 |
+| audio/solve_audio_1.mp3 | 609 |
+| audio/solve_audio_2.mp3 | 468.1 |
 | audio/teen/testimonials/caregiver/ZOLD_caregiver_test_consequence_t.mp3 | 312.3 |
 | audio/teen/testimonials/caregiver/ZOLD_caregiver_test_money_t.mp3 | 243.5 |
 | audio/teen/testimonials/caregiver/ZOLD_caregiver_test_rules_t.mp3 | 241.1 |
-| audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3 | 174.8 |
 | audio/teen/testimonials/teen/ZOLD_teen_test_learn_t.mp3 | 160.2 |
 | audio/teen/testimonials/teen/ZOLD_teen_test_praise_t.mp3 | 148 |
 | audio/teen/testimonials/teen/ZOLD_teen_test_srh_t.mp3 | 263.5 |
-| contents.json | 5.9 |
+| contents.json | 16.8 |
+| images/childdevelopment.svg | 20.3 |
+| images/comics/child_development_yc_1.svg | 124.5 |
+| images/comics/child_development_yc_2.svg | 123.7 |
+| images/comics/child_development_yc_3.svg | 128.1 |
+| images/comics/child_development_yc_4.svg | 123 |
+| images/comics/consequences_yc_1.svg | 117.6 |
+| images/comics/consequences_yc_2.svg | 150.5 |
+| images/comics/consequences_yc_3.svg | 156.7 |
+| images/comics/consequences_yc_4.svg | 146.5 |
+| images/comics/consequences_yc_5.svg | 64.7 |
+| images/comics/feelings_yc_1.svg | 106.8 |
+| images/comics/feelings_yc_2.svg | 175.7 |
+| images/comics/feelings_yc_3.svg | 183.1 |
+| images/comics/feelings_yc_4.svg | 159 |
+| images/comics/instructions_yc_1.svg | 146.4 |
+| images/comics/instructions_yc_2.svg | 154.5 |
+| images/comics/instructions_yc_3.svg | 155.2 |
+| images/comics/instructions_yc_4.svg | 60.3 |
+| images/comics/instructions_yc_5.svg | 124.9 |
+| images/comics/instructions_yc_6.svg | 122.1 |
+| images/comics/instructions_yc_7.svg | 125.9 |
+| images/comics/learn_experience_yc_1.svg | 77.7 |
+| images/comics/learn_experience_yc_2.svg | 82.7 |
+| images/comics/learn_experience_yc_3.svg | 81.8 |
+| images/comics/learn_experience_yc_4.svg | 82.5 |
+| images/comics/learn_experience_yc_5.svg | 71.1 |
+| images/comics/one_on_one_yc_1.svg | 61 |
+| images/comics/one_on_one_yc_2.svg | 65.5 |
+| images/comics/one_on_one_yc_3.svg | 65.5 |
+| images/comics/one_on_one_yc_4.svg | 67 |
+| images/comics/play_yc_1.svg | 286.4 |
+| images/comics/play_yc_2.svg | 283.3 |
+| images/comics/play_yc_3.svg | 80.8 |
+| images/comics/play_yc_4.svg | 98.5 |
+| images/comics/praise_yc_1.svg | 98.7 |
+| images/comics/praise_yc_2.svg | 100.5 |
+| images/comics/praise_yc_3.svg | 96.5 |
+| images/comics/praise_yc_4.svg | 105 |
+| images/comics/problem_solving_yc_1.svg | 42.1 |
+| images/comics/problem_solving_yc_2.svg | 48.3 |
+| images/comics/problem_solving_yc_3.svg | 47 |
+| images/comics/problem_solving_yc_4.svg | 42.1 |
+| images/comics/routines_yc_1.svg | 55.9 |
+| images/comics/routines_yc_10.svg | 111.8 |
+| images/comics/routines_yc_2.svg | 62.4 |
+| images/comics/routines_yc_3.svg | 60.7 |
+| images/comics/routines_yc_4.svg | 74.3 |
+| images/comics/routines_yc_5.svg | 49.9 |
+| images/comics/routines_yc_6.svg | 47.2 |
+| images/comics/routines_yc_7.svg | 140.7 |
+| images/comics/routines_yc_8.svg | 96.8 |
+| images/comics/routines_yc_9.svg | 116.9 |
+| images/comics/self_care_yc_1.svg | 100.6 |
+| images/comics/self_care_yc_2.svg | 65.9 |
+| images/comics/self_care_yc_3.svg | 145.9 |
+| images/comics/self_care_yc_4.svg | 61.5 |
+| images/comics/teach_consequences_yc_3.jpg | 3174 |
+| images/consequences.jpg | 115.1 |
 | images/faces/happier.svg | 0.6 |
+| images/facilitators_face.svg | 39.3 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
@@ -126,15 +203,27 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/question_blue.png | 3.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
+| images/instructions.svg | 23.2 |
+| images/kw_facilitator_rd.jpg | 35.2 |
+| images/kw_facilitator_rd.png | 87.3 |
+| images/kw_facilitator_sq.jpg | 30 |
 | images/logos/Exeter.png | 140.5 |
 | images/logos/donors/ERC-EU.png | 209.7 |
 | images/logos/donors/Wellspring.jpeg | 106.5 |
 | images/logos/donors/safe_online.png | 65.8 |
 | images/logos/favicon.png | 149.9 |
+| images/logos/kuwait.png | 248 |
+| images/logos/plh.jpeg | 9.4 |
 | images/logos/plh_white.png | 12.8 |
 | images/logos/sino_horizontal.svg | 251 |
 | images/logos/sino_mark.svg | 461.7 |
 | images/logos/sino_white.svg | 256.1 |
+| images/one_on_one_challenges.svg | 13.1 |
+| images/praise.svg | 11.3 |
+| images/problemsolving.svg | 19.6 |
+| images/rulesroutines.jpg | 102.2 |
+| images/selfcare.jpg | 96.6 |
+| images/talk_feelings_challenges.svg | 19.3 |
 | images/teen_modules/crisis/crisis1_t_1.svg | 36.7 |
 | images/teen_modules/crisis/crisis1_t_2.svg | 33.4 |
 | images/teen_modules/crisis/crisis1_t_3.svg | 36.6 |
@@ -186,7 +275,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -204,8 +293,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |
@@ -230,6 +319,9 @@ Assets that appear in app-data but do not have references within sheets
 | lottie/cascading_stars.json | 140.5 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
+| videos/pause/body_scan.mp4 | 10418.6 |
+| videos/pause/breath_body_awareness.mp4 | 27250 |
+| videos/pause/loving_kindness_meditation.mp4 | 16605.2 |
 </details>
 
 <details open>
@@ -241,6 +333,13 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
+| images/teen_modules/svp/svp_catcalling_t.svg | 1 |
+| images/teen_modules/svp/svp_controlling_boyfriend_t.svg | 1 |
+| images/teen_modules/svp/svp_nude_pic_t.svg | 1 |
+| images/teen_modules/svp/svp_private_tutoring_t.svg | 1 |
+| images/teen_modules/svp/svp_pushy_boyfriend_t.svg | 1 |
+| images/teen_modules/svp/svp_pushy_friend_t.svg | 1 |
+| images/teen_modules/svp/svp_rejected_ride_t.svg | 1 |
 </details>
 
 <details >
@@ -258,7 +357,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_14.mp3 | 256.9 | 2 |
 | audio/relax/relax_15.mp3 | 125 | 2 |
 | audio/relax/relax_16.mp3 | 150.9 | 1 |
-| audio/relax/relax_17.mp3 | 148 | 3 |
+| audio/relax/relax_17.mp3 | 148 | 2 |
 | audio/relax/relax_18.mp3 | 312.9 | 1 |
 | audio/relax/relax_19.mp3 | 454 | 1 |
 | audio/relax/relax_2.mp3 | 404.4 | 2 |
@@ -288,6 +387,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3 | 175 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3 | 263.5 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3 | 178.1 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3 | 174.8 | 1 |
 | audio/teen/testimonials/teen/teen_test_1on1_t.mp3 | 210.8 | 2 |
 | audio/teen/testimonials/teen/teen_test_consequence_t.mp3 | 211.3 | 2 |
 | audio/teen/testimonials/teen/teen_test_crisis_t.mp3 | 191.9 | 2 |
@@ -302,7 +402,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/teen/testimonials/teen/teen_test_solve_t.mp3 | 264.6 | 2 |
 | audio/teen/testimonials/teen/teen_test_srh_t.mp3 | 1372.7 | 2 |
 | audio/teen/testimonials/teen/teen_test_stress_t.mp3 | 267.8 | 2 |
-| audio/teen/testimonials/teen/teen_test_svp_t.mp3 | 202.9 | 2 |
+| audio/teen/testimonials/teen/teen_test_svp_t.mp3 | 202.9 | 1 |
 | audio/teen/topic_intros/1on1_intro_t.mp3 | 206 | 2 |
 | audio/teen/topic_intros/celebrate_intro_t.mp3 | 665.6 | 2 |
 | audio/teen/topic_intros/consequence_intro_t.mp3 | 239.1 | 2 |
@@ -318,7 +418,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/teen/topic_intros/solve_intro_t.mp3 | 508 | 2 |
 | audio/teen/topic_intros/srh_intro_t.mp3 | 369.2 | 2 |
 | audio/teen/topic_intros/stress_intro_t.mp3 | 370.3 | 2 |
-| audio/teen/topic_intros/svp_intro_t.mp3 | 603.8 | 2 |
+| audio/teen/topic_intros/svp_intro_t.mp3 | 603.8 | 1 |
 | audio/teen/topic_intros/workshops_reflection_t.mp3 | 258.6 | 2 |
 | images/activities/bao.svg | 285.6 | 2 |
 | images/activities/can_you_catch_it.svg | 183.7 | 2 |
@@ -416,7 +516,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/srh_t.svg | 46.2 | 2 |
 | images/homescreen/stress_t.svg | 16.9 | 2 |
 | images/homescreen/svp_t.svg | 25.4 | 2 |
-| images/icons/brain_blue.png | 5.2 | 8 |
+| images/icons/brain_blue.png | 5.2 | 7 |
 | images/icons/clock_blue.png | 4.5 | 4 |
 | images/icons/diamond.png | 1.8 | 2 |
 | images/icons/diamond_active.png | 1.7 | 2 |
@@ -424,15 +524,15 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/document.svg | 7.3 | 1 |
 | images/icons/expand_circle_right.svg | 0.5 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 1 |
-| images/icons/eye_blue.png | 4.2 | 10 |
+| images/icons/eye_blue.png | 4.2 | 9 |
 | images/icons/faces/angry.svg | 1.1 | 2 |
 | images/icons/faces/confused.svg | 1.8 | 2 |
 | images/icons/faces/happy.svg | 0.6 | 2 |
-| images/icons/faces/happy_face_new.svg | 1.4 | 32 |
+| images/icons/faces/happy_face_new.svg | 1.4 | 31 |
 | images/icons/faces/neutral.svg | 0.5 | 2 |
-| images/icons/faces/ok_face_new.svg | 0.5 | 32 |
+| images/icons/faces/ok_face_new.svg | 0.5 | 31 |
 | images/icons/faces/sad.svg | 0.6 | 3 |
-| images/icons/faces/sad_face_new.svg | 1.5 | 32 |
+| images/icons/faces/sad_face_new.svg | 1.5 | 31 |
 | images/icons/faces/scared.svg | 2.1 | 2 |
 | images/icons/feather.svg | 3.5 | 1 |
 | images/icons/heart.png | 1.3 | 3 |
@@ -460,11 +560,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/question_mark_blue.svg | 0.8 | 1 |
 | images/icons/settings.svg | 2.4 | 1 |
 | images/icons/settings_active.svg | 2.4 | 1 |
-| images/icons/single_speech_blue.png | 3.3 | 12 |
+| images/icons/single_speech_blue.png | 3.3 | 11 |
 | images/icons/smile_eyes_down.svg | 0.9 | 21 |
 | images/icons/smile_eyes_up.svg | 1 | 51 |
 | images/icons/speech_bubble_blue.png | 4.2 | 10 |
-| images/icons/star_filled_blue.png | 5.1 | 28 |
+| images/icons/star_filled_blue.png | 5.1 | 25 |
 | images/icons/star_outline_blue.svg | 1 | 18 |
 | images/icons/tablet_blue.png | 2.8 | 2 |
 | images/icons/thought_bubble.svg | 2.1 | 17 |
@@ -654,19 +754,19 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/stress/stress2_t_1.png | 673.1 | 2 |
 | images/teen_modules/stress/stress2_t_2.png | 599.9 | 2 |
 | images/teen_modules/stress/stress2_t_3.png | 639.7 | 2 |
-| images/teen_modules/svp/svp_usebody_t_1.gif | 2008.5 | 2 |
-| images/teen_modules/svp/svp_usebody_t_2.gif | 844.1 | 2 |
-| images/teen_modules/svp/svp_usebody_t_3.gif | 1111.6 | 2 |
-| images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
+| images/teen_modules/svp/svp_usebody_t_1.gif | 2008.5 | 1 |
+| images/teen_modules/svp/svp_usebody_t_2.gif | 844.1 | 1 |
+| images/teen_modules/svp/svp_usebody_t_3.gif | 1111.6 | 1 |
+| images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 1 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 23.6 | 1 |
 | lottie/gift_box.json | 674.5 | 1 |
 | lottie/relax/blue_dots.json | 14.7 | 7 |
 | lottie/relax/heart.json | 46.7 | 8 |
-| lottie/relax/looping_rings.json | 10.4 | 9 |
+| lottie/relax/looping_rings.json | 10.4 | 8 |
 | lottie/relax/soothing_waves.json | 7.6 | 6 |
 | lottie/relax/square_flow.json | 5.9 | 16 |
-| video/plh_video/lets_slow_down.mp4 | 13482.2 | 32 |
+| video/plh_video/lets_slow_down.mp4 | 13482.2 | 30 |
 </details>
 
 <details >
@@ -678,7 +778,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
-| data_list | generated | 36 |
+| data_list | generated | 35 |
 | data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | library | 3 |
@@ -703,12 +803,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | onboarding | 1 |
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
-| data_pipe | generated | 32 |
+| data_pipe | generated | 31 |
 | generator |  | 31 |
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
 | template |  | 102 |
-| template | generated | 498 |
+| template | generated | 506 |
 | template | legal_terms | 4 |
 </details>

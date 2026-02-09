@@ -10,6 +10,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 0,
       "number": 2.1,
       "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
       "image_asset": "images/homescreen/self_care.svg",
@@ -33,6 +34,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.1,
       "number": 2.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/one_on_one_t.svg",
       "image_asset": "images/homescreen/one_on_one_t.svg",
@@ -55,6 +57,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.2,
       "number": 2.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/praise_t.svg",
       "image_asset": "images/homescreen/praise_t.svg",
@@ -77,6 +80,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.3,
       "number": 2.4,
       "bottom_aligned_image_asset": "images/homescreen/listview/instruct_t.svg",
       "image_asset": "images/homescreen/instruct_t.svg",
@@ -99,6 +103,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 2.5,
       "bottom_aligned_image_asset": "images/homescreen/listview/stress_t.svg",
       "image_asset": "images/homescreen/stress_t.svg",
@@ -121,6 +126,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 2.6,
       "bottom_aligned_image_asset": "images/homescreen/listview/solve_t.svg",
       "image_asset": "images/homescreen/solve_t.svg",
@@ -143,6 +149,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 2.7,
       "bottom_aligned_image_asset": "images/homescreen/listview/money_t.svg",
       "image_asset": "images/homescreen/money_t.svg",
@@ -165,6 +172,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 2.8,
       "bottom_aligned_image_asset": "images/homescreen/listview/rules_t.svg",
       "image_asset": "images/homescreen/rules_t.svg",
@@ -187,6 +195,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 2.9,
       "bottom_aligned_image_asset": "images/homescreen/listview/consequence_t.svg",
       "image_asset": "images/homescreen/consequence_t.svg",
@@ -209,6 +218,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 3.1,
       "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
       "image_asset": "images/homescreen/srh_t.svg",
@@ -231,6 +241,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 3.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/safe_t.svg",
       "image_asset": "images/homescreen/safe_t.svg",
@@ -253,6 +264,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 3.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/crisis_t.svg",
       "image_asset": "images/homescreen/crisis_t.svg",
@@ -275,6 +287,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 3.4,
       "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
       "image_asset": "images/homescreen/celebrate_t.svg",
@@ -297,6 +310,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 3.5,
       "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
       "image_asset": "images/homescreen/learn_t.svg",
@@ -315,24 +329,23 @@
       }
     },
     {
-      "id": "stayingsafe_t",
+      "id": "protectself_t",
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 3.6,
       "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
       "image_asset": "images/homescreen/svp_t.svg",
       "relax_id": "relax_17",
       "check_in_id": "check_in_13",
-      "title": "Staying Safe",
+      "title": "Protecting Yourself",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Staying Safe"
+          "eng": "Protecting Yourself"
         }
       }
     },
@@ -341,6 +354,7 @@
       "tag_list": [
         "teen"
       ],
+      "unlock_tag": 2.4,
       "number": 3.7,
       "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
       "image_asset": "images/homescreen/grief_t.svg",
@@ -365,6 +379,9 @@
     "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
   },
   "_metadata": {
+    "unlock_tag": {
+      "type": "number"
+    },
     "number": {
       "type": "number"
     }

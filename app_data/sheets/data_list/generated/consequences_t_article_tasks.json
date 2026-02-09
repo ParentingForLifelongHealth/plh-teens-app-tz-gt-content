@@ -970,13 +970,13 @@
           "eng": "Now imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?"
         },
         "quiz_1_option_1_text": {
-          "eng": "No gadget use the next day"
+          "eng": "Limit phone time next day"
         },
         "quiz_1_feedback_1": {
           "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
         },
         "quiz_1_option_2_text": {
-          "eng": "Write a letter of apology"
+          "eng": "Do additional chores during the week"
         },
         "quiz_1_feedback_2": {
           "eng": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions."
@@ -1041,8 +1041,8 @@
       "quiz_1_feedback_2": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
       "quiz_1_feedback_3": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
       "quiz_1_question": "Now imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?",
-      "quiz_1_option_1_text": "No gadget use the next day",
-      "quiz_1_option_2_text": "Write a letter of apology",
+      "quiz_1_option_1_text": "Limit phone time next day",
+      "quiz_1_option_2_text": "Do additional chores during the week",
       "quiz_1_option_3_text": "Cannot see friends the next day",
       "image_asset": "/images/teen_modules/consequence/consequence2_t_2.svg",
       "quiz_1_option_4_text": "Cannot play with phone after dinner (or next hour)",

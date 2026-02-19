@@ -613,7 +613,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }

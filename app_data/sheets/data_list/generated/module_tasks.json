@@ -367,7 +367,9 @@
       "check_in_id": "check_in_13",
       "title": "Protecting Yourself",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

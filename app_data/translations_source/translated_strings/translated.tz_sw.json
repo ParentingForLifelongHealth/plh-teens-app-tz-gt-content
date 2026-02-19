@@ -2484,12 +2484,6 @@
     "note": ""
   },
   {
-    "SourceText": "These @global.terms_and_conditions are an agreement between you and Parenting for Lifelong Health  (“PLH”) which furthermore sets out the rules for your use of @global.app_name_full (or “App”).\n\n@global.app_name_full is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 10 to 17 years.\n\n@global.app_name_full is brought to you by the collaboration of partners including PLH, University of Oxford, IDEMS International, INNODEMS as well as the University of Cape Town and Stellenbosch University (“@global.app_name_full team”).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions   contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name_full you are confirming to us that you reviewed  our @global.privacy_policy, as set out separately.",
-    "text": "@global.terms_and_conditions Haya  ni makubaliano kati yako na Parenting for Lifelong Health (“PLH”) ambayo zaidi ya hayo yanaweka sheria za matumizi yako ya @global.app_name_full (au Program)\n\n@global.app_name_full ni toleo la bure la programu ya Parenting for Lifelong Health Kwa Watoto lililotengenezwa mahsusi kwa ajili ya wazazi na walezi wa watoto wenye umri wa miaka 2 hadi 17.\n\n@global.app_name_full inaletwa kwako kwa kushirikiana na PLH, Chuo Kikuu cha Oxford, IDEMS International, INNODEMS, pamoja na Chuo Kikuu cha Cape Town na Chuo Kikuu cha Stellenbosch (“the @global.app_name_full team”).\n\nTafadhali soma @global.terms_and_conditions kwa makini. Kwa kupakua au kutumia programu, unakubali kwamba umesoma, umeelewa, na umekubaliana na @global.terms_and_conditions vilivyopo hapa chini.\n\nFaragha yako ni muhimu kwetu – tafadhali soma pia sera yetu ya faragha @global.privacy_policy, ambayo itaeleza kwa undani jinsi tunavyokusanya, kuhifadhi na kutumia taarifa unazotupa. Kwa kutumia @global.app_name_full unatuthibitishia kuwa umeisoma sera yetu ya faragha @global.privacy_policy, kama ilivyowekwa kando.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.app_name_full\n@global.app_name_full\n@global.app_name_full\n(“@global.app_name_full\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.privacy_policy,\n@global.app_name_full\n@global.privacy_policy,"
-  },
-  {
     "SourceText": "Rules of Usage",
     "text": "Kanuni za Matumizi",
     "type": "data_list",
@@ -2772,6 +2766,30 @@
     "note": ""
   },
   {
+    "SourceText": "Parent or caregiver",
+    "text": "Mzazi au mlezi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator",
+    "text": "Mwezeshaji",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "System tester",
+    "text": "Mjaribu mfumo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "None of the above",
+    "text": "Hakuna kati ya zilizo hapo juu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "grandmother",
     "text": "bibi",
     "type": "data_list",
@@ -2808,36 +2826,6 @@
     "note": ""
   },
   {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
-    "text": "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 10 hadi 17. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu:",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Parent or caregiver",
-    "text": "Mzazi au mlezi",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Facilitator",
-    "text": "Mwezeshaji",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "System tester",
-    "text": "Mjaribu mfumo",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "None of the above",
-    "text": "Hakuna kati ya zilizo hapo juu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Man",
     "text": "Mwanaume",
     "type": "data_list",
@@ -2866,6 +2854,12 @@
     "text": "Wafadhili",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 10 hadi 17. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu:",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "Taking Care of Yourself",
@@ -2952,8 +2946,8 @@
     "note": ""
   },
   {
-    "SourceText": "Staying Safe",
-    "text": "Kukaa Salama",
+    "SourceText": "Protecting Yourself",
+    "text": "Kujilinda Mwenyewe",
     "type": "data_list",
     "note": ""
   },
@@ -3024,36 +3018,6 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome to @global.app_name",
-    "text": "Karibu kwenye @global.app_name",
-    "type": "global",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Please select your gender",
-    "text": "Tafadhali chagua jinsia yako",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "I am a...",
-    "text": "Mimi ni...",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "User ID",
-    "text": "Kitambulisho cha mtumiaji",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Skip",
-    "text": "Ruka",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "5 December 2024",
     "text": "5 Desemba 2024",
     "type": "global",
@@ -3068,84 +3032,6 @@
   {
     "SourceText": "We are also grateful for the support of a family foundation that wishes to remain anonymous",
     "text": "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
-    "text": "Je ungependa kufungua akaunti? hii itakufanya upate taarifa zako pale kifaa chako ikiwa kitapotea.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Sign in",
-    "text": "Sajili",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Sign in with Apple",
-    "text": "Ingia kwa kutumia Apple",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Sign in with Google",
-    "text": "Ingia kwa kutumia Google",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Sign out",
-    "text": "Ondoka",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "You are logged in.",
-    "text": "Umeingia.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Delete account",
-    "text": "Futa akaunti",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to delete your account?",
-    "text": "Una uhakika unataka kufuta akaunti?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "This action is permanent and cannot be undone. You will lose all your progress.",
-    "text": "Hiki kitendo ni cha kudumu na hakiwezi kutenduliwa. Utapoteza hatua zote.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Yes",
-    "text": "Ndiyo",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "No",
-    "text": "Hapana",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\nIf you do, any progress made on this device will be lost.",
-    "text": "Inaonekana uliingia kwenye kifaa kingine zamani, Unapenda kuendelea pale ulipo ishia!\nKama unataka, hatua zozote ulizofanya kwenye kifaa hiki zitapotea.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Load saved progress",
-    "text": "Pakia maendeleo yaliyohifadhiwa",
     "type": "global",
     "note": ""
   },
@@ -3212,12 +3098,6 @@
   {
     "SourceText": "Let’s Begin",
     "text": "Hebu tuanze",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue",
-    "text": "Endelea",
     "type": "global",
     "note": ""
   },
@@ -3456,12 +3336,6 @@
     "note": ""
   },
   {
-    "SourceText": "Account",
-    "text": "Akaunti",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "General",
     "text": "Kwa ujumla",
     "type": "global",
@@ -3472,12 +3346,6 @@
     "text": "Mrejesho",
     "type": "global",
     "note": ""
-  },
-  {
-    "SourceText": "About @global.app_name",
-    "text": "Kuhusu @global.app_name",
-    "type": "global",
-    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "Developer Mode",
@@ -3500,12 +3368,6 @@
   {
     "SourceText": "Save",
     "text": "Tunza",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Language",
-    "text": "Lugha",
     "type": "global",
     "note": ""
   },
@@ -3546,38 +3408,158 @@
     "note": ""
   },
   {
-    "SourceText": "Copy code",
-    "text": "Nakili msimbo",
+    "SourceText": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
+    "text": "Je ungependa kufungua akaunti? hii itakufanya upate taarifa zako pale kifaa chako ikiwa kitapotea.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in",
+    "text": "Sajili",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in with Apple",
+    "text": "Ingia kwa kutumia Apple",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in with Google",
+    "text": "Ingia kwa kutumia Google",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign out",
+    "text": "Ondoka",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You are logged in.",
+    "text": "Umeingia.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Account",
+    "text": "Akaunti",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Delete account",
+    "text": "Futa akaunti",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete your account?",
+    "text": "Una uhakika unataka kufuta akaunti?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "This action is permanent and cannot be undone. You will lose all your progress.",
+    "text": "Hiki kitendo ni cha kudumu na hakiwezi kutenduliwa. Utapoteza hatua zote.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ndiyo",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Hapana",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\nIf you do, any progress made on this device will be lost.",
+    "text": "Inaonekana uliingia kwenye kifaa kingine zamani, Unapenda kuendelea pale ulipo ishia!\nKama unataka, hatua zozote ulizofanya kwenye kifaa hiki zitapotea.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Load saved progress",
+    "text": "Pakia maendeleo yaliyohifadhiwa",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to @global.app_name",
+    "text": "Karibu kwenye @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Please select your gender",
+    "text": "Tafadhali chagua jinsia yako",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "I am a...",
+    "text": "Mimi ni...",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "About @global.app_name",
+    "text": "Kuhusu @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Language",
+    "text": "Lugha",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "User ID",
+    "text": "Kitambulisho cha mtumiaji",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip",
+    "text": "Ruka",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Endelea",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "What you need",
+    "text": "Unachohitaji",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Copied!",
-    "text": "Imenakiliwa!",
+    "SourceText": "Steps",
+    "text": "Hatua",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Last sync at: @local.sync_latest",
-    "text": "Imelandanishwa mara ya mwisho saa: @local.sync_latest",
-    "type": "template",
-    "note": "The string @local.sync_latest should not be translated."
-  },
-  {
-    "SourceText": "This device has never been synced. Sync to reveal your code.",
-    "text": "Kifaa hiki hakijawahi kulandanishwa. Landanisha kuonesha msimbo wako.",
+    "SourceText": "More tips",
+    "text": "Dondoo zaidi",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Sync now",
-    "text": "Landanisha sasa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Syncing...",
-    "text": "Landanisha...",
+    "SourceText": "Try also",
+    "text": "Jaribu pia",
     "type": "template",
     "note": ""
   },
@@ -3630,30 +3612,6 @@
     "note": ""
   },
   {
-    "SourceText": "What you need",
-    "text": "Unachohitaji",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Steps",
-    "text": "Hatua",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "More tips",
-    "text": "Dondoo zaidi",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Try also",
-    "text": "Jaribu pia",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Countdown days: @local.countdown_days",
     "text": "Hesabu siku: @local.countdown_days",
     "type": "template",
@@ -3668,6 +3626,42 @@
   {
     "SourceText": "Save",
     "text": "Tunza",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copy code",
+    "text": "Nakili msimbo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copied!",
+    "text": "Imenakiliwa!",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last sync at: @local.sync_latest",
+    "text": "Imelandanishwa mara ya mwisho saa: @local.sync_latest",
+    "type": "template",
+    "note": "The string @local.sync_latest should not be translated."
+  },
+  {
+    "SourceText": "This device has never been synced. Sync to reveal your code.",
+    "text": "Kifaa hiki hakijawahi kulandanishwa. Landanisha kuonesha msimbo wako.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sync now",
+    "text": "Landanisha sasa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Syncing...",
+    "text": "Landanisha...",
     "type": "template",
     "note": ""
   },
@@ -4266,18 +4260,6 @@
     "note": "The string @data.characters.f1_son_18.name should not be translated."
   },
   {
-    "SourceText": "Limit phone time next day",
-    "text": "Siku inayofuata, punguza muda wa kutumia simu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Do additional chores during the week",
-    "text": "Fanya kazi za ziada za nyumbani ndani ya wiki",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Cannot see friends on the weekend",
     "text": "Hutaonana na marafiki mwishoni mwa wiki",
     "type": "data_list",
@@ -4296,14 +4278,14 @@
     "note": "The following strings should not be translated:\n@data.characters.f1_daughter_16.name\n@data.characters.f1_daughter_13.name"
   },
   {
-    "SourceText": "No gadget use the next day",
-    "text": "Hakuna kutumia vifaa vya kielektroniki siku inayofuata",
+    "SourceText": "Limit phone time next day",
+    "text": "Siku inayofuata, punguza muda wa kutumia simu",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Write a letter of apology",
-    "text": "Kuandika barua ya kuomba msamaha",
+    "SourceText": "Do additional chores during the week",
+    "text": "Fanya kazi za ziada za nyumbani ndani ya wiki",
     "type": "data_list",
     "note": ""
   },
@@ -7782,8 +7764,8 @@
     "note": ""
   },
   {
-    "SourceText": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs",
-    "text": "**Hapa ni baadhi ya mifano ya matatizo ambayo wazazi wengine waliyatatua pamoja na vijana wao:**\n\n- Kijana wangu hataki kwenda shuleni\n- Nina wasiwasi kijana wangu atapata ujauzito au atampa ujauzito binti \n- Nina wasiwasi kuhusu ambacho kijana wangu anafanya mtandaoni\n- Kijana wangu ana barizi marafiki wabaya\n- Kijana wangu ni mvivu\n- Kijana wangu hafanyi kazi zake za shule\n- Kijana wangu huenda anatumia madawa",
+    "SourceText": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy",
+    "text": "**Hapa ni baadhi ya mifano ya matatizo ambayo wazazi wengine waliyatatua pamoja na vijana wao:**\n\n- Kijana wangu hataki kwenda shuleni\n- Nina wasiwasi kijana wangu atapata ujauzito au atampa ujauzito binti \n- Nina wasiwasi kuhusu ambacho kijana wangu anafanya mtandaoni\n- Kijana wangu ana barizi marafiki wabaya\n- Kijana wangu ni mvivu",
     "type": "data_list",
     "note": ""
   },
@@ -9366,8 +9348,8 @@
     "note": ""
   },
   {
-    "SourceText": "Remember @data.characters.media_male_1.name? Here’s what his son says about his father practising self care",
-    "text": "Kumbuka @data.characters.media_male_1.name? Hivi ndivyo mwanawe anavyosema kuhusu baba yake kujitunza",
+    "SourceText": "Remember @data.characters.media_male_1.name? Here’s what his son says about self care",
+    "text": "Kumbuka @data.characters.media_male_1.name? Hivi ndivyo mwanawe anavyosema kuhusu kujitunza kwake",
     "type": "data_list",
     "note": "The string @data.characters.media_male_1.name? should not be translated."
   },
@@ -9822,36 +9804,6 @@
     "note": "The string @data.characters.f1_mother.name should not be translated."
   },
   {
-    "SourceText": "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?",
-    "text": "Ni kivipi @data.characters.f1_mother.name na @data.characters.f1_daughter_16.name wanahisi baada ya mazungumzo yao?",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@data.characters.f1_mother.name\n@data.characters.f1_daughter_16.name"
-  },
-  {
-    "SourceText": "Okay",
-    "text": "Vizuri",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Happy",
-    "text": "Furaha",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Proud",
-    "text": "Fahari",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "When we stay calm, share how we feel, and look for solutions together, it will help us all – even if we are not sure of the right outcome. You can learn to manage tricky situations and problems together with your teen.",
-    "text": "Tunapokuwa watulivu, tukishirikisha watu jinsi tunavyohisi, na kutafuta suluhu pamoja, itatusaidia sisi sote – hata kama hatuna uhakika wa matokeo sahihi. Unaweza kujifunza kumudu hali na matatizo magumu kwa pamoja na kijana wako.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "@data.characters.f1_mother.name did well by finding solutions together with @data.characters.f1_daughter_16.name. But this can be hard to do.\n\nMany parents want to help their teens but find it difficult to talk about sensitive topics, like body changes and relationships.",
     "text": "@data.characters.f1_mother.name walifanya vizuri kutafuta suluhu pamoja na @data.characters.f1_daughter_16.name. Lakini inaweza kuwa ngumu kufanya.\n\nWazazi wengi wanataka kuwasaidia vijana lakini hupata ugumu kuongea kuhusu mada nyeti, kama mabadiliko ya mwili na mahusiano ya kimapenzi.",
     "type": "data_list",
@@ -10302,10 +10254,10 @@
     "note": ""
   },
   {
-    "SourceText": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help.",
-    "text": "Moduli inatoa misingi ya namna ya kujilinda mwenyewe. Haiwezi kukuandaa kwa kila hatari. Ikiwa mwezi au mwanandoa anakukwaza, kupambana naye wakati mwingine kunaweza kufanya hali kuwa ya hatari zaidi. Mara nyingi chaguo sahihi zaidi ni kuondoka na kutafuta msaada.\n\nUkihitaji msaada, Tazama \"Msaada wa mawasilino\" kwenye maktaba ya @global.app_name kwa msaada.",
+    "SourceText": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help.",
+    "text": "Mada hii ina maudhui ambayo ni nyeti. Unaweza kuangalia mwenyewe. Hii itakuandaa vizuri ili kushirikisha maudhui na kijana wako na wengine hapo baadae.\n\nUkihitaji msaada, angalia ''Namba za msaada'' kwenye sehemu ya maktaba upate msaada.",
     "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
+    "note": ""
   },
   {
     "SourceText": "Our topic today is staying safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.\n\nWe can help our teens know how to use their thoughts, voice, AND body in dangerous situations. It makes a big difference!",
@@ -10326,14 +10278,422 @@
     "note": ""
   },
   {
-    "SourceText": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
-    "text": "Tumetazama juu ya alama zinazoashiria hali ya hatari kwenye somo la kijana Salama. Sasa hebu tufikirie tunaweza kufanya nini ikiwa hatujihisi salama?\n\nIkiwa unahisi hauko salama, unaweza kusema au kufanya jambo lolote ili kusalia salama. Lengo ni kuondoka hapo!\n\nFikiria hali ile ambapo @data.characters.f2_daughter_19.name alishinikizwa kuingia kwenye gari.\n\nAngeweza kutumiaje sauti yake ili kuondoka hapo?",
+    "SourceText": "Practising how to recognise warning signs and how to respond can help teens feel confident to protect themselves when it matters most.",
+    "text": "Kufanya mazoezi ya kutambua ishara za onyo na jinsi ya kujibu kunaweza kuwasaidia vijana kujisikia na kujiamini katika kujilinda pale inapohitajika zaidi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hear how learning warning signs kept @data.characters.media_female_11.name's teen safe",
+    "text": "Sikiliza jinsi kujifunza ishara za onyo kulivyomsaidia mtoto wa @data.characters.media_female_11.name kubaki salama",
+    "type": "data_list",
+    "note": "The string @data.characters.media_female_11.name's should not be translated."
+  },
+  {
+    "SourceText": "Learning how to stay safe really helped us. The other day, my daughter got invited to a party by an older boy, and he said he would pay for her transport. Before, she would just go secretly, but now she came to me to talk about it.\n\nWe reminded each other that it is important to see the warning signs and stay safe, and she decided to say ‘no’. I am so proud of her. Even me, I now know that others should not pressure or convince me to do something. I can give the right example to my children.",
+    "text": "Kujifunza namna ya kuwa salama hakika imetusaidia sisi. Siku moja binti yangu alipewa mualiko kwenye sherehe na mvulana mkubwa, na alisema atamlipia usafiri. Kabla, alikua akienda kwa siri, lakini kwa sasa alikuja kwangu akaniambia kuhusu hilo.\n\nTulikumbushana kila mmoja wetu kwamba ni muhimu kuona ishara za onyo na kukaa salama, na aliamua kusema ' hapana ' ninajivunia sana yeye. Hata mimi, Sasa ninafahamu kwamba wengine hawawezi kunishinikiza au kunishawishi kufanya kitu chochote. Ninaweza kutoa mfano sahihi kwa watoto wangu.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "People can make us feel safe and happy—but sometimes they pressure us or make us uncomfortable. This can happen to both teens and adults.\n\nKnowing the warning signs helps us stay safe.\n\nLet’s look at some examples.",
+    "text": "Watu wanaweza fanya tujisikie salama na furaha-lakini muda mwingine kutushinikiza au kutufanya tuwe na wasiwasi. Hii inaweza kutokea kwa wote vijana na watu wazima.\nKujua dalili za onyo kumetusaidia kukaa salama.\n\nTuangalie baadhi ya mifano.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Boyfriend pressures @data.characters.f1_daughter_16.name to go beyond kissing",
+    "text": "Shinikizo la mpenzi @data.characters.f1_daughter_16.name kutaka kufanya zaidi ya kubusu",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "I don't think I am ready..",
+    "text": "Sidhani kama niko tayari..",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Oh come on... We are ready for the next step. We see each other all the time and we never do anything more… You know I love you, right!",
+    "text": "Oh jamani... Tuko tayari kwa hatua inayofuata. Tunaonana kila wakati na hatufanyi chochote zaidi... Unajua ninakupenda, kweli!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does not listen to @data.characters.f1_daughter_16.name or ask what she wants",
+    "text": "Hamsikilizi @data.characters.f1_daughter_16.name wala kumuuliza anachotaka",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "Does not respect @data.characters.f1_daughter_16.name's feelings/opinion",
+    "text": "Aheshimu hisia/maoni ya @data.characters.f1_daughter_16.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name's should not be translated."
+  },
+  {
+    "SourceText": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
+    "text": "Ndio, kuna alama za tahadhari bayana.\n\nHakuna mtu anapaswa kukusukuma au kukushawishi kufanya kitu ambacho hautaki kukifanya au hauna uhakika nacho. Hata kama ulishakifanya mara moja, unaweza muda wote kubadilisha mawazo yako—wakati wowote, hata wakati wa urafiki.\n\nRafiki ambaye kweli anakupenda na kukuheshimu atakuuliza kama uko vizuri, anakusikiliza, na kuacha ikiwa utasema hapana.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Boyfriend stops @data.characters.f1_daughter_16.name from meeting friends",
+    "text": "Rafiki wa kiume anamkataza  @data.characters.f1_daughter_16.name kukutana na marafiki",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "I just wanted to…",
+    "text": "Nilitaka tu…",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "No, you are staying here. You always leave me alone to go see your friends. Don’t you love me? Or are you meeting your other boyfriend?!",
+    "text": "Hapana, unakaa hapa. Kila mara unaniacha peke yangu na unaenda kuonana na marafiki zako. Haunipendi? Au unakutana na wapenzi wako wengine?!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What warning signs do you see here?\n\nThe boyfriend:",
+    "text": "Ni alama gani za onya unaziona hapa?\n\nMvulana:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Tries to control @data.characters.f1_daughter_16.name",
+    "text": "Amejaribu kumdhibiti @data.characters.f1_daughter_16.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "Stops @data.characters.f1_daughter_16.name from seeing friends",
+    "text": "Kumkatana @data.characters.f1_daughter_16.name kuonana na marafiki",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "Makes @data.characters.f1_daughter_16.name feel bad about how she acts",
+    "text": "Anamfanya @data.characters.f1_daughter_16.name kujisikia vibaya kuhusu namna anavyofanya",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "Is possessive and very jealous",
+    "text": "Ni mwenye kuonyesha umiliki na mwenye wivu sana",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
+    "text": "Ndio, hizi zote ni alama za tahadhari! Tunapokua kwenye upendo, inaweza kuwa ngumu kutambua jambo lisilosahihi kwenye mahusiano yetu.\n\nKama una rafiki kwenye @data.characters.f1_daughter_16.name hali, jaribu kuwasaidia kuona wivu huo, kumiliki au tabia ya kumiliki si afya au upendo.",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name’s should not be translated."
+  },
+  {
+    "SourceText": "@data.characters.f1_son_18.name’s friend shouts sexual comment at a girl",
+    "text": "@data.characters.f1_son_18.name marafiki hupiga kelele maoni ya ngono kwa msichana",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_son_18.name’s should not be translated."
+  },
+  {
+    "SourceText": "Hey pretty, why are you walking so fast! Don’t you want to come show us what is under that skirt?",
+    "text": "Mambo  mrembo, kwa nini unatembea haraka hivyo! hautaki kuja kutuonyesha nini kipo ndani ya hiyo sketi?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What warning signs do you see here?\n\nThe friend:",
+    "text": "Ni ishara gani za tahadhari unaziona hapa?\n\nRafiki:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Makes fun of a girl",
+    "text": "Humfurahisha msichana",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Makes the girl feel uncomfortable about how she looks and acts",
+    "text": "Humfanya msichana akose amani kuhusu mwonekano wake na matendo yake",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acts disrespectfully",
+    "text": "Anakuwa na matendo yasiyo na heshima",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad.",
+    "text": "Ndio, hizi zote ni alama za tahadhari!\n\nKutamka maneno ya kingono,kupiga miluzi, au kutoa sauti za kumbusu kwa mtu ni unyanyasaji wa kijinsia na aina ya unyanyasaji.\n\nKama @data.characters.f1_son_18.name kukaa kimya, marafiki zake wanaweza kuendelea kufanya hivo. Anaweza kuwasaidia marafiki zake kuelewa kwamba hiyo tabia sio nzuri na inaweza kumfanya msichana kuwa na hofu, hasira au huzuni.",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_son_18.name should not be translated."
+  },
+  {
+    "SourceText": "Friend pushes @data.characters.f2_daughter_19.name to accept food",
+    "text": "Marafiki wanalazimisha @data.characters.f2_daughter_19.name akubali chakula",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "Hi beautiful, can I buy you a snack?",
+    "text": "Habari mrembo, naweza kukununulia vitafunwa?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Uhmmm... I don’t…",
+    "text": "Uhmmm... sitaki…",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes, she’ll have it!",
+    "text": "Ndio, mnunulie!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What warning signs do you see here?",
+    "text": "Je, ni alama gani za onyo unaziona hapa?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The friend pressures and manipulates @data.characters.f2_daughter_19.name",
+    "text": "Marafiki wanajaribu kumshinikiza na kumrubuni @data.characters.f2_daughter_19.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "The friend does not listen to @data.characters.f2_daughter_19.name",
+    "text": "Marafiki hawamsikilizi @data.characters.f2_daughter_19.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "The man abuses his status",
+    "text": "Mwanaume anadhalilisha hadhi yake",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices.",
+    "text": "Ndio, hizi zote ni alama za tahadhari! Ni kawaida kwa wasichana wadogo kushinikizwa kufanya ngono pale wanaume wanapowapatia chakula, zawadi au pesa.\n\nWakati wowote usipopata nafasi ya kufanya maamuzi yako mwenyewe, hiyo inaweza kuwa hatari. Marafiki zako, na wengineo wanapaswa kuheshimu machaguzi yako.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "@data.characters.friend_female_2.name's nude picture is shared",
+    "text": "@data.characters.friend_female_2.name picha za utupu zinatumwa",
+    "type": "data_list",
+    "note": "The string @data.characters.friend_female_2.name's should not be translated."
+  },
+  {
+    "SourceText": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me.",
+    "text": "Tazama, bado nina hizi picha za ngono ambazo @data.characters.friend_female_2.name nitumie! Nitazituma mtandaoni, ili kumfundisha kwamba hawezi kuachana na mimi.",
+    "type": "data_list",
+    "note": "The string @data.characters.friend_female_2.name should not be translated."
+  },
+  {
+    "SourceText": "What warning signs do you see here?\n\nThe ex-boyfriend:",
+    "text": "Unaona ishara gani za tahadhari hapa?\n\nMpenzi wa zamani:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Breaks @data.characters.friend_female_2.name's trust",
+    "text": "Kuachana @data.characters.friend_female_2.name uaminifu",
+    "type": "data_list",
+    "note": "The string @data.characters.friend_female_2.name's should not be translated."
+  },
+  {
+    "SourceText": "Breaks the law",
+    "text": "Amevunja sheria",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and often a crime—especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTalk as a family about social media to help everyone stay safe.",
+    "text": "Ndio, hizi ni alama za tahadhari muhimu!\n\nKutuma picha za ngono bila ridhaa ni makosa na mara nyingi ni uharifu-hasa kwa mtu alie chini ya umri wa miaka 18.\n\n@data.characters.friend_female_2.name atahisi aibu na kuchanganyikiwa. Anahitaji kufahamu kwamba sio kosa lake na aongee na mtu anayemuamini.\n\nKuongea kama familia kuhusu mitandao ya kijamii ili kumsaidia kila mmoja kukaa salama.",
+    "type": "data_list",
+    "note": "The string @data.characters.friend_female_2.name should not be translated."
+  },
+  {
+    "SourceText": "Teacher asks @data.characters.f1_daughter_16.name to stay after school",
+    "text": "Mwalimu amesema @data.characters.f1_daughter_16.name atabaki baada ya  shule\n",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "@data.characters.f1_daughter_16.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you.",
+    "text": "@data.characters.f1_daughter_16.name kama unahitaji kupata maksi nzuri mwaka huu inabidi ubaki baada ya shule ambapo kila mmoja atakuwa ameondoka ili nikufundishe.",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name, should not be translated."
+  },
+  {
+    "SourceText": "My friend also needs support. Can I invite her too?",
+    "text": "Rafiki yangu pia anahitaji msaada. Ninaweza kumualika pia?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "No, this will be our secret. You don't want people to think you are stupid, right?",
+    "text": "Hapana, hii itakua siri yetu. Unataka kufanya watu wajue kuwa hauna akili, si ndio?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What warning signs do you see here?\n\nThe teacher:",
+    "text": "Ni alama zipi za onyo unaziona hapa?\n\nMwalimu:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Abuses his power",
+    "text": "Anatumia vibaya madaraka yake",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pressures and manipulates @data.characters.f1_daughter_16.name",
+    "text": "Anamsukuma na kumchanganya @data.characters.f1_daughter_16.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "Does not listen to @data.characters.f1_daughter_16.name",
+    "text": "Hamsikilizi @data.characters.f1_daughter_16.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "Makes @data.characters.f1_daughter_16.name feel unsafe",
+    "text": "Imefanya @data.characters.f1_daughter_16.name kujihisi sio salama",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "Lies and acts disrespectfully",
+    "text": "Anasema uongo na kutokuwa na heshima",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult.",
+    "text": "Ndio, hizi zote ni alama za tahadhari!shule ina sheria za kuwaweka wanafunzi salama. Mwalimu anatumia mamlaka yake vibaya na anajua sio sahihi.\n\nAmeweza kufanya hivi hapo awali na anaweza kufanya tena. @data.characters.f1_daughter_16.name unaweza kujaribu kuwatafuta wengine walio na uzoefu sawa ili kumsaidia kuripoti kwa mtu mzima mnayemuamini.",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_16.name should not be translated."
+  },
+  {
+    "SourceText": "@data.characters.f2_daughter_19.name says 'no' to offered lift",
+    "text": "@data.characters.f2_daughter_19.name sema 'hapana' kwa lifti zinazotolewa",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "No, I don't want to...",
+    "text": "Hapana, sitaki...",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your friends left, so this is the only way you can get home, you idiot!",
+    "text": "Rafiki yako aliondoka, kwa hivyo hii ndio njia pekee unaweza kufika nyumbani, wewe mpumbavu!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What warning signs do you see here?\n\nThe man:",
+    "text": "Ishara gani za onyo unaziona hapa?\n\nMwanaume:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does not listen to @data.characters.f2_daughter_19.name",
+    "text": "Hamsikilizi @data.characters.f2_daughter_19.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "Yells and calls @data.characters.f2_daughter_19.name names",
+    "text": "Anapiga kelele na kuita @data.characters.f2_daughter_19.name majina",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "May touch @data.characters.f2_daughter_19.name without permission",
+    "text": "Ninaweza kukugusa @data.characters.f2_daughter_19.name bila ridhaa",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "Pressures @data.characters.f2_daughter_19.name",
+    "text": "Kushinikiza @data.characters.f2_daughter_19.name",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "Makes @data.characters.f2_daughter_19.name feel unsafe",
+    "text": "Humfanya @data.characters.f2_daughter_19.name ajisikie kutokuwa salama",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name should not be translated."
+  },
+  {
+    "SourceText": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
+    "text": "Ndio, hizi zote ni alama hatarishi! Hapana yako muda wote lazima iheshimiwe.\n\nPia kumbuka, kama watu nyumbani kwenu au nje wanatumia pombe na dawa zingine za kulevya hii inaweza kuwa alama hatarishi, hivyo vyote huwafanya watu  kukasirika, ukorofi, na hata wakatili.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We’ve looked at warning signs. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
+    "text": "Tumeangalia kuhusu ishara hatarishi. Sasa tufikirie-nini tunaweza kufanya pale tunapokua  hatujisikii salama?\nKama unajisikii hauko salama, unaweza kusema au kufanya kitu chochote kukaa salama. Lengo ni kuondoka!\n\nFikiria kuhusu wakati ambapo @data.characters.f2_daughter_19.name aliposhinikizwa aingie kwenye gari.\n\nJe, anawezaje kutumia sauti yake ili kuweza kuondoka?",
     "type": "data_list",
     "note": "The string @data.characters.f2_daughter_19.name should not be translated."
   },
   {
     "SourceText": "**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”",
     "text": "**Tafuta kiti na ujifanye ndo mshambiliaji. Fanya mazoezi kwa kusema/kufanya majibu haya:**\n\n- 🔈 Piga kelele: \"Hapana!\"\n- 🆘 Ita msaada: \"Nani anisaidie!\"\n-⚠️ Watishie kuita polisi: \"Nitawaita polisi kama ukinishika tena.\"\n-⛔ Taja tabia: \"Usinishike makalio yangu.\"au \"usinipigie kelele.\"\n- 😳 Jifanye kichaa: \"Piga kelele kama kichaa au jifanye kama Nyani!\"\n- 🚶🏾‍♀️ Jifanye upo pamoja nao ili kuvuta muda: \"Nitafanya chochote mnachotaka, lakini tafadhali msinidhuru.\"\n- 🤡 Tumia ucheshi: \"Sihitaji lifti, nashukuru. Mara ya mwisho nilipopata lifti alinirusha KILA SEHEMU!\"\n-📱 Mpe kitu chochote ili kupata unachokihitaji: \"Nitakupatia simu yangu kama ukiniacha niondoke.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s think back to @data.characters.f2_daughter_19.name’s dangerous situation.",
+    "text": "Ebu tufikirie nyuma tena @data.characters.f2_daughter_19.name hali hatari.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_19.name’s should not be translated."
+  },
+  {
+    "SourceText": "Could this situation happen to a boy?",
+    "text": "Je, hali hii inaweza kutokea kwa mvulana?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s true. Both boys and girls can find themselves in dangerous situations.",
+    "text": "Ni kweli, wavulana na wasichana wote hujikuta katika hali hatarishi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s not quite right. Both boys and girls can find themselves in dangerous situations.",
+    "text": "Hiyo sio sawa kabisa, Wavulana na wasichana wote kujikuta kwenye hali hatarishi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Could a boy use his voice to get away?",
+    "text": "Je, mvulana anaweza kutumia sauti yake kutoroka?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Boys and girls can both find themselves in dangerous situations. Both boys and girls are allowed to do, say, and believe anything that will help them stay safe.",
+    "text": "Wavulana na wasichana wote wanaweza kujikuta katika hali hatari. Wavulana na wasichana wanaruhusiwa kufanya, kusema, na kuamini chochote kitakachowasaidia kukaa salama.",
     "type": "data_list",
     "note": ""
   },
@@ -10358,12 +10718,6 @@
   {
     "SourceText": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
     "text": "Jifunze namna ya kujilinda mwenyewe kwa kujua maeneo dhaifu ya mvamizi wako:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Weak Spots",
-    "text": "Maeneo Dhaifu",
     "type": "data_list",
     "note": ""
   },
@@ -10446,8 +10800,8 @@
     "note": ""
   },
   {
-    "SourceText": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!",
-    "text": "Shughuli ya nyumbani wiki hii ni kuongea na kijana wako juu ya moduli hii ya kusalia salama.\n\nMazungumzo haya yanaweza kuwa magumu mwanzoni, lakini yanampa kijana wako ujuzi muhimu wa kusalia salama. Unaweza kufanya hivyo!",
+    "SourceText": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nTry the activities on warning signs and using voice and body together.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!",
+    "text": "Wiki hii kazi ya kufanyia nyumbani ni kuongea na kijana wako kuhusu hii mada ya Kukaa Salama.\n\nJaribu shughuli kwenye ishara hatari na utumie sauti na mwili wako pamoja.\n\nMzungumzo haya yanaweza kuwa magumu kwa mara ya kwanza, lakini yanampa kijana wako ujuzi muhimu wa kukaa salama. Unaweza kufanya hivyo!",
     "type": "data_list",
     "note": ""
   },
@@ -10514,24 +10868,6 @@
   {
     "SourceText": "It helped me a lot that I learnt I can use my voice to stay safe. A while ago, I was walking home alone and some man began to follow me and I felt scared. My father taught me that the most important thing is to be safe, so I turned around and said loud and clear ‘Why are you following me, I don’t want that’. It really surprised the man and even some other people looked at us, so the man walked away. I felt so relieved and even told my father. He said I did well and I felt really good. Before, I would have been too scared, also what other people think, but now I feel confident.",
     "text": "Imenisaidia sana kwamba ninaweza kutumia sauti yangu na kuwa salama. Siku chache zilizopita, nilikuwa naelekea nyumbani peke yangu na mwanaume alianza kunifuata nami niliogopa. Baba yangu alinifundisha kwamba jambo muhimu sana ni kuwa salama, kwahiyo niligeuka na kuongea kwa sauti kubwa 'kwanini unanifuatilia, sitaki!' Ilimshangaza mwanaume huyo na hata watu wengine walitutazama, hivyo mwanaume yule aliondoka. Nilijisikia amani na hata kumwambia baba yangu. Alisema nilifanya vyema na nilijisikia vizuri. Hapo awali, nilikua niliogopa sana, na pia vipi watu wengine wangefikiria, lakini sasa nahisi ujasiri.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Well done for taking time for yourself today. 🎉",
-    "text": "Hongera kwa kujipa muda wewe mwenyewe leo. 🎉",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Here is a short video to help you slow down before you go",
-    "text": "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
-    "text": "Wakati kila kitu kinaonekana kinaharibika na huwezi kusaidia isipokuwa kupaza sauti yako\nWakati kuchanganyikiwa kunapoanza kuonekana kumbuka kwamba una chaguo\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nUnaweza kupumzika kidogo ukaanza kuhesabu hadi kumi\nUcheze mchezo au ufanye jambo la kufurahisha\nUnaweza kumpigia rafiki simu mtu unayemuamini kumbuka wewe si peke yako\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\n\nHebu twende taratibu tuvute pumzi ndefu tukumbuke yote tunayopaswa kushukuru\nHebu twende taratibu tuvute pumzi ndefu kwa sababu siwezi kabisa kukupenda zaidi\nKwa sababu siwezi kabisa kukupenda zaidi",
     "type": "data_list",
     "note": ""
   },
@@ -10932,6 +11268,102 @@
     "note": ""
   },
   {
+    "SourceText": "Skip",
+    "text": "Ruka",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to \n@global.app_name!",
+    "text": "Karibu kwenye \n@global.app_name!",
+    "type": "global",
+    "note": "The string @global.app_name! should not be translated."
+  },
+  {
+    "SourceText": "Sign in",
+    "text": "Ingia",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
+    "text": "Kufungua akaunti hukuruhusu kuhifadhi maendeleo yako kwenye vifaa vyote. Ni hiari.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue with Apple",
+    "text": "Endelea na Apple",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue with Google",
+    "text": "Endelea na Google",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue without an account",
+    "text": "Endelea bila akaunti",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "By continuing, you agree to our:",
+    "text": "Kwa kuendelea, unakubali yetu:",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign out",
+    "text": "Ondoka",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome back, @fields._auth_user_given_name!",
+    "text": "Karibu tena, @fields._auth_user_given_name!",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
+    "SourceText": "Welcome back!",
+    "text": "Karibu tena!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome, @fields._auth_user_given_name!",
+    "text": "Karibu, @fields._auth_user_given_name!",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
+    "SourceText": "Welcome!",
+    "text": "Karibu!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Endelea",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re all set!",
+    "text": "Uko tayari!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your profile is complete, and you’re ready to begin!",
+    "text": "Wasifu wako umekamilika, na uko tayari kuanza!",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "**Nice to meet you. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
     "text": "**Nimefurahi kukutana na wewe. Nimefurahi sana wewe kuwa hapa!**\n\nNitakusaidia kujifunza kwa kutumia @global.app_name! Katika hatua chache zijazo, nitakuuliza maswali machache ili niweze kufanya uzoefu wako wa kujifunza uwe bora kwako!",
     "type": "global",
@@ -11054,102 +11486,6 @@
   {
     "SourceText": "Who would you like to learn with?",
     "text": "Ungependa kujifunza na nani?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Skip",
-    "text": "Ruka",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome to \n@global.app_name!",
-    "text": "Karibu kwenye \n@global.app_name!",
-    "type": "global",
-    "note": "The string @global.app_name! should not be translated."
-  },
-  {
-    "SourceText": "Sign in",
-    "text": "Ingia",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
-    "text": "Kufungua akaunti hukuruhusu kuhifadhi maendeleo yako kwenye vifaa vyote. Ni hiari.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue with Apple",
-    "text": "Endelea na Apple",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue with Google",
-    "text": "Endelea na Google",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue without an account",
-    "text": "Endelea bila akaunti",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "By continuing, you agree to our:",
-    "text": "Kwa kuendelea, unakubali yetu:",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Sign out",
-    "text": "Ondoka",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome back, @fields._auth_user_given_name!",
-    "text": "Karibu tena, @fields._auth_user_given_name!",
-    "type": "global",
-    "note": "The string @fields._auth_user_given_name! should not be translated."
-  },
-  {
-    "SourceText": "Welcome back!",
-    "text": "Karibu tena!",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome, @fields._auth_user_given_name!",
-    "text": "Karibu, @fields._auth_user_given_name!",
-    "type": "global",
-    "note": "The string @fields._auth_user_given_name! should not be translated."
-  },
-  {
-    "SourceText": "Welcome!",
-    "text": "Karibu!",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue",
-    "text": "Endelea",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "You’re all set!",
-    "text": "Uko tayari!",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Your profile is complete, and you’re ready to begin!",
-    "text": "Wasifu wako umekamilika, na uko tayari kuanza!",
     "type": "global",
     "note": ""
   },

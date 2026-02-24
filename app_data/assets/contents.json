@@ -1016,10 +1016,6 @@
     },
     "size_kb": 258.6
   },
-  "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
-  },
   "images/activities/bao.svg": {
     "md5Checksum": "d2585ed1a504097b7a2b7d9e78e0e9e6",
     "size_kb": 285.6
@@ -1423,6 +1419,10 @@
   "images/icons/brain_blue.png": {
     "md5Checksum": "efeb76494b51228450e4d123d0e7c1af",
     "size_kb": 5.2
+  },
+  "images/icons/cancel.svg": {
+    "md5Checksum": "e8404ba08cfe7dab2511fdc6645514a2",
+    "size_kb": 1.7
   },
   "images/icons/clock_blue.png": {
     "md5Checksum": "5b02b07f32d48f1bddd4b2387a0fd861",
@@ -2429,7 +2429,7 @@
     "size_kb": 103.5
   },
   "images/teen_modules/safe/old images/safe1_t_6.svg": {
-    "md5Checksum": "ecee19c3690d262f4981709ca92c02f0",
+    "md5Checksum": "62a6d4c3fc8a490a5b641ae8643e1cd2",
     "size_kb": 57.8
   },
   "images/teen_modules/safe/old images/safe2_t_1.svg": {

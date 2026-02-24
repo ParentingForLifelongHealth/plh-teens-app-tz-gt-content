@@ -1,5 +1,5 @@
 {
-  "flow_name": "library_article_protectself_t_tips_1",
+  "flow_name": "library_article_stayingsafe_t_tips_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -15,7 +15,7 @@
     {
       "type": "template",
       "name": "article",
-      "value": "article_protectself_t@local.article_suffix",
+      "value": "article_stayingsafe_t@local.article_suffix",
       "action_list": [
         {
           "trigger": "completed",
@@ -53,7 +53,7 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "article_protectself_t@local.article_suffix",
+            "fullExpression": "article_stayingsafe_t@local.article_suffix",
             "matchedExpression": "@local.article_suffix",
             "type": "local",
             "fieldName": "article_suffix"

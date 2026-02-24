@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_stayingsafe_t_tips_5",
+  "flow_name": "article_stayingsafe_t_practise_4",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -28,7 +28,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "tips_5",
+          "value": "practise_4",
           "_translations": {
             "value": {}
           },

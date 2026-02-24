@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 105
+        "count": 89
       },
       {
         "type": "debug_toggle",
@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1998
+        "count": 2030
       },
       {
         "type": "simple_checkbox",
@@ -135,7 +135,7 @@
       },
       {
         "type": "template",
-        "count": 662
+        "count": 638
       },
       {
         "type": "text",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 483
+        "count": 475
       },
       {
         "type": "emit: force_reload",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 489
+        "count": 481
       },
       {
         "type": "feedback",
@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "113767 KB",
-        "MB": "113.8 MB"
+        "KB": "113593 KB",
+        "MB": "113.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "9840 KB",
-        "MB": "9.8 MB"
+        "KB": "10011 KB",
+        "MB": "10 MB"
       }
     ]
   },
@@ -312,6 +312,10 @@
         "size_kb": 241.1
       },
       {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
+        "size_kb": 174.8
+      },
+      {
         "path": "audio/teen/testimonials/teen/ZOLD_teen_test_learn_t.mp3",
         "size_kb": 160.2
       },
@@ -322,10 +326,6 @@
       {
         "path": "audio/teen/testimonials/teen/ZOLD_teen_test_srh_t.mp3",
         "size_kb": 263.5
-      },
-      {
-        "path": "contents.json",
-        "size_kb": 5.9
       },
       {
         "path": "images/faces/happier.svg",
@@ -342,6 +342,10 @@
       {
         "path": "images/icons/book_outline_white.svg",
         "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/cancel.svg",
+        "size_kb": 1.7
       },
       {
         "path": "images/icons/expand_circle_right.png",
@@ -840,41 +844,6 @@
         "path": "images/onboarding/facilitator_onboarding_icon.svg",
         "count": 1,
         "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_catcalling_t.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_controlling_boyfriend_t.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_nude_pic_t.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_private_tutoring_t.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_pushy_boyfriend_t.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_pushy_friend_t.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_rejected_ride_t.svg",
-        "count": 1,
-        "missing": true
       }
     ]
   },
@@ -922,7 +891,7 @@
       },
       {
         "path": "audio/relax/relax_17.mp3",
-        "count": 2,
+        "count": 3,
         "size_kb": 148
       },
       {
@@ -1071,11 +1040,6 @@
         "size_kb": 178.1
       },
       {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
-        "count": 1,
-        "size_kb": 174.8
-      },
-      {
         "path": "audio/teen/testimonials/teen/teen_test_1on1_t.mp3",
         "count": 2,
         "size_kb": 210.8
@@ -1147,7 +1111,7 @@
       },
       {
         "path": "audio/teen/testimonials/teen/teen_test_svp_t.mp3",
-        "count": 1,
+        "count": 2,
         "size_kb": 202.9
       },
       {
@@ -1227,7 +1191,7 @@
       },
       {
         "path": "audio/teen/topic_intros/svp_intro_t.mp3",
-        "count": 1,
+        "count": 2,
         "size_kb": 603.8
       },
       {
@@ -1717,7 +1681,7 @@
       },
       {
         "path": "images/icons/brain_blue.png",
-        "count": 7,
+        "count": 8,
         "size_kb": 5.2
       },
       {
@@ -1757,7 +1721,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 9,
+        "count": 10,
         "size_kb": 4.2
       },
       {
@@ -1777,7 +1741,7 @@
       },
       {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 31,
+        "count": 32,
         "size_kb": 1.4
       },
       {
@@ -1787,7 +1751,7 @@
       },
       {
         "path": "images/icons/faces/ok_face_new.svg",
-        "count": 31,
+        "count": 32,
         "size_kb": 0.5
       },
       {
@@ -1797,7 +1761,7 @@
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
-        "count": 31,
+        "count": 32,
         "size_kb": 1.5
       },
       {
@@ -1937,7 +1901,7 @@
       },
       {
         "path": "images/icons/single_speech_blue.png",
-        "count": 11,
+        "count": 12,
         "size_kb": 3.3
       },
       {
@@ -1957,7 +1921,7 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 25,
+        "count": 28,
         "size_kb": 5.1
       },
       {
@@ -2907,22 +2871,22 @@
       },
       {
         "path": "images/teen_modules/svp/svp_usebody_t_1.gif",
-        "count": 1,
+        "count": 2,
         "size_kb": 2008.5
       },
       {
         "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
-        "count": 1,
+        "count": 2,
         "size_kb": 844.1
       },
       {
         "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
-        "count": 1,
+        "count": 2,
         "size_kb": 1111.6
       },
       {
         "path": "images/teen_modules/svp/svp_usevoice_t.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 18.4
       },
       {
@@ -2952,7 +2916,7 @@
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 8,
+        "count": 9,
         "size_kb": 10.4
       },
       {
@@ -2967,7 +2931,7 @@
       },
       {
         "path": "video/plh_video/lets_slow_down.mp4",
-        "count": 30,
+        "count": 32,
         "size_kb": 13482.2
       }
     ]
@@ -2997,7 +2961,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 35
+        "total": 36
       },
       {
         "type": "data_list",
@@ -3122,7 +3086,7 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 31
+        "total": 32
       },
       {
         "type": "generator",
@@ -3152,7 +3116,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 506
+        "total": 498
       },
       {
         "type": "template",

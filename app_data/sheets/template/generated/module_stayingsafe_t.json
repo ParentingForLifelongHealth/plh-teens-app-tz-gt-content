@@ -1,12 +1,12 @@
 {
-  "flow_name": "article_stayingsafe_t_explore_7",
+  "flow_name": "module_stayingsafe_t",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "article",
-      "value": "article",
+      "name": "module",
+      "value": "module",
       "action_list": [
         {
           "trigger": "completed",
@@ -27,26 +27,16 @@
       ],
       "rows": [
         {
-          "name": "article_id",
-          "value": "explore_7",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "article.article_id"
-        },
-        {
           "name": "module_id",
           "value": "stayingsafe_t",
           "_translations": {
             "value": {}
           },
-          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "article.module_id"
+          "_nested_name": "module.module_id"
         }
       ],
-      "_nested_name": "article"
+      "_nested_name": "module"
     }
   ]
 }

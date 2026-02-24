@@ -10,24 +10,23 @@
       "id": "sensitive_content_notice",
       "category_id": "notice",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "section_1_title": "⚠️ Sensitive Content Notice",
       "_translations": {
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {
-          "tz_sw": true
-        }
+        "section_1_text": {}
       },
       "_translatedFields": {
         "section_1_title": {
           "eng": "⚠️ Sensitive Content Notice"
         },
         "section_1_text": {
-          "eng": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
+          "eng": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help."
         }
       },
-      "section_1_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
+      "section_1_text": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help."
     },
     {
       "id": "intro_1",
@@ -35,6 +34,7 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/svp_intro_t.mp3",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Our topic today is staying safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.\n\nWe can help our teens know how to use their thoughts, voice, AND body in dangerous situations. It makes a big difference!",
       "_translations": {
         "text_1_facilitator": {
@@ -62,705 +62,21 @@
       "media_transcript": "Greetings everyone.\n\nOur topic is staying safe.\n\nAs parents it is important to ensure that our teens are safe at all times. Our safety and our children’s safety is important. We may need to have discussions with our children about their safety, and how they can keep themselves safe always."
     },
     {
-      "id": "intro_2",
-      "category_id": "intro",
-      "media_type": "audio",
-      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
-      "nested": false,
-      "text_1_facilitator": "Practising how to recognise warning signs and how to respond can help teens feel confident to protect themselves when it matters most.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Practising how to recognise warning signs and how to respond can help teens feel confident to protect themselves when it matters most."
-        },
-        "media_title": {
-          "eng": "Hear how learning warning signs kept @data.characters.media_female_11.name's teen safe"
-        },
-        "media_transcript": {
-          "eng": "Learning how to stay safe really helped us. The other day, my daughter got invited to a party by an older boy, and he said he would pay for her transport. Before, she would just go secretly, but now she came to me to talk about it.\n\nWe reminded each other that it is important to see the warning signs and stay safe, and she decided to say ‘no’. I am so proud of her. Even me, I now know that others should not pressure or convince me to do something. I can give the right example to my children."
-        }
-      },
-      "media_title": "Hear how learning warning signs kept @data.characters.media_female_11.name's teen safe",
-      "media_transcript": "Learning how to stay safe really helped us. The other day, my daughter got invited to a party by an older boy, and he said he would pay for her transport. Before, she would just go secretly, but now she came to me to talk about it.\n\nWe reminded each other that it is important to see the warning signs and stay safe, and she decided to say ‘no’. I am so proud of her. Even me, I now know that others should not pressure or convince me to do something. I can give the right example to my children."
-    },
-    {
-      "id": "explore_1",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/svp/svp_pushy_boyfriend_t.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "boyfriend_1",
-      "nested": false,
-      "text_1_facilitator": "People can make us feel safe and happy—but sometimes they pressure us or make us uncomfortable. This can happen to both teens and adults.\n\nKnowing the warning signs helps us stay safe.\n\nLet’s look at some examples.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "People can make us feel safe and happy—but sometimes they pressure us or make us uncomfortable. This can happen to both teens and adults.\n\nKnowing the warning signs helps us stay safe.\n\nLet’s look at some examples."
-        },
-        "text_2": {
-          "eng": "Boyfriend pressures @data.characters.f1_daughter_16.name to go beyond kissing"
-        },
-        "character_1_text": {
-          "eng": "I don't think I am ready.."
-        },
-        "character_2_text": {
-          "eng": "Oh come on... We are ready for the next step. We see each other all the time and we never do anything more… You know I love you, right!"
-        },
-        "quiz_1_question": {
-          "eng": "What warning signs do you see here?\n\nThe boyfriend:"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Does not listen to @data.characters.f1_daughter_16.name or ask what she wants"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Does not respect @data.characters.f1_daughter_16.name's feelings/opinion"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Makes @data.characters.f1_daughter_16.name feel bad about how she acts"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
-        }
-      },
-      "text_2": "Boyfriend pressures @data.characters.f1_daughter_16.name to go beyond kissing",
-      "character_1_text": "I don't think I am ready..",
-      "character_2_text": "Oh come on... We are ready for the next step. We see each other all the time and we never do anything more… You know I love you, right!",
-      "quiz_1_question": "What warning signs do you see here?\n\nThe boyfriend:",
-      "quiz_1_option_1_text": "Does not listen to @data.characters.f1_daughter_16.name or ask what she wants",
-      "quiz_1_feedback_1": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
-      "quiz_1_option_2_text": "Does not respect @data.characters.f1_daughter_16.name's feelings/opinion",
-      "quiz_1_feedback_2": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no.",
-      "quiz_1_option_3_text": "Makes @data.characters.f1_daughter_16.name feel bad about how she acts",
-      "quiz_1_feedback_3": "Yes, these are clear warning signs.\n\nNo one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n\nA partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
-    },
-    {
-      "id": "explore_2",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/svp/svp_controlling_boyfriend_t.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "boyfriend_1",
-      "nested": false,
-      "text_2": "Boyfriend stops @data.characters.f1_daughter_16.name from meeting friends",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "Boyfriend stops @data.characters.f1_daughter_16.name from meeting friends"
-        },
-        "character_1_text": {
-          "eng": "I just wanted to…"
-        },
-        "character_2_text": {
-          "eng": "No, you are staying here. You always leave me alone to go see your friends. Don’t you love me? Or are you meeting your other boyfriend?!"
-        },
-        "quiz_1_question": {
-          "eng": "What warning signs do you see here?\n\nThe boyfriend:"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Tries to control @data.characters.f1_daughter_16.name"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Stops @data.characters.f1_daughter_16.name from seeing friends"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Does not listen to @data.characters.f1_daughter_16.name"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Makes @data.characters.f1_daughter_16.name feel bad about how she acts"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving."
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Is possessive and very jealous"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving."
-        }
-      },
-      "character_1_text": "I just wanted to…",
-      "character_2_text": "No, you are staying here. You always leave me alone to go see your friends. Don’t you love me? Or are you meeting your other boyfriend?!",
-      "quiz_1_question": "What warning signs do you see here?\n\nThe boyfriend:",
-      "quiz_1_option_1_text": "Tries to control @data.characters.f1_daughter_16.name",
-      "quiz_1_feedback_1": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
-      "quiz_1_option_2_text": "Stops @data.characters.f1_daughter_16.name from seeing friends",
-      "quiz_1_feedback_2": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
-      "quiz_1_option_3_text": "Does not listen to @data.characters.f1_daughter_16.name",
-      "quiz_1_feedback_3": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
-      "quiz_1_option_4_text": "Makes @data.characters.f1_daughter_16.name feel bad about how she acts",
-      "quiz_1_feedback_4": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
-      "quiz_1_option_5_text": "Is possessive and very jealous",
-      "quiz_1_feedback_5": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving."
-    },
-    {
-      "id": "explore_3",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/svp/svp_catcalling_t.svg",
-      "character_1_id": "friend_male_1",
-      "nested": false,
-      "text_2": "@data.characters.f1_son_18.name’s friend shouts sexual comment at a girl",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f1_son_18.name’s friend shouts sexual comment at a girl"
-        },
-        "character_1_text": {
-          "eng": "Hey pretty, why are you walking so fast! Don’t you want to come show us what is under that skirt?"
-        },
-        "quiz_1_question": {
-          "eng": "What warning signs do you see here?\n\nThe friend:"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Makes fun of a girl"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Makes the girl feel uncomfortable about how she looks and acts"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Acts disrespectfully"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad."
-        }
-      },
-      "character_1_text": "Hey pretty, why are you walking so fast! Don’t you want to come show us what is under that skirt?",
-      "quiz_1_question": "What warning signs do you see here?\n\nThe friend:",
-      "quiz_1_option_1_text": "Makes fun of a girl",
-      "quiz_1_feedback_1": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad.",
-      "quiz_1_option_2_text": "Makes the girl feel uncomfortable about how she looks and acts",
-      "quiz_1_feedback_2": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad.",
-      "quiz_1_option_3_text": "Acts disrespectfully",
-      "quiz_1_feedback_3": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad."
-    },
-    {
-      "id": "explore_4",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/svp/svp_pushy_friend_t.svg",
-      "character_1_id": "man_in_car",
-      "character_2_id": "f2_daughter_19",
-      "character_3_id": "friend_female_1",
-      "nested": false,
-      "text_2": "Friend pushes @data.characters.f2_daughter_19.name to accept food",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "Friend pushes @data.characters.f2_daughter_19.name to accept food"
-        },
-        "character_1_text": {
-          "eng": "Hi beautiful, can I buy you a snack?"
-        },
-        "character_2_text": {
-          "eng": "Uhmmm... I don’t…"
-        },
-        "character_3_text": {
-          "eng": "Yes, she’ll have it!"
-        },
-        "quiz_1_question": {
-          "eng": "What warning signs do you see here?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "The friend pressures and manipulates @data.characters.f2_daughter_19.name"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "The friend does not listen to @data.characters.f2_daughter_19.name"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "The man abuses his status"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices."
-        }
-      },
-      "character_1_text": "Hi beautiful, can I buy you a snack?",
-      "character_2_text": "Uhmmm... I don’t…",
-      "character_3_text": "Yes, she’ll have it!",
-      "quiz_1_question": "What warning signs do you see here?",
-      "quiz_1_option_1_text": "The friend pressures and manipulates @data.characters.f2_daughter_19.name",
-      "quiz_1_feedback_1": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices.",
-      "quiz_1_option_2_text": "The friend does not listen to @data.characters.f2_daughter_19.name",
-      "quiz_1_feedback_2": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices.",
-      "quiz_1_option_3_text": "The man abuses his status",
-      "quiz_1_feedback_3": "Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n\nWhenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices."
-    },
-    {
-      "id": "explore_5",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/svp/svp_nude_pic_t.svg",
-      "character_1_id": "friend_male_2",
-      "nested": false,
-      "text_2": "@data.characters.friend_female_2.name's nude picture is shared",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.friend_female_2.name's nude picture is shared"
-        },
-        "character_1_text": {
-          "eng": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me."
-        },
-        "quiz_1_question": {
-          "eng": "What warning signs do you see here?\n\nThe ex-boyfriend:"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Breaks @data.characters.friend_female_2.name's trust"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and often a crime—especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTalk as a family about social media to help everyone stay safe."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Breaks the law"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and often a crime—especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTalk as a family about social media to help everyone stay safe."
-        }
-      },
-      "character_1_text": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me.",
-      "quiz_1_question": "What warning signs do you see here?\n\nThe ex-boyfriend:",
-      "quiz_1_option_1_text": "Breaks @data.characters.friend_female_2.name's trust",
-      "quiz_1_feedback_1": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and often a crime—especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTalk as a family about social media to help everyone stay safe.",
-      "quiz_1_option_2_text": "Breaks the law",
-      "quiz_1_feedback_2": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and often a crime—especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTalk as a family about social media to help everyone stay safe."
-    },
-    {
-      "id": "explore_6",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/svp/svp_private_tutoring_t.svg",
-      "character_1_id": "teacher_1",
-      "character_2_id": "f1_daughter_16",
-      "character_3_id": "teacher_1",
-      "nested": false,
-      "text_2": "Teacher asks @data.characters.f1_daughter_16.name to stay after school",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "Teacher asks @data.characters.f1_daughter_16.name to stay after school"
-        },
-        "character_1_text": {
-          "eng": "@data.characters.f1_daughter_16.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you."
-        },
-        "character_2_text": {
-          "eng": "My friend also needs support. Can I invite her too?"
-        },
-        "character_3_text": {
-          "eng": "No, this will be our secret. You don't want people to think you are stupid, right?"
-        },
-        "quiz_1_question": {
-          "eng": "What warning signs do you see here?\n\nThe teacher:"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Abuses his power"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Pressures and manipulates @data.characters.f1_daughter_16.name"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Does not listen to @data.characters.f1_daughter_16.name"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Makes @data.characters.f1_daughter_16.name feel unsafe"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult."
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Lies and acts disrespectfully"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult."
-        }
-      },
-      "character_1_text": "@data.characters.f1_daughter_16.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you.",
-      "character_2_text": "My friend also needs support. Can I invite her too?",
-      "character_3_text": "No, this will be our secret. You don't want people to think you are stupid, right?",
-      "quiz_1_question": "What warning signs do you see here?\n\nThe teacher:",
-      "quiz_1_option_1_text": "Abuses his power",
-      "quiz_1_feedback_1": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult.",
-      "quiz_1_option_2_text": "Pressures and manipulates @data.characters.f1_daughter_16.name",
-      "quiz_1_feedback_2": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult.",
-      "quiz_1_option_3_text": "Does not listen to @data.characters.f1_daughter_16.name",
-      "quiz_1_feedback_3": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult.",
-      "quiz_1_option_4_text": "Makes @data.characters.f1_daughter_16.name feel unsafe",
-      "quiz_1_feedback_4": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult.",
-      "quiz_1_option_5_text": "Lies and acts disrespectfully",
-      "quiz_1_feedback_5": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult."
-    },
-    {
-      "id": "explore_7",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/svp/svp_rejected_ride_t.svg",
-      "character_1_id": "f2_daughter_19",
-      "character_2_id": "man_in_car",
-      "nested": false,
-      "text_2": "@data.characters.f2_daughter_19.name says 'no' to offered lift",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f2_daughter_19.name says 'no' to offered lift"
-        },
-        "character_1_text": {
-          "eng": "No, I don't want to..."
-        },
-        "character_2_text": {
-          "eng": "Your friends left, so this is the only way you can get home, you idiot!"
-        },
-        "quiz_1_question": {
-          "eng": "What warning signs do you see here?\n\nThe man:"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Does not listen to @data.characters.f2_daughter_19.name"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Yells and calls @data.characters.f2_daughter_19.name names"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "May touch @data.characters.f2_daughter_19.name without permission"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Pressures @data.characters.f2_daughter_19.name"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Makes @data.characters.f2_daughter_19.name feel unsafe"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
-        }
-      },
-      "character_1_text": "No, I don't want to...",
-      "character_2_text": "Your friends left, so this is the only way you can get home, you idiot!",
-      "quiz_1_question": "What warning signs do you see here?\n\nThe man:",
-      "quiz_1_option_1_text": "Does not listen to @data.characters.f2_daughter_19.name",
-      "quiz_1_feedback_1": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
-      "quiz_1_option_2_text": "Yells and calls @data.characters.f2_daughter_19.name names",
-      "quiz_1_feedback_2": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
-      "quiz_1_option_3_text": "May touch @data.characters.f2_daughter_19.name without permission",
-      "quiz_1_feedback_3": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
-      "quiz_1_option_4_text": "Pressures @data.characters.f2_daughter_19.name",
-      "quiz_1_feedback_4": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent.",
-      "quiz_1_option_5_text": "Makes @data.characters.f2_daughter_19.name feel unsafe",
-      "quiz_1_feedback_5": "Yes, all of these are warning signs! Your ‘no’ should always be respected.\n\nAlso remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "id": "practise_1",
+      "category_id": "practise",
       "image_asset": "/images/teen_modules/svp/svp_usevoice_t.svg",
       "nested": false,
-      "text_1_facilitator": "We’ve looked at warning signs. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
+      "text_1_facilitator": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "We’ve looked at warning signs. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?"
+          "eng": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?"
         },
         "text_2": {
           "eng": "**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”"
@@ -769,105 +85,21 @@
       "text_2": "**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”"
     },
     {
-      "id": "tips_2",
-      "category_id": "practical_tips",
-      "nested": false,
-      "text_1_facilitator": "Let’s think back to @data.characters.f2_daughter_19.name’s dangerous situation.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Let’s think back to @data.characters.f2_daughter_19.name’s dangerous situation."
-        },
-        "quiz_1_question": {
-          "eng": "Could this situation happen to a boy?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Yes"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "It’s true. Both boys and girls can find themselves in dangerous situations."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "No"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That’s not quite right. Both boys and girls can find themselves in dangerous situations."
-        },
-        "quiz_2_question": {
-          "eng": "Could a boy use his voice to get away?"
-        },
-        "quiz_2_option_1_text": {
-          "eng": "Yes"
-        },
-        "quiz_2_feedback_1": {
-          "eng": "Boys and girls can both find themselves in dangerous situations. Both boys and girls are allowed to do, say, and believe anything that will help them stay safe."
-        },
-        "quiz_2_option_2_text": {
-          "eng": "No"
-        },
-        "quiz_2_feedback_2": {
-          "eng": "Boys and girls can both find themselves in dangerous situations. Both boys and girls are allowed to do, say, and believe anything that will help them stay safe."
-        }
-      },
-      "quiz_1_question": "Could this situation happen to a boy?",
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "It’s true. Both boys and girls can find themselves in dangerous situations.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That’s not quite right. Both boys and girls can find themselves in dangerous situations.",
-      "quiz_2_question": "Could a boy use his voice to get away?",
-      "quiz_2_option_1_text": "Yes",
-      "quiz_2_feedback_1": "Boys and girls can both find themselves in dangerous situations. Both boys and girls are allowed to do, say, and believe anything that will help them stay safe.",
-      "quiz_2_option_2_text": "No",
-      "quiz_2_feedback_2": "Boys and girls can both find themselves in dangerous situations. Both boys and girls are allowed to do, say, and believe anything that will help them stay safe."
-    },
-    {
-      "id": "tips_3",
-      "category_id": "practical_tips",
+      "id": "practise_2",
+      "category_id": "practise",
       "image_asset": "/images/teen_modules/svp/svp_usebody_t_1.gif",
       "section_1_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "When our voice does not stop the situation, we can use our bodies to defend ourselves.",
       "_translations": {
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "section_1_title": {
+        "text_2": {
           "tz_sw": true
         },
+        "section_1_title": {},
         "section_1_text": {
           "tz_sw": true
         }
@@ -876,30 +108,36 @@
         "text_1_facilitator": {
           "eng": "When our voice does not stop the situation, we can use our bodies to defend ourselves."
         },
-        "section_1_title": {
+        "text_2": {
           "eng": "Learn how to protect yourself by knowing weak spots on an attacker’s body:"
+        },
+        "section_1_title": {
+          "eng": "Weak Spots"
         },
         "section_1_text": {
           "eng": "**EYES**\n- Use your fingers as claws and scratch the attacker’s face as hard as possible.\n\n- Push your thumbs into the eye sockets of your attacker and then outward towards the sides of their head.\n\n**THROAT**\n- Push your finger into the hole at the bottom of the attacker’s throat.\n\n- Punch the throat with your fist or the back of your elbow.\n\n**GROIN**\n- Kick the attacker’s groin with your knee, or punch it with your fist or elbow.\n\n- Grab, squeeze, twist and pull the attacker’s testicles with your hand.\n\n**KNEES**\n- Kick against your attacker's knee with your foot."
         }
       },
-      "section_1_title": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
+      "text_2": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
+      "section_1_title": "Weak Spots",
       "section_1_text": "**EYES**\n- Use your fingers as claws and scratch the attacker’s face as hard as possible.\n\n- Push your thumbs into the eye sockets of your attacker and then outward towards the sides of their head.\n\n**THROAT**\n- Push your finger into the hole at the bottom of the attacker’s throat.\n\n- Punch the throat with your fist or the back of your elbow.\n\n**GROIN**\n- Kick the attacker’s groin with your knee, or punch it with your fist or elbow.\n\n- Grab, squeeze, twist and pull the attacker’s testicles with your hand.\n\n**KNEES**\n- Kick against your attacker's knee with your foot."
     },
     {
-      "id": "tips_4",
-      "category_id": "practical_tips",
+      "id": "practise_3",
+      "category_id": "practise",
       "image_asset": "/images/teen_modules/svp/svp_usebody_t_2.gif",
       "section_1_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Take a look at the image and these examples to see how you can use the weak spots or targets on your attacker’s body.",
       "_translations": {
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "section_1_title": {
+        "text_2": {
           "tz_sw": true
         },
+        "section_1_title": {},
         "section_1_text": {
           "tz_sw": true
         }
@@ -908,21 +146,26 @@
         "text_1_facilitator": {
           "eng": "Take a look at the image and these examples to see how you can use the weak spots or targets on your attacker’s body."
         },
-        "section_1_title": {
+        "text_2": {
           "eng": "Learn how to protect yourself by knowing weak spots on an attacker’s body:"
+        },
+        "section_1_title": {
+          "eng": "Weak Spots"
         },
         "section_1_text": {
           "eng": "**TEMPLES**\n- Punch the attacker’s temples with your fist or the back of your elbow.\n**NOSE** \n- Punch the attacker’s nose with your fist or the back of your elbow.\n**EARS**\n- With flat hands, smack the attacker’s ears from both sides as hard as possible. You can also pull or twist them.\n**RIBS**\n- Punch the attacker in the ribs with your fist or the back of your elbow.\n**FINGERS**\n- Pull the attacker's pinky or little finger away from the other fingers hard and fast (it breaks easily).\n**SHINS**\n- Kick against the attacker’s shins as hard as you can.\n**TOP OF FEET**\n- Lift your foot and stomp your heel on the top of your attacker’s foot."
         }
       },
-      "section_1_title": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
+      "text_2": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
+      "section_1_title": "Weak Spots",
       "section_1_text": "**TEMPLES**\n- Punch the attacker’s temples with your fist or the back of your elbow.\n**NOSE** \n- Punch the attacker’s nose with your fist or the back of your elbow.\n**EARS**\n- With flat hands, smack the attacker’s ears from both sides as hard as possible. You can also pull or twist them.\n**RIBS**\n- Punch the attacker in the ribs with your fist or the back of your elbow.\n**FINGERS**\n- Pull the attacker's pinky or little finger away from the other fingers hard and fast (it breaks easily).\n**SHINS**\n- Kick against the attacker’s shins as hard as you can.\n**TOP OF FEET**\n- Lift your foot and stomp your heel on the top of your attacker’s foot."
     },
     {
-      "id": "tips_5",
-      "category_id": "practical_tips",
+      "id": "practise_4",
+      "category_id": "practise",
       "image_asset": "/images/teen_modules/svp/svp_usebody_t_3.gif",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Here is an additional image to show you more examples of how you can use the weak spots or targets on your attacker’s body.",
       "_translations": {
         "text_1_facilitator": {
@@ -936,13 +179,14 @@
       }
     },
     {
-      "id": "practise_1",
-      "category_id": "practise",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/brain_blue.png",
       "section_2_icon_asset": "images/icons/eye_blue.png",
       "section_3_icon_asset": "images/icons/single_speech_blue.png",
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Here are some skills to help you and your teen stay safe!",
       "_translations": {
         "text_1_facilitator": {
@@ -1029,11 +273,10 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nTry the activities on warning signs and using voice and body together.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!",
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
+      "text_1_facilitator": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         },
@@ -1061,7 +304,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nTry the activities on warning signs and using voice and body together.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!"
+          "eng": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!"
         },
         "text_2": {
           "eng": "**Remember to:**\n\n⚠️ Spot warning signs: Talk with your teen about places, people, or situations that may not be safe. Remind them to trust their feelings.\n📣 Use your voice: Practise saying “no” or asking for help.\n🙅🏽‍♀️ Use your body: Make a plan together for how to leave or protect yourself."
@@ -1103,6 +346,7 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_svp_t.mp3",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Helping your teen learn to notice danger, speak up, and protect themselves builds real confidence.\n\nPractising together makes it more likely they will act when something feels wrong.",
       "_translations": {
         "text_1_facilitator": {
@@ -1128,12 +372,45 @@
       },
       "media_title": "Hear how @data.characters.media_daughter_9.name used her voice to stay safe",
       "media_transcript": "It helped me a lot that I learnt I can use my voice to stay safe. A while ago, I was walking home alone and some man began to follow me and I felt scared. My father taught me that the most important thing is to be safe, so I turned around and said loud and clear ‘Why are you following me, I don’t want that’. It really surprised the man and even some other people looked at us, so the man walked away. I felt so relieved and even told my father. He said I did well and I felt really good. Before, I would have been too scared, also what other people think, but now I feel confident."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go",
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
     }
   ],
   "_source": {
-    "name": "teens_tz",
-    "path": "data/TZ modules 2.0.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
   },
   "_metadata": {
     "nested": {

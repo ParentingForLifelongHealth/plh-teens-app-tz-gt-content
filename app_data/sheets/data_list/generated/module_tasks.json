@@ -355,7 +355,7 @@
       "task_child": "learn_t_article_tasks"
     },
     {
-      "id": "protectself_t",
+      "id": "stayingsafe_t",
       "tag_list": [
         "teen"
       ],
@@ -377,7 +377,7 @@
         }
       },
       "completed": false,
-      "task_child": "protectself_t_article_tasks"
+      "task_child": "stayingsafe_t_article_tasks"
     },
     {
       "id": "grief_t",

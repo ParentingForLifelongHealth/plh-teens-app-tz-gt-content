@@ -1,10 +1,11 @@
-import { extendDeploymentConfig, loadEncryptedConfig } from "scripts";
+import { generateDeploymentConfig,loadEncryptedConfig } from "scripts";
 
-const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids" });
+const config = generateDeploymentConfig("plh_teens_tz");
+
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-app-tz-gt-content.git",
-  content_tag_latest: "2.2.81",
+  content_tag_latest: "2.2.82",
 };
 
 config.google_drive.sheets_folders = [
@@ -17,7 +18,8 @@ config.google_drive.sheets_folders = [
   { id: "1UgKaqQn4g3452XKdxUN944L3Co2BsyUB", name: "tz_GT" }
 ];
 
-config.google_drive.assets_folders = [
+config.google_drive.assets_folders = [  
+  {id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets"},
   { id: "1DnLu9oZg7OgbGoaWrWCekCvgt67DNm7V", name: "teens_tz" }
 ];
 

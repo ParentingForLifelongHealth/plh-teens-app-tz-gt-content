@@ -22,12 +22,16 @@
         "count": 2
       },
       {
+        "type": "asset_pack_download_button",
+        "count": 2
+      },
+      {
         "type": "audio",
-        "count": 3
+        "count": 4
       },
       {
         "type": "button",
-        "count": 83
+        "count": 93
       },
       {
         "type": "combo_box",
@@ -35,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 89
+        "count": 122
       },
       {
         "type": "debug_toggle",
@@ -47,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 89
+        "count": 96
       },
       {
         "type": "drawer",
@@ -59,7 +63,7 @@
       },
       {
         "type": "image",
-        "count": 19
+        "count": 20
       },
       {
         "type": "items",
@@ -67,11 +71,11 @@
       },
       {
         "type": "lottie_animation",
-        "count": 4
+        "count": 5
       },
       {
         "type": "nested_properties",
-        "count": 117
+        "count": 131
       },
       {
         "type": "number_selector",
@@ -86,12 +90,28 @@
         "count": 1
       },
       {
+        "type": "plh_course_accordion",
+        "count": 1
+      },
+      {
+        "type": "plh_course_sub_item",
+        "count": 1
+      },
+      {
+        "type": "plh_lesson_cta",
+        "count": 2
+      },
+      {
         "type": "plh_module_details_header",
         "count": 1
       },
       {
         "type": "plh_module_list_item",
         "count": 3
+      },
+      {
+        "type": "plh_progress_bar",
+        "count": 5
       },
       {
         "type": "progress_path",
@@ -103,11 +123,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 9
+        "count": 10
       },
       {
         "type": "round_button",
-        "count": 12
+        "count": 11
       },
       {
         "type": "select_text",
@@ -119,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2030
+        "count": 2184
       },
       {
         "type": "simple_checkbox",
@@ -131,15 +151,15 @@
       },
       {
         "type": "task_progress_bar",
-        "count": 4
+        "count": 5
       },
       {
         "type": "template",
-        "count": 638
+        "count": 699
       },
       {
         "type": "text",
-        "count": 148
+        "count": 168
       },
       {
         "type": "text_area",
@@ -159,11 +179,11 @@
       },
       {
         "type": "title",
-        "count": 45
+        "count": 55
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 5
       },
       {
         "type": "update_action_list",
@@ -186,12 +206,16 @@
         "count": 1
       },
       {
+        "type": "asset_pack",
+        "count": 3
+      },
+      {
         "type": "auth",
         "count": 3
       },
       {
         "type": "emit: completed",
-        "count": 475
+        "count": 507
       },
       {
         "type": "emit: force_reload",
@@ -211,11 +235,11 @@
       },
       {
         "type": "emit: set_language",
-        "count": 2
+        "count": 3
       },
       {
         "type": "emit: uncompleted",
-        "count": 481
+        "count": 512
       },
       {
         "type": "feedback",
@@ -223,15 +247,15 @@
       },
       {
         "type": "go_to",
-        "count": 16
+        "count": 19
       },
       {
         "type": "nav_stack",
-        "count": 181
+        "count": 193
       },
       {
         "type": "pop_up",
-        "count": 45
+        "count": 47
       },
       {
         "type": "reset_app",
@@ -243,19 +267,19 @@
       },
       {
         "type": "set_data",
-        "count": 53
+        "count": 60
       },
       {
         "type": "set_field",
-        "count": 52
+        "count": 58
       },
       {
         "type": "set_item",
-        "count": 38
+        "count": 46
       },
       {
         "type": "set_local",
-        "count": 46
+        "count": 67
       },
       {
         "type": "task",
@@ -271,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "113593 KB",
-        "MB": "113.6 MB"
+        "KB": "112442 KB",
+        "MB": "112.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "10011 KB",
-        "MB": "10 MB"
+        "KB": "11008 KB",
+        "MB": "11 MB"
       }
     ]
   },
@@ -348,6 +372,10 @@
         "size_kb": 1.7
       },
       {
+        "path": "images/icons/document.svg",
+        "size_kb": 7.3
+      },
+      {
         "path": "images/icons/expand_circle_right.png",
         "size_kb": 0.9
       },
@@ -372,6 +400,10 @@
         "size_kb": 2.4
       },
       {
+        "path": "images/icons/feather.svg",
+        "size_kb": 3.5
+      },
+      {
         "path": "images/icons/football_blue.png",
         "size_kb": 5.1
       },
@@ -380,12 +412,20 @@
         "size_kb": 0.6
       },
       {
-        "path": "images/icons/heart_filled.svg",
-        "size_kb": 1.4
-      },
-      {
         "path": "images/icons/in_progress_white.svg",
         "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/key.svg",
+        "size_kb": 5.5
+      },
+      {
+        "path": "images/icons/magnify_glass.svg",
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/icons/notification_bell.png",
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/parent_child.svg",
@@ -404,6 +444,10 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/profile_card.svg",
+        "size_kb": 7.4
+      },
+      {
         "path": "images/icons/question_blue.png",
         "size_kb": 3.4
       },
@@ -414,6 +458,18 @@
       {
         "path": "images/icons/star_outline_white.svg",
         "size_kb": 1
+      },
+      {
+        "path": "images/icons/trophy_footer.svg",
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/trophy_footer_active.svg",
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/world.svg",
+        "size_kb": 6.2
       },
       {
         "path": "images/logos/Exeter.png",
@@ -729,11 +785,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.7
+        "size_kb": 34.5
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 38.3
+        "size_kb": 25.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -816,12 +872,12 @@
         "size_kb": 55.6
       },
       {
-        "path": "lottie/bulging_circles.txt",
-        "size_kb": 0.2
+        "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
+        "size_kb": 1111.6
       },
       {
-        "path": "lottie/cascading_stars.json",
-        "size_kb": 140.5
+        "path": "lottie/bulging_circles.txt",
+        "size_kb": 0.2
       },
       {
         "path": "video/plh_video/lets_slow_down.srt",
@@ -836,7 +892,77 @@
   "assets_missing": {
     "data": [
       {
+        "path": "images/backgrounds/lesson-cta-bg.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/backgrounds/map_view_bg.jpg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/diamond-outline.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/icons/document-lock-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/document-text-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/globe-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/heart-outline.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/heart_filled_red.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/information-circle-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/lock-closed-outline.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/lock-closed-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/lock-open-outline.svg",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/icons/log-in-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/person-circle-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/app_logo.png",
         "count": 1,
         "missing": true
       },
@@ -851,37 +977,37 @@
     "data": [
       {
         "path": "audio/relax/relax_1.mp3",
-        "count": 2,
+        "count": 9,
         "size_kb": 265.1
       },
       {
         "path": "audio/relax/relax_10.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 404.9
       },
       {
         "path": "audio/relax/relax_11.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 445.6
       },
       {
         "path": "audio/relax/relax_12.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 539.7
       },
       {
         "path": "audio/relax/relax_13.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 398.4
       },
       {
         "path": "audio/relax/relax_14.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 256.9
       },
       {
         "path": "audio/relax/relax_15.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 125
       },
       {
@@ -891,7 +1017,7 @@
       },
       {
         "path": "audio/relax/relax_17.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 148
       },
       {
@@ -906,12 +1032,12 @@
       },
       {
         "path": "audio/relax/relax_2.mp3",
-        "count": 2,
+        "count": 7,
         "size_kb": 404.4
       },
       {
         "path": "audio/relax/relax_20.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 539.8
       },
       {
@@ -921,7 +1047,7 @@
       },
       {
         "path": "audio/relax/relax_22.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 109.8
       },
       {
@@ -936,17 +1062,17 @@
       },
       {
         "path": "audio/relax/relax_3.mp3",
-        "count": 2,
+        "count": 9,
         "size_kb": 235.1
       },
       {
         "path": "audio/relax/relax_4.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 514.5
       },
       {
         "path": "audio/relax/relax_5.mp3",
-        "count": 3,
+        "count": 2,
         "size_kb": 195.7
       },
       {
@@ -956,17 +1082,17 @@
       },
       {
         "path": "audio/relax/relax_7.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 285.3
       },
       {
         "path": "audio/relax/relax_8.mp3",
-        "count": 2,
+        "count": 1,
         "size_kb": 302
       },
       {
         "path": "audio/relax/relax_9.mp3",
-        "count": 3,
+        "count": 2,
         "size_kb": 576.6
       },
       {
@@ -1111,7 +1237,7 @@
       },
       {
         "path": "audio/teen/testimonials/teen/teen_test_svp_t.mp3",
-        "count": 2,
+        "count": 6,
         "size_kb": 202.9
       },
       {
@@ -1191,7 +1317,7 @@
       },
       {
         "path": "audio/teen/topic_intros/svp_intro_t.mp3",
-        "count": 2,
+        "count": 6,
         "size_kb": 603.8
       },
       {
@@ -1561,7 +1687,7 @@
       },
       {
         "path": "images/homescreen/listview/crisis_t.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 44
       },
       {
@@ -1571,7 +1697,7 @@
       },
       {
         "path": "images/homescreen/listview/instruct_t.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 37.9
       },
       {
@@ -1591,7 +1717,7 @@
       },
       {
         "path": "images/homescreen/listview/praise_t.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 33.7
       },
       {
@@ -1626,7 +1752,7 @@
       },
       {
         "path": "images/homescreen/listview/svp_t.svg",
-        "count": 2,
+        "count": 7,
         "size_kb": 20.3
       },
       {
@@ -1676,12 +1802,12 @@
       },
       {
         "path": "images/homescreen/svp_t.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 25.4
       },
       {
         "path": "images/icons/brain_blue.png",
-        "count": 8,
+        "count": 12,
         "size_kb": 5.2
       },
       {
@@ -1691,12 +1817,12 @@
       },
       {
         "path": "images/icons/diamond.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.8
       },
       {
         "path": "images/icons/diamond_active.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.7
       },
       {
@@ -1705,23 +1831,18 @@
         "size_kb": 4.7
       },
       {
-        "path": "images/icons/document.svg",
-        "count": 1,
-        "size_kb": 7.3
-      },
-      {
         "path": "images/icons/expand_circle_right.svg",
         "count": 1,
         "size_kb": 0.5
       },
       {
         "path": "images/icons/expand_circle_right_blue.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 2.1
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 10,
+        "count": 12,
         "size_kb": 4.2
       },
       {
@@ -1741,7 +1862,7 @@
       },
       {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 32,
+        "count": 34,
         "size_kb": 1.4
       },
       {
@@ -1751,7 +1872,7 @@
       },
       {
         "path": "images/icons/faces/ok_face_new.svg",
-        "count": 32,
+        "count": 34,
         "size_kb": 0.5
       },
       {
@@ -1761,7 +1882,7 @@
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
-        "count": 32,
+        "count": 34,
         "size_kb": 1.5
       },
       {
@@ -1770,23 +1891,23 @@
         "size_kb": 2.1
       },
       {
-        "path": "images/icons/feather.svg",
-        "count": 1,
-        "size_kb": 3.5
-      },
-      {
         "path": "images/icons/heart.png",
-        "count": 3,
+        "count": 2,
         "size_kb": 1.3
       },
       {
         "path": "images/icons/heart_filled.png",
-        "count": 2,
+        "count": 1,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/heart_filled.svg",
+        "count": 1,
         "size_kb": 1.4
       },
       {
         "path": "images/icons/heart_filled_active.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.5
       },
       {
@@ -1815,11 +1936,6 @@
         "size_kb": 1.1
       },
       {
-        "path": "images/icons/key.svg",
-        "count": 1,
-        "size_kb": 5.5
-      },
-      {
         "path": "images/icons/lightbulb_blue.png",
         "count": 2,
         "size_kb": 3.6
@@ -1841,48 +1957,33 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 6,
+        "count": 4,
         "size_kb": 0.7
       },
       {
-        "path": "images/icons/magnify_glass.svg",
-        "count": 1,
-        "size_kb": 1.9
-      },
-      {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 17,
-        "size_kb": 0.9
-      },
-      {
-        "path": "images/icons/notification_bell.png",
-        "count": 1,
+        "count": 19,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/parent_child_heart.svg",
-        "count": 17,
+        "count": 19,
         "size_kb": 3
       },
       {
         "path": "images/icons/pause.svg",
-        "count": 17,
+        "count": 19,
         "size_kb": 0.7
       },
       {
         "path": "images/icons/pencil.svg",
-        "count": 17,
+        "count": 19,
         "size_kb": 1.1
       },
       {
         "path": "images/icons/picture_book.svg",
-        "count": 17,
+        "count": 19,
         "size_kb": 1.8
-      },
-      {
-        "path": "images/icons/profile_card.svg",
-        "count": 1,
-        "size_kb": 7.4
       },
       {
         "path": "images/icons/question_mark_blue.svg",
@@ -1901,17 +2002,17 @@
       },
       {
         "path": "images/icons/single_speech_blue.png",
-        "count": 12,
+        "count": 14,
         "size_kb": 3.3
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
-        "count": 21,
+        "count": 23,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 51,
+        "count": 57,
         "size_kb": 1
       },
       {
@@ -1921,12 +2022,12 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 28,
+        "count": 30,
         "size_kb": 5.1
       },
       {
         "path": "images/icons/star_outline_blue.svg",
-        "count": 18,
+        "count": 20,
         "size_kb": 1
       },
       {
@@ -1936,7 +2037,7 @@
       },
       {
         "path": "images/icons/thought_bubble.svg",
-        "count": 17,
+        "count": 19,
         "size_kb": 2.1
       },
       {
@@ -1951,12 +2052,12 @@
       },
       {
         "path": "images/icons/trophy.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.6
       },
       {
         "path": "images/icons/trophy_active.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.7
       },
       {
@@ -1965,24 +2066,9 @@
         "size_kb": 5.1
       },
       {
-        "path": "images/icons/trophy_footer.svg",
-        "count": 1,
-        "size_kb": 3.9
-      },
-      {
-        "path": "images/icons/trophy_footer_active.svg",
-        "count": 1,
-        "size_kb": 3.9
-      },
-      {
         "path": "images/icons/verified.svg",
         "count": 1,
         "size_kb": 0.5
-      },
-      {
-        "path": "images/icons/world.svg",
-        "count": 1,
-        "size_kb": 6.2
       },
       {
         "path": "images/logos/CWBSA.png",
@@ -2880,13 +2966,8 @@
         "size_kb": 844.1
       },
       {
-        "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
-        "count": 2,
-        "size_kb": 1111.6
-      },
-      {
         "path": "images/teen_modules/svp/svp_usevoice_t.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 18.4
       },
       {
@@ -2906,22 +2987,22 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 7,
+        "count": 5,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 8,
+        "count": 5,
         "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 9,
+        "count": 12,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 6,
+        "count": 10,
         "size_kb": 7.6
       },
       {
@@ -2931,7 +3012,7 @@
       },
       {
         "path": "video/plh_video/lets_slow_down.mp4",
-        "count": 32,
+        "count": 36,
         "size_kb": 13482.2
       }
     ]
@@ -2941,7 +3022,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 9
+        "total": 10
       },
       {
         "type": "data_list",
@@ -2961,7 +3042,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 36
+        "total": 40
       },
       {
         "type": "data_list",
@@ -2986,7 +3067,7 @@
       {
         "type": "data_list",
         "subtype": "modules",
-        "total": 2
+        "total": 3
       },
       {
         "type": "data_list",
@@ -3060,6 +3141,16 @@
       },
       {
         "type": "data_list",
+        "subtype": "modules_stayingsafe2_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_stayingsafe3_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "modules_stayingsafe_t",
         "total": 1
       },
@@ -3086,12 +3177,12 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 32
+        "total": 36
       },
       {
         "type": "generator",
         "subtype": null,
-        "total": 31
+        "total": 33
       },
       {
         "type": "global",
@@ -3111,12 +3202,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 102
+        "total": 109
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 498
+        "total": 533
       },
       {
         "type": "template",

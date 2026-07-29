@@ -74,25 +74,51 @@
     },
     {
       "name": "copy",
-      "value": "Copy code",
+      "value": "@global.user_id_copy_code",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "copy"
+      "_nested_name": "copy",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.user_id_copy_code",
+            "matchedExpression": "@global.user_id_copy_code",
+            "type": "global",
+            "fieldName": "user_id_copy_code"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.user_id_copy_code": [
+          "value"
+        ]
+      }
     },
     {
       "name": "copied",
-      "value": "Copied!",
+      "value": "@global.user_id_copied",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "copied"
+      "_nested_name": "copied",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.user_id_copied",
+            "matchedExpression": "@global.user_id_copied",
+            "type": "global",
+            "fieldName": "user_id_copied"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.user_id_copied": [
+          "value"
+        ]
+      }
     },
     {
       "type": "title",
@@ -217,25 +243,23 @@
         {
           "type": "text",
           "name": "last_sync_text",
-          "value": "Last sync at: @local.sync_latest",
+          "value": "@global.user_id_last_sync",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "_nested_name": "has_ever_been_synced.last_sync_text",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "Last sync at: @local.sync_latest",
-                "matchedExpression": "@local.sync_latest",
-                "type": "local",
-                "fieldName": "sync_latest"
+                "fullExpression": "@global.user_id_last_sync",
+                "matchedExpression": "@global.user_id_last_sync",
+                "type": "global",
+                "fieldName": "user_id_last_sync"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.sync_latest": [
+            "@global.user_id_last_sync": [
               "value"
             ]
           }
@@ -269,13 +293,26 @@
         {
           "type": "text",
           "name": "not_synced_text",
-          "value": "This device has never been synced. Sync to reveal your code.",
+          "value": "@global.user_id_never_synced",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
-          "_nested_name": "has_never_been_synced.not_synced_text"
+          "_nested_name": "has_never_been_synced.not_synced_text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.user_id_never_synced",
+                "matchedExpression": "@global.user_id_never_synced",
+                "type": "global",
+                "fieldName": "user_id_never_synced"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.user_id_never_synced": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "has_never_been_synced",
@@ -298,11 +335,9 @@
     {
       "type": "button",
       "name": "sync_button",
-      "value": "Sync now",
+      "value": "@global.user_id_sync_button",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -369,6 +404,14 @@
       "condition": "!@local.sync_status",
       "_nested_name": "sync_button",
       "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.user_id_sync_button",
+            "matchedExpression": "@global.user_id_sync_button",
+            "type": "global",
+            "fieldName": "user_id_sync_button"
+          }
+        ],
         "condition": [
           {
             "fullExpression": "!@local.sync_status",
@@ -379,6 +422,9 @@
         ]
       },
       "_dynamicDependencies": {
+        "@global.user_id_sync_button": [
+          "value"
+        ],
         "!@local.sync_status": [
           "condition"
         ]
@@ -387,11 +433,9 @@
     {
       "type": "button",
       "name": "sync_button_disabled",
-      "value": "Syncing...",
+      "value": "@global.user_id_syncing",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "condition": "@local.sync_status",
       "parameter_list": {
@@ -399,6 +443,14 @@
       },
       "_nested_name": "sync_button_disabled",
       "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.user_id_syncing",
+            "matchedExpression": "@global.user_id_syncing",
+            "type": "global",
+            "fieldName": "user_id_syncing"
+          }
+        ],
         "condition": [
           {
             "fullExpression": "@local.sync_status",
@@ -409,6 +461,9 @@
         ]
       },
       "_dynamicDependencies": {
+        "@global.user_id_syncing": [
+          "value"
+        ],
         "@local.sync_status": [
           "condition"
         ]

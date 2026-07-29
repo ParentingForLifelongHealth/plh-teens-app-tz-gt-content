@@ -4,28 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_17",
+      "id": "relax_3",
+      "in_library": "yes",
       "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_17.mp3",
+      "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
-      "title": "Praise yourself",
+      "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Praise yourself"
+          "eng": "Tap the play button for a short break"
         },
         "transcript": {
-          "eng": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
+          "eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!"
         }
       },
-      "transcript": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
+      "transcript": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
       "category_id": "relax",
       "nested": false,
       "completed": false

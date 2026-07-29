@@ -2573,12 +2573,12 @@
     "size_kb": 33.8
   },
   "images/teen_modules/solve/old/solve2_t_7.svg": {
-    "md5Checksum": "164018cb66e0ec14f71f13fa5b06172d",
-    "size_kb": 34.7
+    "md5Checksum": "22984eff1011b29e916f6219ce910fe7",
+    "size_kb": 34.5
   },
   "images/teen_modules/solve/old/solve2_t_8.svg": {
-    "md5Checksum": "49c6cecd2a5af1f8ebae1bdae068bc1e",
-    "size_kb": 38.3
+    "md5Checksum": "4c2ab428accebcabe44c95a51fd33ff0",
+    "size_kb": 25.7
   },
   "images/teen_modules/solve/old/solve2_t_9.svg": {
     "md5Checksum": "ec4b8e228363bd564e1b88524daefee4",
@@ -2863,10 +2863,6 @@
   "lottie/bulging_circles.txt": {
     "md5Checksum": "3f9872e93f54ea15816c877db86a76ff",
     "size_kb": 0.2
-  },
-  "lottie/cascading_stars.json": {
-    "md5Checksum": "131145b165cd19613a9e277a514eec2f",
-    "size_kb": 140.5
   },
   "lottie/checkmark.json": {
     "md5Checksum": "2790a4c02434de5484cc904ae8ff3080",

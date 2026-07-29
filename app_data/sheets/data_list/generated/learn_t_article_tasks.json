@@ -4,28 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_20",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_20.mp3",
+      "id": "relax_2",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
-      "title": "Physical activity",
+      "title": "Tap the play button to manage your stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Physical activity"
+          "eng": "Tap the play button to manage your stress"
         },
         "transcript": {
-          "eng": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.\n\nLet your hands hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.\n\nRelax your arms and let them swing sideways while you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n\nPlace one foot in front of the other and make small circles from your ankles – remember to turn to both sides. Do each foot with four circles in each direction.\n\nNow shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n\nClose your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.\n\nTake a moment to reflect on your experience.\n\nWell done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body."
+          "eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow."
         }
       },
-      "transcript": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.\n\nLet your hands hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.\n\nRelax your arms and let them swing sideways while you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n\nPlace one foot in front of the other and make small circles from your ankles – remember to turn to both sides. Do each foot with four circles in each direction.\n\nNow shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n\nClose your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.\n\nTake a moment to reflect on your experience.\n\nWell done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
+      "transcript": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
       "category_id": "relax",
       "nested": false,
       "completed": false

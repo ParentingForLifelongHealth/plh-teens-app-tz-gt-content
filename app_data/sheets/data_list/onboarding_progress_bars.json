@@ -1,0 +1,42 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "onboarding_progress_bars",
+  "status": "released",
+  "data_list_name": "onboarding_settings_progress_bars",
+  "rows": [
+    {
+      "id": "id_1",
+      "text": "Getting everything ready for you",
+      "colour": "var(--ion-color-primary-700)",
+      "timespan": 1000
+    },
+    {
+      "id": "id_2",
+      "text": "Looking at what your child needs",
+      "colour": "var(--ion-color-red-400)",
+      "timespan": 1000
+    },
+    {
+      "id": "id_3",
+      "text": "Getting ideas from experts",
+      "colour": "var(--ion-color-primary-variant-400)",
+      "timespan": 1000
+    },
+    {
+      "id": "id_4",
+      "text": "Making this just for your family",
+      "colour": "var(--ion-color-secondary-600)",
+      "timespan": 1000
+    }
+  ],
+  "_source": {
+    "name": "library_PLH_onboarding",
+    "path": "PLH onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+  },
+  "_metadata": {
+    "timespan": {
+      "type": "number"
+    }
+  }
+}

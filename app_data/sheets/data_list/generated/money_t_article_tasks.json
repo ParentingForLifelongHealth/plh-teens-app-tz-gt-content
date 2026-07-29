@@ -4,28 +4,28 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_8",
+      "id": "relax_1",
+      "in_library": "yes",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_8.mp3",
+      "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "title": "Small things",
+      "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Small things"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
-          "eng": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!"
+          "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
         }
       },
-      "transcript": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
+      "transcript": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -271,7 +271,7 @@
           "eng": "**Step 1: THINK**\nThink about what you spend money on each month."
         },
         "text_2": {
-          "eng": "- Draw pictures of all the things that you and your family spend money on each month.\n- Write next to each picture how much each thing costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month."
+          "eng": "- Draw pictures of all the things that you and your family spend money on each month, or write them down..\n- Write next to each picture or word how much it costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month."
         }
       },
       "category_id": "explore",
@@ -281,12 +281,10 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/money/money2_t_1.svg",
-      "text_2": "- Draw pictures of all the things that you and your family spend money on each month.\n- Write next to each picture how much each thing costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month.",
+      "text_2": "- Draw pictures of all the things that you and your family spend money on each month, or write them down..\n- Write next to each picture or word how much it costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month.",
       "completed": false
     },
     {
@@ -323,7 +321,7 @@
           "eng": "**Step 3: BUILD**\nMake a budget!"
         },
         "text_2": {
-          "eng": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what you will spend on, and put the stones/objects on that image.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
+          "eng": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what the family will spend on, and put the stones/objects on that image or word.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
         }
       },
       "category_id": "explore",
@@ -333,12 +331,10 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/money/money2_t_3.svg",
-      "text_2": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what you will spend on, and put the stones/objects on that image.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice.",
+      "text_2": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what the family will spend on, and put the stones/objects on that image or word.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice.",
       "completed": false
     },
     {

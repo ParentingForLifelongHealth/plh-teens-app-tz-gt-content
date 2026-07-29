@@ -4,29 +4,28 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_5",
+      "id": "relax_1",
       "in_library": "yes",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_5.mp3",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "title": "In and out",
+      "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "In and out"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!"
+          "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
         }
       },
-      "transcript": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+      "transcript": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "category_id": "relax",
       "nested": false,
       "completed": false

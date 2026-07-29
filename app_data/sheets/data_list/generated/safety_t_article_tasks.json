@@ -4,28 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_12",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_12.mp3",
+      "id": "relax_2",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
-      "title": "Feel your feelings",
+      "title": "Tap the play button to manage your stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Feel your feelings"
+          "eng": "Tap the play button to manage your stress"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?"
+          "eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow."
         }
       },
-      "transcript": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?",
+      "transcript": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
       "category_id": "relax",
       "nested": false,
       "completed": false

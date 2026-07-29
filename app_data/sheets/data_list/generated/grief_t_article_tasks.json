@@ -4,28 +4,28 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_22",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_22.mp3",
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "title": "Connect",
+      "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Connect"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
-          "eng": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!"
+          "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
         }
       },
-      "transcript": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
+      "transcript": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -101,38 +101,13 @@
       "completed": false
     },
     {
-      "id": "sensitive_content_notice",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
-      "_translatedFields": {
-        "section_1_title": {
-          "eng": "⚠️ Sensitive Content Notice"
-        },
-        "section_1_text": {
-          "eng": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
-        }
-      },
-      "category_id": "notice",
-      "nested": false,
-      "section_1_title": "⚠️ Sensitive Content Notice",
-      "_translations": {
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        }
-      },
-      "section_1_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help.",
-      "completed": false
-    },
-    {
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/grief_intro_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay."
+          "eng": "Today's topic is about coping with grief.\n\nGrief is something that we often don’t pay attention to, but grief affects us all in different ways."
         },
         "media_title": {
           "eng": "What techniques can you use to cope with grief? Tap play to find out"
@@ -143,11 +118,9 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay.",
+      "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief is something that we often don’t pay attention to, but grief affects us all in different ways.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -166,7 +139,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
+          "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \n\nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
         },
         "media_title": {
           "eng": "Hear how naming feelings helped @data.characters.media_female_12.name feel closer to family while grieving"
@@ -177,11 +150,9 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
+      "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \n\nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -695,15 +666,15 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_title": "ACCEPT",
+      "text_1_facilitator": "Here are some tips to help you and your family through times of grief:",
       "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
         "section_1_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
           "tz_sw": true
         },
         "section_1_button_text": {
@@ -725,11 +696,11 @@
           "tz_sw": true
         }
       },
-      "section_1_text": "Losing someone we love can affect us for weeks, months or years. There’s no right way to feel, and no need to feel better quickly.\n\nYour teen may feel sad, angry, confused, or unwell. They may have nightmares, pain, or school problems. Even if they seem happy, they might still feel sad. This is all normal.",
-      "text_1_facilitator": "Here are some tips to help you and your family through times of grief:",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_1_title": "ACCEPT",
+      "section_1_text": "Losing someone we love can affect us for weeks, months or years. There’s no right way to feel, and no need to feel better quickly.\n\nYour teen may feel sad, angry, confused, or unwell. They may have nightmares, pain, or school problems. Even if they seem happy, they might still feel sad. This is all normal.",
       "section_1_button_text": "5 stages of grief",
       "section_1_extra_text": "Many people experience grief in the following 5 stages. Knowing this helps you to better support your teen and take care of yourself: \n\n1: 😟 Denial: “This isn’t really happening.”\n2: 😡 Anger: “I’m mad.”\n3: 🙏🏾 Bargaining: “I wish I could change it.”\n4: 😣 Depression: “I feel really sad.”\n5: 😔 Acceptance: “I’m okay now, even though it still hurts.”",
       "section_2_title": "SAY GOODBYE",

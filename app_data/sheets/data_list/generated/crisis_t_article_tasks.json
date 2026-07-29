@@ -4,29 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_4",
+      "id": "relax_3",
       "in_library": "yes",
-      "lottie_asset": "lottie/relax/heart.json",
-      "media_asset": "audio/relax/relax_4.mp3",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
-      "title": "Breathe to three",
+      "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Breathe to three"
+          "eng": "Tap the play button for a short break"
         },
         "transcript": {
-          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!"
+          "eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!"
         }
       },
-      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
       "category_id": "relax",
       "nested": false,
       "completed": false

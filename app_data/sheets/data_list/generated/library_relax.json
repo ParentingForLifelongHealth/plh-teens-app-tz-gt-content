@@ -10,18 +10,16 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
-      "title": "Quick pause",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Quick pause"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
           "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
@@ -35,18 +33,16 @@
       "lottie_asset": "lottie/relax/soothing_waves.json",
       "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
-      "title": "Power of three",
+      "title": "Tap the play button to manage your stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Power of three"
+          "eng": "Tap the play button to manage your stress"
         },
         "transcript": {
           "eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow."
@@ -60,18 +56,16 @@
       "lottie_asset": "lottie/relax/looping_rings.json",
       "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
-      "title": "One thing today",
+      "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "One thing today"
+          "eng": "Tap the play button for a short break"
         },
         "transcript": {
           "eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!"

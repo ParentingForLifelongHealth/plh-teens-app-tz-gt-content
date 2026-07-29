@@ -176,19 +176,17 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Step 1: THINK**\nThink about what you spend money on each month."
         },
         "text_2": {
-          "eng": "- Draw pictures of all the things that you and your family spend money on each month.\n- Write next to each picture how much each thing costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month."
+          "eng": "- Draw pictures of all the things that you and your family spend money on each month, or write them down..\n- Write next to each picture or word how much it costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month."
         }
       },
-      "text_2": "- Draw pictures of all the things that you and your family spend money on each month.\n- Write next to each picture how much each thing costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month."
+      "text_2": "- Draw pictures of all the things that you and your family spend money on each month, or write them down..\n- Write next to each picture or word how much it costs each month (there is no need to share the numbers if you don’t want to).\n- Add up how much money you have to spend each month."
     },
     {
       "id": "explore_4",
@@ -226,19 +224,17 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Step 3: BUILD**\nMake a budget!"
         },
         "text_2": {
-          "eng": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what you will spend on, and put the stones/objects on that image.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
+          "eng": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what the family will spend on, and put the stones/objects on that image or word.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
         }
       },
-      "text_2": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what you will spend on, and put the stones/objects on that image.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
+      "text_2": "- Write down what your income is for the month.\n- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n- Decide what the family will spend on, and put the stones/objects on that image or word.\n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
     },
     {
       "id": "explore_6",

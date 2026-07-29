@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2184
+        "count": 2185
       },
       {
         "type": "simple_checkbox",
@@ -295,12 +295,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "112442 KB",
+        "KB": "112450 KB",
         "MB": "112.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "11008 KB",
+        "KB": "11001 KB",
         "MB": "11 MB"
       }
     ]
@@ -458,14 +458,6 @@
       {
         "path": "images/icons/star_outline_white.svg",
         "size_kb": 1
-      },
-      {
-        "path": "images/icons/trophy_footer.svg",
-        "size_kb": 3.9
-      },
-      {
-        "path": "images/icons/trophy_footer_active.svg",
-        "size_kb": 3.9
       },
       {
         "path": "images/icons/world.svg",
@@ -2064,6 +2056,16 @@
         "path": "images/icons/trophy_blue.png",
         "count": 12,
         "size_kb": 5.1
+      },
+      {
+        "path": "images/icons/trophy_footer.svg",
+        "count": 1,
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/trophy_footer_active.svg",
+        "count": 1,
+        "size_kb": 3.9
       },
       {
         "path": "images/icons/verified.svg",

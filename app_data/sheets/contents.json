@@ -5258,9 +5258,9 @@
       "flow_type": "template",
       "flow_name": "footer",
       "_source": {
-        "name": "kids_teens_global",
-        "path": "PLH app_navigation.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1jWVWtpRFixLG5K_m2vQIKnhqTMAIq6_F0pSdApBQ1jc"
+        "name": "teens_tz",
+        "path": "templates/TZ app_navigation.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1UjnrSmRlo6n5zIC2JG1_FVnA5Q6bazApMU2QXIbOgw0"
       }
     },
     "activity_bao": {

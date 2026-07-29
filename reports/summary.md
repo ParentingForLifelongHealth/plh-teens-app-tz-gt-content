@@ -37,7 +37,7 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2184 |
+| set_variable | 2185 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 5 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 112442 KB | 112.4 MB |
-| unused | 11008 KB | 11 MB |
+| total | 112450 KB | 112.4 MB |
+| unused | 11001 KB | 11 MB |
 </details>
 
 <details open>
@@ -137,8 +137,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/question_blue.png | 3.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
-| images/icons/trophy_footer.svg | 3.9 |
-| images/icons/trophy_footer_active.svg | 3.9 |
 | images/icons/world.svg | 6.2 |
 | images/logos/Exeter.png | 140.5 |
 | images/logos/donors/ERC-EU.png | 209.7 |
@@ -496,6 +494,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 12 |
+| images/icons/trophy_footer.svg | 3.9 | 1 |
+| images/icons/trophy_footer_active.svg | 3.9 | 1 |
 | images/icons/verified.svg | 0.5 | 1 |
 | images/logos/CWBSA.png | 84.4 | 1 |
 | images/logos/GISP.png | 30.5 | 1 |

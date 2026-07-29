@@ -4,29 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_9",
+      "id": "relax_2",
       "in_library": "yes",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_9.mp3",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
-      "title": "Body scan",
+      "title": "Tap the play button to manage your stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body scan"
+          "eng": "Tap the play button to manage your stress"
         },
         "transcript": {
-          "eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!"
+          "eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow."
         }
       },
-      "transcript": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -272,7 +270,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I could come home at 10pm?"
+          "eng": "I could come home at 8pm?"
         },
         "character_2_text": {
           "eng": "That is a bit late, what about 6pm?"
@@ -283,11 +281,9 @@
       "image_asset": "/images/teen_modules/rules/rules1_t_4.png",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
-      "character_1_text": "I could come home at 10pm?",
+      "character_1_text": "I could come home at 8pm?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -303,7 +299,7 @@
           "eng": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?"
         },
         "character_2_text": {
-          "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays."
+          "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 8pm on Fridays and Saturdays."
         },
         "character_3_text": {
           "eng": "But you will always make sure you walk home with a friend, okay?"
@@ -319,14 +315,12 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_2_text": {},
         "character_3_text": {
           "tz_sw": true
         }
       },
-      "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays.",
+      "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 8pm on Fridays and Saturdays.",
       "character_3_id": "f1_father",
       "character_3_text": "But you will always make sure you walk home with a friend, okay?",
       "completed": false
@@ -537,6 +531,12 @@
         "section_2_text": {
           "eng": "Plan rules WITH your teenager. Start with one new rule first – you can add another one later. Discuss the reasons for the rule and listen to their views."
         },
+        "section_2_button_text": {
+          "eng": "More tips"
+        },
+        "section_2_extra_text": {
+          "eng": "Remember to agree on a realistic rule for adults in your home too, so you can lead by example."
+        },
         "section_3_title": {
           "eng": "PRAISE RULES!"
         },
@@ -569,6 +569,10 @@
         "section_2_text": {
           "tz_sw": true
         },
+        "section_2_button_text": {
+          "tz_sw": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {
           "tz_sw": true
         },
@@ -585,6 +589,8 @@
       "section_1_extra_text": "Include rules for healthy relationships — like sharing openly, showing respect, and talking to a trusted adult if something feels wrong.",
       "section_2_title": "REAL RULES",
       "section_2_text": "Plan rules WITH your teenager. Start with one new rule first – you can add another one later. Discuss the reasons for the rule and listen to their views.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "Remember to agree on a realistic rule for adults in your home too, so you can lead by example.",
       "section_3_title": "PRAISE RULES!",
       "section_3_text": "Praise your teen for planning a rule with you, and praise them for keeping it. \n\nPositive feedback helps teens make good choices, including in relationships.",
       "completed": false

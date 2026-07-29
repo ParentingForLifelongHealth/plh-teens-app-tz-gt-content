@@ -660,7 +660,7 @@
                 },
                 {
                   "name": "all_image_asset",
-                  "value": "images/icons/diamond.png",
+                  "value": "images/icons/diamond-outline.svg",
                   "_translations": {
                     "value": {}
                   },
@@ -670,7 +670,7 @@
                 },
                 {
                   "name": "not_locked_image_asset",
-                  "value": "images/icons/trophy.png",
+                  "value": "images/icons/lock-open-outline.svg",
                   "_translations": {
                     "value": {}
                   },
@@ -680,7 +680,7 @@
                 },
                 {
                   "name": "favourite_image_asset",
-                  "value": "images/icons/heart_filled.png",
+                  "value": "images/icons/heart_filled.svg",
                   "_translations": {
                     "value": {}
                   },
@@ -690,7 +690,7 @@
                 },
                 {
                   "name": "all_checked_image_asset",
-                  "value": "images/icons/diamond_active.png",
+                  "value": "images/icons/diamond-outline.svg",
                   "_translations": {
                     "value": {}
                   },
@@ -700,7 +700,7 @@
                 },
                 {
                   "name": "not_locked_checked_image_asset",
-                  "value": "images/icons/trophy_active.png",
+                  "value": "images/icons/lock-open-outline.svg",
                   "_translations": {
                     "value": {}
                   },
@@ -710,7 +710,7 @@
                 },
                 {
                   "name": "favourite_checked_image_asset",
-                  "value": "images/icons/heart_filled_active.png",
+                  "value": "images/icons/heart_filled_red.svg",
                   "_translations": {
                     "value": {}
                   },
@@ -1062,7 +1062,7 @@
                   "parameter_list": {
                     "variant": "icon",
                     "icon_true_asset": "images/icons/heart_filled_red.png",
-                    "icon_false_asset": "images/icons/heart.png"
+                    "icon_false_asset": "images/icons/heart-outline.png"
                   },
                   "condition": "!@item.locked",
                   "exclude_from_translation": true,
@@ -1152,12 +1152,17 @@
                 {
                   "type": "image",
                   "name": "image_locked_@item.id",
-                  "value": "images/icons/locked.png",
+                  "value": "images/icons/lock-closed-outline.png",
                   "_translations": {
                     "value": {}
                   },
                   "condition": "@item.locked",
                   "exclude_from_translation": true,
+                  "style_list": [
+                    "height: 48px",
+                    "width: 48px",
+                    "padding: 0px 8px 12px 0px"
+                  ],
                   "_nested_name": "display_grid.loop_activities.card_@item.id.image_locked_@item.id",
                   "_dynamicFields": {
                     "name": [

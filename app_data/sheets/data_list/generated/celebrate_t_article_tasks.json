@@ -4,28 +4,28 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_14",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_14.mp3",
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "title": "Ground & gratitude",
+      "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Ground & gratitude"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out."
+          "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
         }
       },
-      "transcript": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+      "transcript": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "category_id": "relax",
       "nested": false,
       "completed": false

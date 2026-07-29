@@ -275,7 +275,16 @@
         },
         "quiz_1_feedback_3": {
           "tz_sw": true
-        }
+        },
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -301,6 +310,21 @@
         },
         "quiz_1_feedback_3": {
           "eng": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        },
+        "quiz_2_question": {
+          "eng": "True or False: Getting closer with your child will make them lose respect for you."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Think again. \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "That’s right! \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them."
         }
       },
       "quiz_1_question": "True or False: Mothers AND fathers need to spend one-on-one time with their teens?",
@@ -309,7 +333,12 @@
       "quiz_1_option_2_text": "False",
       "quiz_1_feedback_2": "Try again… Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "quiz_1_option_3_text": "Not sure",
-      "quiz_1_feedback_3": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+      "quiz_1_feedback_3": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
+      "quiz_2_question": "True or False: Getting closer with your child will make them lose respect for you.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "Think again. \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "That’s right! \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them."
     },
     {
       "id": "tips_1",

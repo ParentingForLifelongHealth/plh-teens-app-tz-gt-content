@@ -111,6 +111,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "module_overview_grief_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "module_overview_learn_t",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -121,7 +126,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_overview_grief_t",
+      "flow_name": "module_overview_stayingsafe2_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_overview_stayingsafe3_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

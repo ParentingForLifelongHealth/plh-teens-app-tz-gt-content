@@ -52,11 +52,6 @@
   },
   "_output_flows": [
     {
-      "flow_name": "article_grief_t_sensitive_content_notice",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_grief_t_intro_1",
       "flow_subtype": "generated",
       "flow_type": "template"

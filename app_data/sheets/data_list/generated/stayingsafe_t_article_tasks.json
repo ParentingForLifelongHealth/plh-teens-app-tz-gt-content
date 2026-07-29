@@ -4,28 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_17",
+      "id": "relax_3",
+      "in_library": "yes",
       "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_17.mp3",
+      "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
-      "title": "Praise yourself",
+      "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Praise yourself"
+          "eng": "Tap the play button for a short break"
         },
         "transcript": {
-          "eng": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
+          "eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!"
         }
       },
-      "transcript": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
+      "transcript": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -130,7 +129,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Our topic today is staying safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.\n\nWe can help our teens know how to use their thoughts, voice, AND body in dangerous situations. It makes a big difference!"
+          "eng": "Our topic today is protecting yourself.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in."
         },
         "media_title": {
           "eng": "Why is discussing safety with your teen important? Tap play to find out"
@@ -141,11 +140,9 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Our topic today is staying safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.\n\nWe can help our teens know how to use their thoughts, voice, AND body in dangerous situations. It makes a big difference!",
+      "text_1_facilitator": "Our topic today is protecting yourself.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -162,7 +159,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?"
+          "eng": "We’ve looked at warning signs in the Protect Yourself lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?"
         },
         "text_2": {
           "eng": "**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”"
@@ -170,7 +167,7 @@
       },
       "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
+      "text_1_facilitator": "We’ve looked at warning signs in the Protect Yourself lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {
@@ -187,45 +184,6 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When our voice does not stop the situation, we can use our bodies to defend ourselves."
-        },
-        "text_2": {
-          "eng": "Learn how to protect yourself by knowing weak spots on an attacker’s body:"
-        },
-        "section_1_title": {
-          "eng": "Weak Spots"
-        },
-        "section_1_text": {
-          "eng": "**EYES**\n- Use your fingers as claws and scratch the attacker’s face as hard as possible.\n\n- Push your thumbs into the eye sockets of your attacker and then outward towards the sides of their head.\n\n**THROAT**\n- Push your finger into the hole at the bottom of the attacker’s throat.\n\n- Punch the throat with your fist or the back of your elbow.\n\n**GROIN**\n- Kick the attacker’s groin with your knee, or punch it with your fist or elbow.\n\n- Grab, squeeze, twist and pull the attacker’s testicles with your hand.\n\n**KNEES**\n- Kick against your attacker's knee with your foot."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "section_1_title": "Weak Spots",
-      "_translations": {
-        "section_1_title": {},
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
-      },
-      "section_1_text": "**EYES**\n- Use your fingers as claws and scratch the attacker’s face as hard as possible.\n\n- Push your thumbs into the eye sockets of your attacker and then outward towards the sides of their head.\n\n**THROAT**\n- Push your finger into the hole at the bottom of the attacker’s throat.\n\n- Punch the throat with your fist or the back of your elbow.\n\n**GROIN**\n- Kick the attacker’s groin with your knee, or punch it with your fist or elbow.\n\n- Grab, squeeze, twist and pull the attacker’s testicles with your hand.\n\n**KNEES**\n- Kick against your attacker's knee with your foot.",
-      "text_1_facilitator": "When our voice does not stop the situation, we can use our bodies to defend ourselves.",
-      "image_asset": "/images/teen_modules/svp/svp_usebody_t_1.gif",
-      "text_2": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
-      "section_1_icon_asset": "images/icons/star_filled_blue.png",
-      "completed": false
-    },
-    {
-      "id": "practise_3",
-      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Take a look at the image and these examples to see how you can use the weak spots or targets on your attacker’s body."
         },
         "text_2": {
           "eng": "Learn how to protect yourself by knowing weak spots on an attacker’s body:"
@@ -253,14 +211,14 @@
         }
       },
       "section_1_text": "**TEMPLES**\n- Punch the attacker’s temples with your fist or the back of your elbow.\n**NOSE** \n- Punch the attacker’s nose with your fist or the back of your elbow.\n**EARS**\n- With flat hands, smack the attacker’s ears from both sides as hard as possible. You can also pull or twist them.\n**RIBS**\n- Punch the attacker in the ribs with your fist or the back of your elbow.\n**FINGERS**\n- Pull the attacker's pinky or little finger away from the other fingers hard and fast (it breaks easily).\n**SHINS**\n- Kick against the attacker’s shins as hard as you can.\n**TOP OF FEET**\n- Lift your foot and stomp your heel on the top of your attacker’s foot.",
-      "text_1_facilitator": "Take a look at the image and these examples to see how you can use the weak spots or targets on your attacker’s body.",
-      "image_asset": "/images/teen_modules/svp/svp_usebody_t_2.gif",
+      "text_1_facilitator": "When our voice does not stop the situation, we can use our bodies to defend ourselves.",
+      "image_asset": "/images/teen_modules/svp/svp_usebody_t_1.gif",
       "text_2": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
       "section_1_icon_asset": "images/icons/star_filled_blue.png",
       "completed": false
     },
     {
-      "id": "practise_4",
+      "id": "practise_3",
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -275,7 +233,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/svp/svp_usebody_t_3.gif",
+      "image_asset": "/images/teen_modules/svp/svp_usebody_t_2.gif",
       "completed": false
     },
     {
@@ -286,28 +244,28 @@
           "eng": "Here are some skills to help you and your teen stay safe!"
         },
         "section_1_title": {
-          "eng": "KNOW IT"
+          "eng": "SEE"
         },
         "section_1_text": {
-          "eng": "Know the difference between healthy and unhealthy relationships. If someone hurts you, it is never your fault.\n\nYou are allowed to say and do what is needed to stay safe and get away—don’t worry about what others think.\n\nYou are worth defending. You are strong and powerful."
+          "eng": "Be on the lookout for danger. Notice if someone is following you or trying to grab you."
         },
         "section_2_title": {
-          "eng": "SEE IT"
+          "eng": "SHOUT"
         },
         "section_2_text": {
-          "eng": "If someone says or does something that makes you feel uncomfortable, it’s not okay. We all have the right to feel safe, especially at home.\n\nSee the warning signs and trust your feelings. If you feel unsafe, the goal is to get away."
+          "eng": "Shout loudly: “NO!”, “Help me!” or “Stop!”\n\nNoise scares the attacker and attracts others."
         },
         "section_3_title": {
-          "eng": "SAY IT"
+          "eng": "GET AWAY"
         },
         "section_3_text": {
-          "eng": "Your voice can help stop an attack. Yell, call for help, warn, act, or use humour to stay safe.\n\nBe clear, confident, and direct—use your words, body, and eyes."
+          "eng": "- Escape first. Pull away or push past to get free.\n\n- If an attacker wants your phone or belongings, give them — your safety matters more.\n\n- Run toward a crowded place (market, store, school) or a nearby house. Hide if needed."
         },
         "section_4_title": {
-          "eng": "DO IT"
+          "eng": "GET HELP"
         },
         "section_4_text": {
-          "eng": "If your voice doesn’t help, use your body.\n\nKnow the strong parts of your body you can use, and where on the attacker’s body you can hit to stop them. Use what you can to protect yourself and get away."
+          "eng": "When it is safe, find a trusted adult and ask for help."
         },
         "section_4_button_text": {
           "eng": "More tips"
@@ -318,35 +276,19 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_title": "KNOW IT",
+      "section_1_title": "SEE",
       "_translations": {
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        },
-        "section_4_title": {
-          "tz_sw": true
-        },
-        "section_4_text": {
-          "tz_sw": true
-        },
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {},
         "section_4_button_text": {
           "tz_sw": true
         },
@@ -354,18 +296,18 @@
           "tz_sw": true
         }
       },
-      "section_1_text": "Know the difference between healthy and unhealthy relationships. If someone hurts you, it is never your fault.\n\nYou are allowed to say and do what is needed to stay safe and get away—don’t worry about what others think.\n\nYou are worth defending. You are strong and powerful.",
+      "section_1_text": "Be on the lookout for danger. Notice if someone is following you or trying to grab you.",
       "text_1_facilitator": "Here are some skills to help you and your teen stay safe!",
-      "section_1_icon_asset": "images/icons/brain_blue.png",
-      "section_2_icon_asset": "images/icons/eye_blue.png",
-      "section_3_icon_asset": "images/icons/single_speech_blue.png",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_2_icon_asset": "images/icons/single_speech_blue.png",
+      "section_3_icon_asset": "images/icons/brain_blue.png",
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
-      "section_2_title": "SEE IT",
-      "section_2_text": "If someone says or does something that makes you feel uncomfortable, it’s not okay. We all have the right to feel safe, especially at home.\n\nSee the warning signs and trust your feelings. If you feel unsafe, the goal is to get away.",
-      "section_3_title": "SAY IT",
-      "section_3_text": "Your voice can help stop an attack. Yell, call for help, warn, act, or use humour to stay safe.\n\nBe clear, confident, and direct—use your words, body, and eyes.",
-      "section_4_title": "DO IT",
-      "section_4_text": "If your voice doesn’t help, use your body.\n\nKnow the strong parts of your body you can use, and where on the attacker’s body you can hit to stop them. Use what you can to protect yourself and get away.",
+      "section_2_title": "SHOUT",
+      "section_2_text": "Shout loudly: “NO!”, “Help me!” or “Stop!”\n\nNoise scares the attacker and attracts others.",
+      "section_3_title": "GET AWAY",
+      "section_3_text": "- Escape first. Pull away or push past to get free.\n\n- If an attacker wants your phone or belongings, give them — your safety matters more.\n\n- Run toward a crowded place (market, store, school) or a nearby house. Hide if needed.",
+      "section_4_title": "GET HELP",
+      "section_4_text": "When it is safe, find a trusted adult and ask for help.",
       "section_4_button_text": "More tips",
       "section_4_extra_text": "In danger, it’s normal to freeze or feel unsure. These tools can help you and your teen stay safe.\n\nIf you or your teen are hurt, it is never your fault. Talk to someone you trust.\n\nAs a parent, let your teen know they can always tell you anything, and you’ll find a solution together.",
       "completed": false
@@ -375,10 +317,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!"
+          "eng": "This week's home activity is to talk with your teen about this Protect Yourself module. Get them to practice saying NO!\n\nGo through the steps with your teen to identify what they are able to do, and practice saying NO as a first step to build their confidence."
         },
         "text_2": {
-          "eng": "**Remember to:**\n\n⚠️ Spot warning signs: Talk with your teen about places, people, or situations that may not be safe. Remind them to trust their feelings.\n📣 Use your voice: Practise saying “no” or asking for help.\n🙅🏽‍♀️ Use your body: Make a plan together for how to leave or protect yourself."
+          "eng": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult."
         },
         "quiz_1_question": {
           "eng": "Can you discuss the Staying Safe module with your teen this week?"
@@ -428,9 +370,7 @@
           "tz_sw": true
         },
         "text_1_facilitator": {},
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "quiz_1_feedback_2": "That is a good start! Every time you talk about safety, you make it easier for your teen to trust their instincts and speak up. Keep going!",
       "quiz_1_feedback_3": "That's okay. Safety talks can feel hard, but even one conversation can prepare your teen for real situations. You can try again when you are ready.",
@@ -438,8 +378,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "This week’s home activity is to talk with your teen about this Staying Safe module.\n\nThese conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!",
-      "text_2": "**Remember to:**\n\n⚠️ Spot warning signs: Talk with your teen about places, people, or situations that may not be safe. Remind them to trust their feelings.\n📣 Use your voice: Practise saying “no” or asking for help.\n🙅🏽‍♀️ Use your body: Make a plan together for how to leave or protect yourself.",
+      "text_1_facilitator": "This week's home activity is to talk with your teen about this Protect Yourself module. Get them to practice saying NO!\n\nGo through the steps with your teen to identify what they are able to do, and practice saying NO as a first step to build their confidence.",
+      "text_2": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult.",
       "completed": false
     },
     {

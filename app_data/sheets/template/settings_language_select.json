@@ -60,6 +60,25 @@
         },
         {
           "trigger": "completed",
+          "action_id": "set_data",
+          "args": [],
+          "_raw": "completed | set_data | _list_id: onboarding_settings_pages, completed: false",
+          "params": {
+            "_list_id": "onboarding_settings_pages",
+            "completed": false
+          }
+        },
+        {
+          "trigger": "completed",
+          "action_id": "set_field",
+          "args": [
+            "onboarding_settings_completed",
+            false
+          ],
+          "_raw": "completed | set_field: onboarding_settings_completed: false"
+        },
+        {
+          "trigger": "completed",
           "action_id": "emit",
           "args": [
             "completed"
@@ -103,8 +122,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global",
-    "path": "PLH settings.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1uBEmZtqR_EeWZCjDQ6i6fdL56Vh8IasbzpEGTVlmNvs"
+    "name": "teens_tz",
+    "path": "templates/TZ settings.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1IsAL7jyVhqd8tDBN8G-CD0ePMgF4LNXMU6TX681tTaU"
   }
 }

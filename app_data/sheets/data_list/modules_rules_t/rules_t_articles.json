@@ -175,18 +175,16 @@
       "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "I could come home at 10pm?",
+      "character_1_text": "I could come home at 8pm?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I could come home at 10pm?"
+          "eng": "I could come home at 8pm?"
         },
         "character_2_text": {
           "eng": "That is a bit late, what about 6pm?"
@@ -208,9 +206,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_2_text": {},
         "character_3_text": {
           "tz_sw": true
         }
@@ -220,13 +216,13 @@
           "eng": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?"
         },
         "character_2_text": {
-          "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays."
+          "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 8pm on Fridays and Saturdays."
         },
         "character_3_text": {
           "eng": "But you will always make sure you walk home with a friend, okay?"
         }
       },
-      "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Fridays and Saturdays.",
+      "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 8pm on Fridays and Saturdays.",
       "character_3_text": "But you will always make sure you walk home with a friend, okay?"
     },
     {
@@ -438,6 +434,10 @@
         "section_2_text": {
           "tz_sw": true
         },
+        "section_2_button_text": {
+          "tz_sw": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {
           "tz_sw": true
         },
@@ -467,6 +467,12 @@
         "section_2_text": {
           "eng": "Plan rules WITH your teenager. Start with one new rule first – you can add another one later. Discuss the reasons for the rule and listen to their views."
         },
+        "section_2_button_text": {
+          "eng": "More tips"
+        },
+        "section_2_extra_text": {
+          "eng": "Remember to agree on a realistic rule for adults in your home too, so you can lead by example."
+        },
         "section_3_title": {
           "eng": "PRAISE RULES!"
         },
@@ -480,6 +486,8 @@
       "section_1_extra_text": "Include rules for healthy relationships — like sharing openly, showing respect, and talking to a trusted adult if something feels wrong.",
       "section_2_title": "REAL RULES",
       "section_2_text": "Plan rules WITH your teenager. Start with one new rule first – you can add another one later. Discuss the reasons for the rule and listen to their views.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "Remember to agree on a realistic rule for adults in your home too, so you can lead by example.",
       "section_3_title": "PRAISE RULES!",
       "section_3_text": "Praise your teen for planning a rule with you, and praise them for keeping it. \n\nPositive feedback helps teens make good choices, including in relationships."
     },

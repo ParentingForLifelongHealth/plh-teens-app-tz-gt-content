@@ -1,0 +1,94 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "courses",
+  "data_list_name": "courses",
+  "status": "released",
+  "flow_subtype": "modules",
+  "rows": [
+    {
+      "id": "relation_t",
+      "core": true,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/listview/instruct_t.svg",
+      "completed": false,
+      "title": "Improve Your Relationship",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Improve Your Relationship"
+        }
+      }
+    },
+    {
+      "id": "home_t",
+      "core": true,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/listview/praise_t.svg",
+      "completed": false,
+      "title": "Create a Peaceful Home",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Create a Peaceful Home"
+        }
+      }
+    },
+    {
+      "id": "safety_t",
+      "core": true,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/listview/crisis_t.svg",
+      "completed": false,
+      "title": "Keep Your Teen Safe",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Keep Your Teen Safe"
+        }
+      }
+    },
+    {
+      "id": "bonus_t",
+      "core": false,
+      "tag_list": [
+        "teen"
+      ],
+      "image_asset": "images/homescreen/listview/svp_t.svg",
+      "completed": false,
+      "title": "Bonus Skills",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Bonus Skills"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+  },
+  "_metadata": {
+    "core": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

@@ -11,6 +11,52 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "has_remote_assets",
+      "value": false
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "asset_pack_id",
+      "value": "assets_@fields._app_language",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_loading_title",
+      "value": "Tailoring your experience",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_error_title",
+      "value": "Oops",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_error_text",
+      "value": "Something went wrong. Please check your connection and try again.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_error_button_text",
+      "value": "Try again",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "has_onboarding_splash",
       "value": false
     },
@@ -204,7 +250,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "continue",
+      "name": "continue_onb",
       "value": "Continue",
       "_translations": {
         "value": {

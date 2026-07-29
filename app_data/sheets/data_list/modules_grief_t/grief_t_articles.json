@@ -7,41 +7,15 @@
   "module": "grief_t",
   "rows": [
     {
-      "id": "sensitive_content_notice",
-      "category_id": "notice",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
-      "section_1_title": "⚠️ Sensitive Content Notice",
-      "_translations": {
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "section_1_title": {
-          "eng": "⚠️ Sensitive Content Notice"
-        },
-        "section_1_text": {
-          "eng": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
-        }
-      },
-      "section_1_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
-    },
-    {
       "id": "intro_1",
       "category_id": "intro",
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/grief_intro_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
-      "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay.",
+      "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief is something that we often don’t pay attention to, but grief affects us all in different ways.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -51,7 +25,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay."
+          "eng": "Today's topic is about coping with grief.\n\nGrief is something that we often don’t pay attention to, but grief affects us all in different ways."
         },
         "media_title": {
           "eng": "What techniques can you use to cope with grief? Tap play to find out"
@@ -70,11 +44,9 @@
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
-      "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
+      "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \n\nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -84,7 +56,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
+          "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \n\nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
         },
         "media_title": {
           "eng": "Hear how naming feelings helped @data.characters.media_female_12.name feel closer to family while grieving"

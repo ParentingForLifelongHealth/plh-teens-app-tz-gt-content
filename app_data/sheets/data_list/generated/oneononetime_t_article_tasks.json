@@ -4,29 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_4",
+      "id": "relax_2",
       "in_library": "yes",
-      "lottie_asset": "lottie/relax/heart.json",
-      "media_asset": "audio/relax/relax_4.mp3",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
-      "title": "Breathe to three",
+      "title": "Tap the play button to manage your stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Breathe to three"
+          "eng": "Tap the play button to manage your stress"
         },
         "transcript": {
-          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!"
+          "eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow."
         }
       },
-      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -372,6 +370,21 @@
         },
         "quiz_1_feedback_3": {
           "eng": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour."
+        },
+        "quiz_2_question": {
+          "eng": "True or False: Getting closer with your child will make them lose respect for you."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Think again. \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "That’s right! \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them."
         }
       },
       "category_id": "explore",
@@ -401,7 +414,16 @@
         },
         "text_1_facilitator": {
           "tz_sw": true
-        }
+        },
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {}
       },
       "quiz_1_feedback_2": "Try again… Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "quiz_1_feedback_3": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
@@ -410,6 +432,11 @@
       "quiz_1_option_2_text": "False",
       "quiz_1_option_3_text": "Not sure",
       "text_1_facilitator": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too.",
+      "quiz_2_question": "True or False: Getting closer with your child will make them lose respect for you.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "Think again. \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "That’s right! \n\nSpending time together builds trust and respect. You will be better able to guide and lead your child, and support a better future for them.",
       "completed": false
     },
     {

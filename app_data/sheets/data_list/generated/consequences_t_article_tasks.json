@@ -4,28 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_10",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_10.mp3",
+      "id": "relax_3",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
-      "title": "Feel the ground",
+      "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Feel the ground"
+          "eng": "Tap the play button for a short break"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+          "eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!"
         }
       },
-      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+      "transcript": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
       "category_id": "relax",
       "nested": false,
       "completed": false

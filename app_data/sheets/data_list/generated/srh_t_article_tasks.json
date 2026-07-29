@@ -4,28 +4,28 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_15",
+      "id": "relax_1",
+      "in_library": "yes",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_15.mp3",
+      "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "title": "Notice how you feel",
+      "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Notice how you feel"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
-          "eng": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!"
+          "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
         }
       },
-      "transcript": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -539,10 +539,10 @@
           "eng": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly."
         },
         "character_1_text": {
-          "eng": "Mother, can I talk to you about something?"
+          "eng": "@data.characters.f1_daughter_16.name, I was thinking… When I was your age, some of my friends had boyfriends. What is it like at your school?"
         },
         "character_2_text": {
-          "eng": "(_calmly_) Sure, my darling. What is the matter?"
+          "eng": "Uuhm… I heard my friends talk about it."
         }
       },
       "category_id": "explore",
@@ -552,18 +552,14 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/srh/srh2_t_1.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "f1_mother",
-      "character_1_text": "Mother, can I talk to you about something?",
-      "character_2_text": "(_calmly_) Sure, my darling. What is the matter?",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_16",
+      "character_1_text": "@data.characters.f1_daughter_16.name, I was thinking… When I was your age, some of my friends had boyfriends. What is it like at your school?",
+      "character_2_text": "Uuhm… I heard my friends talk about it.",
       "completed": false
     },
     {
@@ -574,10 +570,13 @@
           "eng": "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name."
         },
         "character_1_text": {
-          "eng": "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do."
+          "eng": "Mmm, I see. And how do you feel about your friends having a boyfriend? I was just wondering."
         },
         "character_2_text": {
-          "eng": "(🤔 _thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
+          "eng": "I don’t know. Sometimes I feel curious, but also a bit unsure."
+        },
+        "character_3_text": {
+          "eng": "That makes sense. It’s normal to feel both. I remember thinking having a boyfriend was exciting and made me feel special, but I was also nervous. If anything ever comes up, you can always talk to me."
         }
       },
       "category_id": "explore",
@@ -587,18 +586,17 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
       "image_asset": "/images/teen_modules/srh/srh2_t_2.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "f1_mother",
-      "character_1_text": "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do.",
-      "character_2_text": "(🤔 _thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_16",
+      "character_1_text": "Mmm, I see. And how do you feel about your friends having a boyfriend? I was just wondering.",
+      "character_2_text": "I don’t know. Sometimes I feel curious, but also a bit unsure.",
+      "character_3_id": "f1_mother",
+      "character_3_text": "That makes sense. It’s normal to feel both. I remember thinking having a boyfriend was exciting and made me feel special, but I was also nervous. If anything ever comes up, you can always talk to me.",
       "completed": false
     },
     {
@@ -606,19 +604,23 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "(_calmly_) Thank you for sharing this with me, @data.characters.f1_daughter_16.name. I know that you like @data.characters.boyfriend_1.name a lot, he is a charming boy and he does great at school, but you are only 16 and he is 18.\n\nI feel worried that it is not safe for you to be alone with him. He might pressure you into doing something that you are not prepared to do.\n\nI don’t want to tell you who you can see but we need to have some rules about how you spend time together."
+          "eng": "Actually… there is this boy, @data.characters.boyfriend_1.name. He asked if we could study together tomorrow."
+        },
+        "character_2_text": {
+          "eng": "Thank you for telling me. I do feel worried that it is not safe for you to spend time together. You may be pressured into doing something that you are not prepared to do. I don’t want to tell you who you can see, but we need to have some rules about how you spend time together with boys at your age."
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "/images/teen_modules/srh/srh2_t_3.svg",
-      "character_1_id": "f1_mother",
-      "character_1_text": "(_calmly_) Thank you for sharing this with me, @data.characters.f1_daughter_16.name. I know that you like @data.characters.boyfriend_1.name a lot, he is a charming boy and he does great at school, but you are only 16 and he is 18.\n\nI feel worried that it is not safe for you to be alone with him. He might pressure you into doing something that you are not prepared to do.\n\nI don’t want to tell you who you can see but we need to have some rules about how you spend time together.",
+      "character_1_id": "f1_daughter_16",
+      "character_2_id": "f1_mother",
+      "character_1_text": "Actually… there is this boy, @data.characters.boyfriend_1.name. He asked if we could study together tomorrow.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
+      "character_2_text": "Thank you for telling me. I do feel worried that it is not safe for you to spend time together. You may be pressured into doing something that you are not prepared to do. I don’t want to tell you who you can see, but we need to have some rules about how you spend time together with boys at your age.",
       "completed": false
     },
     {
@@ -703,7 +705,7 @@
           "eng": "Hopeful"
         },
         "quiz_1_feedback_3": {
-          "eng": "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together."
+          "eng": "Yes, it was probably hard to start this conversation, but mother knew that having this conversation would help keep @data.characters.f1_daughter_16.name safe."
         },
         "quiz_2_question": {
           "eng": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?"
@@ -752,9 +754,7 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -805,7 +805,7 @@
         }
       },
       "quiz_1_feedback_2": "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation.",
-      "quiz_1_feedback_3": "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together.",
+      "quiz_1_feedback_3": "Yes, it was probably hard to start this conversation, but mother knew that having this conversation would help keep @data.characters.f1_daughter_16.name safe.",
       "quiz_1_question": "How did @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_16.name, feel at the start of their conversation?",
       "quiz_1_option_1_text": "Worried",
       "quiz_1_option_2_text": "Nervous",
@@ -1223,6 +1223,12 @@
         "section_2_text": {
           "eng": "Your teen may feel shy or scared, so parents need to start the talk about body changes and intimate relationships.\n\nBegin early by answering questions simply and honestly. This builds confidence for you and your child.\n\nIt’s okay to feel uncomfortable. Be open, use the correct words, and get help if you don’t know all the answers."
         },
+        "section_2_button_text": {
+          "eng": "More tips"
+        },
+        "section_2_extra_text": {
+          "eng": "If this feels too difficult, especially with a child of a different sex, you can help your teen find a trusted adult they feel comfortable with. Who is a relative or family friend they could talk to?”"
+        },
         "section_3_title": {
           "eng": "GUIDE"
         },
@@ -1255,6 +1261,10 @@
         "section_2_text": {
           "tz_sw": true
         },
+        "section_2_button_text": {
+          "tz_sw": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {
           "tz_sw": true
         },
@@ -1275,6 +1285,8 @@
       "section_3_icon_asset": "images/icons/single_speech_blue.png",
       "section_2_title": "START",
       "section_2_text": "Your teen may feel shy or scared, so parents need to start the talk about body changes and intimate relationships.\n\nBegin early by answering questions simply and honestly. This builds confidence for you and your child.\n\nIt’s okay to feel uncomfortable. Be open, use the correct words, and get help if you don’t know all the answers.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "If this feels too difficult, especially with a child of a different sex, you can help your teen find a trusted adult they feel comfortable with. Who is a relative or family friend they could talk to?”",
       "section_3_title": "GUIDE",
       "section_3_text": "Your teen will hear about sex from many places. If they feel safe with you, you can help them find good information and make smart choices.\n\nHelp them think about consequences without shame or blame. Make sure they know they should never feel pressure (or pressure others) into sex or a relationship.\n\nYou can also ask other adults or health workers for help and information.",
       "section_3_button_text": "More tips",

@@ -52,30 +52,6 @@
       }
     },
     {
-      "name": "rewards",
-      "value": "@global.rewards",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "rewards",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.rewards",
-            "matchedExpression": "@global.rewards",
-            "type": "global",
-            "fieldName": "rewards"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.rewards": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "library",
       "value": "@global.library",
       "_translations": {
@@ -100,7 +76,7 @@
       }
     },
     {
-      "name": "button_list",
+      "name": "button_list_blue",
       "value": [
         {
           "name": "home_button",
@@ -108,13 +84,6 @@
           "icon": "images/icons/home.svg",
           "active_icon": "images/icons/home_active.svg",
           "target_template": "home_screen"
-        },
-        {
-          "name": "rewards_button",
-          "label": "@local.rewards",
-          "icon": "images/icons/trophy_footer.svg",
-          "active_icon": "images/icons/trophy_footer_active.svg",
-          "target_template": "activity_library"
         },
         {
           "name": "library_button",
@@ -128,6 +97,76 @@
           "label": "@local.settings",
           "icon": "images/icons/settings.svg",
           "active_icon": "images/icons/settings_active.svg",
+          "target_template": "settings"
+        }
+      ],
+      "type": "set_variable",
+      "_nested_name": "button_list_blue",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "label": [
+              {
+                "fullExpression": "@local.home",
+                "matchedExpression": "@local.home",
+                "type": "local",
+                "fieldName": "home"
+              }
+            ]
+          },
+          "1": {
+            "label": [
+              {
+                "fullExpression": "@local.library",
+                "matchedExpression": "@local.library",
+                "type": "local",
+                "fieldName": "library"
+              }
+            ]
+          },
+          "2": {
+            "label": [
+              {
+                "fullExpression": "@local.settings",
+                "matchedExpression": "@local.settings",
+                "type": "local",
+                "fieldName": "settings"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.home": [
+          "value.0.label"
+        ],
+        "@local.library": [
+          "value.1.label"
+        ],
+        "@local.settings": [
+          "value.2.label"
+        ]
+      }
+    },
+    {
+      "name": "button_list",
+      "value": [
+        {
+          "name": "home_button",
+          "label": "@local.home",
+          "icon": "images/icons/home_white.svg",
+          "target_template": "home_screen"
+        },
+        {
+          "name": "library_button",
+          "label": "@local.library",
+          "icon": "images/icons/local_library_white.svg",
+          "target_template": "library"
+        },
+        {
+          "name": "settings_button",
+          "label": "@local.settings",
+          "icon": "images/icons/settings_white.svg",
           "target_template": "settings"
         }
       ],
@@ -148,16 +187,6 @@
           "1": {
             "label": [
               {
-                "fullExpression": "@local.rewards",
-                "matchedExpression": "@local.rewards",
-                "type": "local",
-                "fieldName": "rewards"
-              }
-            ]
-          },
-          "2": {
-            "label": [
-              {
                 "fullExpression": "@local.library",
                 "matchedExpression": "@local.library",
                 "type": "local",
@@ -165,7 +194,7 @@
               }
             ]
           },
-          "3": {
+          "2": {
             "label": [
               {
                 "fullExpression": "@local.settings",
@@ -181,39 +210,38 @@
         "@local.home": [
           "value.0.label"
         ],
-        "@local.rewards": [
+        "@local.library": [
           "value.1.label"
         ],
-        "@local.library": [
-          "value.2.label"
-        ],
         "@local.settings": [
-          "value.3.label"
+          "value.2.label"
         ]
       }
     },
     {
       "type": "plh_bottom_nav",
       "parameter_list": {
-        "button_list": "@local.button_list",
-        "variant": "pill"
+        "button_list": "@local.button_list_blue"
       },
+      "style_list": [
+        "background-color: var(--ion-color-primary-50)"
+      ],
       "name": "plh_bottom_nav_7",
       "_nested_name": "plh_bottom_nav_7",
       "_dynamicFields": {
         "parameter_list": {
           "button_list": [
             {
-              "fullExpression": "@local.button_list",
-              "matchedExpression": "@local.button_list",
+              "fullExpression": "@local.button_list_blue",
+              "matchedExpression": "@local.button_list_blue",
               "type": "local",
-              "fieldName": "button_list"
+              "fieldName": "button_list_blue"
             }
           ]
         }
       },
       "_dynamicDependencies": {
-        "@local.button_list": [
+        "@local.button_list_blue": [
           "parameter_list.button_list"
         ]
       }
@@ -221,7 +249,7 @@
   ],
   "_source": {
     "name": "teens_tz",
-    "path": "templates/TZ app_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1UjnrSmRlo6n5zIC2JG1_FVnA5Q6bazApMU2QXIbOgw0"
+    "path": "templates/TZ app_navigation 2.0.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1gC6QQZZsuHmZ3DhqFdzWKE1VWgb2SwPfRvFCD2Gqpkk"
   }
 }

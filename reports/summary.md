@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 109597 KB | 109.6 MB |
-| unused | 13841 KB | 13.8 MB |
+| total | 109589 KB | 109.6 MB |
+| unused | 13861 KB | 13.9 MB |
 </details>
 
 <details open>
@@ -137,6 +137,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/question_blue.png | 3.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
+| images/icons/trophy_footer.svg | 3.9 |
+| images/icons/trophy_footer_active.svg | 3.9 |
 | images/icons/world.svg | 6.2 |
 | images/logos/Exeter.png | 140.5 |
 | images/logos/donors/ERC-EU.png | 209.7 |
@@ -198,7 +200,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -216,8 +218,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |
@@ -261,12 +263,15 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/globe-outline.svg | 1 |
 | images/icons/heart-outline.png | 1 |
 | images/icons/heart_filled_red.svg | 1 |
+| images/icons/home_white.svg | 1 |
 | images/icons/information-circle-outline.svg | 1 |
+| images/icons/local_library_white.svg | 1 |
 | images/icons/lock-closed-outline.png | 1 |
 | images/icons/lock-closed-outline.svg | 1 |
 | images/icons/lock-open-outline.svg | 3 |
 | images/icons/log-in-outline.svg | 1 |
 | images/icons/person-circle-outline.svg | 1 |
+| images/icons/settings_white.svg | 1 |
 | images/logos/app_logo.png | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
 </details>
@@ -496,8 +501,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 12 |
-| images/icons/trophy_footer.svg | 3.9 | 1 |
-| images/icons/trophy_footer_active.svg | 3.9 | 1 |
 | images/icons/verified.svg | 0.5 | 1 |
 | images/logos/CWBSA.png | 84.4 | 1 |
 | images/logos/GISP.png | 30.5 | 1 |

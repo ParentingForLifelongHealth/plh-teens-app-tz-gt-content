@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "109597 KB",
+        "KB": "109589 KB",
         "MB": "109.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "13841 KB",
-        "MB": "13.8 MB"
+        "KB": "13861 KB",
+        "MB": "13.9 MB"
       }
     ]
   },
@@ -458,6 +458,14 @@
       {
         "path": "images/icons/star_outline_white.svg",
         "size_kb": 1
+      },
+      {
+        "path": "images/icons/trophy_footer.svg",
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/trophy_footer_active.svg",
+        "size_kb": 3.9
       },
       {
         "path": "images/icons/world.svg",
@@ -705,7 +713,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 32.8
+        "size_kb": 57.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -777,11 +785,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.7
+        "size_kb": 34.5
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 38.3
+        "size_kb": 25.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -932,7 +940,17 @@
         "missing": true
       },
       {
+        "path": "images/icons/home_white.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/icons/information-circle-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/local_library_white.svg",
         "count": 1,
         "missing": true
       },
@@ -958,6 +976,11 @@
       },
       {
         "path": "images/icons/person-circle-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/settings_white.svg",
         "count": 1,
         "missing": true
       },
@@ -2064,16 +2087,6 @@
         "path": "images/icons/trophy_blue.png",
         "count": 12,
         "size_kb": 5.1
-      },
-      {
-        "path": "images/icons/trophy_footer.svg",
-        "count": 1,
-        "size_kb": 3.9
-      },
-      {
-        "path": "images/icons/trophy_footer_active.svg",
-        "count": 1,
-        "size_kb": 3.9
       },
       {
         "path": "images/icons/verified.svg",

@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 122
+        "count": 123
       },
       {
         "type": "debug_toggle",
@@ -155,11 +155,11 @@
       },
       {
         "type": "template",
-        "count": 699
+        "count": 698
       },
       {
         "type": "text",
-        "count": 168
+        "count": 182
       },
       {
         "type": "text_area",
@@ -179,7 +179,7 @@
       },
       {
         "type": "title",
-        "count": 55
+        "count": 56
       },
       {
         "type": "toggle_bar",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 507
+        "count": 505
       },
       {
         "type": "emit: force_reload",
@@ -239,7 +239,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 512
+        "count": 510
       },
       {
         "type": "feedback",
@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "112450 KB",
-        "MB": "112.4 MB"
+        "KB": "109597 KB",
+        "MB": "109.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "11001 KB",
-        "MB": "11 MB"
+        "KB": "13841 KB",
+        "MB": "13.8 MB"
       }
     ]
   },
@@ -705,7 +705,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 57.8
+        "size_kb": 32.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -777,11 +777,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.5
+        "size_kb": 34.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 25.7
+        "size_kb": 38.3
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -862,6 +862,14 @@
       {
         "path": "images/teen_modules/stress/OLD/stress2_t_4.svg",
         "size_kb": 55.6
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usebody_t_1.gif",
+        "size_kb": 2008.5
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
+        "size_kb": 844.1
       },
       {
         "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
@@ -2014,7 +2022,7 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 30,
+        "count": 28,
         "size_kb": 5.1
       },
       {
@@ -2958,16 +2966,6 @@
         "size_kb": 639.7
       },
       {
-        "path": "images/teen_modules/svp/svp_usebody_t_1.gif",
-        "count": 2,
-        "size_kb": 2008.5
-      },
-      {
-        "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
-        "count": 2,
-        "size_kb": 844.1
-      },
-      {
         "path": "images/teen_modules/svp/svp_usevoice_t.svg",
         "count": 6,
         "size_kb": 18.4
@@ -3024,7 +3022,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 10
+        "total": 11
       },
       {
         "type": "data_list",
@@ -3034,6 +3032,16 @@
       {
         "type": "data_list",
         "subtype": "app_config_language_list",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_rows",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_schedule",
         "total": 1
       },
       {
@@ -3204,12 +3212,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 109
+        "total": 110
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 533
+        "total": 531
       },
       {
         "type": "template",

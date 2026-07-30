@@ -100,29 +100,6 @@
       "completed": false
     },
     {
-      "id": "sensitive_content_notice",
-      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
-      "_translatedFields": {
-        "section_1_title": {
-          "eng": "⚠️ Sensitive Content Notice"
-        },
-        "section_1_text": {
-          "eng": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help."
-        }
-      },
-      "category_id": "notice",
-      "nested": false,
-      "section_1_title": "⚠️ Sensitive Content Notice",
-      "_translations": {
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {}
-      },
-      "section_1_text": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help.",
-      "completed": false
-    },
-    {
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/svp_intro_t.mp3",
       "media_type": "audio",
@@ -152,6 +129,29 @@
       },
       "media_title": "Why is discussing safety with your teen important? Tap play to find out",
       "media_transcript": "Greetings everyone.\n\nOur topic is staying safe.\n\nAs parents it is important to ensure that our teens are safe at all times. Our safety and our children’s safety is important. We may need to have discussions with our children about their safety, and how they can keep themselves safe always.",
+      "completed": false
+    },
+    {
+      "id": "sensitive_content_notice",
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "⚠️ Sensitive Content Notice"
+        },
+        "section_1_text": {
+          "eng": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help."
+        }
+      },
+      "category_id": "notice",
+      "nested": false,
+      "section_1_title": "⚠️ Sensitive Content Notice",
+      "_translations": {
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {}
+      },
+      "section_1_text": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help.",
       "completed": false
     },
     {

@@ -52,12 +52,12 @@
   },
   "_output_flows": [
     {
-      "flow_name": "article_stayingsafe3_t_sensitive_content_notice",
+      "flow_name": "article_stayingsafe3_t_intro_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_stayingsafe3_t_intro_1",
+      "flow_name": "article_stayingsafe3_t_sensitive_content_notice",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

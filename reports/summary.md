@@ -12,7 +12,7 @@
 | audio | 4 |
 | button | 93 |
 | combo_box | 9 |
-| data_items | 122 |
+| data_items | 123 |
 | debug_toggle | 1 |
 | display_grid | 5 |
 | display_group | 96 |
@@ -41,13 +41,13 @@
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 5 |
-| template | 699 |
-| text | 168 |
+| template | 698 |
+| text | 182 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 7 |
 | tile_component | 2 |
-| title | 55 |
+| title | 56 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
@@ -62,13 +62,13 @@
 | app_update | 1 |
 | asset_pack | 3 |
 | auth | 3 |
-| emit: completed | 507 |
+| emit: completed | 505 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 3 |
-| emit: uncompleted | 512 |
+| emit: uncompleted | 510 |
 | feedback | 13 |
 | go_to | 19 |
 | nav_stack | 193 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 112450 KB | 112.4 MB |
-| unused | 11001 KB | 11 MB |
+| total | 109597 KB | 109.6 MB |
+| unused | 13841 KB | 13.8 MB |
 </details>
 
 <details open>
@@ -198,7 +198,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -216,8 +216,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |
@@ -238,6 +238,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/stress/OLD/stress2_t_2.svg | 59.4 |
 | images/teen_modules/stress/OLD/stress2_t_3.svg | 55.3 |
 | images/teen_modules/stress/OLD/stress2_t_4.svg | 55.6 |
+| images/teen_modules/svp/svp_usebody_t_1.gif | 2008.5 |
+| images/teen_modules/svp/svp_usebody_t_2.gif | 844.1 |
 | images/teen_modules/svp/svp_usebody_t_3.gif | 1111.6 |
 | lottie/bulging_circles.txt | 0.2 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
@@ -485,7 +487,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_down.svg | 0.9 | 23 |
 | images/icons/smile_eyes_up.svg | 1 | 57 |
 | images/icons/speech_bubble_blue.png | 4.2 | 10 |
-| images/icons/star_filled_blue.png | 5.1 | 30 |
+| images/icons/star_filled_blue.png | 5.1 | 28 |
 | images/icons/star_outline_blue.svg | 1 | 20 |
 | images/icons/tablet_blue.png | 2.8 | 2 |
 | images/icons/thought_bubble.svg | 2.1 | 19 |
@@ -674,8 +676,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/stress/stress2_t_1.png | 673.1 | 2 |
 | images/teen_modules/stress/stress2_t_2.png | 599.9 | 2 |
 | images/teen_modules/stress/stress2_t_3.png | 639.7 | 2 |
-| images/teen_modules/svp/svp_usebody_t_1.gif | 2008.5 | 2 |
-| images/teen_modules/svp/svp_usebody_t_2.gif | 844.1 | 2 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 6 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 23.6 | 1 |
@@ -693,9 +693,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 10 |
+| data_list |  | 11 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
+| data_list | campaign_rows | 1 |
+| data_list | campaign_schedule | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 40 |
 | data_list | hp_review | 2 |
@@ -729,7 +731,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 109 |
-| template | generated | 533 |
+| template |  | 110 |
+| template | generated | 531 |
 | template | legal_terms | 4 |
 </details>

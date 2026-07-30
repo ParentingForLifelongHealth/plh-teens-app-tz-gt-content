@@ -83,62 +83,6 @@
       "text_2": "**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”"
     },
     {
-      "id": "practise_2",
-      "category_id": "practise",
-      "image_asset": "/images/teen_modules/svp/svp_usebody_t_1.gif",
-      "section_1_icon_asset": "images/icons/star_filled_blue.png",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
-      "text_1_facilitator": "When our voice does not stop the situation, we can use our bodies to defend ourselves.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "section_1_title": {},
-        "section_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "When our voice does not stop the situation, we can use our bodies to defend ourselves."
-        },
-        "text_2": {
-          "eng": "Learn how to protect yourself by knowing weak spots on an attacker’s body:"
-        },
-        "section_1_title": {
-          "eng": "Weak Spots"
-        },
-        "section_1_text": {
-          "eng": "**TEMPLES**\n- Punch the attacker’s temples with your fist or the back of your elbow.\n**NOSE** \n- Punch the attacker’s nose with your fist or the back of your elbow.\n**EARS**\n- With flat hands, smack the attacker’s ears from both sides as hard as possible. You can also pull or twist them.\n**RIBS**\n- Punch the attacker in the ribs with your fist or the back of your elbow.\n**FINGERS**\n- Pull the attacker's pinky or little finger away from the other fingers hard and fast (it breaks easily).\n**SHINS**\n- Kick against the attacker’s shins as hard as you can.\n**TOP OF FEET**\n- Lift your foot and stomp your heel on the top of your attacker’s foot."
-        }
-      },
-      "text_2": "Learn how to protect yourself by knowing weak spots on an attacker’s body:",
-      "section_1_title": "Weak Spots",
-      "section_1_text": "**TEMPLES**\n- Punch the attacker’s temples with your fist or the back of your elbow.\n**NOSE** \n- Punch the attacker’s nose with your fist or the back of your elbow.\n**EARS**\n- With flat hands, smack the attacker’s ears from both sides as hard as possible. You can also pull or twist them.\n**RIBS**\n- Punch the attacker in the ribs with your fist or the back of your elbow.\n**FINGERS**\n- Pull the attacker's pinky or little finger away from the other fingers hard and fast (it breaks easily).\n**SHINS**\n- Kick against the attacker’s shins as hard as you can.\n**TOP OF FEET**\n- Lift your foot and stomp your heel on the top of your attacker’s foot."
-    },
-    {
-      "id": "practise_3",
-      "category_id": "practise",
-      "image_asset": "/images/teen_modules/svp/svp_usebody_t_2.gif",
-      "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
-      "text_1_facilitator": "Here is an additional image to show you more examples of how you can use the weak spots or targets on your attacker’s body.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Here is an additional image to show you more examples of how you can use the weak spots or targets on your attacker’s body."
-        }
-      }
-    },
-    {
       "id": "tips_1",
       "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/eye_blue.png",

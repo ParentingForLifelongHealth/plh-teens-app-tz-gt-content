@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 109589 KB | 109.6 MB |
-| unused | 13861 KB | 13.9 MB |
+| unused | 13849 KB | 13.8 MB |
 </details>
 
 <details open>
@@ -200,7 +200,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -218,8 +218,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |

@@ -179,9 +179,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -209,7 +207,7 @@
           "eng": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult."
         },
         "quiz_1_question": {
-          "eng": "Can you discuss the Staying Safe module with your teen this week?"
+          "eng": "Can you discuss the Pretect Yourself module with your teen this week?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"
@@ -231,7 +229,7 @@
         }
       },
       "text_2": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult.",
-      "quiz_1_question": "Can you discuss the Staying Safe module with your teen this week?",
+      "quiz_1_question": "Can you discuss the Pretect Yourself module with your teen this week?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "Fantastic! Going through this module’s skills makes it more likely your teen will act quickly and protect themselves when it matters most.",
       "quiz_1_option_2_text": "I think so",

@@ -315,7 +315,7 @@
           "eng": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult."
         },
         "quiz_1_question": {
-          "eng": "Can you discuss the Staying Safe module with your teen this week?"
+          "eng": "Can you discuss the Pretect Yourself module with your teen this week?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"
@@ -349,9 +349,7 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -366,7 +364,7 @@
       },
       "quiz_1_feedback_2": "That is a good start! Every time you talk about safety, you make it easier for your teen to trust their instincts and speak up. Keep going!",
       "quiz_1_feedback_3": "That's okay. Safety talks can feel hard, but even one conversation can prepare your teen for real situations. You can try again when you are ready.",
-      "quiz_1_question": "Can you discuss the Staying Safe module with your teen this week?",
+      "quiz_1_question": "Can you discuss the Pretect Yourself module with your teen this week?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",

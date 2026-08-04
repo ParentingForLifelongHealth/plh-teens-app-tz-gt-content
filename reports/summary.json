@@ -300,8 +300,8 @@
       },
       {
         "assets": "unused",
-        "KB": "13861 KB",
-        "MB": "13.9 MB"
+        "KB": "13849 KB",
+        "MB": "13.8 MB"
       }
     ]
   },
@@ -713,7 +713,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 57.8
+        "size_kb": 32.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -785,11 +785,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.5
+        "size_kb": 34.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 25.7
+        "size_kb": 38.3
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",

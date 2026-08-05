@@ -3,6 +3,7 @@
     "ComposeResult": "app/1_compose_result",
     "CoreGroups": [["data_list", [
         "activities",
+        "campaign_rows",
         "check_in",
         "hp_review",
         "legal_terms",
@@ -51,7 +52,8 @@
             ["legal_terms", "plh_teens_tz"], 
             ["activities", "plh_teens_tz"],
             ["library", "plh_teens_tz"],
-            ["onboarding", "plh_teens_tz"]
+            ["onboarding", "plh_teens_tz"],
+            ["campaign_rows", "plh_teens_tz"]
           ],
     "ExtractResult": "app/2_extract_result",
     "ReadyForTranslation": "app/3_ready_for_translators",

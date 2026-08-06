@@ -75,7 +75,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money1_t_1.png",
+      "image_asset": "/images/teen_modules/money/money1_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "nested": false,
@@ -191,7 +191,7 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money3_t_4.png",
+      "image_asset": "/images/teen_modules/money/money3_t_4.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "text_1_facilitator": "**Step 2: CHOOSE**\nThink about your needs and wants.\n- WANT is something you can live without. \n- NEED is something you cannot live without.",
@@ -264,7 +264,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money3_t_1.png",
+      "image_asset": "/images/teen_modules/money/money3_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "nested": false,
@@ -298,7 +298,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money3_t_2.png",
+      "image_asset": "/images/teen_modules/money/money3_t_2.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "nested": false,
@@ -325,7 +325,7 @@
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money3_t_3.png",
+      "image_asset": "/images/teen_modules/money/money3_t_3.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
       "nested": false,
@@ -352,7 +352,7 @@
     {
       "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money3_t_4.png",
+      "image_asset": "/images/teen_modules/money/money3_t_4.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
       "nested": false,
@@ -379,7 +379,7 @@
     {
       "id": "explore_11",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/money/money3_t_5.png",
+      "image_asset": "/images/teen_modules/money/money3_t_5.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
       "nested": false,

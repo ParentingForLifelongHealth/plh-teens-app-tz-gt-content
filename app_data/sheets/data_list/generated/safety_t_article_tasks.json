@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_2",
-      "in_library": "yes",
       "lottie_asset": "lottie/relax/soothing_waves.json",
       "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
@@ -561,7 +560,7 @@
       "quiz_1_option_1_text": "Abuses his power",
       "quiz_1_option_2_text": "Pressures and manipulates @data.characters.f2_son_15.name",
       "quiz_1_option_3_text": "Makes @data.characters.f2_son_15.name feel unsafe",
-      "image_asset": "/images/teen_modules/safe/warning_private_tutoring_t.png",
+      "image_asset": "/images/teen_modules/safe/warning_private_tutoring_t.svg",
       "character_1_id": "teacher_1",
       "character_2_id": "f2_son_15",
       "character_3_id": "teacher_1",
@@ -673,7 +672,7 @@
       "quiz_1_option_1_text": "Does not listen to @data.characters.f2_daughter_19.name",
       "quiz_1_option_2_text": "Yells and calls @data.characters.f2_daughter_19.name names",
       "quiz_1_option_3_text": "May touch @data.characters.f2_daughter_19.name without permission",
-      "image_asset": "/images/teen_modules/safe/warning_rejected_ride_t.png",
+      "image_asset": "/images/teen_modules/safe/warning_rejected_ride_t.svg",
       "character_1_id": "f2_daughter_19",
       "character_2_id": "man_in_car",
       "text_2": "@data.characters.f2_daughter_19.name says 'no' to offered lift",
@@ -755,7 +754,7 @@
       "quiz_1_option_1_text": "Breaks @data.characters.friend_female_2.name's trust",
       "quiz_1_option_2_text": "Breaks the law",
       "quiz_1_option_3_text": "Shows his friends nude content",
-      "image_asset": "/images/teen_modules/safe/warning_nude_pic_t.png",
+      "image_asset": "/images/teen_modules/safe/warning_nude_pic_t.svg",
       "character_1_id": "friend_male_2",
       "text_2": "@data.characters.friend_female_2.name's nude picture is shared",
       "character_1_text": "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me.",
@@ -1084,7 +1083,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/safe/safe1_t_4.png",
+      "image_asset": "/images/teen_modules/safe/safe1_t_4.svg",
       "character_1_id": "f1_father",
       "character_1_text": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me or your @data.characters.f1_mother.role_name for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing.",
       "completed": false
@@ -1130,7 +1129,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/safe/safe1_t_6.png",
+      "image_asset": "/images/teen_modules/safe/safe1_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "character_1_text": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",

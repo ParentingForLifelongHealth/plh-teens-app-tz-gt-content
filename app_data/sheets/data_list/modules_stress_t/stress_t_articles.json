@@ -343,7 +343,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress2_t_1.png",
+      "image_asset": "/images/teen_modules/stress/stress2_t_1.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_13",
       "character_3_id": "f1_son_18",
@@ -385,7 +385,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress2_t_2.png",
+      "image_asset": "/images/teen_modules/stress/stress2_t_2.svg",
       "character_1_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
@@ -404,7 +404,7 @@
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress2_t_3.png",
+      "image_asset": "/images/teen_modules/stress/stress2_t_3.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_daughter_13",
       "character_3_id": "f1_father",

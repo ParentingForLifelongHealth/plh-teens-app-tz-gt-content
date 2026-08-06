@@ -406,67 +406,17 @@
       "image_asset": "images/homescreen/svp_t.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_13",
-      "title": "Protecting Yourself",
+      "title": "Staying Safe",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Protecting Yourself"
+          "eng": "Staying Safe"
         }
       },
       "completed": false,
       "task_child": "stayingsafe_t_article_tasks"
-    },
-    {
-      "id": "stayingsafe2_t",
-      "tag_list": [
-        "teen"
-      ],
-      "tag_course": "bonus_t",
-      "unlock_tag": 2.4,
-      "number": 3.8,
-      "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
-      "image_asset": "images/homescreen/svp_t.svg",
-      "relax_id": "relax_3",
-      "check_in_id": "check_in_13",
-      "title": "Protecting Yourself v2",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Protecting Yourself v2"
-        }
-      },
-      "completed": false,
-      "task_child": "stayingsafe2_t_article_tasks"
-    },
-    {
-      "id": "stayingsafe3_t",
-      "tag_list": [
-        "teen"
-      ],
-      "tag_course": "bonus_t",
-      "unlock_tag": 2.4,
-      "number": 3.9,
-      "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
-      "image_asset": "images/homescreen/svp_t.svg",
-      "relax_id": "relax_3",
-      "check_in_id": "check_in_13",
-      "title": "Protecting Yourself v3",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Protecting Yourself v3"
-        }
-      },
-      "completed": false,
-      "task_child": "stayingsafe3_t_article_tasks"
     }
   ],
   "_metadata": {

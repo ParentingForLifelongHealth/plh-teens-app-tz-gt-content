@@ -279,7 +279,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_1.png",
+      "image_asset": "/images/teen_modules/instruct/instruct2_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "Stop kicking that ball around. Can’t you see we are busy here? You’ll knock over the pot!",
@@ -302,7 +302,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_2.png",
+      "image_asset": "/images/teen_modules/instruct/instruct2_t_2.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "Don't you talk back to me!",
@@ -469,7 +469,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_1.png",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_1_text": "@data.characters.f2_daughter_19.name, it is great to see you enjoying your soccer with your friend! Please go play behind the house so the ball does not knock over the pot.",
@@ -492,7 +492,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_2.png",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_2.svg",
       "text_2": "@data.characters.f2_daughter_19.name and her friend enjoy practising their soccer moves.",
       "_translations": {
         "text_2": {
@@ -524,7 +524,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_3.png",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_3.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "character_1_text": "That was a great shot, @data.characters.f2_daughter_19.name, you keep getting better!",

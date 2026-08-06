@@ -371,7 +371,7 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/warning_private_tutoring_t.png",
+      "image_asset": "/images/teen_modules/safe/warning_private_tutoring_t.svg",
       "character_1_id": "teacher_1",
       "character_2_id": "f2_son_15",
       "character_3_id": "teacher_1",
@@ -476,7 +476,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/warning_rejected_ride_t.png",
+      "image_asset": "/images/teen_modules/safe/warning_rejected_ride_t.svg",
       "character_1_id": "f2_daughter_19",
       "character_2_id": "man_in_car",
       "nested": false,
@@ -587,7 +587,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/warning_nude_pic_t.png",
+      "image_asset": "/images/teen_modules/safe/warning_nude_pic_t.svg",
       "character_1_id": "friend_male_2",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
@@ -955,7 +955,7 @@
     {
       "id": "explore_11",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_4.png",
+      "image_asset": "/images/teen_modules/safe/safe1_t_4.svg",
       "character_1_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
@@ -1008,7 +1008,7 @@
     {
       "id": "explore_13",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/safe/safe1_t_6.png",
+      "image_asset": "/images/teen_modules/safe/safe1_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "nested": false,

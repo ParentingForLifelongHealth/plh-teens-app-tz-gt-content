@@ -124,16 +124,6 @@
       "flow_name": "module_stayingsafe_t",
       "flow_subtype": "generated",
       "flow_type": "template"
-    },
-    {
-      "flow_name": "module_stayingsafe2_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_stayingsafe3_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
     }
   ]
 }

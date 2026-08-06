@@ -129,7 +129,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Our topic today is protecting yourself.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in."
+          "eng": "Our topic today is Staying Safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in."
         },
         "media_title": {
           "eng": "Why is discussing safety with your teen important? Tap play to find out"
@@ -140,7 +140,7 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Our topic today is protecting yourself.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.",
+      "text_1_facilitator": "Our topic today is Staying Safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {
@@ -155,27 +155,19 @@
       "completed": false
     },
     {
-      "id": "practise_1",
+      "id": "intro_2",
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "We’ve looked at warning signs in the Protect Yourself lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?"
-        },
-        "text_2": {
-          "eng": "**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”"
+          "eng": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!"
         }
       },
-      "category_id": "practise",
+      "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "We’ve looked at warning signs in the Protect Yourself lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
+      "text_1_facilitator": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
-      "image_asset": "/images/teen_modules/svp/svp_usevoice_t.svg",
-      "text_2": "**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”",
       "completed": false
     },
     {
@@ -183,7 +175,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Here are some skills to help you and your teen stay safe!"
+          "eng": "Here are four skills to help you and your teen stay safe!"
         },
         "section_1_title": {
           "eng": "SEE"
@@ -222,9 +214,7 @@
       "_translations": {
         "section_1_title": {},
         "section_1_text": {},
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "section_2_title": {},
         "section_2_text": {},
         "section_3_title": {},
@@ -239,7 +229,7 @@
         }
       },
       "section_1_text": "Be on the lookout for danger. Notice if someone is following you or trying to grab you.",
-      "text_1_facilitator": "Here are some skills to help you and your teen stay safe!",
+      "text_1_facilitator": "Here are four skills to help you and your teen stay safe!",
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
       "section_3_icon_asset": "images/icons/brain_blue.png",
@@ -255,11 +245,33 @@
       "completed": false
     },
     {
+      "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Think about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?"
+        },
+        "text_2": {
+          "eng": "**Together with your teen, find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”"
+        }
+      },
+      "category_id": "practise",
+      "nested": false,
+      "text_1_facilitator": "Think about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "image_asset": "/images/teen_modules/svp/svp_usevoice_t.svg",
+      "text_2": "**Together with your teen, find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”",
+      "completed": false
+    },
+    {
       "id": "home_activity_1",
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This week's home activity is to talk with your teen about this Protect Yourself module. Get them to practice saying NO!\n\nGo through the steps with your teen to identify what they are able to do, and practice saying NO as a first step to build their confidence."
+          "eng": "This week's home activity is to talk with your teen about this Staying Safe module. Get them to practice saying NO!\n\nGo through the steps with your teen to identify what they are able to do, and practice saying NO as a first step to build their confidence."
         },
         "text_2": {
           "eng": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult."
@@ -318,7 +330,7 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "This week's home activity is to talk with your teen about this Protect Yourself module. Get them to practice saying NO!\n\nGo through the steps with your teen to identify what they are able to do, and practice saying NO as a first step to build their confidence.",
+      "text_1_facilitator": "This week's home activity is to talk with your teen about this Staying Safe module. Get them to practice saying NO!\n\nGo through the steps with your teen to identify what they are able to do, and practice saying NO as a first step to build their confidence.",
       "text_2": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult.",
       "completed": false
     },

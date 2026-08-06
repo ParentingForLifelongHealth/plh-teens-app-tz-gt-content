@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "relax_2",
-      "in_library": "yes",
       "lottie_asset": "lottie/relax/soothing_waves.json",
       "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
@@ -475,7 +474,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/stress/stress2_t_1.png",
+      "image_asset": "/images/teen_modules/stress/stress2_t_1.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_13",
       "character_1_text": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. \n\nI know this is also hard for you. How are you feeling?",
@@ -494,7 +493,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/stress/stress2_t_2.png",
+      "image_asset": "/images/teen_modules/stress/stress2_t_2.svg",
       "character_1_id": "f1_father",
       "character_1_text": "You two are amazing. You've been carrying so much burden. We want to provide everything you need, but things like airtime and private tutoring cost a lot of money.",
       "_translations": {
@@ -520,7 +519,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/stress/stress2_t_3.png",
+      "image_asset": "/images/teen_modules/stress/stress2_t_3.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_daughter_13",
       "character_1_text": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",

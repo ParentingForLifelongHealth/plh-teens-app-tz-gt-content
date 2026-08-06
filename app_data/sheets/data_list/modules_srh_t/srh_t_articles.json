@@ -106,7 +106,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh1_t_1.png",
+      "image_asset": "/images/teen_modules/srh/srh1_t_1.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "nested": false,
@@ -147,7 +147,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh1_t_2.png",
+      "image_asset": "/images/teen_modules/srh/srh1_t_2.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "nested": false,
@@ -181,7 +181,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh1_t_3.png",
+      "image_asset": "/images/teen_modules/srh/srh1_t_3.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "nested": false,
@@ -208,7 +208,7 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/srh/srh1_t_4.png",
+      "image_asset": "/images/teen_modules/srh/srh1_t_4.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_son_15",
       "nested": false,
@@ -852,7 +852,7 @@
       "id": "explore_13_nested_4",
       "category_id": "explore",
       "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_4.png",
+      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_who_t_4.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Yes, you can ask another trusted adult to start this conversation with your teen if that would help your teen open up. \n\nTalk to that adult beforehand and help them be open and use the right words for any body parts they discuss (like breasts, penis, or vagina).\n\nThey can practise with you and ask a health worker or social worker for more information. The more they know, the better they can help your teen.",
       "_translations": {
@@ -978,7 +978,7 @@
       "id": "explore_14_nested_3",
       "category_id": "explore",
       "nested": true,
-      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_3.png",
+      "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "That's right! \n\nAge 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n\nThis will also help them cope better with sexual feelings safely.",
       "_translations": {

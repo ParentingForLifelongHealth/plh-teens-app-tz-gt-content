@@ -196,7 +196,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/money/money1_t_1.png",
+      "image_asset": "/images/teen_modules/money/money1_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "character_1_text": "I am so stressed. We don’t have any money left. And now I am fighting with @data.characters.f2_son_15.name over things he wants – again.",
@@ -309,7 +309,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/money/money3_t_4.png",
+      "image_asset": "/images/teen_modules/money/money3_t_4.svg",
       "text_2": "Look at your list of things you spend money on and choose:\n\n- Which are NEEDS that you cannot live without? Why?\n- Which are WANTS which are nice to have but not essential? Why?\n- Which things could you try to spend less money on?",
       "completed": false
     },
@@ -391,7 +391,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/money/money3_t_1.png",
+      "image_asset": "/images/teen_modules/money/money3_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "character_1_text": "We want the best future for our grandchildren, but I do not know where to get the money.",
@@ -411,7 +411,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/money/money3_t_2.png",
+      "image_asset": "/images/teen_modules/money/money3_t_2.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "character_1_text": "I’d love for @data.characters.f2_son_15.name to go to high school.",
@@ -439,7 +439,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/money/money3_t_3.png",
+      "image_asset": "/images/teen_modules/money/money3_t_3.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
       "character_1_text": "I know — let’s start with a plan! Maybe we can make a budget and see how we can save our money.",
@@ -467,7 +467,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/money/money3_t_4.png",
+      "image_asset": "/images/teen_modules/money/money3_t_4.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
       "character_1_text": "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want.",
@@ -498,7 +498,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/money/money3_t_5.png",
+      "image_asset": "/images/teen_modules/money/money3_t_5.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
       "character_1_text": "Look, we reached our dreams! We did not borrow any money from friends or loan sharks.",

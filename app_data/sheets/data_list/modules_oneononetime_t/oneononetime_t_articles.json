@@ -75,7 +75,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/one_on_one/1on1_t_1.png",
+      "image_asset": "/images/teen_modules/one_on_one/1on1_t_1.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_12",
       "character_3_id": "f3_mother",
@@ -117,7 +117,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/one_on_one/1on1_t_2.png",
+      "image_asset": "/images/teen_modules/one_on_one/1on1_t_2.svg",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
       "nested": false,
@@ -144,7 +144,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/one_on_one/1on1_t_3.png",
+      "image_asset": "/images/teen_modules/one_on_one/1on1_t_3.svg",
       "character_1_id": "f3_daughter_12",
       "character_2_id": "f3_mother",
       "nested": false,

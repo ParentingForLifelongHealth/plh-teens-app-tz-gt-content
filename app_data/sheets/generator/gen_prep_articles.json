@@ -149,16 +149,6 @@
       "flow_name": "prep_stayingsafe_t_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_stayingsafe2_t_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_stayingsafe3_t_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
     }
   ]
 }

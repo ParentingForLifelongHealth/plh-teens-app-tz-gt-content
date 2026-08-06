@@ -154,7 +154,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_1.png",
+      "image_asset": "/images/teen_modules/instruct/instruct2_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "nested": false,
@@ -188,7 +188,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct2_t_2.png",
+      "image_asset": "/images/teen_modules/instruct/instruct2_t_2.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "character_3_id": "f2_grandmother",
@@ -341,7 +341,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_1.png",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_1.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "nested": false,
@@ -375,7 +375,7 @@
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_2.png",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_2.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
       "nested": false,
@@ -409,7 +409,7 @@
     {
       "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/instruct/instruct3_t_3.png",
+      "image_asset": "/images/teen_modules/instruct/instruct3_t_3.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_grandfather",
       "nested": false,

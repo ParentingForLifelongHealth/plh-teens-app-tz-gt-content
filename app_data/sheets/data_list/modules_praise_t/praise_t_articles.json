@@ -196,7 +196,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/praise/praise1_t_1.png",
+      "image_asset": "/images/teen_modules/praise/praise1_t_1.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "nested": false,
@@ -230,7 +230,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/praise/praise1_t_2.png",
+      "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "nested": false,
@@ -257,7 +257,7 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/praise/praise1_t_3.png",
+      "image_asset": "/images/teen_modules/praise/praise1_t_3.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "nested": false,

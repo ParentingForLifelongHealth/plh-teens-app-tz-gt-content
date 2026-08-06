@@ -75,7 +75,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.png",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_1.svg",
       "quiz_2_option_2_image_asset": "Remind them of easy ways to take care of themselves",
       "quiz_2_option_3_image_asset": "Help them find time to relax by offering to assist with chores or childcare",
       "quiz_2_option_4_image_asset": "Find moments of play and laughter together",
@@ -201,7 +201,7 @@
     {
       "id": "explore_2",
       "category_id": "practise",
-      "image_asset": "/images/teen_modules/self_care/self_care1_t_2.png",
+      "image_asset": "/images/teen_modules/self_care/self_care1_t_2.svg",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Appreciating ourselves is one way to care for ourselves. \n\nLet’s give it a try.",

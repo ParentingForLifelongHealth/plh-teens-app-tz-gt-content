@@ -10,12 +10,12 @@
 | apple_sign_in_button | 2 |
 | asset_pack_download_button | 2 |
 | audio | 4 |
-| button | 93 |
+| button | 95 |
 | combo_box | 9 |
 | data_items | 119 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 96 |
+| display_group | 100 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 20 |
@@ -42,12 +42,12 @@
 | task_card | 6 |
 | task_progress_bar | 5 |
 | template | 656 |
-| text | 182 |
+| text | 184 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 7 |
 | tile_component | 2 |
-| title | 56 |
+| title | 58 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
@@ -60,7 +60,7 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| asset_pack | 3 |
+| asset_pack | 5 |
 | auth | 3 |
 | emit: completed | 473 |
 | emit: force_reload | 4 |
@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 71838 KB | 71.8 MB |
-| unused | 52289 KB | 52.3 MB |
+| unused | 52277 KB | 52.3 MB |
 </details>
 
 <details open>
@@ -226,7 +226,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -249,8 +249,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |
@@ -318,7 +318,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 2 |
 | images/logos/plh_white.svg | 1 |
-| images/onboarding/facilitator_onboarding_icon.svg | 1 |
 | images/teen_modules/crisis/crisis1_t_7.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_1.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_2.svg | 2 |
@@ -353,6 +352,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/teen_modules/stress/stress2_t_1.svg | 2 |
 | images/teen_modules/stress/stress2_t_2.svg | 2 |
 | images/teen_modules/stress/stress2_t_3.svg | 2 |
+| lottie/loading_dots.json | 1 |
 </details>
 
 <details >
@@ -602,7 +602,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/partners/Vodacom.png | 59.2 | 1 |
 | images/logos/partners/WHO.jpeg | 310.7 | 1 |
 | images/logos/partners/tz_ministry.svg | 122.4 | 1 |
-| images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 1 |
+| images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
 | images/onboarding/join_parents.svg | 37.6 | 1 |

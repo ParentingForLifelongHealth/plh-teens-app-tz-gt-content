@@ -297,7 +297,7 @@
       "category_id": "explore",
       "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis1_t_4.svg",
-      "character_1_id": "f2_daughter_19",
+      "character_1_id": "f2_grandmother",
       "character_1_text": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?",
       "_translations": {
         "character_1_text": {
@@ -307,7 +307,7 @@
           "tz_sw": true
         }
       },
-      "character_2_id": "f2_grandmother",
+      "character_2_id": "f2_daughter_19",
       "character_2_text": "Yes, that’s a good idea.",
       "completed": false
     },

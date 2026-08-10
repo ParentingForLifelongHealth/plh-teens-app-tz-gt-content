@@ -1,6 +1,6 @@
 import { generateDeploymentConfig,loadEncryptedConfig } from "scripts";
 
-const config = generateDeploymentConfig("plh_teens_tz");
+const config = generateDeploymentConfig("plh_teens_tz_gt");
 
 
 config.git = {

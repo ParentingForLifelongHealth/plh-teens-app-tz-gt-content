@@ -1,16 +1,9 @@
-# plh-kids-app-tz-content
-This package contains data used in the Tanzania version of the PLH Kids app
-
-Linked directly to PLH Kids https://github.com/IDEMSInternational/plh-teens-app-content
+# plh-teens-app-tz-content
+This package contains data used in Gender Transformative version of the PLH Teens Tanzania ParentApp.
 
 ## App Preview
-[https://plh-kids-tz.web.app/](https://plh-teens-tz-gt.web.app/template/home_screen)
+Testing: https://plh-teens-tz-gt.web.app
 
-## Syncing data updates (automatic)
-A pull request syncing all spreadsheets and assets can be created automatically by running the following GitHub workflow: [Sync Content](https://github.com/IDEMSInternational/plh-tkids-app-tz-content/actions/workflows/content-sync.yml)
+Production: https://plh-teens-tz-preview.web.app (same as https://github.com/ParentingForLifelongHealth/plh-teens-app-tz-content)
 
-## Syncing data updates (manual)
-Data can be syncd from corresponding google drive folders via the script
-```
-yarn scripts app-data-sync
-```
+RCT+ (no longer receiving updates): https://plh-teens-tz.web.app

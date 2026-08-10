@@ -31,7 +31,7 @@
       },
       {
         "type": "button",
-        "count": 93
+        "count": 95
       },
       {
         "type": "combo_box",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 96
+        "count": 100
       },
       {
         "type": "drawer",
@@ -159,7 +159,7 @@
       },
       {
         "type": "text",
-        "count": 182
+        "count": 184
       },
       {
         "type": "text_area",
@@ -179,7 +179,7 @@
       },
       {
         "type": "title",
-        "count": 56
+        "count": 58
       },
       {
         "type": "toggle_bar",
@@ -207,7 +207,7 @@
       },
       {
         "type": "asset_pack",
-        "count": 3
+        "count": 5
       },
       {
         "type": "auth",
@@ -300,7 +300,7 @@
       },
       {
         "assets": "unused",
-        "KB": "52289 KB",
+        "KB": "52277 KB",
         "MB": "52.3 MB"
       }
     ]
@@ -817,7 +817,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 57.8
+        "size_kb": 32.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -909,11 +909,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.5
+        "size_kb": 34.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 25.7
+        "size_kb": 38.3
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -1172,11 +1172,6 @@
         "missing": true
       },
       {
-        "path": "images/onboarding/facilitator_onboarding_icon.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/teen_modules/crisis/crisis1_t_7.svg",
         "count": 2,
         "missing": true
@@ -1344,6 +1339,11 @@
       {
         "path": "images/teen_modules/stress/stress2_t_3.svg",
         "count": 2,
+        "missing": true
+      },
+      {
+        "path": "lottie/loading_dots.json",
+        "count": 1,
         "missing": true
       }
     ]
@@ -2552,7 +2552,7 @@
       },
       {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 29.4
       },
       {

@@ -26,7 +26,7 @@
     {
       "type": "declare_global_constant",
       "name": "home_screen_logo_asset",
-      "value": "images/logos/plh_logomark.png",
+      "value": "images/logos/partners/plh_logomark.png",
       "_translations": {
         "value": {}
       }

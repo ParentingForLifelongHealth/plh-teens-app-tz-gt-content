@@ -1128,6 +1128,10 @@
     "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
     "size_kb": 37.3
   },
+  "images/backgrounds/lesson-cta-bg.svg": {
+    "md5Checksum": "1bac3b482f645870647334bbf7fdae96",
+    "size_kb": 3.9
+  },
   "images/backgrounds/library_top_right.png": {
     "md5Checksum": "c84db4d3364362bea0912febbcd51ca1",
     "size_kb": 1358.6
@@ -1583,6 +1587,10 @@
   "images/icons/local_library_active.svg": {
     "md5Checksum": "32cacaa501602e12c42cbf6f9a908efd",
     "size_kb": 1.6
+  },
+  "images/icons/lock-closed-outline.svg": {
+    "md5Checksum": "915b4381d9eafd80f577641d54edea85",
+    "size_kb": 0.4
   },
   "images/icons/lock.svg": {
     "md5Checksum": "0626195897db0154bcbd0f9942868f60",

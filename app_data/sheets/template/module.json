@@ -704,34 +704,41 @@
                   "condition": "!@item._last && !@item._first",
                   "rows": [
                     {
-                      "name": "show_progress",
-                      "value": true,
-                      "type": "set_variable",
-                      "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_middle.show_progress"
-                    },
-                    {
-                      "name": "progress",
-                      "value": "@local.progress",
-                      "_translations": {
-                        "value": {}
-                      },
-                      "type": "set_variable",
-                      "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_middle.progress",
-                      "_dynamicFields": {
-                        "value": [
-                          {
-                            "fullExpression": "@local.progress",
-                            "matchedExpression": "@local.progress",
-                            "type": "local",
-                            "fieldName": "progress"
+                      "type": "nested_properties",
+                      "name": "article",
+                      "rows": [
+                        {
+                          "name": "show_progress",
+                          "value": true,
+                          "type": "set_variable",
+                          "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_middle.article.show_progress"
+                        },
+                        {
+                          "name": "progress",
+                          "value": "@local.progress",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_middle.article.progress",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "@local.progress",
+                                "matchedExpression": "@local.progress",
+                                "type": "local",
+                                "fieldName": "progress"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@local.progress": [
+                              "value"
+                            ]
                           }
-                        ]
-                      },
-                      "_dynamicDependencies": {
-                        "@local.progress": [
-                          "value"
-                        ]
-                      }
+                        }
+                      ],
+                      "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_middle.article"
                     }
                   ],
                   "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_middle",

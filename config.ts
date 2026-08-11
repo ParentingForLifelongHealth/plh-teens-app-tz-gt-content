@@ -5,7 +5,7 @@ const config = generateDeploymentConfig("plh_teens_tz_gt");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-app-tz-gt-content.git",
-  content_tag_latest: "2.2.93",
+  content_tag_latest: "2.2.94",
 };
 
 config.google_drive.sheets_folders = [
@@ -57,7 +57,7 @@ config.app_data.assets_filter_function = (fileEntry) =>
 
 config.api.db_name = "plh_teens_tz";
 config.app_data.output_path = "./app_data";
-config.web.favicon_asset = "images/logos/plh_logomark.png";
+config.web.favicon_asset = "images/logos/partners/plh_logomark.png";
 
 config.app_config.APP_LANGUAGES.default = "tz_sw";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp Teens";

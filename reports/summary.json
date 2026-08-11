@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 119
+        "count": 120
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 100
+        "count": 103
       },
       {
         "type": "drawer",
@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2087
+        "count": 2177
       },
       {
         "type": "simple_checkbox",
@@ -151,11 +151,11 @@
       },
       {
         "type": "task_progress_bar",
-        "count": 5
+        "count": 6
       },
       {
         "type": "template",
-        "count": 656
+        "count": 671
       },
       {
         "type": "text",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 473
+        "count": 488
       },
       {
         "type": "emit: force_reload",
@@ -239,7 +239,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 478
+        "count": 493
       },
       {
         "type": "feedback",
@@ -279,7 +279,7 @@
       },
       {
         "type": "set_local",
-        "count": 67
+        "count": 68
       },
       {
         "type": "task",
@@ -295,12 +295,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "72099 KB",
+        "KB": "72119 KB",
         "MB": "72.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "52021 KB",
+        "KB": "52000 KB",
         "MB": "52 MB"
       }
     ]
@@ -502,10 +502,6 @@
       {
         "path": "images/logos/partners/favicon.png",
         "size_kb": 149.9
-      },
-      {
-        "path": "images/logos/partners/plh_logomark.png",
-        "size_kb": 20.5
       },
       {
         "path": "images/logos/partners/plh_white.png",
@@ -1149,7 +1145,7 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
-        "count": 2,
+        "count": 1,
         "missing": true
       },
       {
@@ -2540,6 +2536,11 @@
         "path": "images/logos/partners/WHO.jpeg",
         "count": 1,
         "size_kb": 310.7
+      },
+      {
+        "path": "images/logos/partners/plh_logomark.png",
+        "count": 1,
+        "size_kb": 20.5
       },
       {
         "path": "images/logos/partners/plh_white.svg",

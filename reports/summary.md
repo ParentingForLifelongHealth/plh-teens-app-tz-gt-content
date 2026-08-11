@@ -12,10 +12,10 @@
 | audio | 4 |
 | button | 95 |
 | combo_box | 9 |
-| data_items | 119 |
+| data_items | 120 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 100 |
+| display_group | 103 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 20 |
@@ -37,11 +37,11 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2087 |
+| set_variable | 2177 |
 | simple_checkbox | 1 |
 | task_card | 6 |
-| task_progress_bar | 5 |
-| template | 656 |
+| task_progress_bar | 6 |
+| template | 671 |
 | text | 184 |
 | text_area | 2 |
 | text_box | 12 |
@@ -62,13 +62,13 @@
 | app_update | 1 |
 | asset_pack | 5 |
 | auth | 3 |
-| emit: completed | 473 |
+| emit: completed | 488 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 3 |
-| emit: uncompleted | 478 |
+| emit: uncompleted | 493 |
 | feedback | 13 |
 | go_to | 19 |
 | nav_stack | 179 |
@@ -78,7 +78,7 @@
 | set_data | 58 |
 | set_field | 56 |
 | set_item | 44 |
-| set_local | 67 |
+| set_local | 68 |
 | task | 2 |
 | user | 3 |
 </details>
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 72099 KB | 72.1 MB |
-| unused | 52021 KB | 52 MB |
+| total | 72119 KB | 72.1 MB |
+| unused | 52000 KB | 52 MB |
 </details>
 
 <details open>
@@ -148,7 +148,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/favicon.png | 6.3 |
 | images/logos/partners/Exeter.png | 140.5 |
 | images/logos/partners/favicon.png | 149.9 |
-| images/logos/partners/plh_logomark.png | 20.5 |
 | images/logos/partners/plh_white.png | 12.8 |
 | images/logos/partners/sino_horizontal.svg | 251 |
 | images/logos/partners/sino_mark.svg | 461.7 |
@@ -313,7 +312,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/person-circle-outline.svg | 1 |
 | images/icons/settings_white.svg | 1 |
 | images/logos/app_logo.png | 1 |
-| images/logos/plh_logomark.png | 2 |
+| images/logos/plh_logomark.png | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
 | images/teen_modules/crisis/crisis1_t_7.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_1.svg | 2 |
@@ -600,6 +599,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/partners/UNICEF.png | 68.8 | 1 |
 | images/logos/partners/Vodacom.png | 59.2 | 1 |
 | images/logos/partners/WHO.jpeg | 310.7 | 1 |
+| images/logos/partners/plh_logomark.png | 20.5 | 1 |
 | images/logos/partners/plh_white.svg | 256.1 | 2 |
 | images/logos/partners/tz_ministry.svg | 122.4 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |

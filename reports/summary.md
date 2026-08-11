@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 71838 KB | 71.8 MB |
-| unused | 52277 KB | 52.3 MB |
+| total | 72099 KB | 72.1 MB |
+| unused | 52021 KB | 52 MB |
 </details>
 
 <details open>
@@ -150,7 +150,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/partners/favicon.png | 149.9 |
 | images/logos/partners/plh_logomark.png | 20.5 |
 | images/logos/partners/plh_white.png | 12.8 |
-| images/logos/partners/plh_white.svg | 256.1 |
 | images/logos/partners/sino_horizontal.svg | 251 |
 | images/logos/partners/sino_mark.svg | 461.7 |
 | images/logos/partners/sino_white.svg | 256.1 |
@@ -298,7 +297,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/backgrounds/lesson-cta-bg.svg | 2 |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/icons/diamond-outline.svg | 2 |
 | images/icons/document-lock-outline.svg | 1 |
@@ -310,14 +308,13 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/information-circle-outline.svg | 1 |
 | images/icons/local_library_white.svg | 1 |
 | images/icons/lock-closed-outline.png | 1 |
-| images/icons/lock-closed-outline.svg | 1 |
 | images/icons/lock-open-outline.svg | 3 |
 | images/icons/log-in-outline.svg | 1 |
 | images/icons/person-circle-outline.svg | 1 |
 | images/icons/settings_white.svg | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 2 |
-| images/logos/plh_white.svg | 1 |
+| images/onboarding/facilitator_onboarding_icon.svg | 1 |
 | images/teen_modules/crisis/crisis1_t_7.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_1.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_2.svg | 2 |
@@ -458,8 +455,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/unseen_guesses.svg | 70.8 | 2 |
 | images/activities/walk.svg | 101.3 | 2 |
 | images/activities/yes_no_maybe.svg | 58.2 | 2 |
-| images/backgrounds/bottom_banner.svg | 23.2 | 1 |
+| images/backgrounds/bottom_banner.svg | 23.2 | 2 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
+| images/backgrounds/lesson-cta-bg.svg | 3.9 | 2 |
 | images/backgrounds/library_top_right.png | 1358.6 | 3 |
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
@@ -557,6 +555,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/lightbulb_blue.png | 3.6 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
+| images/icons/lock-closed-outline.svg | 0.4 | 1 |
 | images/icons/lock.svg | 0.5 | 1 |
 | images/icons/locked.png | 0.7 | 4 |
 | images/icons/magnifying_glass.svg | 0.9 | 17 |
@@ -601,6 +600,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/partners/UNICEF.png | 68.8 | 1 |
 | images/logos/partners/Vodacom.png | 59.2 | 1 |
 | images/logos/partners/WHO.jpeg | 310.7 | 1 |
+| images/logos/partners/plh_white.svg | 256.1 | 2 |
 | images/logos/partners/tz_ministry.svg | 122.4 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
@@ -724,7 +724,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/stress/stress1_t_5.svg | 72.3 | 2 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
-| lottie/checkmark.json | 23.6 | 1 |
+| lottie/checkmark.json | 23.6 | 2 |
 | lottie/gift_box.json | 674.5 | 1 |
 | lottie/relax/blue_dots.json | 14.7 | 5 |
 | lottie/relax/heart.json | 46.7 | 5 |
@@ -774,7 +774,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 31 |
 | global |  | 5 |
 | global | legal_terms | 1 |
-| global | onboarding | 2 |
+| global | onboarding | 3 |
 | template |  | 108 |
 | template | generated | 494 |
 | template | legal_terms | 4 |

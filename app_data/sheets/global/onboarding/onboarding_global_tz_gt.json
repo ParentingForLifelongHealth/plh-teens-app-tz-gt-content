@@ -46,7 +46,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_header_image_asset",
-      "value": "images/logos/plh_white.svg",
+      "value": "images/logos/partners/plh_white.svg",
       "_translations": {
         "value": {}
       },

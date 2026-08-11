@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "71838 KB",
-        "MB": "71.8 MB"
+        "KB": "72099 KB",
+        "MB": "72.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "52277 KB",
-        "MB": "52.3 MB"
+        "KB": "52021 KB",
+        "MB": "52 MB"
       }
     ]
   },
@@ -510,10 +510,6 @@
       {
         "path": "images/logos/partners/plh_white.png",
         "size_kb": 12.8
-      },
-      {
-        "path": "images/logos/partners/plh_white.svg",
-        "size_kb": 256.1
       },
       {
         "path": "images/logos/partners/sino_horizontal.svg",
@@ -1072,11 +1068,6 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/backgrounds/lesson-cta-bg.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/backgrounds/map_view_bg.jpg",
         "count": 1,
         "missing": true
@@ -1132,11 +1123,6 @@
         "missing": true
       },
       {
-        "path": "images/icons/lock-closed-outline.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/icons/lock-open-outline.svg",
         "count": 3,
         "missing": true
@@ -1167,7 +1153,7 @@
         "missing": true
       },
       {
-        "path": "images/logos/plh_white.svg",
+        "path": "images/onboarding/facilitator_onboarding_icon.svg",
         "count": 1,
         "missing": true
       },
@@ -1832,13 +1818,18 @@
       },
       {
         "path": "images/backgrounds/bottom_banner.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 23.2
       },
       {
         "path": "images/backgrounds/kites.svg",
         "count": 1,
         "size_kb": 37.3
+      },
+      {
+        "path": "images/backgrounds/lesson-cta-bg.svg",
+        "count": 2,
+        "size_kb": 3.9
       },
       {
         "path": "images/backgrounds/library_top_right.png",
@@ -2326,6 +2317,11 @@
         "size_kb": 1.6
       },
       {
+        "path": "images/icons/lock-closed-outline.svg",
+        "count": 1,
+        "size_kb": 0.4
+      },
+      {
         "path": "images/icons/lock.svg",
         "count": 1,
         "size_kb": 0.5
@@ -2544,6 +2540,11 @@
         "path": "images/logos/partners/WHO.jpeg",
         "count": 1,
         "size_kb": 310.7
+      },
+      {
+        "path": "images/logos/partners/plh_white.svg",
+        "count": 2,
+        "size_kb": 256.1
       },
       {
         "path": "images/logos/partners/tz_ministry.svg",
@@ -3162,7 +3163,7 @@
       },
       {
         "path": "lottie/checkmark.json",
-        "count": 1,
+        "count": 2,
         "size_kb": 23.6
       },
       {
@@ -3382,7 +3383,7 @@
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 2
+        "total": 3
       },
       {
         "type": "template",

@@ -21,7 +21,7 @@
 | image | 20 |
 | items | 17 |
 | lottie_animation | 5 |
-| nested_properties | 117 |
+| nested_properties | 118 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 72119 KB | 72.1 MB |
-| unused | 52000 KB | 52 MB |
+| unused | 52013 KB | 52 MB |
 </details>
 
 <details open>
@@ -224,7 +224,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -247,8 +247,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve1_t_1.svg | 35.6 |
 | images/teen_modules/solve/solve1_t_2.svg | 33.4 |
@@ -307,7 +307,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/information-circle-outline.svg | 1 |
 | images/icons/local_library_white.svg | 1 |
 | images/icons/lock-closed-outline.png | 1 |
-| images/icons/lock-open-outline.svg | 3 |
 | images/icons/log-in-outline.svg | 1 |
 | images/icons/person-circle-outline.svg | 1 |
 | images/icons/settings_white.svg | 1 |
@@ -555,6 +554,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
 | images/icons/lock-closed-outline.svg | 0.4 | 1 |
+| images/icons/lock-open-outline.svg | 0.4 | 3 |
 | images/icons/lock.svg | 0.5 | 1 |
 | images/icons/locked.png | 0.7 | 4 |
 | images/icons/magnifying_glass.svg | 0.9 | 17 |
